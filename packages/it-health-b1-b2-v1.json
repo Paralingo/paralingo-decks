@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-it-health-b1-b2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "health",
+  "categoryTitle": "Body & Health",
+  "title": "Body & Health",
+  "level": "B1-B2",
+  "emoji": "🩺",
+  "description": "Discuss symptoms, diagnosis, treatment, recovery, healthy habits, and healthcare appointments.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-health-b1-b2-001",
+      "word": "Vorrei un consiglio su un mal di testa persistente.",
+      "translation": "I would like advice about a persistent headache.",
+      "example": "Vorrei un consiglio su un mal di testa persistente."
+    },
+    {
+      "id": "it-health-b1-b2-002",
+      "word": "Vorrei un consiglio su la febbre alta.",
+      "translation": "I would like advice about a high fever.",
+      "example": "Vorrei un consiglio su la febbre alta."
+    },
+    {
+      "id": "it-health-b1-b2-003",
+      "word": "Vorrei un consiglio su una reazione allergica.",
+      "translation": "I would like advice about an allergic reaction.",
+      "example": "Vorrei un consiglio su una reazione allergica."
+    },
+    {
+      "id": "it-health-b1-b2-004",
+      "word": "Vorrei un consiglio su un infortunio sportivo.",
+      "translation": "I would like advice about a sports injury.",
+      "example": "Vorrei un consiglio su un infortunio sportivo."
+    },
+    {
+      "id": "it-health-b1-b2-005",
+      "word": "Vorrei un consiglio su un'infezione toracica.",
+      "translation": "I would like advice about a chest infection.",
+      "example": "Vorrei un consiglio su un'infezione toracica."
+    },
+    {
+      "id": "it-health-b1-b2-006",
+      "word": "Vorrei un consiglio su difficoltà a dormire.",
+      "translation": "I would like advice about trouble sleeping.",
+      "example": "Vorrei un consiglio su difficoltà a dormire."
+    },
+    {
+      "id": "it-health-b1-b2-007",
+      "word": "Vorrei un consiglio su gli effetti collaterali.",
+      "translation": "I would like advice about side effects.",
+      "example": "Vorrei un consiglio su gli effetti collaterali."
+    },
+    {
+      "id": "it-health-b1-b2-008",
+      "word": "Vorrei un consiglio su il piano di recupero.",
+      "translation": "I would like advice about the recovery plan.",
+      "example": "Vorrei un consiglio su il piano di recupero."
+    },
+    {
+      "id": "it-health-b1-b2-009",
+      "word": "Vorrei un consiglio su una visita di controllo.",
+      "translation": "I would like advice about a follow-up appointment.",
+      "example": "Vorrei un consiglio su una visita di controllo."
+    },
+    {
+      "id": "it-health-b1-b2-010",
+      "word": "Vorrei un consiglio su un cambiamento nella dieta.",
+      "translation": "I would like advice about a change in diet.",
+      "example": "Vorrei un consiglio su un cambiamento nella dieta."
+    },
+    {
+      "id": "it-health-b1-b2-011",
+      "word": "Da quanto tempo dura un mal di testa persistente?",
+      "translation": "How long has a persistent headache lasted?",
+      "example": "Da quanto tempo dura un mal di testa persistente?"
+    },
+    {
+      "id": "it-health-b1-b2-012",
+      "word": "Da quanto tempo dura la febbre alta?",
+      "translation": "How long has a high fever lasted?",
+      "example": "Da quanto tempo dura la febbre alta?"
+    },
+    {
+      "id": "it-health-b1-b2-013",
+      "word": "Da quanto tempo dura una reazione allergica?",
+      "translation": "How long has an allergic reaction lasted?",
+      "example": "Da quanto tempo dura una reazione allergica?"
+    },
+    {
+      "id": "it-health-b1-b2-014",
+      "word": "Da quanto tempo dura un infortunio sportivo?",
+      "translation": "How long has a sports injury lasted?",
+      "example": "Da quanto tempo dura un infortunio sportivo?"
+    },
+    {
+      "id": "it-health-b1-b2-015",
+      "word": "Da quanto tempo dura un'infezione toracica?",
+      "translation": "How long has a chest infection lasted?",
+      "example": "Da quanto tempo dura un'infezione toracica?"
+    },
+    {
+      "id": "it-health-b1-b2-016",
+      "word": "Da quanto tempo dura difficoltà a dormire?",
+      "translation": "How long has trouble sleeping lasted?",
+      "example": "Da quanto tempo dura difficoltà a dormire?"
+    },
+    {
+      "id": "it-health-b1-b2-017",
+      "word": "Da quanto tempo dura gli effetti collaterali?",
+      "translation": "How long has side effects lasted?",
+      "example": "Da quanto tempo dura gli effetti collaterali?"
+    },
+    {
+      "id": "it-health-b1-b2-018",
+      "word": "Da quanto tempo dura il piano di recupero?",
+      "translation": "How long has the recovery plan lasted?",
+      "example": "Da quanto tempo dura il piano di recupero?"
+    },
+    {
+      "id": "it-health-b1-b2-019",
+      "word": "Da quanto tempo dura una visita di controllo?",
+      "translation": "How long has a follow-up appointment lasted?",
+      "example": "Da quanto tempo dura una visita di controllo?"
+    },
+    {
+      "id": "it-health-b1-b2-020",
+      "word": "Da quanto tempo dura un cambiamento nella dieta?",
+      "translation": "How long has a change in diet lasted?",
+      "example": "Da quanto tempo dura un cambiamento nella dieta?"
+    },
+    {
+      "id": "it-health-b1-b2-021",
+      "word": "Il medico mi ha chiesto di controllare un mal di testa persistente.",
+      "translation": "The doctor asked me to monitor a persistent headache.",
+      "example": "Il medico mi ha chiesto di controllare un mal di testa persistente."
+    },
+    {
+      "id": "it-health-b1-b2-022",
+      "word": "Il medico mi ha chiesto di controllare la febbre alta.",
+      "translation": "The doctor asked me to monitor a high fever.",
+      "example": "Il medico mi ha chiesto di controllare la febbre alta."
+    },
+    {
+      "id": "it-health-b1-b2-023",
+      "word": "Il medico mi ha chiesto di controllare una reazione allergica.",
+      "translation": "The doctor asked me to monitor an allergic reaction.",
+      "example": "Il medico mi ha chiesto di controllare una reazione allergica."
+    },
+    {
+      "id": "it-health-b1-b2-024",
+      "word": "Il medico mi ha chiesto di controllare un infortunio sportivo.",
+      "translation": "The doctor asked me to monitor a sports injury.",
+      "example": "Il medico mi ha chiesto di controllare un infortunio sportivo."
+    },
+    {
+      "id": "it-health-b1-b2-025",
+      "word": "Il medico mi ha chiesto di controllare un'infezione toracica.",
+      "translation": "The doctor asked me to monitor a chest infection.",
+      "example": "Il medico mi ha chiesto di controllare un'infezione toracica."
+    },
+    {
+      "id": "it-health-b1-b2-026",
+      "word": "Il medico mi ha chiesto di controllare difficoltà a dormire.",
+      "translation": "The doctor asked me to monitor trouble sleeping.",
+      "example": "Il medico mi ha chiesto di controllare difficoltà a dormire."
+    },
+    {
+      "id": "it-health-b1-b2-027",
+      "word": "Il medico mi ha chiesto di controllare gli effetti collaterali.",
+      "translation": "The doctor asked me to monitor side effects.",
+      "example": "Il medico mi ha chiesto di controllare gli effetti collaterali."
+    },
+    {
+      "id": "it-health-b1-b2-028",
+      "word": "Il medico mi ha chiesto di controllare il piano di recupero.",
+      "translation": "The doctor asked me to monitor the recovery plan.",
+      "example": "Il medico mi ha chiesto di controllare il piano di recupero."
+    },
+    {
+      "id": "it-health-b1-b2-029",
+      "word": "Il medico mi ha chiesto di controllare una visita di controllo.",
+      "translation": "The doctor asked me to monitor a follow-up appointment.",
+      "example": "Il medico mi ha chiesto di controllare una visita di controllo."
+    },
+    {
+      "id": "it-health-b1-b2-030",
+      "word": "Il medico mi ha chiesto di controllare un cambiamento nella dieta.",
+      "translation": "The doctor asked me to monitor a change in diet.",
+      "example": "Il medico mi ha chiesto di controllare un cambiamento nella dieta."
+    },
+    {
+      "id": "it-health-b1-b2-031",
+      "word": "un mal di testa persistente potrebbe essere legato allo stress?",
+      "translation": "Could a persistent headache be related to stress?",
+      "example": "un mal di testa persistente potrebbe essere legato allo stress?"
+    },
+    {
+      "id": "it-health-b1-b2-032",
+      "word": "la febbre alta potrebbe essere legato allo stress?",
+      "translation": "Could a high fever be related to stress?",
+      "example": "la febbre alta potrebbe essere legato allo stress?"
+    },
+    {
+      "id": "it-health-b1-b2-033",
+      "word": "una reazione allergica potrebbe essere legato allo stress?",
+      "translation": "Could an allergic reaction be related to stress?",
+      "example": "una reazione allergica potrebbe essere legato allo stress?"
+    },
+    {
+      "id": "it-health-b1-b2-034",
+      "word": "un infortunio sportivo potrebbe essere legato allo stress?",
+      "translation": "Could a sports injury be related to stress?",
+      "example": "un infortunio sportivo potrebbe essere legato allo stress?"
+    },
+    {
+      "id": "it-health-b1-b2-035",
+      "word": "un'infezione toracica potrebbe essere legato allo stress?",
+      "translation": "Could a chest infection be related to stress?",
+      "example": "un'infezione toracica potrebbe essere legato allo stress?"
+    },
+    {
+      "id": "it-health-b1-b2-036",
+      "word": "difficoltà a dormire potrebbe essere legato allo stress?",
+      "translation": "Could trouble sleeping be related to stress?",
+      "example": "difficoltà a dormire potrebbe essere legato allo stress?"
+    },
+    {
+      "id": "it-health-b1-b2-037",
+      "word": "gli effetti collaterali potrebbe essere legato allo stress?",
+      "translation": "Could side effects be related to stress?",
+      "example": "gli effetti collaterali potrebbe essere legato allo stress?"
+    },
+    {
+      "id": "it-health-b1-b2-038",
+      "word": "il piano di recupero potrebbe essere legato allo stress?",
+      "translation": "Could the recovery plan be related to stress?",
+      "example": "il piano di recupero potrebbe essere legato allo stress?"
+    },
+    {
+      "id": "it-health-b1-b2-039",
+      "word": "una visita di controllo potrebbe essere legato allo stress?",
+      "translation": "Could a follow-up appointment be related to stress?",
+      "example": "una visita di controllo potrebbe essere legato allo stress?"
+    },
+    {
+      "id": "it-health-b1-b2-040",
+      "word": "un cambiamento nella dieta potrebbe essere legato allo stress?",
+      "translation": "Could a change in diet be related to stress?",
+      "example": "un cambiamento nella dieta potrebbe essere legato allo stress?"
+    },
+    {
+      "id": "it-health-b1-b2-041",
+      "word": "Devo spiegare chiaramente un mal di testa persistente.",
+      "translation": "I need to explain a persistent headache clearly.",
+      "example": "Devo spiegare chiaramente un mal di testa persistente."
+    },
+    {
+      "id": "it-health-b1-b2-042",
+      "word": "Devo spiegare chiaramente la febbre alta.",
+      "translation": "I need to explain a high fever clearly.",
+      "example": "Devo spiegare chiaramente la febbre alta."
+    },
+    {
+      "id": "it-health-b1-b2-043",
+      "word": "Devo spiegare chiaramente una reazione allergica.",
+      "translation": "I need to explain an allergic reaction clearly.",
+      "example": "Devo spiegare chiaramente una reazione allergica."
+    },
+    {
+      "id": "it-health-b1-b2-044",
+      "word": "Devo spiegare chiaramente un infortunio sportivo.",
+      "translation": "I need to explain a sports injury clearly.",
+      "example": "Devo spiegare chiaramente un infortunio sportivo."
+    },
+    {
+      "id": "it-health-b1-b2-045",
+      "word": "Devo spiegare chiaramente un'infezione toracica.",
+      "translation": "I need to explain a chest infection clearly.",
+      "example": "Devo spiegare chiaramente un'infezione toracica."
+    },
+    {
+      "id": "it-health-b1-b2-046",
+      "word": "Devo spiegare chiaramente difficoltà a dormire.",
+      "translation": "I need to explain trouble sleeping clearly.",
+      "example": "Devo spiegare chiaramente difficoltà a dormire."
+    },
+    {
+      "id": "it-health-b1-b2-047",
+      "word": "Devo spiegare chiaramente gli effetti collaterali.",
+      "translation": "I need to explain side effects clearly.",
+      "example": "Devo spiegare chiaramente gli effetti collaterali."
+    },
+    {
+      "id": "it-health-b1-b2-048",
+      "word": "Devo spiegare chiaramente il piano di recupero.",
+      "translation": "I need to explain the recovery plan clearly.",
+      "example": "Devo spiegare chiaramente il piano di recupero."
+    },
+    {
+      "id": "it-health-b1-b2-049",
+      "word": "Devo spiegare chiaramente una visita di controllo.",
+      "translation": "I need to explain a follow-up appointment clearly.",
+      "example": "Devo spiegare chiaramente una visita di controllo."
+    },
+    {
+      "id": "it-health-b1-b2-050",
+      "word": "Devo spiegare chiaramente un cambiamento nella dieta.",
+      "translation": "I need to explain a change in diet clearly.",
+      "example": "Devo spiegare chiaramente un cambiamento nella dieta."
+    },
+    {
+      "id": "it-health-b1-b2-051",
+      "word": "Il trattamento ha migliorato un mal di testa persistente.",
+      "translation": "The treatment has improved a persistent headache.",
+      "example": "Il trattamento ha migliorato un mal di testa persistente."
+    },
+    {
+      "id": "it-health-b1-b2-052",
+      "word": "Il trattamento ha migliorato la febbre alta.",
+      "translation": "The treatment has improved a high fever.",
+      "example": "Il trattamento ha migliorato la febbre alta."
+    },
+    {
+      "id": "it-health-b1-b2-053",
+      "word": "Il trattamento ha migliorato una reazione allergica.",
+      "translation": "The treatment has improved an allergic reaction.",
+      "example": "Il trattamento ha migliorato una reazione allergica."
+    },
+    {
+      "id": "it-health-b1-b2-054",
+      "word": "Il trattamento ha migliorato un infortunio sportivo.",
+      "translation": "The treatment has improved a sports injury.",
+      "example": "Il trattamento ha migliorato un infortunio sportivo."
+    },
+    {
+      "id": "it-health-b1-b2-055",
+      "word": "Il trattamento ha migliorato un'infezione toracica.",
+      "translation": "The treatment has improved a chest infection.",
+      "example": "Il trattamento ha migliorato un'infezione toracica."
+    },
+    {
+      "id": "it-health-b1-b2-056",
+      "word": "Il trattamento ha migliorato difficoltà a dormire.",
+      "translation": "The treatment has improved trouble sleeping.",
+      "example": "Il trattamento ha migliorato difficoltà a dormire."
+    },
+    {
+      "id": "it-health-b1-b2-057",
+      "word": "Il trattamento ha migliorato gli effetti collaterali.",
+      "translation": "The treatment has improved side effects.",
+      "example": "Il trattamento ha migliorato gli effetti collaterali."
+    },
+    {
+      "id": "it-health-b1-b2-058",
+      "word": "Il trattamento ha migliorato il piano di recupero.",
+      "translation": "The treatment has improved the recovery plan.",
+      "example": "Il trattamento ha migliorato il piano di recupero."
+    },
+    {
+      "id": "it-health-b1-b2-059",
+      "word": "Il trattamento ha migliorato una visita di controllo.",
+      "translation": "The treatment has improved a follow-up appointment.",
+      "example": "Il trattamento ha migliorato una visita di controllo."
+    },
+    {
+      "id": "it-health-b1-b2-060",
+      "word": "Il trattamento ha migliorato un cambiamento nella dieta.",
+      "translation": "The treatment has improved a change in diet.",
+      "example": "Il trattamento ha migliorato un cambiamento nella dieta."
+    },
+    {
+      "id": "it-health-b1-b2-061",
+      "word": "Sono preoccupato per un mal di testa persistente.",
+      "translation": "I am worried about a persistent headache.",
+      "example": "Sono preoccupato per un mal di testa persistente."
+    },
+    {
+      "id": "it-health-b1-b2-062",
+      "word": "Sono preoccupato per la febbre alta.",
+      "translation": "I am worried about a high fever.",
+      "example": "Sono preoccupato per la febbre alta."
+    },
+    {
+      "id": "it-health-b1-b2-063",
+      "word": "Sono preoccupato per una reazione allergica.",
+      "translation": "I am worried about an allergic reaction.",
+      "example": "Sono preoccupato per una reazione allergica."
+    },
+    {
+      "id": "it-health-b1-b2-064",
+      "word": "Sono preoccupato per un infortunio sportivo.",
+      "translation": "I am worried about a sports injury.",
+      "example": "Sono preoccupato per un infortunio sportivo."
+    },
+    {
+      "id": "it-health-b1-b2-065",
+      "word": "Sono preoccupato per un'infezione toracica.",
+      "translation": "I am worried about a chest infection.",
+      "example": "Sono preoccupato per un'infezione toracica."
+    },
+    {
+      "id": "it-health-b1-b2-066",
+      "word": "Sono preoccupato per difficoltà a dormire.",
+      "translation": "I am worried about trouble sleeping.",
+      "example": "Sono preoccupato per difficoltà a dormire."
+    },
+    {
+      "id": "it-health-b1-b2-067",
+      "word": "Sono preoccupato per gli effetti collaterali.",
+      "translation": "I am worried about side effects.",
+      "example": "Sono preoccupato per gli effetti collaterali."
+    },
+    {
+      "id": "it-health-b1-b2-068",
+      "word": "Sono preoccupato per il piano di recupero.",
+      "translation": "I am worried about the recovery plan.",
+      "example": "Sono preoccupato per il piano di recupero."
+    },
+    {
+      "id": "it-health-b1-b2-069",
+      "word": "Sono preoccupato per una visita di controllo.",
+      "translation": "I am worried about a follow-up appointment.",
+      "example": "Sono preoccupato per una visita di controllo."
+    },
+    {
+      "id": "it-health-b1-b2-070",
+      "word": "Sono preoccupato per un cambiamento nella dieta.",
+      "translation": "I am worried about a change in diet.",
+      "example": "Sono preoccupato per un cambiamento nella dieta."
+    },
+    {
+      "id": "it-health-b1-b2-071",
+      "word": "Cosa devo fare se un mal di testa persistente peggiora?",
+      "translation": "What should I do if a persistent headache gets worse?",
+      "example": "Cosa devo fare se un mal di testa persistente peggiora?"
+    },
+    {
+      "id": "it-health-b1-b2-072",
+      "word": "Cosa devo fare se la febbre alta peggiora?",
+      "translation": "What should I do if a high fever gets worse?",
+      "example": "Cosa devo fare se la febbre alta peggiora?"
+    },
+    {
+      "id": "it-health-b1-b2-073",
+      "word": "Cosa devo fare se una reazione allergica peggiora?",
+      "translation": "What should I do if an allergic reaction gets worse?",
+      "example": "Cosa devo fare se una reazione allergica peggiora?"
+    },
+    {
+      "id": "it-health-b1-b2-074",
+      "word": "Cosa devo fare se un infortunio sportivo peggiora?",
+      "translation": "What should I do if a sports injury gets worse?",
+      "example": "Cosa devo fare se un infortunio sportivo peggiora?"
+    },
+    {
+      "id": "it-health-b1-b2-075",
+      "word": "Cosa devo fare se un'infezione toracica peggiora?",
+      "translation": "What should I do if a chest infection gets worse?",
+      "example": "Cosa devo fare se un'infezione toracica peggiora?"
+    },
+    {
+      "id": "it-health-b1-b2-076",
+      "word": "Cosa devo fare se difficoltà a dormire peggiora?",
+      "translation": "What should I do if trouble sleeping gets worse?",
+      "example": "Cosa devo fare se difficoltà a dormire peggiora?"
+    },
+    {
+      "id": "it-health-b1-b2-077",
+      "word": "Cosa devo fare se gli effetti collaterali peggiora?",
+      "translation": "What should I do if side effects gets worse?",
+      "example": "Cosa devo fare se gli effetti collaterali peggiora?"
+    },
+    {
+      "id": "it-health-b1-b2-078",
+      "word": "Cosa devo fare se il piano di recupero peggiora?",
+      "translation": "What should I do if the recovery plan gets worse?",
+      "example": "Cosa devo fare se il piano di recupero peggiora?"
+    },
+    {
+      "id": "it-health-b1-b2-079",
+      "word": "Cosa devo fare se una visita di controllo peggiora?",
+      "translation": "What should I do if a follow-up appointment gets worse?",
+      "example": "Cosa devo fare se una visita di controllo peggiora?"
+    },
+    {
+      "id": "it-health-b1-b2-080",
+      "word": "Cosa devo fare se un cambiamento nella dieta peggiora?",
+      "translation": "What should I do if a change in diet gets worse?",
+      "example": "Cosa devo fare se un cambiamento nella dieta peggiora?"
+    },
+    {
+      "id": "it-health-b1-b2-081",
+      "word": "L'infermiera mi ha dato informazioni su un mal di testa persistente.",
+      "translation": "The nurse gave me information about a persistent headache.",
+      "example": "L'infermiera mi ha dato informazioni su un mal di testa persistente."
+    },
+    {
+      "id": "it-health-b1-b2-082",
+      "word": "L'infermiera mi ha dato informazioni su la febbre alta.",
+      "translation": "The nurse gave me information about a high fever.",
+      "example": "L'infermiera mi ha dato informazioni su la febbre alta."
+    },
+    {
+      "id": "it-health-b1-b2-083",
+      "word": "L'infermiera mi ha dato informazioni su una reazione allergica.",
+      "translation": "The nurse gave me information about an allergic reaction.",
+      "example": "L'infermiera mi ha dato informazioni su una reazione allergica."
+    },
+    {
+      "id": "it-health-b1-b2-084",
+      "word": "L'infermiera mi ha dato informazioni su un infortunio sportivo.",
+      "translation": "The nurse gave me information about a sports injury.",
+      "example": "L'infermiera mi ha dato informazioni su un infortunio sportivo."
+    },
+    {
+      "id": "it-health-b1-b2-085",
+      "word": "L'infermiera mi ha dato informazioni su un'infezione toracica.",
+      "translation": "The nurse gave me information about a chest infection.",
+      "example": "L'infermiera mi ha dato informazioni su un'infezione toracica."
+    },
+    {
+      "id": "it-health-b1-b2-086",
+      "word": "L'infermiera mi ha dato informazioni su difficoltà a dormire.",
+      "translation": "The nurse gave me information about trouble sleeping.",
+      "example": "L'infermiera mi ha dato informazioni su difficoltà a dormire."
+    },
+    {
+      "id": "it-health-b1-b2-087",
+      "word": "L'infermiera mi ha dato informazioni su gli effetti collaterali.",
+      "translation": "The nurse gave me information about side effects.",
+      "example": "L'infermiera mi ha dato informazioni su gli effetti collaterali."
+    },
+    {
+      "id": "it-health-b1-b2-088",
+      "word": "L'infermiera mi ha dato informazioni su il piano di recupero.",
+      "translation": "The nurse gave me information about the recovery plan.",
+      "example": "L'infermiera mi ha dato informazioni su il piano di recupero."
+    },
+    {
+      "id": "it-health-b1-b2-089",
+      "word": "L'infermiera mi ha dato informazioni su una visita di controllo.",
+      "translation": "The nurse gave me information about a follow-up appointment.",
+      "example": "L'infermiera mi ha dato informazioni su una visita di controllo."
+    },
+    {
+      "id": "it-health-b1-b2-090",
+      "word": "L'infermiera mi ha dato informazioni su un cambiamento nella dieta.",
+      "translation": "The nurse gave me information about a change in diet.",
+      "example": "L'infermiera mi ha dato informazioni su un cambiamento nella dieta."
+    },
+    {
+      "id": "it-health-b1-b2-091",
+      "word": "Abbiamo concordato un piano per gestire un mal di testa persistente.",
+      "translation": "We agreed on a plan to manage a persistent headache.",
+      "example": "Abbiamo concordato un piano per gestire un mal di testa persistente."
+    },
+    {
+      "id": "it-health-b1-b2-092",
+      "word": "Abbiamo concordato un piano per gestire la febbre alta.",
+      "translation": "We agreed on a plan to manage a high fever.",
+      "example": "Abbiamo concordato un piano per gestire la febbre alta."
+    },
+    {
+      "id": "it-health-b1-b2-093",
+      "word": "Abbiamo concordato un piano per gestire una reazione allergica.",
+      "translation": "We agreed on a plan to manage an allergic reaction.",
+      "example": "Abbiamo concordato un piano per gestire una reazione allergica."
+    },
+    {
+      "id": "it-health-b1-b2-094",
+      "word": "Abbiamo concordato un piano per gestire un infortunio sportivo.",
+      "translation": "We agreed on a plan to manage a sports injury.",
+      "example": "Abbiamo concordato un piano per gestire un infortunio sportivo."
+    },
+    {
+      "id": "it-health-b1-b2-095",
+      "word": "Abbiamo concordato un piano per gestire un'infezione toracica.",
+      "translation": "We agreed on a plan to manage a chest infection.",
+      "example": "Abbiamo concordato un piano per gestire un'infezione toracica."
+    },
+    {
+      "id": "it-health-b1-b2-096",
+      "word": "Abbiamo concordato un piano per gestire difficoltà a dormire.",
+      "translation": "We agreed on a plan to manage trouble sleeping.",
+      "example": "Abbiamo concordato un piano per gestire difficoltà a dormire."
+    },
+    {
+      "id": "it-health-b1-b2-097",
+      "word": "Abbiamo concordato un piano per gestire gli effetti collaterali.",
+      "translation": "We agreed on a plan to manage side effects.",
+      "example": "Abbiamo concordato un piano per gestire gli effetti collaterali."
+    },
+    {
+      "id": "it-health-b1-b2-098",
+      "word": "Abbiamo concordato un piano per gestire il piano di recupero.",
+      "translation": "We agreed on a plan to manage the recovery plan.",
+      "example": "Abbiamo concordato un piano per gestire il piano di recupero."
+    },
+    {
+      "id": "it-health-b1-b2-099",
+      "word": "Abbiamo concordato un piano per gestire una visita di controllo.",
+      "translation": "We agreed on a plan to manage a follow-up appointment.",
+      "example": "Abbiamo concordato un piano per gestire una visita di controllo."
+    },
+    {
+      "id": "it-health-b1-b2-100",
+      "word": "Abbiamo concordato un piano per gestire un cambiamento nella dieta.",
+      "translation": "We agreed on a plan to manage a change in diet.",
+      "example": "Abbiamo concordato un piano per gestire un cambiamento nella dieta."
+    }
+  ]
+}
