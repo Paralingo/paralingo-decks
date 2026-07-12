@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-pt-work-c1-c2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "work",
+  "categoryTitle": "Work & Careers",
+  "title": "Work & Careers",
+  "level": "C1-C2",
+  "emoji": "💼",
+  "description": "Explore leadership, organisational culture, labour trends, career development, and changing models of work.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-work-c1-c2-001",
+      "word": "Investigações recentes apresentam uma análise ponderada de a cultura organizacional.",
+      "translation": "Recent research offers a nuanced account of organisational culture.",
+      "example": "Investigações recentes apresentam uma análise ponderada de a cultura organizacional."
+    },
+    {
+      "id": "pt-work-c1-c2-002",
+      "word": "Investigações recentes apresentam uma análise ponderada de o desenvolvimento da força de trabalho.",
+      "translation": "Recent research offers a nuanced account of workforce development.",
+      "example": "Investigações recentes apresentam uma análise ponderada de o desenvolvimento da força de trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-003",
+      "word": "Investigações recentes apresentam uma análise ponderada de a liderança estratégica.",
+      "translation": "Recent research offers a nuanced account of strategic leadership.",
+      "example": "Investigações recentes apresentam uma análise ponderada de a liderança estratégica."
+    },
+    {
+      "id": "pt-work-c1-c2-004",
+      "word": "Investigações recentes apresentam uma análise ponderada de a retenção de trabalhadores.",
+      "translation": "Recent research offers a nuanced account of employee retention.",
+      "example": "Investigações recentes apresentam uma análise ponderada de a retenção de trabalhadores."
+    },
+    {
+      "id": "pt-work-c1-c2-005",
+      "word": "Investigações recentes apresentam uma análise ponderada de a mobilidade profissional.",
+      "translation": "Recent research offers a nuanced account of occupational mobility.",
+      "example": "Investigações recentes apresentam uma análise ponderada de a mobilidade profissional."
+    },
+    {
+      "id": "pt-work-c1-c2-006",
+      "word": "Investigações recentes apresentam uma análise ponderada de a autonomia no trabalho.",
+      "translation": "Recent research offers a nuanced account of workplace autonomy.",
+      "example": "Investigações recentes apresentam uma análise ponderada de a autonomia no trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-007",
+      "word": "Investigações recentes apresentam uma análise ponderada de o planeamento da sucessão.",
+      "translation": "Recent research offers a nuanced account of succession planning.",
+      "example": "Investigações recentes apresentam uma análise ponderada de o planeamento da sucessão."
+    },
+    {
+      "id": "pt-work-c1-c2-008",
+      "word": "Investigações recentes apresentam uma análise ponderada de a identidade profissional.",
+      "translation": "Recent research offers a nuanced account of professional identity.",
+      "example": "Investigações recentes apresentam uma análise ponderada de a identidade profissional."
+    },
+    {
+      "id": "pt-work-c1-c2-009",
+      "word": "Investigações recentes apresentam uma análise ponderada de a disrupção do mercado de trabalho.",
+      "translation": "Recent research offers a nuanced account of labour-market disruption.",
+      "example": "Investigações recentes apresentam uma análise ponderada de a disrupção do mercado de trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-010",
+      "word": "Investigações recentes apresentam uma análise ponderada de a colaboração interfuncional.",
+      "translation": "Recent research offers a nuanced account of cross-functional collaboration.",
+      "example": "Investigações recentes apresentam uma análise ponderada de a colaboração interfuncional."
+    },
+    {
+      "id": "pt-work-c1-c2-011",
+      "word": "A direção está a reconsiderar a sua abordagem a a cultura organizacional.",
+      "translation": "Senior management is reconsidering its approach to organisational culture.",
+      "example": "A direção está a reconsiderar a sua abordagem a a cultura organizacional."
+    },
+    {
+      "id": "pt-work-c1-c2-012",
+      "word": "A direção está a reconsiderar a sua abordagem a o desenvolvimento da força de trabalho.",
+      "translation": "Senior management is reconsidering its approach to workforce development.",
+      "example": "A direção está a reconsiderar a sua abordagem a o desenvolvimento da força de trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-013",
+      "word": "A direção está a reconsiderar a sua abordagem a a liderança estratégica.",
+      "translation": "Senior management is reconsidering its approach to strategic leadership.",
+      "example": "A direção está a reconsiderar a sua abordagem a a liderança estratégica."
+    },
+    {
+      "id": "pt-work-c1-c2-014",
+      "word": "A direção está a reconsiderar a sua abordagem a a retenção de trabalhadores.",
+      "translation": "Senior management is reconsidering its approach to employee retention.",
+      "example": "A direção está a reconsiderar a sua abordagem a a retenção de trabalhadores."
+    },
+    {
+      "id": "pt-work-c1-c2-015",
+      "word": "A direção está a reconsiderar a sua abordagem a a mobilidade profissional.",
+      "translation": "Senior management is reconsidering its approach to occupational mobility.",
+      "example": "A direção está a reconsiderar a sua abordagem a a mobilidade profissional."
+    },
+    {
+      "id": "pt-work-c1-c2-016",
+      "word": "A direção está a reconsiderar a sua abordagem a a autonomia no trabalho.",
+      "translation": "Senior management is reconsidering its approach to workplace autonomy.",
+      "example": "A direção está a reconsiderar a sua abordagem a a autonomia no trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-017",
+      "word": "A direção está a reconsiderar a sua abordagem a o planeamento da sucessão.",
+      "translation": "Senior management is reconsidering its approach to succession planning.",
+      "example": "A direção está a reconsiderar a sua abordagem a o planeamento da sucessão."
+    },
+    {
+      "id": "pt-work-c1-c2-018",
+      "word": "A direção está a reconsiderar a sua abordagem a a identidade profissional.",
+      "translation": "Senior management is reconsidering its approach to professional identity.",
+      "example": "A direção está a reconsiderar a sua abordagem a a identidade profissional."
+    },
+    {
+      "id": "pt-work-c1-c2-019",
+      "word": "A direção está a reconsiderar a sua abordagem a a disrupção do mercado de trabalho.",
+      "translation": "Senior management is reconsidering its approach to labour-market disruption.",
+      "example": "A direção está a reconsiderar a sua abordagem a a disrupção do mercado de trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-020",
+      "word": "A direção está a reconsiderar a sua abordagem a a colaboração interfuncional.",
+      "translation": "Senior management is reconsidering its approach to cross-functional collaboration.",
+      "example": "A direção está a reconsiderar a sua abordagem a a colaboração interfuncional."
+    },
+    {
+      "id": "pt-work-c1-c2-021",
+      "word": "A mudança tecnológica está a reformular profundamente a cultura organizacional.",
+      "translation": "Technological change is fundamentally reshaping organisational culture.",
+      "example": "A mudança tecnológica está a reformular profundamente a cultura organizacional."
+    },
+    {
+      "id": "pt-work-c1-c2-022",
+      "word": "A mudança tecnológica está a reformular profundamente o desenvolvimento da força de trabalho.",
+      "translation": "Technological change is fundamentally reshaping workforce development.",
+      "example": "A mudança tecnológica está a reformular profundamente o desenvolvimento da força de trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-023",
+      "word": "A mudança tecnológica está a reformular profundamente a liderança estratégica.",
+      "translation": "Technological change is fundamentally reshaping strategic leadership.",
+      "example": "A mudança tecnológica está a reformular profundamente a liderança estratégica."
+    },
+    {
+      "id": "pt-work-c1-c2-024",
+      "word": "A mudança tecnológica está a reformular profundamente a retenção de trabalhadores.",
+      "translation": "Technological change is fundamentally reshaping employee retention.",
+      "example": "A mudança tecnológica está a reformular profundamente a retenção de trabalhadores."
+    },
+    {
+      "id": "pt-work-c1-c2-025",
+      "word": "A mudança tecnológica está a reformular profundamente a mobilidade profissional.",
+      "translation": "Technological change is fundamentally reshaping occupational mobility.",
+      "example": "A mudança tecnológica está a reformular profundamente a mobilidade profissional."
+    },
+    {
+      "id": "pt-work-c1-c2-026",
+      "word": "A mudança tecnológica está a reformular profundamente a autonomia no trabalho.",
+      "translation": "Technological change is fundamentally reshaping workplace autonomy.",
+      "example": "A mudança tecnológica está a reformular profundamente a autonomia no trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-027",
+      "word": "A mudança tecnológica está a reformular profundamente o planeamento da sucessão.",
+      "translation": "Technological change is fundamentally reshaping succession planning.",
+      "example": "A mudança tecnológica está a reformular profundamente o planeamento da sucessão."
+    },
+    {
+      "id": "pt-work-c1-c2-028",
+      "word": "A mudança tecnológica está a reformular profundamente a identidade profissional.",
+      "translation": "Technological change is fundamentally reshaping professional identity.",
+      "example": "A mudança tecnológica está a reformular profundamente a identidade profissional."
+    },
+    {
+      "id": "pt-work-c1-c2-029",
+      "word": "A mudança tecnológica está a reformular profundamente a disrupção do mercado de trabalho.",
+      "translation": "Technological change is fundamentally reshaping labour-market disruption.",
+      "example": "A mudança tecnológica está a reformular profundamente a disrupção do mercado de trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-030",
+      "word": "A mudança tecnológica está a reformular profundamente a colaboração interfuncional.",
+      "translation": "Technological change is fundamentally reshaping cross-functional collaboration.",
+      "example": "A mudança tecnológica está a reformular profundamente a colaboração interfuncional."
+    },
+    {
+      "id": "pt-work-c1-c2-031",
+      "word": "O valor a longo prazo de a cultura organizacional é frequentemente subestimado.",
+      "translation": "The long-term value of organisational culture is often underestimated.",
+      "example": "O valor a longo prazo de a cultura organizacional é frequentemente subestimado."
+    },
+    {
+      "id": "pt-work-c1-c2-032",
+      "word": "O valor a longo prazo de o desenvolvimento da força de trabalho é frequentemente subestimado.",
+      "translation": "The long-term value of workforce development is often underestimated.",
+      "example": "O valor a longo prazo de o desenvolvimento da força de trabalho é frequentemente subestimado."
+    },
+    {
+      "id": "pt-work-c1-c2-033",
+      "word": "O valor a longo prazo de a liderança estratégica é frequentemente subestimado.",
+      "translation": "The long-term value of strategic leadership is often underestimated.",
+      "example": "O valor a longo prazo de a liderança estratégica é frequentemente subestimado."
+    },
+    {
+      "id": "pt-work-c1-c2-034",
+      "word": "O valor a longo prazo de a retenção de trabalhadores é frequentemente subestimado.",
+      "translation": "The long-term value of employee retention is often underestimated.",
+      "example": "O valor a longo prazo de a retenção de trabalhadores é frequentemente subestimado."
+    },
+    {
+      "id": "pt-work-c1-c2-035",
+      "word": "O valor a longo prazo de a mobilidade profissional é frequentemente subestimado.",
+      "translation": "The long-term value of occupational mobility is often underestimated.",
+      "example": "O valor a longo prazo de a mobilidade profissional é frequentemente subestimado."
+    },
+    {
+      "id": "pt-work-c1-c2-036",
+      "word": "O valor a longo prazo de a autonomia no trabalho é frequentemente subestimado.",
+      "translation": "The long-term value of workplace autonomy is often underestimated.",
+      "example": "O valor a longo prazo de a autonomia no trabalho é frequentemente subestimado."
+    },
+    {
+      "id": "pt-work-c1-c2-037",
+      "word": "O valor a longo prazo de o planeamento da sucessão é frequentemente subestimado.",
+      "translation": "The long-term value of succession planning is often underestimated.",
+      "example": "O valor a longo prazo de o planeamento da sucessão é frequentemente subestimado."
+    },
+    {
+      "id": "pt-work-c1-c2-038",
+      "word": "O valor a longo prazo de a identidade profissional é frequentemente subestimado.",
+      "translation": "The long-term value of professional identity is often underestimated.",
+      "example": "O valor a longo prazo de a identidade profissional é frequentemente subestimado."
+    },
+    {
+      "id": "pt-work-c1-c2-039",
+      "word": "O valor a longo prazo de a disrupção do mercado de trabalho é frequentemente subestimado.",
+      "translation": "The long-term value of labour-market disruption is often underestimated.",
+      "example": "O valor a longo prazo de a disrupção do mercado de trabalho é frequentemente subestimado."
+    },
+    {
+      "id": "pt-work-c1-c2-040",
+      "word": "O valor a longo prazo de a colaboração interfuncional é frequentemente subestimado.",
+      "translation": "The long-term value of cross-functional collaboration is often underestimated.",
+      "example": "O valor a longo prazo de a colaboração interfuncional é frequentemente subestimado."
+    },
+    {
+      "id": "pt-work-c1-c2-041",
+      "word": "Uma política eficaz pode criar condições para a cultura organizacional.",
+      "translation": "Effective policy can create the conditions for organisational culture.",
+      "example": "Uma política eficaz pode criar condições para a cultura organizacional."
+    },
+    {
+      "id": "pt-work-c1-c2-042",
+      "word": "Uma política eficaz pode criar condições para o desenvolvimento da força de trabalho.",
+      "translation": "Effective policy can create the conditions for workforce development.",
+      "example": "Uma política eficaz pode criar condições para o desenvolvimento da força de trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-043",
+      "word": "Uma política eficaz pode criar condições para a liderança estratégica.",
+      "translation": "Effective policy can create the conditions for strategic leadership.",
+      "example": "Uma política eficaz pode criar condições para a liderança estratégica."
+    },
+    {
+      "id": "pt-work-c1-c2-044",
+      "word": "Uma política eficaz pode criar condições para a retenção de trabalhadores.",
+      "translation": "Effective policy can create the conditions for employee retention.",
+      "example": "Uma política eficaz pode criar condições para a retenção de trabalhadores."
+    },
+    {
+      "id": "pt-work-c1-c2-045",
+      "word": "Uma política eficaz pode criar condições para a mobilidade profissional.",
+      "translation": "Effective policy can create the conditions for occupational mobility.",
+      "example": "Uma política eficaz pode criar condições para a mobilidade profissional."
+    },
+    {
+      "id": "pt-work-c1-c2-046",
+      "word": "Uma política eficaz pode criar condições para a autonomia no trabalho.",
+      "translation": "Effective policy can create the conditions for workplace autonomy.",
+      "example": "Uma política eficaz pode criar condições para a autonomia no trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-047",
+      "word": "Uma política eficaz pode criar condições para o planeamento da sucessão.",
+      "translation": "Effective policy can create the conditions for succession planning.",
+      "example": "Uma política eficaz pode criar condições para o planeamento da sucessão."
+    },
+    {
+      "id": "pt-work-c1-c2-048",
+      "word": "Uma política eficaz pode criar condições para a identidade profissional.",
+      "translation": "Effective policy can create the conditions for professional identity.",
+      "example": "Uma política eficaz pode criar condições para a identidade profissional."
+    },
+    {
+      "id": "pt-work-c1-c2-049",
+      "word": "Uma política eficaz pode criar condições para a disrupção do mercado de trabalho.",
+      "translation": "Effective policy can create the conditions for labour-market disruption.",
+      "example": "Uma política eficaz pode criar condições para a disrupção do mercado de trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-050",
+      "word": "Uma política eficaz pode criar condições para a colaboração interfuncional.",
+      "translation": "Effective policy can create the conditions for cross-functional collaboration.",
+      "example": "Uma política eficaz pode criar condições para a colaboração interfuncional."
+    },
+    {
+      "id": "pt-work-c1-c2-051",
+      "word": "O relatório identifica vários obstáculos a a cultura organizacional.",
+      "translation": "The report identifies several barriers to organisational culture.",
+      "example": "O relatório identifica vários obstáculos a a cultura organizacional."
+    },
+    {
+      "id": "pt-work-c1-c2-052",
+      "word": "O relatório identifica vários obstáculos a o desenvolvimento da força de trabalho.",
+      "translation": "The report identifies several barriers to workforce development.",
+      "example": "O relatório identifica vários obstáculos a o desenvolvimento da força de trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-053",
+      "word": "O relatório identifica vários obstáculos a a liderança estratégica.",
+      "translation": "The report identifies several barriers to strategic leadership.",
+      "example": "O relatório identifica vários obstáculos a a liderança estratégica."
+    },
+    {
+      "id": "pt-work-c1-c2-054",
+      "word": "O relatório identifica vários obstáculos a a retenção de trabalhadores.",
+      "translation": "The report identifies several barriers to employee retention.",
+      "example": "O relatório identifica vários obstáculos a a retenção de trabalhadores."
+    },
+    {
+      "id": "pt-work-c1-c2-055",
+      "word": "O relatório identifica vários obstáculos a a mobilidade profissional.",
+      "translation": "The report identifies several barriers to occupational mobility.",
+      "example": "O relatório identifica vários obstáculos a a mobilidade profissional."
+    },
+    {
+      "id": "pt-work-c1-c2-056",
+      "word": "O relatório identifica vários obstáculos a a autonomia no trabalho.",
+      "translation": "The report identifies several barriers to workplace autonomy.",
+      "example": "O relatório identifica vários obstáculos a a autonomia no trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-057",
+      "word": "O relatório identifica vários obstáculos a o planeamento da sucessão.",
+      "translation": "The report identifies several barriers to succession planning.",
+      "example": "O relatório identifica vários obstáculos a o planeamento da sucessão."
+    },
+    {
+      "id": "pt-work-c1-c2-058",
+      "word": "O relatório identifica vários obstáculos a a identidade profissional.",
+      "translation": "The report identifies several barriers to professional identity.",
+      "example": "O relatório identifica vários obstáculos a a identidade profissional."
+    },
+    {
+      "id": "pt-work-c1-c2-059",
+      "word": "O relatório identifica vários obstáculos a a disrupção do mercado de trabalho.",
+      "translation": "The report identifies several barriers to labour-market disruption.",
+      "example": "O relatório identifica vários obstáculos a a disrupção do mercado de trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-060",
+      "word": "O relatório identifica vários obstáculos a a colaboração interfuncional.",
+      "translation": "The report identifies several barriers to cross-functional collaboration.",
+      "example": "O relatório identifica vários obstáculos a a colaboração interfuncional."
+    },
+    {
+      "id": "pt-work-c1-c2-061",
+      "word": "As comparações internacionais aprofundam a nossa compreensão de a cultura organizacional.",
+      "translation": "International comparisons deepen our understanding of organisational culture.",
+      "example": "As comparações internacionais aprofundam a nossa compreensão de a cultura organizacional."
+    },
+    {
+      "id": "pt-work-c1-c2-062",
+      "word": "As comparações internacionais aprofundam a nossa compreensão de o desenvolvimento da força de trabalho.",
+      "translation": "International comparisons deepen our understanding of workforce development.",
+      "example": "As comparações internacionais aprofundam a nossa compreensão de o desenvolvimento da força de trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-063",
+      "word": "As comparações internacionais aprofundam a nossa compreensão de a liderança estratégica.",
+      "translation": "International comparisons deepen our understanding of strategic leadership.",
+      "example": "As comparações internacionais aprofundam a nossa compreensão de a liderança estratégica."
+    },
+    {
+      "id": "pt-work-c1-c2-064",
+      "word": "As comparações internacionais aprofundam a nossa compreensão de a retenção de trabalhadores.",
+      "translation": "International comparisons deepen our understanding of employee retention.",
+      "example": "As comparações internacionais aprofundam a nossa compreensão de a retenção de trabalhadores."
+    },
+    {
+      "id": "pt-work-c1-c2-065",
+      "word": "As comparações internacionais aprofundam a nossa compreensão de a mobilidade profissional.",
+      "translation": "International comparisons deepen our understanding of occupational mobility.",
+      "example": "As comparações internacionais aprofundam a nossa compreensão de a mobilidade profissional."
+    },
+    {
+      "id": "pt-work-c1-c2-066",
+      "word": "As comparações internacionais aprofundam a nossa compreensão de a autonomia no trabalho.",
+      "translation": "International comparisons deepen our understanding of workplace autonomy.",
+      "example": "As comparações internacionais aprofundam a nossa compreensão de a autonomia no trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-067",
+      "word": "As comparações internacionais aprofundam a nossa compreensão de o planeamento da sucessão.",
+      "translation": "International comparisons deepen our understanding of succession planning.",
+      "example": "As comparações internacionais aprofundam a nossa compreensão de o planeamento da sucessão."
+    },
+    {
+      "id": "pt-work-c1-c2-068",
+      "word": "As comparações internacionais aprofundam a nossa compreensão de a identidade profissional.",
+      "translation": "International comparisons deepen our understanding of professional identity.",
+      "example": "As comparações internacionais aprofundam a nossa compreensão de a identidade profissional."
+    },
+    {
+      "id": "pt-work-c1-c2-069",
+      "word": "As comparações internacionais aprofundam a nossa compreensão de a disrupção do mercado de trabalho.",
+      "translation": "International comparisons deepen our understanding of labour-market disruption.",
+      "example": "As comparações internacionais aprofundam a nossa compreensão de a disrupção do mercado de trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-070",
+      "word": "As comparações internacionais aprofundam a nossa compreensão de a colaboração interfuncional.",
+      "translation": "International comparisons deepen our understanding of cross-functional collaboration.",
+      "example": "As comparações internacionais aprofundam a nossa compreensão de a colaboração interfuncional."
+    },
+    {
+      "id": "pt-work-c1-c2-071",
+      "word": "Qualquer avaliação de a cultura organizacional deve considerar as diferenças setoriais.",
+      "translation": "Any assessment of organisational culture must consider sectoral differences.",
+      "example": "Qualquer avaliação de a cultura organizacional deve considerar as diferenças setoriais."
+    },
+    {
+      "id": "pt-work-c1-c2-072",
+      "word": "Qualquer avaliação de o desenvolvimento da força de trabalho deve considerar as diferenças setoriais.",
+      "translation": "Any assessment of workforce development must consider sectoral differences.",
+      "example": "Qualquer avaliação de o desenvolvimento da força de trabalho deve considerar as diferenças setoriais."
+    },
+    {
+      "id": "pt-work-c1-c2-073",
+      "word": "Qualquer avaliação de a liderança estratégica deve considerar as diferenças setoriais.",
+      "translation": "Any assessment of strategic leadership must consider sectoral differences.",
+      "example": "Qualquer avaliação de a liderança estratégica deve considerar as diferenças setoriais."
+    },
+    {
+      "id": "pt-work-c1-c2-074",
+      "word": "Qualquer avaliação de a retenção de trabalhadores deve considerar as diferenças setoriais.",
+      "translation": "Any assessment of employee retention must consider sectoral differences.",
+      "example": "Qualquer avaliação de a retenção de trabalhadores deve considerar as diferenças setoriais."
+    },
+    {
+      "id": "pt-work-c1-c2-075",
+      "word": "Qualquer avaliação de a mobilidade profissional deve considerar as diferenças setoriais.",
+      "translation": "Any assessment of occupational mobility must consider sectoral differences.",
+      "example": "Qualquer avaliação de a mobilidade profissional deve considerar as diferenças setoriais."
+    },
+    {
+      "id": "pt-work-c1-c2-076",
+      "word": "Qualquer avaliação de a autonomia no trabalho deve considerar as diferenças setoriais.",
+      "translation": "Any assessment of workplace autonomy must consider sectoral differences.",
+      "example": "Qualquer avaliação de a autonomia no trabalho deve considerar as diferenças setoriais."
+    },
+    {
+      "id": "pt-work-c1-c2-077",
+      "word": "Qualquer avaliação de o planeamento da sucessão deve considerar as diferenças setoriais.",
+      "translation": "Any assessment of succession planning must consider sectoral differences.",
+      "example": "Qualquer avaliação de o planeamento da sucessão deve considerar as diferenças setoriais."
+    },
+    {
+      "id": "pt-work-c1-c2-078",
+      "word": "Qualquer avaliação de a identidade profissional deve considerar as diferenças setoriais.",
+      "translation": "Any assessment of professional identity must consider sectoral differences.",
+      "example": "Qualquer avaliação de a identidade profissional deve considerar as diferenças setoriais."
+    },
+    {
+      "id": "pt-work-c1-c2-079",
+      "word": "Qualquer avaliação de a disrupção do mercado de trabalho deve considerar as diferenças setoriais.",
+      "translation": "Any assessment of labour-market disruption must consider sectoral differences.",
+      "example": "Qualquer avaliação de a disrupção do mercado de trabalho deve considerar as diferenças setoriais."
+    },
+    {
+      "id": "pt-work-c1-c2-080",
+      "word": "Qualquer avaliação de a colaboração interfuncional deve considerar as diferenças setoriais.",
+      "translation": "Any assessment of cross-functional collaboration must consider sectoral differences.",
+      "example": "Qualquer avaliação de a colaboração interfuncional deve considerar as diferenças setoriais."
+    },
+    {
+      "id": "pt-work-c1-c2-081",
+      "word": "A equipa executiva desenvolveu uma estratégia coerente para a cultura organizacional.",
+      "translation": "The executive team developed a coherent strategy for organisational culture.",
+      "example": "A equipa executiva desenvolveu uma estratégia coerente para a cultura organizacional."
+    },
+    {
+      "id": "pt-work-c1-c2-082",
+      "word": "A equipa executiva desenvolveu uma estratégia coerente para o desenvolvimento da força de trabalho.",
+      "translation": "The executive team developed a coherent strategy for workforce development.",
+      "example": "A equipa executiva desenvolveu uma estratégia coerente para o desenvolvimento da força de trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-083",
+      "word": "A equipa executiva desenvolveu uma estratégia coerente para a liderança estratégica.",
+      "translation": "The executive team developed a coherent strategy for strategic leadership.",
+      "example": "A equipa executiva desenvolveu uma estratégia coerente para a liderança estratégica."
+    },
+    {
+      "id": "pt-work-c1-c2-084",
+      "word": "A equipa executiva desenvolveu uma estratégia coerente para a retenção de trabalhadores.",
+      "translation": "The executive team developed a coherent strategy for employee retention.",
+      "example": "A equipa executiva desenvolveu uma estratégia coerente para a retenção de trabalhadores."
+    },
+    {
+      "id": "pt-work-c1-c2-085",
+      "word": "A equipa executiva desenvolveu uma estratégia coerente para a mobilidade profissional.",
+      "translation": "The executive team developed a coherent strategy for occupational mobility.",
+      "example": "A equipa executiva desenvolveu uma estratégia coerente para a mobilidade profissional."
+    },
+    {
+      "id": "pt-work-c1-c2-086",
+      "word": "A equipa executiva desenvolveu uma estratégia coerente para a autonomia no trabalho.",
+      "translation": "The executive team developed a coherent strategy for workplace autonomy.",
+      "example": "A equipa executiva desenvolveu uma estratégia coerente para a autonomia no trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-087",
+      "word": "A equipa executiva desenvolveu uma estratégia coerente para o planeamento da sucessão.",
+      "translation": "The executive team developed a coherent strategy for succession planning.",
+      "example": "A equipa executiva desenvolveu uma estratégia coerente para o planeamento da sucessão."
+    },
+    {
+      "id": "pt-work-c1-c2-088",
+      "word": "A equipa executiva desenvolveu uma estratégia coerente para a identidade profissional.",
+      "translation": "The executive team developed a coherent strategy for professional identity.",
+      "example": "A equipa executiva desenvolveu uma estratégia coerente para a identidade profissional."
+    },
+    {
+      "id": "pt-work-c1-c2-089",
+      "word": "A equipa executiva desenvolveu uma estratégia coerente para a disrupção do mercado de trabalho.",
+      "translation": "The executive team developed a coherent strategy for labour-market disruption.",
+      "example": "A equipa executiva desenvolveu uma estratégia coerente para a disrupção do mercado de trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-090",
+      "word": "A equipa executiva desenvolveu uma estratégia coerente para a colaboração interfuncional.",
+      "translation": "The executive team developed a coherent strategy for cross-functional collaboration.",
+      "example": "A equipa executiva desenvolveu uma estratégia coerente para a colaboração interfuncional."
+    },
+    {
+      "id": "pt-work-c1-c2-091",
+      "word": "O debate público sobre a cultura organizacional tornou-se mais sofisticado.",
+      "translation": "Public debate about organisational culture has become more sophisticated.",
+      "example": "O debate público sobre a cultura organizacional tornou-se mais sofisticado."
+    },
+    {
+      "id": "pt-work-c1-c2-092",
+      "word": "O debate público sobre o desenvolvimento da força de trabalho tornou-se mais sofisticado.",
+      "translation": "Public debate about workforce development has become more sophisticated.",
+      "example": "O debate público sobre o desenvolvimento da força de trabalho tornou-se mais sofisticado."
+    },
+    {
+      "id": "pt-work-c1-c2-093",
+      "word": "O debate público sobre a liderança estratégica tornou-se mais sofisticado.",
+      "translation": "Public debate about strategic leadership has become more sophisticated.",
+      "example": "O debate público sobre a liderança estratégica tornou-se mais sofisticado."
+    },
+    {
+      "id": "pt-work-c1-c2-094",
+      "word": "O debate público sobre a retenção de trabalhadores tornou-se mais sofisticado.",
+      "translation": "Public debate about employee retention has become more sophisticated.",
+      "example": "O debate público sobre a retenção de trabalhadores tornou-se mais sofisticado."
+    },
+    {
+      "id": "pt-work-c1-c2-095",
+      "word": "O debate público sobre a mobilidade profissional tornou-se mais sofisticado.",
+      "translation": "Public debate about occupational mobility has become more sophisticated.",
+      "example": "O debate público sobre a mobilidade profissional tornou-se mais sofisticado."
+    },
+    {
+      "id": "pt-work-c1-c2-096",
+      "word": "O debate público sobre a autonomia no trabalho tornou-se mais sofisticado.",
+      "translation": "Public debate about workplace autonomy has become more sophisticated.",
+      "example": "O debate público sobre a autonomia no trabalho tornou-se mais sofisticado."
+    },
+    {
+      "id": "pt-work-c1-c2-097",
+      "word": "O debate público sobre o planeamento da sucessão tornou-se mais sofisticado.",
+      "translation": "Public debate about succession planning has become more sophisticated.",
+      "example": "O debate público sobre o planeamento da sucessão tornou-se mais sofisticado."
+    },
+    {
+      "id": "pt-work-c1-c2-098",
+      "word": "O debate público sobre a identidade profissional tornou-se mais sofisticado.",
+      "translation": "Public debate about professional identity has become more sophisticated.",
+      "example": "O debate público sobre a identidade profissional tornou-se mais sofisticado."
+    },
+    {
+      "id": "pt-work-c1-c2-099",
+      "word": "O debate público sobre a disrupção do mercado de trabalho tornou-se mais sofisticado.",
+      "translation": "Public debate about labour-market disruption has become more sophisticated.",
+      "example": "O debate público sobre a disrupção do mercado de trabalho tornou-se mais sofisticado."
+    },
+    {
+      "id": "pt-work-c1-c2-100",
+      "word": "O debate público sobre a colaboração interfuncional tornou-se mais sofisticado.",
+      "translation": "Public debate about cross-functional collaboration has become more sophisticated.",
+      "example": "O debate público sobre a colaboração interfuncional tornou-se mais sofisticado."
+    }
+  ]
+}
