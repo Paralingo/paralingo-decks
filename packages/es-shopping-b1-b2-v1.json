@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-shopping-b1-b2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "shopping",
+  "categoryTitle": "Shopping & Services",
+  "title": "Shopping & Services",
+  "level": "B1-B2",
+  "emoji": "🛍️",
+  "description": "Handle returns, deliveries, subscriptions, appointments, repairs, and customer-service problems.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-shopping-b1-b2-001",
+      "word": "Quisiera aclarar la política de devoluciones.",
+      "translation": "I would like to clarify the return policy.",
+      "example": "Quisiera aclarar la política de devoluciones."
+    },
+    {
+      "id": "es-shopping-b1-b2-002",
+      "word": "Quisiera aclarar el producto defectuoso.",
+      "translation": "I would like to clarify the faulty product.",
+      "example": "Quisiera aclarar el producto defectuoso."
+    },
+    {
+      "id": "es-shopping-b1-b2-003",
+      "word": "Quisiera aclarar el retraso de la entrega.",
+      "translation": "I would like to clarify the delivery delay.",
+      "example": "Quisiera aclarar el retraso de la entrega."
+    },
+    {
+      "id": "es-shopping-b1-b2-004",
+      "word": "Quisiera aclarar el período de garantía.",
+      "translation": "I would like to clarify the warranty period.",
+      "example": "Quisiera aclarar el período de garantía."
+    },
+    {
+      "id": "es-shopping-b1-b2-005",
+      "word": "Quisiera aclarar el mostrador de atención al cliente.",
+      "translation": "I would like to clarify the customer-service desk.",
+      "example": "Quisiera aclarar el mostrador de atención al cliente."
+    },
+    {
+      "id": "es-shopping-b1-b2-006",
+      "word": "Quisiera aclarar el presupuesto de reparación.",
+      "translation": "I would like to clarify the repair estimate.",
+      "example": "Quisiera aclarar el presupuesto de reparación."
+    },
+    {
+      "id": "es-shopping-b1-b2-007",
+      "word": "Quisiera aclarar la renovación automática.",
+      "translation": "I would like to clarify the automatic renewal.",
+      "example": "Quisiera aclarar la renovación automática."
+    },
+    {
+      "id": "es-shopping-b1-b2-008",
+      "word": "Quisiera aclarar la cita de servicio.",
+      "translation": "I would like to clarify the service appointment.",
+      "example": "Quisiera aclarar la cita de servicio."
+    },
+    {
+      "id": "es-shopping-b1-b2-009",
+      "word": "Quisiera aclarar la dirección de entrega.",
+      "translation": "I would like to clarify the delivery address.",
+      "example": "Quisiera aclarar la dirección de entrega."
+    },
+    {
+      "id": "es-shopping-b1-b2-010",
+      "word": "Quisiera aclarar la solicitud de reembolso.",
+      "translation": "I would like to clarify the refund request.",
+      "example": "Quisiera aclarar la solicitud de reembolso."
+    },
+    {
+      "id": "es-shopping-b1-b2-011",
+      "word": "Parece haber un problema con la política de devoluciones.",
+      "translation": "There seems to be a problem with the return policy.",
+      "example": "Parece haber un problema con la política de devoluciones."
+    },
+    {
+      "id": "es-shopping-b1-b2-012",
+      "word": "Parece haber un problema con el producto defectuoso.",
+      "translation": "There seems to be a problem with the faulty product.",
+      "example": "Parece haber un problema con el producto defectuoso."
+    },
+    {
+      "id": "es-shopping-b1-b2-013",
+      "word": "Parece haber un problema con el retraso de la entrega.",
+      "translation": "There seems to be a problem with the delivery delay.",
+      "example": "Parece haber un problema con el retraso de la entrega."
+    },
+    {
+      "id": "es-shopping-b1-b2-014",
+      "word": "Parece haber un problema con el período de garantía.",
+      "translation": "There seems to be a problem with the warranty period.",
+      "example": "Parece haber un problema con el período de garantía."
+    },
+    {
+      "id": "es-shopping-b1-b2-015",
+      "word": "Parece haber un problema con el mostrador de atención al cliente.",
+      "translation": "There seems to be a problem with the customer-service desk.",
+      "example": "Parece haber un problema con el mostrador de atención al cliente."
+    },
+    {
+      "id": "es-shopping-b1-b2-016",
+      "word": "Parece haber un problema con el presupuesto de reparación.",
+      "translation": "There seems to be a problem with the repair estimate.",
+      "example": "Parece haber un problema con el presupuesto de reparación."
+    },
+    {
+      "id": "es-shopping-b1-b2-017",
+      "word": "Parece haber un problema con la renovación automática.",
+      "translation": "There seems to be a problem with the automatic renewal.",
+      "example": "Parece haber un problema con la renovación automática."
+    },
+    {
+      "id": "es-shopping-b1-b2-018",
+      "word": "Parece haber un problema con la cita de servicio.",
+      "translation": "There seems to be a problem with the service appointment.",
+      "example": "Parece haber un problema con la cita de servicio."
+    },
+    {
+      "id": "es-shopping-b1-b2-019",
+      "word": "Parece haber un problema con la dirección de entrega.",
+      "translation": "There seems to be a problem with the delivery address.",
+      "example": "Parece haber un problema con la dirección de entrega."
+    },
+    {
+      "id": "es-shopping-b1-b2-020",
+      "word": "Parece haber un problema con la solicitud de reembolso.",
+      "translation": "There seems to be a problem with the refund request.",
+      "example": "Parece haber un problema con la solicitud de reembolso."
+    },
+    {
+      "id": "es-shopping-b1-b2-021",
+      "word": "¿Podría confirmar por escrito la política de devoluciones?",
+      "translation": "Could you confirm the return policy in writing?",
+      "example": "¿Podría confirmar por escrito la política de devoluciones?"
+    },
+    {
+      "id": "es-shopping-b1-b2-022",
+      "word": "¿Podría confirmar por escrito el producto defectuoso?",
+      "translation": "Could you confirm the faulty product in writing?",
+      "example": "¿Podría confirmar por escrito el producto defectuoso?"
+    },
+    {
+      "id": "es-shopping-b1-b2-023",
+      "word": "¿Podría confirmar por escrito el retraso de la entrega?",
+      "translation": "Could you confirm the delivery delay in writing?",
+      "example": "¿Podría confirmar por escrito el retraso de la entrega?"
+    },
+    {
+      "id": "es-shopping-b1-b2-024",
+      "word": "¿Podría confirmar por escrito el período de garantía?",
+      "translation": "Could you confirm the warranty period in writing?",
+      "example": "¿Podría confirmar por escrito el período de garantía?"
+    },
+    {
+      "id": "es-shopping-b1-b2-025",
+      "word": "¿Podría confirmar por escrito el mostrador de atención al cliente?",
+      "translation": "Could you confirm the customer-service desk in writing?",
+      "example": "¿Podría confirmar por escrito el mostrador de atención al cliente?"
+    },
+    {
+      "id": "es-shopping-b1-b2-026",
+      "word": "¿Podría confirmar por escrito el presupuesto de reparación?",
+      "translation": "Could you confirm the repair estimate in writing?",
+      "example": "¿Podría confirmar por escrito el presupuesto de reparación?"
+    },
+    {
+      "id": "es-shopping-b1-b2-027",
+      "word": "¿Podría confirmar por escrito la renovación automática?",
+      "translation": "Could you confirm the automatic renewal in writing?",
+      "example": "¿Podría confirmar por escrito la renovación automática?"
+    },
+    {
+      "id": "es-shopping-b1-b2-028",
+      "word": "¿Podría confirmar por escrito la cita de servicio?",
+      "translation": "Could you confirm the service appointment in writing?",
+      "example": "¿Podría confirmar por escrito la cita de servicio?"
+    },
+    {
+      "id": "es-shopping-b1-b2-029",
+      "word": "¿Podría confirmar por escrito la dirección de entrega?",
+      "translation": "Could you confirm the delivery address in writing?",
+      "example": "¿Podría confirmar por escrito la dirección de entrega?"
+    },
+    {
+      "id": "es-shopping-b1-b2-030",
+      "word": "¿Podría confirmar por escrito la solicitud de reembolso?",
+      "translation": "Could you confirm the refund request in writing?",
+      "example": "¿Podría confirmar por escrito la solicitud de reembolso?"
+    },
+    {
+      "id": "es-shopping-b1-b2-031",
+      "word": "La empresa no ha resuelto la política de devoluciones.",
+      "translation": "The company has not resolved the return policy.",
+      "example": "La empresa no ha resuelto la política de devoluciones."
+    },
+    {
+      "id": "es-shopping-b1-b2-032",
+      "word": "La empresa no ha resuelto el producto defectuoso.",
+      "translation": "The company has not resolved the faulty product.",
+      "example": "La empresa no ha resuelto el producto defectuoso."
+    },
+    {
+      "id": "es-shopping-b1-b2-033",
+      "word": "La empresa no ha resuelto el retraso de la entrega.",
+      "translation": "The company has not resolved the delivery delay.",
+      "example": "La empresa no ha resuelto el retraso de la entrega."
+    },
+    {
+      "id": "es-shopping-b1-b2-034",
+      "word": "La empresa no ha resuelto el período de garantía.",
+      "translation": "The company has not resolved the warranty period.",
+      "example": "La empresa no ha resuelto el período de garantía."
+    },
+    {
+      "id": "es-shopping-b1-b2-035",
+      "word": "La empresa no ha resuelto el mostrador de atención al cliente.",
+      "translation": "The company has not resolved the customer-service desk.",
+      "example": "La empresa no ha resuelto el mostrador de atención al cliente."
+    },
+    {
+      "id": "es-shopping-b1-b2-036",
+      "word": "La empresa no ha resuelto el presupuesto de reparación.",
+      "translation": "The company has not resolved the repair estimate.",
+      "example": "La empresa no ha resuelto el presupuesto de reparación."
+    },
+    {
+      "id": "es-shopping-b1-b2-037",
+      "word": "La empresa no ha resuelto la renovación automática.",
+      "translation": "The company has not resolved the automatic renewal.",
+      "example": "La empresa no ha resuelto la renovación automática."
+    },
+    {
+      "id": "es-shopping-b1-b2-038",
+      "word": "La empresa no ha resuelto la cita de servicio.",
+      "translation": "The company has not resolved the service appointment.",
+      "example": "La empresa no ha resuelto la cita de servicio."
+    },
+    {
+      "id": "es-shopping-b1-b2-039",
+      "word": "La empresa no ha resuelto la dirección de entrega.",
+      "translation": "The company has not resolved the delivery address.",
+      "example": "La empresa no ha resuelto la dirección de entrega."
+    },
+    {
+      "id": "es-shopping-b1-b2-040",
+      "word": "La empresa no ha resuelto la solicitud de reembolso.",
+      "translation": "The company has not resolved the refund request.",
+      "example": "La empresa no ha resuelto la solicitud de reembolso."
+    },
+    {
+      "id": "es-shopping-b1-b2-041",
+      "word": "No me informaron de la política de devoluciones.",
+      "translation": "I was not informed about the return policy.",
+      "example": "No me informaron de la política de devoluciones."
+    },
+    {
+      "id": "es-shopping-b1-b2-042",
+      "word": "No me informaron de el producto defectuoso.",
+      "translation": "I was not informed about the faulty product.",
+      "example": "No me informaron de el producto defectuoso."
+    },
+    {
+      "id": "es-shopping-b1-b2-043",
+      "word": "No me informaron de el retraso de la entrega.",
+      "translation": "I was not informed about the delivery delay.",
+      "example": "No me informaron de el retraso de la entrega."
+    },
+    {
+      "id": "es-shopping-b1-b2-044",
+      "word": "No me informaron de el período de garantía.",
+      "translation": "I was not informed about the warranty period.",
+      "example": "No me informaron de el período de garantía."
+    },
+    {
+      "id": "es-shopping-b1-b2-045",
+      "word": "No me informaron de el mostrador de atención al cliente.",
+      "translation": "I was not informed about the customer-service desk.",
+      "example": "No me informaron de el mostrador de atención al cliente."
+    },
+    {
+      "id": "es-shopping-b1-b2-046",
+      "word": "No me informaron de el presupuesto de reparación.",
+      "translation": "I was not informed about the repair estimate.",
+      "example": "No me informaron de el presupuesto de reparación."
+    },
+    {
+      "id": "es-shopping-b1-b2-047",
+      "word": "No me informaron de la renovación automática.",
+      "translation": "I was not informed about the automatic renewal.",
+      "example": "No me informaron de la renovación automática."
+    },
+    {
+      "id": "es-shopping-b1-b2-048",
+      "word": "No me informaron de la cita de servicio.",
+      "translation": "I was not informed about the service appointment.",
+      "example": "No me informaron de la cita de servicio."
+    },
+    {
+      "id": "es-shopping-b1-b2-049",
+      "word": "No me informaron de la dirección de entrega.",
+      "translation": "I was not informed about the delivery address.",
+      "example": "No me informaron de la dirección de entrega."
+    },
+    {
+      "id": "es-shopping-b1-b2-050",
+      "word": "No me informaron de la solicitud de reembolso.",
+      "translation": "I was not informed about the refund request.",
+      "example": "No me informaron de la solicitud de reembolso."
+    },
+    {
+      "id": "es-shopping-b1-b2-051",
+      "word": "Necesitamos una solución práctica para la política de devoluciones.",
+      "translation": "We need a practical solution to the return policy.",
+      "example": "Necesitamos una solución práctica para la política de devoluciones."
+    },
+    {
+      "id": "es-shopping-b1-b2-052",
+      "word": "Necesitamos una solución práctica para el producto defectuoso.",
+      "translation": "We need a practical solution to the faulty product.",
+      "example": "Necesitamos una solución práctica para el producto defectuoso."
+    },
+    {
+      "id": "es-shopping-b1-b2-053",
+      "word": "Necesitamos una solución práctica para el retraso de la entrega.",
+      "translation": "We need a practical solution to the delivery delay.",
+      "example": "Necesitamos una solución práctica para el retraso de la entrega."
+    },
+    {
+      "id": "es-shopping-b1-b2-054",
+      "word": "Necesitamos una solución práctica para el período de garantía.",
+      "translation": "We need a practical solution to the warranty period.",
+      "example": "Necesitamos una solución práctica para el período de garantía."
+    },
+    {
+      "id": "es-shopping-b1-b2-055",
+      "word": "Necesitamos una solución práctica para el mostrador de atención al cliente.",
+      "translation": "We need a practical solution to the customer-service desk.",
+      "example": "Necesitamos una solución práctica para el mostrador de atención al cliente."
+    },
+    {
+      "id": "es-shopping-b1-b2-056",
+      "word": "Necesitamos una solución práctica para el presupuesto de reparación.",
+      "translation": "We need a practical solution to the repair estimate.",
+      "example": "Necesitamos una solución práctica para el presupuesto de reparación."
+    },
+    {
+      "id": "es-shopping-b1-b2-057",
+      "word": "Necesitamos una solución práctica para la renovación automática.",
+      "translation": "We need a practical solution to the automatic renewal.",
+      "example": "Necesitamos una solución práctica para la renovación automática."
+    },
+    {
+      "id": "es-shopping-b1-b2-058",
+      "word": "Necesitamos una solución práctica para la cita de servicio.",
+      "translation": "We need a practical solution to the service appointment.",
+      "example": "Necesitamos una solución práctica para la cita de servicio."
+    },
+    {
+      "id": "es-shopping-b1-b2-059",
+      "word": "Necesitamos una solución práctica para la dirección de entrega.",
+      "translation": "We need a practical solution to the delivery address.",
+      "example": "Necesitamos una solución práctica para la dirección de entrega."
+    },
+    {
+      "id": "es-shopping-b1-b2-060",
+      "word": "Necesitamos una solución práctica para la solicitud de reembolso.",
+      "translation": "We need a practical solution to the refund request.",
+      "example": "Necesitamos una solución práctica para la solicitud de reembolso."
+    },
+    {
+      "id": "es-shopping-b1-b2-061",
+      "word": "¿Quién es responsable de la política de devoluciones?",
+      "translation": "Who is responsible for the return policy?",
+      "example": "¿Quién es responsable de la política de devoluciones?"
+    },
+    {
+      "id": "es-shopping-b1-b2-062",
+      "word": "¿Quién es responsable de el producto defectuoso?",
+      "translation": "Who is responsible for the faulty product?",
+      "example": "¿Quién es responsable de el producto defectuoso?"
+    },
+    {
+      "id": "es-shopping-b1-b2-063",
+      "word": "¿Quién es responsable de el retraso de la entrega?",
+      "translation": "Who is responsible for the delivery delay?",
+      "example": "¿Quién es responsable de el retraso de la entrega?"
+    },
+    {
+      "id": "es-shopping-b1-b2-064",
+      "word": "¿Quién es responsable de el período de garantía?",
+      "translation": "Who is responsible for the warranty period?",
+      "example": "¿Quién es responsable de el período de garantía?"
+    },
+    {
+      "id": "es-shopping-b1-b2-065",
+      "word": "¿Quién es responsable de el mostrador de atención al cliente?",
+      "translation": "Who is responsible for the customer-service desk?",
+      "example": "¿Quién es responsable de el mostrador de atención al cliente?"
+    },
+    {
+      "id": "es-shopping-b1-b2-066",
+      "word": "¿Quién es responsable de el presupuesto de reparación?",
+      "translation": "Who is responsible for the repair estimate?",
+      "example": "¿Quién es responsable de el presupuesto de reparación?"
+    },
+    {
+      "id": "es-shopping-b1-b2-067",
+      "word": "¿Quién es responsable de la renovación automática?",
+      "translation": "Who is responsible for the automatic renewal?",
+      "example": "¿Quién es responsable de la renovación automática?"
+    },
+    {
+      "id": "es-shopping-b1-b2-068",
+      "word": "¿Quién es responsable de la cita de servicio?",
+      "translation": "Who is responsible for the service appointment?",
+      "example": "¿Quién es responsable de la cita de servicio?"
+    },
+    {
+      "id": "es-shopping-b1-b2-069",
+      "word": "¿Quién es responsable de la dirección de entrega?",
+      "translation": "Who is responsible for the delivery address?",
+      "example": "¿Quién es responsable de la dirección de entrega?"
+    },
+    {
+      "id": "es-shopping-b1-b2-070",
+      "word": "¿Quién es responsable de la solicitud de reembolso?",
+      "translation": "Who is responsible for the refund request?",
+      "example": "¿Quién es responsable de la solicitud de reembolso?"
+    },
+    {
+      "id": "es-shopping-b1-b2-071",
+      "word": "Envíeme una actualización sobre la política de devoluciones, por favor.",
+      "translation": "Please send me an update about the return policy.",
+      "example": "Envíeme una actualización sobre la política de devoluciones, por favor."
+    },
+    {
+      "id": "es-shopping-b1-b2-072",
+      "word": "Envíeme una actualización sobre el producto defectuoso, por favor.",
+      "translation": "Please send me an update about the faulty product.",
+      "example": "Envíeme una actualización sobre el producto defectuoso, por favor."
+    },
+    {
+      "id": "es-shopping-b1-b2-073",
+      "word": "Envíeme una actualización sobre el retraso de la entrega, por favor.",
+      "translation": "Please send me an update about the delivery delay.",
+      "example": "Envíeme una actualización sobre el retraso de la entrega, por favor."
+    },
+    {
+      "id": "es-shopping-b1-b2-074",
+      "word": "Envíeme una actualización sobre el período de garantía, por favor.",
+      "translation": "Please send me an update about the warranty period.",
+      "example": "Envíeme una actualización sobre el período de garantía, por favor."
+    },
+    {
+      "id": "es-shopping-b1-b2-075",
+      "word": "Envíeme una actualización sobre el mostrador de atención al cliente, por favor.",
+      "translation": "Please send me an update about the customer-service desk.",
+      "example": "Envíeme una actualización sobre el mostrador de atención al cliente, por favor."
+    },
+    {
+      "id": "es-shopping-b1-b2-076",
+      "word": "Envíeme una actualización sobre el presupuesto de reparación, por favor.",
+      "translation": "Please send me an update about the repair estimate.",
+      "example": "Envíeme una actualización sobre el presupuesto de reparación, por favor."
+    },
+    {
+      "id": "es-shopping-b1-b2-077",
+      "word": "Envíeme una actualización sobre la renovación automática, por favor.",
+      "translation": "Please send me an update about the automatic renewal.",
+      "example": "Envíeme una actualización sobre la renovación automática, por favor."
+    },
+    {
+      "id": "es-shopping-b1-b2-078",
+      "word": "Envíeme una actualización sobre la cita de servicio, por favor.",
+      "translation": "Please send me an update about the service appointment.",
+      "example": "Envíeme una actualización sobre la cita de servicio, por favor."
+    },
+    {
+      "id": "es-shopping-b1-b2-079",
+      "word": "Envíeme una actualización sobre la dirección de entrega, por favor.",
+      "translation": "Please send me an update about the delivery address.",
+      "example": "Envíeme una actualización sobre la dirección de entrega, por favor."
+    },
+    {
+      "id": "es-shopping-b1-b2-080",
+      "word": "Envíeme una actualización sobre la solicitud de reembolso, por favor.",
+      "translation": "Please send me an update about the refund request.",
+      "example": "Envíeme una actualización sobre la solicitud de reembolso, por favor."
+    },
+    {
+      "id": "es-shopping-b1-b2-081",
+      "word": "He guardado todos los documentos relacionados con la política de devoluciones.",
+      "translation": "I have kept all documents related to the return policy.",
+      "example": "He guardado todos los documentos relacionados con la política de devoluciones."
+    },
+    {
+      "id": "es-shopping-b1-b2-082",
+      "word": "He guardado todos los documentos relacionados con el producto defectuoso.",
+      "translation": "I have kept all documents related to the faulty product.",
+      "example": "He guardado todos los documentos relacionados con el producto defectuoso."
+    },
+    {
+      "id": "es-shopping-b1-b2-083",
+      "word": "He guardado todos los documentos relacionados con el retraso de la entrega.",
+      "translation": "I have kept all documents related to the delivery delay.",
+      "example": "He guardado todos los documentos relacionados con el retraso de la entrega."
+    },
+    {
+      "id": "es-shopping-b1-b2-084",
+      "word": "He guardado todos los documentos relacionados con el período de garantía.",
+      "translation": "I have kept all documents related to the warranty period.",
+      "example": "He guardado todos los documentos relacionados con el período de garantía."
+    },
+    {
+      "id": "es-shopping-b1-b2-085",
+      "word": "He guardado todos los documentos relacionados con el mostrador de atención al cliente.",
+      "translation": "I have kept all documents related to the customer-service desk.",
+      "example": "He guardado todos los documentos relacionados con el mostrador de atención al cliente."
+    },
+    {
+      "id": "es-shopping-b1-b2-086",
+      "word": "He guardado todos los documentos relacionados con el presupuesto de reparación.",
+      "translation": "I have kept all documents related to the repair estimate.",
+      "example": "He guardado todos los documentos relacionados con el presupuesto de reparación."
+    },
+    {
+      "id": "es-shopping-b1-b2-087",
+      "word": "He guardado todos los documentos relacionados con la renovación automática.",
+      "translation": "I have kept all documents related to the automatic renewal.",
+      "example": "He guardado todos los documentos relacionados con la renovación automática."
+    },
+    {
+      "id": "es-shopping-b1-b2-088",
+      "word": "He guardado todos los documentos relacionados con la cita de servicio.",
+      "translation": "I have kept all documents related to the service appointment.",
+      "example": "He guardado todos los documentos relacionados con la cita de servicio."
+    },
+    {
+      "id": "es-shopping-b1-b2-089",
+      "word": "He guardado todos los documentos relacionados con la dirección de entrega.",
+      "translation": "I have kept all documents related to the delivery address.",
+      "example": "He guardado todos los documentos relacionados con la dirección de entrega."
+    },
+    {
+      "id": "es-shopping-b1-b2-090",
+      "word": "He guardado todos los documentos relacionados con la solicitud de reembolso.",
+      "translation": "I have kept all documents related to the refund request.",
+      "example": "He guardado todos los documentos relacionados con la solicitud de reembolso."
+    },
+    {
+      "id": "es-shopping-b1-b2-091",
+      "word": "Finalmente llegamos a un acuerdo sobre la política de devoluciones.",
+      "translation": "We eventually reached an agreement about the return policy.",
+      "example": "Finalmente llegamos a un acuerdo sobre la política de devoluciones."
+    },
+    {
+      "id": "es-shopping-b1-b2-092",
+      "word": "Finalmente llegamos a un acuerdo sobre el producto defectuoso.",
+      "translation": "We eventually reached an agreement about the faulty product.",
+      "example": "Finalmente llegamos a un acuerdo sobre el producto defectuoso."
+    },
+    {
+      "id": "es-shopping-b1-b2-093",
+      "word": "Finalmente llegamos a un acuerdo sobre el retraso de la entrega.",
+      "translation": "We eventually reached an agreement about the delivery delay.",
+      "example": "Finalmente llegamos a un acuerdo sobre el retraso de la entrega."
+    },
+    {
+      "id": "es-shopping-b1-b2-094",
+      "word": "Finalmente llegamos a un acuerdo sobre el período de garantía.",
+      "translation": "We eventually reached an agreement about the warranty period.",
+      "example": "Finalmente llegamos a un acuerdo sobre el período de garantía."
+    },
+    {
+      "id": "es-shopping-b1-b2-095",
+      "word": "Finalmente llegamos a un acuerdo sobre el mostrador de atención al cliente.",
+      "translation": "We eventually reached an agreement about the customer-service desk.",
+      "example": "Finalmente llegamos a un acuerdo sobre el mostrador de atención al cliente."
+    },
+    {
+      "id": "es-shopping-b1-b2-096",
+      "word": "Finalmente llegamos a un acuerdo sobre el presupuesto de reparación.",
+      "translation": "We eventually reached an agreement about the repair estimate.",
+      "example": "Finalmente llegamos a un acuerdo sobre el presupuesto de reparación."
+    },
+    {
+      "id": "es-shopping-b1-b2-097",
+      "word": "Finalmente llegamos a un acuerdo sobre la renovación automática.",
+      "translation": "We eventually reached an agreement about the automatic renewal.",
+      "example": "Finalmente llegamos a un acuerdo sobre la renovación automática."
+    },
+    {
+      "id": "es-shopping-b1-b2-098",
+      "word": "Finalmente llegamos a un acuerdo sobre la cita de servicio.",
+      "translation": "We eventually reached an agreement about the service appointment.",
+      "example": "Finalmente llegamos a un acuerdo sobre la cita de servicio."
+    },
+    {
+      "id": "es-shopping-b1-b2-099",
+      "word": "Finalmente llegamos a un acuerdo sobre la dirección de entrega.",
+      "translation": "We eventually reached an agreement about the delivery address.",
+      "example": "Finalmente llegamos a un acuerdo sobre la dirección de entrega."
+    },
+    {
+      "id": "es-shopping-b1-b2-100",
+      "word": "Finalmente llegamos a un acuerdo sobre la solicitud de reembolso.",
+      "translation": "We eventually reached an agreement about the refund request.",
+      "example": "Finalmente llegamos a un acuerdo sobre la solicitud de reembolso."
+    }
+  ]
+}
