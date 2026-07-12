@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-it-society-c1-c2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "society",
+  "categoryTitle": "Society & Culture",
+  "title": "Society & Culture",
+  "level": "C1-C2",
+  "emoji": "🏛️",
+  "description": "Explore cultural heritage, language, arts, collective memory, customs, and cultural exchange.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-society-c1-c2-001",
+      "word": "Un'analisi articolata di l'identità collettiva richiede un contesto storico.",
+      "translation": "A nuanced account of collective identity requires historical context.",
+      "example": "Un'analisi articolata di l'identità collettiva richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-002",
+      "word": "Un'analisi articolata di il patrimonio culturale richiede un contesto storico.",
+      "translation": "A nuanced account of cultural heritage requires historical context.",
+      "example": "Un'analisi articolata di il patrimonio culturale richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-003",
+      "word": "Un'analisi articolata di la memoria storica richiede un contesto storico.",
+      "translation": "A nuanced account of historical memory requires historical context.",
+      "example": "Un'analisi articolata di la memoria storica richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-004",
+      "word": "Un'analisi articolata di il cambiamento linguistico richiede un contesto storico.",
+      "translation": "A nuanced account of language change requires historical context.",
+      "example": "Un'analisi articolata di il cambiamento linguistico richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-005",
+      "word": "Un'analisi articolata di i movimenti artistici richiede un contesto storico.",
+      "translation": "A nuanced account of artistic movements requires historical context.",
+      "example": "Un'analisi articolata di i movimenti artistici richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-006",
+      "word": "Un'analisi articolata di la tradizione orale richiede un contesto storico.",
+      "translation": "A nuanced account of oral tradition requires historical context.",
+      "example": "Un'analisi articolata di la tradizione orale richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-007",
+      "word": "Un'analisi articolata di lo scambio culturale richiede un contesto storico.",
+      "translation": "A nuanced account of cultural exchange requires historical context.",
+      "example": "Un'analisi articolata di lo scambio culturale richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-008",
+      "word": "Un'analisi articolata di la conservazione del patrimonio richiede un contesto storico.",
+      "translation": "A nuanced account of heritage preservation requires historical context.",
+      "example": "Un'analisi articolata di la conservazione del patrimonio richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-009",
+      "word": "Un'analisi articolata di il canone letterario richiede un contesto storico.",
+      "translation": "A nuanced account of literary canon requires historical context.",
+      "example": "Un'analisi articolata di il canone letterario richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-010",
+      "word": "Un'analisi articolata di i monumenti pubblici richiede un contesto storico.",
+      "translation": "A nuanced account of public monuments requires historical context.",
+      "example": "Un'analisi articolata di i monumenti pubblici richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-011",
+      "word": "L'interesse pubblico per l'identità collettiva è cresciuto negli ultimi anni.",
+      "translation": "Public interest in collective identity has grown in recent years.",
+      "example": "L'interesse pubblico per l'identità collettiva è cresciuto negli ultimi anni."
+    },
+    {
+      "id": "it-society-c1-c2-012",
+      "word": "L'interesse pubblico per il patrimonio culturale è cresciuto negli ultimi anni.",
+      "translation": "Public interest in cultural heritage has grown in recent years.",
+      "example": "L'interesse pubblico per il patrimonio culturale è cresciuto negli ultimi anni."
+    },
+    {
+      "id": "it-society-c1-c2-013",
+      "word": "L'interesse pubblico per la memoria storica è cresciuto negli ultimi anni.",
+      "translation": "Public interest in historical memory has grown in recent years.",
+      "example": "L'interesse pubblico per la memoria storica è cresciuto negli ultimi anni."
+    },
+    {
+      "id": "it-society-c1-c2-014",
+      "word": "L'interesse pubblico per il cambiamento linguistico è cresciuto negli ultimi anni.",
+      "translation": "Public interest in language change has grown in recent years.",
+      "example": "L'interesse pubblico per il cambiamento linguistico è cresciuto negli ultimi anni."
+    },
+    {
+      "id": "it-society-c1-c2-015",
+      "word": "L'interesse pubblico per i movimenti artistici è cresciuto negli ultimi anni.",
+      "translation": "Public interest in artistic movements has grown in recent years.",
+      "example": "L'interesse pubblico per i movimenti artistici è cresciuto negli ultimi anni."
+    },
+    {
+      "id": "it-society-c1-c2-016",
+      "word": "L'interesse pubblico per la tradizione orale è cresciuto negli ultimi anni.",
+      "translation": "Public interest in oral tradition has grown in recent years.",
+      "example": "L'interesse pubblico per la tradizione orale è cresciuto negli ultimi anni."
+    },
+    {
+      "id": "it-society-c1-c2-017",
+      "word": "L'interesse pubblico per lo scambio culturale è cresciuto negli ultimi anni.",
+      "translation": "Public interest in cultural exchange has grown in recent years.",
+      "example": "L'interesse pubblico per lo scambio culturale è cresciuto negli ultimi anni."
+    },
+    {
+      "id": "it-society-c1-c2-018",
+      "word": "L'interesse pubblico per la conservazione del patrimonio è cresciuto negli ultimi anni.",
+      "translation": "Public interest in heritage preservation has grown in recent years.",
+      "example": "L'interesse pubblico per la conservazione del patrimonio è cresciuto negli ultimi anni."
+    },
+    {
+      "id": "it-society-c1-c2-019",
+      "word": "L'interesse pubblico per il canone letterario è cresciuto negli ultimi anni.",
+      "translation": "Public interest in literary canon has grown in recent years.",
+      "example": "L'interesse pubblico per il canone letterario è cresciuto negli ultimi anni."
+    },
+    {
+      "id": "it-society-c1-c2-020",
+      "word": "L'interesse pubblico per i monumenti pubblici è cresciuto negli ultimi anni.",
+      "translation": "Public interest in public monuments has grown in recent years.",
+      "example": "L'interesse pubblico per i monumenti pubblici è cresciuto negli ultimi anni."
+    },
+    {
+      "id": "it-society-c1-c2-021",
+      "word": "Le istituzioni svolgono un ruolo importante nel sostenere l'identità collettiva.",
+      "translation": "Institutions play an important role in supporting collective identity.",
+      "example": "Le istituzioni svolgono un ruolo importante nel sostenere l'identità collettiva."
+    },
+    {
+      "id": "it-society-c1-c2-022",
+      "word": "Le istituzioni svolgono un ruolo importante nel sostenere il patrimonio culturale.",
+      "translation": "Institutions play an important role in supporting cultural heritage.",
+      "example": "Le istituzioni svolgono un ruolo importante nel sostenere il patrimonio culturale."
+    },
+    {
+      "id": "it-society-c1-c2-023",
+      "word": "Le istituzioni svolgono un ruolo importante nel sostenere la memoria storica.",
+      "translation": "Institutions play an important role in supporting historical memory.",
+      "example": "Le istituzioni svolgono un ruolo importante nel sostenere la memoria storica."
+    },
+    {
+      "id": "it-society-c1-c2-024",
+      "word": "Le istituzioni svolgono un ruolo importante nel sostenere il cambiamento linguistico.",
+      "translation": "Institutions play an important role in supporting language change.",
+      "example": "Le istituzioni svolgono un ruolo importante nel sostenere il cambiamento linguistico."
+    },
+    {
+      "id": "it-society-c1-c2-025",
+      "word": "Le istituzioni svolgono un ruolo importante nel sostenere i movimenti artistici.",
+      "translation": "Institutions play an important role in supporting artistic movements.",
+      "example": "Le istituzioni svolgono un ruolo importante nel sostenere i movimenti artistici."
+    },
+    {
+      "id": "it-society-c1-c2-026",
+      "word": "Le istituzioni svolgono un ruolo importante nel sostenere la tradizione orale.",
+      "translation": "Institutions play an important role in supporting oral tradition.",
+      "example": "Le istituzioni svolgono un ruolo importante nel sostenere la tradizione orale."
+    },
+    {
+      "id": "it-society-c1-c2-027",
+      "word": "Le istituzioni svolgono un ruolo importante nel sostenere lo scambio culturale.",
+      "translation": "Institutions play an important role in supporting cultural exchange.",
+      "example": "Le istituzioni svolgono un ruolo importante nel sostenere lo scambio culturale."
+    },
+    {
+      "id": "it-society-c1-c2-028",
+      "word": "Le istituzioni svolgono un ruolo importante nel sostenere la conservazione del patrimonio.",
+      "translation": "Institutions play an important role in supporting heritage preservation.",
+      "example": "Le istituzioni svolgono un ruolo importante nel sostenere la conservazione del patrimonio."
+    },
+    {
+      "id": "it-society-c1-c2-029",
+      "word": "Le istituzioni svolgono un ruolo importante nel sostenere il canone letterario.",
+      "translation": "Institutions play an important role in supporting literary canon.",
+      "example": "Le istituzioni svolgono un ruolo importante nel sostenere il canone letterario."
+    },
+    {
+      "id": "it-society-c1-c2-030",
+      "word": "Le istituzioni svolgono un ruolo importante nel sostenere i monumenti pubblici.",
+      "translation": "Institutions play an important role in supporting public monuments.",
+      "example": "Le istituzioni svolgono un ruolo importante nel sostenere i monumenti pubblici."
+    },
+    {
+      "id": "it-society-c1-c2-031",
+      "word": "Il contesto storico di l'identità collettiva viene spesso trascurato.",
+      "translation": "The historical context of collective identity is often overlooked.",
+      "example": "Il contesto storico di l'identità collettiva viene spesso trascurato."
+    },
+    {
+      "id": "it-society-c1-c2-032",
+      "word": "Il contesto storico di il patrimonio culturale viene spesso trascurato.",
+      "translation": "The historical context of cultural heritage is often overlooked.",
+      "example": "Il contesto storico di il patrimonio culturale viene spesso trascurato."
+    },
+    {
+      "id": "it-society-c1-c2-033",
+      "word": "Il contesto storico di la memoria storica viene spesso trascurato.",
+      "translation": "The historical context of historical memory is often overlooked.",
+      "example": "Il contesto storico di la memoria storica viene spesso trascurato."
+    },
+    {
+      "id": "it-society-c1-c2-034",
+      "word": "Il contesto storico di il cambiamento linguistico viene spesso trascurato.",
+      "translation": "The historical context of language change is often overlooked.",
+      "example": "Il contesto storico di il cambiamento linguistico viene spesso trascurato."
+    },
+    {
+      "id": "it-society-c1-c2-035",
+      "word": "Il contesto storico di i movimenti artistici viene spesso trascurato.",
+      "translation": "The historical context of artistic movements is often overlooked.",
+      "example": "Il contesto storico di i movimenti artistici viene spesso trascurato."
+    },
+    {
+      "id": "it-society-c1-c2-036",
+      "word": "Il contesto storico di la tradizione orale viene spesso trascurato.",
+      "translation": "The historical context of oral tradition is often overlooked.",
+      "example": "Il contesto storico di la tradizione orale viene spesso trascurato."
+    },
+    {
+      "id": "it-society-c1-c2-037",
+      "word": "Il contesto storico di lo scambio culturale viene spesso trascurato.",
+      "translation": "The historical context of cultural exchange is often overlooked.",
+      "example": "Il contesto storico di lo scambio culturale viene spesso trascurato."
+    },
+    {
+      "id": "it-society-c1-c2-038",
+      "word": "Il contesto storico di la conservazione del patrimonio viene spesso trascurato.",
+      "translation": "The historical context of heritage preservation is often overlooked.",
+      "example": "Il contesto storico di la conservazione del patrimonio viene spesso trascurato."
+    },
+    {
+      "id": "it-society-c1-c2-039",
+      "word": "Il contesto storico di il canone letterario viene spesso trascurato.",
+      "translation": "The historical context of literary canon is often overlooked.",
+      "example": "Il contesto storico di il canone letterario viene spesso trascurato."
+    },
+    {
+      "id": "it-society-c1-c2-040",
+      "word": "Il contesto storico di i monumenti pubblici viene spesso trascurato.",
+      "translation": "The historical context of public monuments is often overlooked.",
+      "example": "Il contesto storico di i monumenti pubblici viene spesso trascurato."
+    },
+    {
+      "id": "it-society-c1-c2-041",
+      "word": "L'istruzione può approfondire la nostra comprensione di l'identità collettiva.",
+      "translation": "Education can deepen our understanding of collective identity.",
+      "example": "L'istruzione può approfondire la nostra comprensione di l'identità collettiva."
+    },
+    {
+      "id": "it-society-c1-c2-042",
+      "word": "L'istruzione può approfondire la nostra comprensione di il patrimonio culturale.",
+      "translation": "Education can deepen our understanding of cultural heritage.",
+      "example": "L'istruzione può approfondire la nostra comprensione di il patrimonio culturale."
+    },
+    {
+      "id": "it-society-c1-c2-043",
+      "word": "L'istruzione può approfondire la nostra comprensione di la memoria storica.",
+      "translation": "Education can deepen our understanding of historical memory.",
+      "example": "L'istruzione può approfondire la nostra comprensione di la memoria storica."
+    },
+    {
+      "id": "it-society-c1-c2-044",
+      "word": "L'istruzione può approfondire la nostra comprensione di il cambiamento linguistico.",
+      "translation": "Education can deepen our understanding of language change.",
+      "example": "L'istruzione può approfondire la nostra comprensione di il cambiamento linguistico."
+    },
+    {
+      "id": "it-society-c1-c2-045",
+      "word": "L'istruzione può approfondire la nostra comprensione di i movimenti artistici.",
+      "translation": "Education can deepen our understanding of artistic movements.",
+      "example": "L'istruzione può approfondire la nostra comprensione di i movimenti artistici."
+    },
+    {
+      "id": "it-society-c1-c2-046",
+      "word": "L'istruzione può approfondire la nostra comprensione di la tradizione orale.",
+      "translation": "Education can deepen our understanding of oral tradition.",
+      "example": "L'istruzione può approfondire la nostra comprensione di la tradizione orale."
+    },
+    {
+      "id": "it-society-c1-c2-047",
+      "word": "L'istruzione può approfondire la nostra comprensione di lo scambio culturale.",
+      "translation": "Education can deepen our understanding of cultural exchange.",
+      "example": "L'istruzione può approfondire la nostra comprensione di lo scambio culturale."
+    },
+    {
+      "id": "it-society-c1-c2-048",
+      "word": "L'istruzione può approfondire la nostra comprensione di la conservazione del patrimonio.",
+      "translation": "Education can deepen our understanding of heritage preservation.",
+      "example": "L'istruzione può approfondire la nostra comprensione di la conservazione del patrimonio."
+    },
+    {
+      "id": "it-society-c1-c2-049",
+      "word": "L'istruzione può approfondire la nostra comprensione di il canone letterario.",
+      "translation": "Education can deepen our understanding of literary canon.",
+      "example": "L'istruzione può approfondire la nostra comprensione di il canone letterario."
+    },
+    {
+      "id": "it-society-c1-c2-050",
+      "word": "L'istruzione può approfondire la nostra comprensione di i monumenti pubblici.",
+      "translation": "Education can deepen our understanding of public monuments.",
+      "example": "L'istruzione può approfondire la nostra comprensione di i monumenti pubblici."
+    },
+    {
+      "id": "it-society-c1-c2-051",
+      "word": "Gli studiosi non concordano su come interpretare l'identità collettiva.",
+      "translation": "Scholars disagree about how to interpret collective identity.",
+      "example": "Gli studiosi non concordano su come interpretare l'identità collettiva."
+    },
+    {
+      "id": "it-society-c1-c2-052",
+      "word": "Gli studiosi non concordano su come interpretare il patrimonio culturale.",
+      "translation": "Scholars disagree about how to interpret cultural heritage.",
+      "example": "Gli studiosi non concordano su come interpretare il patrimonio culturale."
+    },
+    {
+      "id": "it-society-c1-c2-053",
+      "word": "Gli studiosi non concordano su come interpretare la memoria storica.",
+      "translation": "Scholars disagree about how to interpret historical memory.",
+      "example": "Gli studiosi non concordano su come interpretare la memoria storica."
+    },
+    {
+      "id": "it-society-c1-c2-054",
+      "word": "Gli studiosi non concordano su come interpretare il cambiamento linguistico.",
+      "translation": "Scholars disagree about how to interpret language change.",
+      "example": "Gli studiosi non concordano su come interpretare il cambiamento linguistico."
+    },
+    {
+      "id": "it-society-c1-c2-055",
+      "word": "Gli studiosi non concordano su come interpretare i movimenti artistici.",
+      "translation": "Scholars disagree about how to interpret artistic movements.",
+      "example": "Gli studiosi non concordano su come interpretare i movimenti artistici."
+    },
+    {
+      "id": "it-society-c1-c2-056",
+      "word": "Gli studiosi non concordano su come interpretare la tradizione orale.",
+      "translation": "Scholars disagree about how to interpret oral tradition.",
+      "example": "Gli studiosi non concordano su come interpretare la tradizione orale."
+    },
+    {
+      "id": "it-society-c1-c2-057",
+      "word": "Gli studiosi non concordano su come interpretare lo scambio culturale.",
+      "translation": "Scholars disagree about how to interpret cultural exchange.",
+      "example": "Gli studiosi non concordano su come interpretare lo scambio culturale."
+    },
+    {
+      "id": "it-society-c1-c2-058",
+      "word": "Gli studiosi non concordano su come interpretare la conservazione del patrimonio.",
+      "translation": "Scholars disagree about how to interpret heritage preservation.",
+      "example": "Gli studiosi non concordano su come interpretare la conservazione del patrimonio."
+    },
+    {
+      "id": "it-society-c1-c2-059",
+      "word": "Gli studiosi non concordano su come interpretare il canone letterario.",
+      "translation": "Scholars disagree about how to interpret literary canon.",
+      "example": "Gli studiosi non concordano su come interpretare il canone letterario."
+    },
+    {
+      "id": "it-society-c1-c2-060",
+      "word": "Gli studiosi non concordano su come interpretare i monumenti pubblici.",
+      "translation": "Scholars disagree about how to interpret public monuments.",
+      "example": "Gli studiosi non concordano su come interpretare i monumenti pubblici."
+    },
+    {
+      "id": "it-society-c1-c2-061",
+      "word": "Le piattaforme digitali hanno trasformato l'identità collettiva.",
+      "translation": "Digital platforms have transformed collective identity.",
+      "example": "Le piattaforme digitali hanno trasformato l'identità collettiva."
+    },
+    {
+      "id": "it-society-c1-c2-062",
+      "word": "Le piattaforme digitali hanno trasformato il patrimonio culturale.",
+      "translation": "Digital platforms have transformed cultural heritage.",
+      "example": "Le piattaforme digitali hanno trasformato il patrimonio culturale."
+    },
+    {
+      "id": "it-society-c1-c2-063",
+      "word": "Le piattaforme digitali hanno trasformato la memoria storica.",
+      "translation": "Digital platforms have transformed historical memory.",
+      "example": "Le piattaforme digitali hanno trasformato la memoria storica."
+    },
+    {
+      "id": "it-society-c1-c2-064",
+      "word": "Le piattaforme digitali hanno trasformato il cambiamento linguistico.",
+      "translation": "Digital platforms have transformed language change.",
+      "example": "Le piattaforme digitali hanno trasformato il cambiamento linguistico."
+    },
+    {
+      "id": "it-society-c1-c2-065",
+      "word": "Le piattaforme digitali hanno trasformato i movimenti artistici.",
+      "translation": "Digital platforms have transformed artistic movements.",
+      "example": "Le piattaforme digitali hanno trasformato i movimenti artistici."
+    },
+    {
+      "id": "it-society-c1-c2-066",
+      "word": "Le piattaforme digitali hanno trasformato la tradizione orale.",
+      "translation": "Digital platforms have transformed oral tradition.",
+      "example": "Le piattaforme digitali hanno trasformato la tradizione orale."
+    },
+    {
+      "id": "it-society-c1-c2-067",
+      "word": "Le piattaforme digitali hanno trasformato lo scambio culturale.",
+      "translation": "Digital platforms have transformed cultural exchange.",
+      "example": "Le piattaforme digitali hanno trasformato lo scambio culturale."
+    },
+    {
+      "id": "it-society-c1-c2-068",
+      "word": "Le piattaforme digitali hanno trasformato la conservazione del patrimonio.",
+      "translation": "Digital platforms have transformed heritage preservation.",
+      "example": "Le piattaforme digitali hanno trasformato la conservazione del patrimonio."
+    },
+    {
+      "id": "it-society-c1-c2-069",
+      "word": "Le piattaforme digitali hanno trasformato il canone letterario.",
+      "translation": "Digital platforms have transformed literary canon.",
+      "example": "Le piattaforme digitali hanno trasformato il canone letterario."
+    },
+    {
+      "id": "it-society-c1-c2-070",
+      "word": "Le piattaforme digitali hanno trasformato i monumenti pubblici.",
+      "translation": "Digital platforms have transformed public monuments.",
+      "example": "Le piattaforme digitali hanno trasformato i monumenti pubblici."
+    },
+    {
+      "id": "it-society-c1-c2-071",
+      "word": "Un dialogo significativo su l'identità collettiva beneficia di una ricerca accurata.",
+      "translation": "Meaningful dialogue about collective identity benefits from careful research.",
+      "example": "Un dialogo significativo su l'identità collettiva beneficia di una ricerca accurata."
+    },
+    {
+      "id": "it-society-c1-c2-072",
+      "word": "Un dialogo significativo su il patrimonio culturale beneficia di una ricerca accurata.",
+      "translation": "Meaningful dialogue about cultural heritage benefits from careful research.",
+      "example": "Un dialogo significativo su il patrimonio culturale beneficia di una ricerca accurata."
+    },
+    {
+      "id": "it-society-c1-c2-073",
+      "word": "Un dialogo significativo su la memoria storica beneficia di una ricerca accurata.",
+      "translation": "Meaningful dialogue about historical memory benefits from careful research.",
+      "example": "Un dialogo significativo su la memoria storica beneficia di una ricerca accurata."
+    },
+    {
+      "id": "it-society-c1-c2-074",
+      "word": "Un dialogo significativo su il cambiamento linguistico beneficia di una ricerca accurata.",
+      "translation": "Meaningful dialogue about language change benefits from careful research.",
+      "example": "Un dialogo significativo su il cambiamento linguistico beneficia di una ricerca accurata."
+    },
+    {
+      "id": "it-society-c1-c2-075",
+      "word": "Un dialogo significativo su i movimenti artistici beneficia di una ricerca accurata.",
+      "translation": "Meaningful dialogue about artistic movements benefits from careful research.",
+      "example": "Un dialogo significativo su i movimenti artistici beneficia di una ricerca accurata."
+    },
+    {
+      "id": "it-society-c1-c2-076",
+      "word": "Un dialogo significativo su la tradizione orale beneficia di una ricerca accurata.",
+      "translation": "Meaningful dialogue about oral tradition benefits from careful research.",
+      "example": "Un dialogo significativo su la tradizione orale beneficia di una ricerca accurata."
+    },
+    {
+      "id": "it-society-c1-c2-077",
+      "word": "Un dialogo significativo su lo scambio culturale beneficia di una ricerca accurata.",
+      "translation": "Meaningful dialogue about cultural exchange benefits from careful research.",
+      "example": "Un dialogo significativo su lo scambio culturale beneficia di una ricerca accurata."
+    },
+    {
+      "id": "it-society-c1-c2-078",
+      "word": "Un dialogo significativo su la conservazione del patrimonio beneficia di una ricerca accurata.",
+      "translation": "Meaningful dialogue about heritage preservation benefits from careful research.",
+      "example": "Un dialogo significativo su la conservazione del patrimonio beneficia di una ricerca accurata."
+    },
+    {
+      "id": "it-society-c1-c2-079",
+      "word": "Un dialogo significativo su il canone letterario beneficia di una ricerca accurata.",
+      "translation": "Meaningful dialogue about literary canon benefits from careful research.",
+      "example": "Un dialogo significativo su il canone letterario beneficia di una ricerca accurata."
+    },
+    {
+      "id": "it-society-c1-c2-080",
+      "word": "Un dialogo significativo su i monumenti pubblici beneficia di una ricerca accurata.",
+      "translation": "Meaningful dialogue about public monuments benefits from careful research.",
+      "example": "Un dialogo significativo su i monumenti pubblici beneficia di una ricerca accurata."
+    },
+    {
+      "id": "it-society-c1-c2-081",
+      "word": "Musei e archivi aiutano a documentare l'identità collettiva.",
+      "translation": "Museums and archives help document collective identity.",
+      "example": "Musei e archivi aiutano a documentare l'identità collettiva."
+    },
+    {
+      "id": "it-society-c1-c2-082",
+      "word": "Musei e archivi aiutano a documentare il patrimonio culturale.",
+      "translation": "Museums and archives help document cultural heritage.",
+      "example": "Musei e archivi aiutano a documentare il patrimonio culturale."
+    },
+    {
+      "id": "it-society-c1-c2-083",
+      "word": "Musei e archivi aiutano a documentare la memoria storica.",
+      "translation": "Museums and archives help document historical memory.",
+      "example": "Musei e archivi aiutano a documentare la memoria storica."
+    },
+    {
+      "id": "it-society-c1-c2-084",
+      "word": "Musei e archivi aiutano a documentare il cambiamento linguistico.",
+      "translation": "Museums and archives help document language change.",
+      "example": "Musei e archivi aiutano a documentare il cambiamento linguistico."
+    },
+    {
+      "id": "it-society-c1-c2-085",
+      "word": "Musei e archivi aiutano a documentare i movimenti artistici.",
+      "translation": "Museums and archives help document artistic movements.",
+      "example": "Musei e archivi aiutano a documentare i movimenti artistici."
+    },
+    {
+      "id": "it-society-c1-c2-086",
+      "word": "Musei e archivi aiutano a documentare la tradizione orale.",
+      "translation": "Museums and archives help document oral tradition.",
+      "example": "Musei e archivi aiutano a documentare la tradizione orale."
+    },
+    {
+      "id": "it-society-c1-c2-087",
+      "word": "Musei e archivi aiutano a documentare lo scambio culturale.",
+      "translation": "Museums and archives help document cultural exchange.",
+      "example": "Musei e archivi aiutano a documentare lo scambio culturale."
+    },
+    {
+      "id": "it-society-c1-c2-088",
+      "word": "Musei e archivi aiutano a documentare la conservazione del patrimonio.",
+      "translation": "Museums and archives help document heritage preservation.",
+      "example": "Musei e archivi aiutano a documentare la conservazione del patrimonio."
+    },
+    {
+      "id": "it-society-c1-c2-089",
+      "word": "Musei e archivi aiutano a documentare il canone letterario.",
+      "translation": "Museums and archives help document literary canon.",
+      "example": "Musei e archivi aiutano a documentare il canone letterario."
+    },
+    {
+      "id": "it-society-c1-c2-090",
+      "word": "Musei e archivi aiutano a documentare i monumenti pubblici.",
+      "translation": "Museums and archives help document public monuments.",
+      "example": "Musei e archivi aiutano a documentare i monumenti pubblici."
+    },
+    {
+      "id": "it-society-c1-c2-091",
+      "word": "I confronti internazionali arricchiscono la nostra comprensione di l'identità collettiva.",
+      "translation": "International comparisons enrich our understanding of collective identity.",
+      "example": "I confronti internazionali arricchiscono la nostra comprensione di l'identità collettiva."
+    },
+    {
+      "id": "it-society-c1-c2-092",
+      "word": "I confronti internazionali arricchiscono la nostra comprensione di il patrimonio culturale.",
+      "translation": "International comparisons enrich our understanding of cultural heritage.",
+      "example": "I confronti internazionali arricchiscono la nostra comprensione di il patrimonio culturale."
+    },
+    {
+      "id": "it-society-c1-c2-093",
+      "word": "I confronti internazionali arricchiscono la nostra comprensione di la memoria storica.",
+      "translation": "International comparisons enrich our understanding of historical memory.",
+      "example": "I confronti internazionali arricchiscono la nostra comprensione di la memoria storica."
+    },
+    {
+      "id": "it-society-c1-c2-094",
+      "word": "I confronti internazionali arricchiscono la nostra comprensione di il cambiamento linguistico.",
+      "translation": "International comparisons enrich our understanding of language change.",
+      "example": "I confronti internazionali arricchiscono la nostra comprensione di il cambiamento linguistico."
+    },
+    {
+      "id": "it-society-c1-c2-095",
+      "word": "I confronti internazionali arricchiscono la nostra comprensione di i movimenti artistici.",
+      "translation": "International comparisons enrich our understanding of artistic movements.",
+      "example": "I confronti internazionali arricchiscono la nostra comprensione di i movimenti artistici."
+    },
+    {
+      "id": "it-society-c1-c2-096",
+      "word": "I confronti internazionali arricchiscono la nostra comprensione di la tradizione orale.",
+      "translation": "International comparisons enrich our understanding of oral tradition.",
+      "example": "I confronti internazionali arricchiscono la nostra comprensione di la tradizione orale."
+    },
+    {
+      "id": "it-society-c1-c2-097",
+      "word": "I confronti internazionali arricchiscono la nostra comprensione di lo scambio culturale.",
+      "translation": "International comparisons enrich our understanding of cultural exchange.",
+      "example": "I confronti internazionali arricchiscono la nostra comprensione di lo scambio culturale."
+    },
+    {
+      "id": "it-society-c1-c2-098",
+      "word": "I confronti internazionali arricchiscono la nostra comprensione di la conservazione del patrimonio.",
+      "translation": "International comparisons enrich our understanding of heritage preservation.",
+      "example": "I confronti internazionali arricchiscono la nostra comprensione di la conservazione del patrimonio."
+    },
+    {
+      "id": "it-society-c1-c2-099",
+      "word": "I confronti internazionali arricchiscono la nostra comprensione di il canone letterario.",
+      "translation": "International comparisons enrich our understanding of literary canon.",
+      "example": "I confronti internazionali arricchiscono la nostra comprensione di il canone letterario."
+    },
+    {
+      "id": "it-society-c1-c2-100",
+      "word": "I confronti internazionali arricchiscono la nostra comprensione di i monumenti pubblici.",
+      "translation": "International comparisons enrich our understanding of public monuments.",
+      "example": "I confronti internazionali arricchiscono la nostra comprensione di i monumenti pubblici."
+    }
+  ]
+}
