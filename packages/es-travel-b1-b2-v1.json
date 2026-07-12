@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-travel-b1-b2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "travel",
+  "categoryTitle": "Travel & Transport",
+  "title": "Travel & Transport",
+  "level": "B1-B2",
+  "emoji": "🧳",
+  "description": "Handle disruptions, bookings, transport choices, and detailed travel plans.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-travel-b1-b2-001",
+      "word": "Necesito cambiar el vuelo.",
+      "translation": "I need to change the flight.",
+      "example": "Necesito cambiar el vuelo."
+    },
+    {
+      "id": "es-travel-b1-b2-002",
+      "word": "Necesito cambiar el viaje en tren.",
+      "translation": "I need to change the train journey.",
+      "example": "Necesito cambiar el viaje en tren."
+    },
+    {
+      "id": "es-travel-b1-b2-003",
+      "word": "Necesito cambiar el servicio de autocar.",
+      "translation": "I need to change the coach service.",
+      "example": "Necesito cambiar el servicio de autocar."
+    },
+    {
+      "id": "es-travel-b1-b2-004",
+      "word": "Necesito cambiar la travesía en ferry.",
+      "translation": "I need to change the ferry crossing.",
+      "example": "Necesito cambiar la travesía en ferry."
+    },
+    {
+      "id": "es-travel-b1-b2-005",
+      "word": "Necesito cambiar la reserva del hotel.",
+      "translation": "I need to change the hotel reservation.",
+      "example": "Necesito cambiar la reserva del hotel."
+    },
+    {
+      "id": "es-travel-b1-b2-006",
+      "word": "Necesito cambiar el equipaje facturado.",
+      "translation": "I need to change the checked luggage.",
+      "example": "Necesito cambiar el equipaje facturado."
+    },
+    {
+      "id": "es-travel-b1-b2-007",
+      "word": "Necesito cambiar el coche de alquiler.",
+      "translation": "I need to change the rental car.",
+      "example": "Necesito cambiar el coche de alquiler."
+    },
+    {
+      "id": "es-travel-b1-b2-008",
+      "word": "Necesito cambiar el seguro de viaje.",
+      "translation": "I need to change the travel insurance.",
+      "example": "Necesito cambiar el seguro de viaje."
+    },
+    {
+      "id": "es-travel-b1-b2-009",
+      "word": "Necesito cambiar la visita guiada.",
+      "translation": "I need to change the guided tour.",
+      "example": "Necesito cambiar la visita guiada."
+    },
+    {
+      "id": "es-travel-b1-b2-010",
+      "word": "Necesito cambiar el enlace de transporte.",
+      "translation": "I need to change the connecting service.",
+      "example": "Necesito cambiar el enlace de transporte."
+    },
+    {
+      "id": "es-travel-b1-b2-011",
+      "word": "¿Podría confirmar el vuelo?",
+      "translation": "Could you confirm the flight?",
+      "example": "¿Podría confirmar el vuelo?"
+    },
+    {
+      "id": "es-travel-b1-b2-012",
+      "word": "¿Podría confirmar el viaje en tren?",
+      "translation": "Could you confirm the train journey?",
+      "example": "¿Podría confirmar el viaje en tren?"
+    },
+    {
+      "id": "es-travel-b1-b2-013",
+      "word": "¿Podría confirmar el servicio de autocar?",
+      "translation": "Could you confirm the coach service?",
+      "example": "¿Podría confirmar el servicio de autocar?"
+    },
+    {
+      "id": "es-travel-b1-b2-014",
+      "word": "¿Podría confirmar la travesía en ferry?",
+      "translation": "Could you confirm the ferry crossing?",
+      "example": "¿Podría confirmar la travesía en ferry?"
+    },
+    {
+      "id": "es-travel-b1-b2-015",
+      "word": "¿Podría confirmar la reserva del hotel?",
+      "translation": "Could you confirm the hotel reservation?",
+      "example": "¿Podría confirmar la reserva del hotel?"
+    },
+    {
+      "id": "es-travel-b1-b2-016",
+      "word": "¿Podría confirmar el equipaje facturado?",
+      "translation": "Could you confirm the checked luggage?",
+      "example": "¿Podría confirmar el equipaje facturado?"
+    },
+    {
+      "id": "es-travel-b1-b2-017",
+      "word": "¿Podría confirmar el coche de alquiler?",
+      "translation": "Could you confirm the rental car?",
+      "example": "¿Podría confirmar el coche de alquiler?"
+    },
+    {
+      "id": "es-travel-b1-b2-018",
+      "word": "¿Podría confirmar el seguro de viaje?",
+      "translation": "Could you confirm the travel insurance?",
+      "example": "¿Podría confirmar el seguro de viaje?"
+    },
+    {
+      "id": "es-travel-b1-b2-019",
+      "word": "¿Podría confirmar la visita guiada?",
+      "translation": "Could you confirm the guided tour?",
+      "example": "¿Podría confirmar la visita guiada?"
+    },
+    {
+      "id": "es-travel-b1-b2-020",
+      "word": "¿Podría confirmar el enlace de transporte?",
+      "translation": "Could you confirm the connecting service?",
+      "example": "¿Podría confirmar el enlace de transporte?"
+    },
+    {
+      "id": "es-travel-b1-b2-021",
+      "word": "Parece que hay un problema con el vuelo.",
+      "translation": "There seems to be a problem with the flight.",
+      "example": "Parece que hay un problema con el vuelo."
+    },
+    {
+      "id": "es-travel-b1-b2-022",
+      "word": "Parece que hay un problema con el viaje en tren.",
+      "translation": "There seems to be a problem with the train journey.",
+      "example": "Parece que hay un problema con el viaje en tren."
+    },
+    {
+      "id": "es-travel-b1-b2-023",
+      "word": "Parece que hay un problema con el servicio de autocar.",
+      "translation": "There seems to be a problem with the coach service.",
+      "example": "Parece que hay un problema con el servicio de autocar."
+    },
+    {
+      "id": "es-travel-b1-b2-024",
+      "word": "Parece que hay un problema con la travesía en ferry.",
+      "translation": "There seems to be a problem with the ferry crossing.",
+      "example": "Parece que hay un problema con la travesía en ferry."
+    },
+    {
+      "id": "es-travel-b1-b2-025",
+      "word": "Parece que hay un problema con la reserva del hotel.",
+      "translation": "There seems to be a problem with the hotel reservation.",
+      "example": "Parece que hay un problema con la reserva del hotel."
+    },
+    {
+      "id": "es-travel-b1-b2-026",
+      "word": "Parece que hay un problema con el equipaje facturado.",
+      "translation": "There seems to be a problem with the checked luggage.",
+      "example": "Parece que hay un problema con el equipaje facturado."
+    },
+    {
+      "id": "es-travel-b1-b2-027",
+      "word": "Parece que hay un problema con el coche de alquiler.",
+      "translation": "There seems to be a problem with the rental car.",
+      "example": "Parece que hay un problema con el coche de alquiler."
+    },
+    {
+      "id": "es-travel-b1-b2-028",
+      "word": "Parece que hay un problema con el seguro de viaje.",
+      "translation": "There seems to be a problem with the travel insurance.",
+      "example": "Parece que hay un problema con el seguro de viaje."
+    },
+    {
+      "id": "es-travel-b1-b2-029",
+      "word": "Parece que hay un problema con la visita guiada.",
+      "translation": "There seems to be a problem with the guided tour.",
+      "example": "Parece que hay un problema con la visita guiada."
+    },
+    {
+      "id": "es-travel-b1-b2-030",
+      "word": "Parece que hay un problema con el enlace de transporte.",
+      "translation": "There seems to be a problem with the connecting service.",
+      "example": "Parece que hay un problema con el enlace de transporte."
+    },
+    {
+      "id": "es-travel-b1-b2-031",
+      "word": "¿Se puede obtener un reembolso por el vuelo?",
+      "translation": "Is a refund available for the flight?",
+      "example": "¿Se puede obtener un reembolso por el vuelo?"
+    },
+    {
+      "id": "es-travel-b1-b2-032",
+      "word": "¿Se puede obtener un reembolso por el viaje en tren?",
+      "translation": "Is a refund available for the train journey?",
+      "example": "¿Se puede obtener un reembolso por el viaje en tren?"
+    },
+    {
+      "id": "es-travel-b1-b2-033",
+      "word": "¿Se puede obtener un reembolso por el servicio de autocar?",
+      "translation": "Is a refund available for the coach service?",
+      "example": "¿Se puede obtener un reembolso por el servicio de autocar?"
+    },
+    {
+      "id": "es-travel-b1-b2-034",
+      "word": "¿Se puede obtener un reembolso por la travesía en ferry?",
+      "translation": "Is a refund available for the ferry crossing?",
+      "example": "¿Se puede obtener un reembolso por la travesía en ferry?"
+    },
+    {
+      "id": "es-travel-b1-b2-035",
+      "word": "¿Se puede obtener un reembolso por la reserva del hotel?",
+      "translation": "Is a refund available for the hotel reservation?",
+      "example": "¿Se puede obtener un reembolso por la reserva del hotel?"
+    },
+    {
+      "id": "es-travel-b1-b2-036",
+      "word": "¿Se puede obtener un reembolso por el equipaje facturado?",
+      "translation": "Is a refund available for the checked luggage?",
+      "example": "¿Se puede obtener un reembolso por el equipaje facturado?"
+    },
+    {
+      "id": "es-travel-b1-b2-037",
+      "word": "¿Se puede obtener un reembolso por el coche de alquiler?",
+      "translation": "Is a refund available for the rental car?",
+      "example": "¿Se puede obtener un reembolso por el coche de alquiler?"
+    },
+    {
+      "id": "es-travel-b1-b2-038",
+      "word": "¿Se puede obtener un reembolso por el seguro de viaje?",
+      "translation": "Is a refund available for the travel insurance?",
+      "example": "¿Se puede obtener un reembolso por el seguro de viaje?"
+    },
+    {
+      "id": "es-travel-b1-b2-039",
+      "word": "¿Se puede obtener un reembolso por la visita guiada?",
+      "translation": "Is a refund available for the guided tour?",
+      "example": "¿Se puede obtener un reembolso por la visita guiada?"
+    },
+    {
+      "id": "es-travel-b1-b2-040",
+      "word": "¿Se puede obtener un reembolso por el enlace de transporte?",
+      "translation": "Is a refund available for the connecting service?",
+      "example": "¿Se puede obtener un reembolso por el enlace de transporte?"
+    },
+    {
+      "id": "es-travel-b1-b2-041",
+      "word": "Nos retrasamos debido a el vuelo.",
+      "translation": "We were delayed because of the flight.",
+      "example": "Nos retrasamos debido a el vuelo."
+    },
+    {
+      "id": "es-travel-b1-b2-042",
+      "word": "Nos retrasamos debido a el viaje en tren.",
+      "translation": "We were delayed because of the train journey.",
+      "example": "Nos retrasamos debido a el viaje en tren."
+    },
+    {
+      "id": "es-travel-b1-b2-043",
+      "word": "Nos retrasamos debido a el servicio de autocar.",
+      "translation": "We were delayed because of the coach service.",
+      "example": "Nos retrasamos debido a el servicio de autocar."
+    },
+    {
+      "id": "es-travel-b1-b2-044",
+      "word": "Nos retrasamos debido a la travesía en ferry.",
+      "translation": "We were delayed because of the ferry crossing.",
+      "example": "Nos retrasamos debido a la travesía en ferry."
+    },
+    {
+      "id": "es-travel-b1-b2-045",
+      "word": "Nos retrasamos debido a la reserva del hotel.",
+      "translation": "We were delayed because of the hotel reservation.",
+      "example": "Nos retrasamos debido a la reserva del hotel."
+    },
+    {
+      "id": "es-travel-b1-b2-046",
+      "word": "Nos retrasamos debido a el equipaje facturado.",
+      "translation": "We were delayed because of the checked luggage.",
+      "example": "Nos retrasamos debido a el equipaje facturado."
+    },
+    {
+      "id": "es-travel-b1-b2-047",
+      "word": "Nos retrasamos debido a el coche de alquiler.",
+      "translation": "We were delayed because of the rental car.",
+      "example": "Nos retrasamos debido a el coche de alquiler."
+    },
+    {
+      "id": "es-travel-b1-b2-048",
+      "word": "Nos retrasamos debido a el seguro de viaje.",
+      "translation": "We were delayed because of the travel insurance.",
+      "example": "Nos retrasamos debido a el seguro de viaje."
+    },
+    {
+      "id": "es-travel-b1-b2-049",
+      "word": "Nos retrasamos debido a la visita guiada.",
+      "translation": "We were delayed because of the guided tour.",
+      "example": "Nos retrasamos debido a la visita guiada."
+    },
+    {
+      "id": "es-travel-b1-b2-050",
+      "word": "Nos retrasamos debido a el enlace de transporte.",
+      "translation": "We were delayed because of the connecting service.",
+      "example": "Nos retrasamos debido a el enlace de transporte."
+    },
+    {
+      "id": "es-travel-b1-b2-051",
+      "word": "¿Qué alternativas hay a el vuelo?",
+      "translation": "What alternatives are there to the flight?",
+      "example": "¿Qué alternativas hay a el vuelo?"
+    },
+    {
+      "id": "es-travel-b1-b2-052",
+      "word": "¿Qué alternativas hay a el viaje en tren?",
+      "translation": "What alternatives are there to the train journey?",
+      "example": "¿Qué alternativas hay a el viaje en tren?"
+    },
+    {
+      "id": "es-travel-b1-b2-053",
+      "word": "¿Qué alternativas hay a el servicio de autocar?",
+      "translation": "What alternatives are there to the coach service?",
+      "example": "¿Qué alternativas hay a el servicio de autocar?"
+    },
+    {
+      "id": "es-travel-b1-b2-054",
+      "word": "¿Qué alternativas hay a la travesía en ferry?",
+      "translation": "What alternatives are there to the ferry crossing?",
+      "example": "¿Qué alternativas hay a la travesía en ferry?"
+    },
+    {
+      "id": "es-travel-b1-b2-055",
+      "word": "¿Qué alternativas hay a la reserva del hotel?",
+      "translation": "What alternatives are there to the hotel reservation?",
+      "example": "¿Qué alternativas hay a la reserva del hotel?"
+    },
+    {
+      "id": "es-travel-b1-b2-056",
+      "word": "¿Qué alternativas hay a el equipaje facturado?",
+      "translation": "What alternatives are there to the checked luggage?",
+      "example": "¿Qué alternativas hay a el equipaje facturado?"
+    },
+    {
+      "id": "es-travel-b1-b2-057",
+      "word": "¿Qué alternativas hay a el coche de alquiler?",
+      "translation": "What alternatives are there to the rental car?",
+      "example": "¿Qué alternativas hay a el coche de alquiler?"
+    },
+    {
+      "id": "es-travel-b1-b2-058",
+      "word": "¿Qué alternativas hay a el seguro de viaje?",
+      "translation": "What alternatives are there to the travel insurance?",
+      "example": "¿Qué alternativas hay a el seguro de viaje?"
+    },
+    {
+      "id": "es-travel-b1-b2-059",
+      "word": "¿Qué alternativas hay a la visita guiada?",
+      "translation": "What alternatives are there to the guided tour?",
+      "example": "¿Qué alternativas hay a la visita guiada?"
+    },
+    {
+      "id": "es-travel-b1-b2-060",
+      "word": "¿Qué alternativas hay a el enlace de transporte?",
+      "translation": "What alternatives are there to the connecting service?",
+      "example": "¿Qué alternativas hay a el enlace de transporte?"
+    },
+    {
+      "id": "es-travel-b1-b2-061",
+      "word": "El precio de el vuelo incluye todas las tasas.",
+      "translation": "The price of the flight includes all fees.",
+      "example": "El precio de el vuelo incluye todas las tasas."
+    },
+    {
+      "id": "es-travel-b1-b2-062",
+      "word": "El precio de el viaje en tren incluye todas las tasas.",
+      "translation": "The price of the train journey includes all fees.",
+      "example": "El precio de el viaje en tren incluye todas las tasas."
+    },
+    {
+      "id": "es-travel-b1-b2-063",
+      "word": "El precio de el servicio de autocar incluye todas las tasas.",
+      "translation": "The price of the coach service includes all fees.",
+      "example": "El precio de el servicio de autocar incluye todas las tasas."
+    },
+    {
+      "id": "es-travel-b1-b2-064",
+      "word": "El precio de la travesía en ferry incluye todas las tasas.",
+      "translation": "The price of the ferry crossing includes all fees.",
+      "example": "El precio de la travesía en ferry incluye todas las tasas."
+    },
+    {
+      "id": "es-travel-b1-b2-065",
+      "word": "El precio de la reserva del hotel incluye todas las tasas.",
+      "translation": "The price of the hotel reservation includes all fees.",
+      "example": "El precio de la reserva del hotel incluye todas las tasas."
+    },
+    {
+      "id": "es-travel-b1-b2-066",
+      "word": "El precio de el equipaje facturado incluye todas las tasas.",
+      "translation": "The price of the checked luggage includes all fees.",
+      "example": "El precio de el equipaje facturado incluye todas las tasas."
+    },
+    {
+      "id": "es-travel-b1-b2-067",
+      "word": "El precio de el coche de alquiler incluye todas las tasas.",
+      "translation": "The price of the rental car includes all fees.",
+      "example": "El precio de el coche de alquiler incluye todas las tasas."
+    },
+    {
+      "id": "es-travel-b1-b2-068",
+      "word": "El precio de el seguro de viaje incluye todas las tasas.",
+      "translation": "The price of the travel insurance includes all fees.",
+      "example": "El precio de el seguro de viaje incluye todas las tasas."
+    },
+    {
+      "id": "es-travel-b1-b2-069",
+      "word": "El precio de la visita guiada incluye todas las tasas.",
+      "translation": "The price of the guided tour includes all fees.",
+      "example": "El precio de la visita guiada incluye todas las tasas."
+    },
+    {
+      "id": "es-travel-b1-b2-070",
+      "word": "El precio de el enlace de transporte incluye todas las tasas.",
+      "translation": "The price of the connecting service includes all fees.",
+      "example": "El precio de el enlace de transporte incluye todas las tasas."
+    },
+    {
+      "id": "es-travel-b1-b2-071",
+      "word": "Reservé el vuelo con antelación.",
+      "translation": "I booked the flight in advance.",
+      "example": "Reservé el vuelo con antelación."
+    },
+    {
+      "id": "es-travel-b1-b2-072",
+      "word": "Reservé el viaje en tren con antelación.",
+      "translation": "I booked the train journey in advance.",
+      "example": "Reservé el viaje en tren con antelación."
+    },
+    {
+      "id": "es-travel-b1-b2-073",
+      "word": "Reservé el servicio de autocar con antelación.",
+      "translation": "I booked the coach service in advance.",
+      "example": "Reservé el servicio de autocar con antelación."
+    },
+    {
+      "id": "es-travel-b1-b2-074",
+      "word": "Reservé la travesía en ferry con antelación.",
+      "translation": "I booked the ferry crossing in advance.",
+      "example": "Reservé la travesía en ferry con antelación."
+    },
+    {
+      "id": "es-travel-b1-b2-075",
+      "word": "Reservé la reserva del hotel con antelación.",
+      "translation": "I booked the hotel reservation in advance.",
+      "example": "Reservé la reserva del hotel con antelación."
+    },
+    {
+      "id": "es-travel-b1-b2-076",
+      "word": "Reservé el equipaje facturado con antelación.",
+      "translation": "I booked the checked luggage in advance.",
+      "example": "Reservé el equipaje facturado con antelación."
+    },
+    {
+      "id": "es-travel-b1-b2-077",
+      "word": "Reservé el coche de alquiler con antelación.",
+      "translation": "I booked the rental car in advance.",
+      "example": "Reservé el coche de alquiler con antelación."
+    },
+    {
+      "id": "es-travel-b1-b2-078",
+      "word": "Reservé el seguro de viaje con antelación.",
+      "translation": "I booked the travel insurance in advance.",
+      "example": "Reservé el seguro de viaje con antelación."
+    },
+    {
+      "id": "es-travel-b1-b2-079",
+      "word": "Reservé la visita guiada con antelación.",
+      "translation": "I booked the guided tour in advance.",
+      "example": "Reservé la visita guiada con antelación."
+    },
+    {
+      "id": "es-travel-b1-b2-080",
+      "word": "Reservé el enlace de transporte con antelación.",
+      "translation": "I booked the connecting service in advance.",
+      "example": "Reservé el enlace de transporte con antelación."
+    },
+    {
+      "id": "es-travel-b1-b2-081",
+      "word": "¿Podría explicar las condiciones de el vuelo?",
+      "translation": "Could you explain the conditions for the flight?",
+      "example": "¿Podría explicar las condiciones de el vuelo?"
+    },
+    {
+      "id": "es-travel-b1-b2-082",
+      "word": "¿Podría explicar las condiciones de el viaje en tren?",
+      "translation": "Could you explain the conditions for the train journey?",
+      "example": "¿Podría explicar las condiciones de el viaje en tren?"
+    },
+    {
+      "id": "es-travel-b1-b2-083",
+      "word": "¿Podría explicar las condiciones de el servicio de autocar?",
+      "translation": "Could you explain the conditions for the coach service?",
+      "example": "¿Podría explicar las condiciones de el servicio de autocar?"
+    },
+    {
+      "id": "es-travel-b1-b2-084",
+      "word": "¿Podría explicar las condiciones de la travesía en ferry?",
+      "translation": "Could you explain the conditions for the ferry crossing?",
+      "example": "¿Podría explicar las condiciones de la travesía en ferry?"
+    },
+    {
+      "id": "es-travel-b1-b2-085",
+      "word": "¿Podría explicar las condiciones de la reserva del hotel?",
+      "translation": "Could you explain the conditions for the hotel reservation?",
+      "example": "¿Podría explicar las condiciones de la reserva del hotel?"
+    },
+    {
+      "id": "es-travel-b1-b2-086",
+      "word": "¿Podría explicar las condiciones de el equipaje facturado?",
+      "translation": "Could you explain the conditions for the checked luggage?",
+      "example": "¿Podría explicar las condiciones de el equipaje facturado?"
+    },
+    {
+      "id": "es-travel-b1-b2-087",
+      "word": "¿Podría explicar las condiciones de el coche de alquiler?",
+      "translation": "Could you explain the conditions for the rental car?",
+      "example": "¿Podría explicar las condiciones de el coche de alquiler?"
+    },
+    {
+      "id": "es-travel-b1-b2-088",
+      "word": "¿Podría explicar las condiciones de el seguro de viaje?",
+      "translation": "Could you explain the conditions for the travel insurance?",
+      "example": "¿Podría explicar las condiciones de el seguro de viaje?"
+    },
+    {
+      "id": "es-travel-b1-b2-089",
+      "word": "¿Podría explicar las condiciones de la visita guiada?",
+      "translation": "Could you explain the conditions for the guided tour?",
+      "example": "¿Podría explicar las condiciones de la visita guiada?"
+    },
+    {
+      "id": "es-travel-b1-b2-090",
+      "word": "¿Podría explicar las condiciones de el enlace de transporte?",
+      "translation": "Could you explain the conditions for the connecting service?",
+      "example": "¿Podría explicar las condiciones de el enlace de transporte?"
+    },
+    {
+      "id": "es-travel-b1-b2-091",
+      "word": "Necesitamos confirmación por escrito de el vuelo.",
+      "translation": "We need written confirmation of the flight.",
+      "example": "Necesitamos confirmación por escrito de el vuelo."
+    },
+    {
+      "id": "es-travel-b1-b2-092",
+      "word": "Necesitamos confirmación por escrito de el viaje en tren.",
+      "translation": "We need written confirmation of the train journey.",
+      "example": "Necesitamos confirmación por escrito de el viaje en tren."
+    },
+    {
+      "id": "es-travel-b1-b2-093",
+      "word": "Necesitamos confirmación por escrito de el servicio de autocar.",
+      "translation": "We need written confirmation of the coach service.",
+      "example": "Necesitamos confirmación por escrito de el servicio de autocar."
+    },
+    {
+      "id": "es-travel-b1-b2-094",
+      "word": "Necesitamos confirmación por escrito de la travesía en ferry.",
+      "translation": "We need written confirmation of the ferry crossing.",
+      "example": "Necesitamos confirmación por escrito de la travesía en ferry."
+    },
+    {
+      "id": "es-travel-b1-b2-095",
+      "word": "Necesitamos confirmación por escrito de la reserva del hotel.",
+      "translation": "We need written confirmation of the hotel reservation.",
+      "example": "Necesitamos confirmación por escrito de la reserva del hotel."
+    },
+    {
+      "id": "es-travel-b1-b2-096",
+      "word": "Necesitamos confirmación por escrito de el equipaje facturado.",
+      "translation": "We need written confirmation of the checked luggage.",
+      "example": "Necesitamos confirmación por escrito de el equipaje facturado."
+    },
+    {
+      "id": "es-travel-b1-b2-097",
+      "word": "Necesitamos confirmación por escrito de el coche de alquiler.",
+      "translation": "We need written confirmation of the rental car.",
+      "example": "Necesitamos confirmación por escrito de el coche de alquiler."
+    },
+    {
+      "id": "es-travel-b1-b2-098",
+      "word": "Necesitamos confirmación por escrito de el seguro de viaje.",
+      "translation": "We need written confirmation of the travel insurance.",
+      "example": "Necesitamos confirmación por escrito de el seguro de viaje."
+    },
+    {
+      "id": "es-travel-b1-b2-099",
+      "word": "Necesitamos confirmación por escrito de la visita guiada.",
+      "translation": "We need written confirmation of the guided tour.",
+      "example": "Necesitamos confirmación por escrito de la visita guiada."
+    },
+    {
+      "id": "es-travel-b1-b2-100",
+      "word": "Necesitamos confirmación por escrito de el enlace de transporte.",
+      "translation": "We need written confirmation of the connecting service.",
+      "example": "Necesitamos confirmación por escrito de el enlace de transporte."
+    }
+  ]
+}
