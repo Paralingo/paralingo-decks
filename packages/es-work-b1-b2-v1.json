@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-work-b1-b2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "work",
+  "categoryTitle": "Work & Careers",
+  "title": "Work & Careers",
+  "level": "B1-B2",
+  "emoji": "💼",
+  "description": "Handle applications, interviews, projects, feedback, workplace communication, and professional development.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-work-b1-b2-001",
+      "word": "Me gustaría hablar de la solicitud de empleo.",
+      "translation": "I would like to discuss the job application.",
+      "example": "Me gustaría hablar de la solicitud de empleo."
+    },
+    {
+      "id": "es-work-b1-b2-002",
+      "word": "Me gustaría hablar de el contrato de trabajo.",
+      "translation": "I would like to discuss the employment contract.",
+      "example": "Me gustaría hablar de el contrato de trabajo."
+    },
+    {
+      "id": "es-work-b1-b2-003",
+      "word": "Me gustaría hablar de la evaluación del desempeño.",
+      "translation": "I would like to discuss the performance review.",
+      "example": "Me gustaría hablar de la evaluación del desempeño."
+    },
+    {
+      "id": "es-work-b1-b2-004",
+      "word": "Me gustaría hablar de el plazo del proyecto.",
+      "translation": "I would like to discuss the project deadline.",
+      "example": "Me gustaría hablar de el plazo del proyecto."
+    },
+    {
+      "id": "es-work-b1-b2-005",
+      "word": "Me gustaría hablar de el programa de formación.",
+      "translation": "I would like to discuss the training programme.",
+      "example": "Me gustaría hablar de el programa de formación."
+    },
+    {
+      "id": "es-work-b1-b2-006",
+      "word": "Me gustaría hablar de la negociación salarial.",
+      "translation": "I would like to discuss the salary negotiation.",
+      "example": "Me gustaría hablar de la negociación salarial."
+    },
+    {
+      "id": "es-work-b1-b2-007",
+      "word": "Me gustaría hablar de la política de teletrabajo.",
+      "translation": "I would like to discuss the remote-work policy.",
+      "example": "Me gustaría hablar de la política de teletrabajo."
+    },
+    {
+      "id": "es-work-b1-b2-008",
+      "word": "Me gustaría hablar de la oportunidad de ascenso.",
+      "translation": "I would like to discuss the promotion opportunity.",
+      "example": "Me gustaría hablar de la oportunidad de ascenso."
+    },
+    {
+      "id": "es-work-b1-b2-009",
+      "word": "Me gustaría hablar de la presentación al cliente.",
+      "translation": "I would like to discuss the client presentation.",
+      "example": "Me gustaría hablar de la presentación al cliente."
+    },
+    {
+      "id": "es-work-b1-b2-010",
+      "word": "Me gustaría hablar de los comentarios constructivos.",
+      "translation": "I would like to discuss the constructive feedback.",
+      "example": "Me gustaría hablar de los comentarios constructivos."
+    },
+    {
+      "id": "es-work-b1-b2-011",
+      "word": "¿Podría confirmar los detalles de la solicitud de empleo?",
+      "translation": "Could you confirm the details of the job application?",
+      "example": "¿Podría confirmar los detalles de la solicitud de empleo?"
+    },
+    {
+      "id": "es-work-b1-b2-012",
+      "word": "¿Podría confirmar los detalles de el contrato de trabajo?",
+      "translation": "Could you confirm the details of the employment contract?",
+      "example": "¿Podría confirmar los detalles de el contrato de trabajo?"
+    },
+    {
+      "id": "es-work-b1-b2-013",
+      "word": "¿Podría confirmar los detalles de la evaluación del desempeño?",
+      "translation": "Could you confirm the details of the performance review?",
+      "example": "¿Podría confirmar los detalles de la evaluación del desempeño?"
+    },
+    {
+      "id": "es-work-b1-b2-014",
+      "word": "¿Podría confirmar los detalles de el plazo del proyecto?",
+      "translation": "Could you confirm the details of the project deadline?",
+      "example": "¿Podría confirmar los detalles de el plazo del proyecto?"
+    },
+    {
+      "id": "es-work-b1-b2-015",
+      "word": "¿Podría confirmar los detalles de el programa de formación?",
+      "translation": "Could you confirm the details of the training programme?",
+      "example": "¿Podría confirmar los detalles de el programa de formación?"
+    },
+    {
+      "id": "es-work-b1-b2-016",
+      "word": "¿Podría confirmar los detalles de la negociación salarial?",
+      "translation": "Could you confirm the details of the salary negotiation?",
+      "example": "¿Podría confirmar los detalles de la negociación salarial?"
+    },
+    {
+      "id": "es-work-b1-b2-017",
+      "word": "¿Podría confirmar los detalles de la política de teletrabajo?",
+      "translation": "Could you confirm the details of the remote-work policy?",
+      "example": "¿Podría confirmar los detalles de la política de teletrabajo?"
+    },
+    {
+      "id": "es-work-b1-b2-018",
+      "word": "¿Podría confirmar los detalles de la oportunidad de ascenso?",
+      "translation": "Could you confirm the details of the promotion opportunity?",
+      "example": "¿Podría confirmar los detalles de la oportunidad de ascenso?"
+    },
+    {
+      "id": "es-work-b1-b2-019",
+      "word": "¿Podría confirmar los detalles de la presentación al cliente?",
+      "translation": "Could you confirm the details of the client presentation?",
+      "example": "¿Podría confirmar los detalles de la presentación al cliente?"
+    },
+    {
+      "id": "es-work-b1-b2-020",
+      "word": "¿Podría confirmar los detalles de los comentarios constructivos?",
+      "translation": "Could you confirm the details of the constructive feedback?",
+      "example": "¿Podría confirmar los detalles de los comentarios constructivos?"
+    },
+    {
+      "id": "es-work-b1-b2-021",
+      "word": "Tenemos que prepararnos bien para la solicitud de empleo.",
+      "translation": "We need to prepare carefully for the job application.",
+      "example": "Tenemos que prepararnos bien para la solicitud de empleo."
+    },
+    {
+      "id": "es-work-b1-b2-022",
+      "word": "Tenemos que prepararnos bien para el contrato de trabajo.",
+      "translation": "We need to prepare carefully for the employment contract.",
+      "example": "Tenemos que prepararnos bien para el contrato de trabajo."
+    },
+    {
+      "id": "es-work-b1-b2-023",
+      "word": "Tenemos que prepararnos bien para la evaluación del desempeño.",
+      "translation": "We need to prepare carefully for the performance review.",
+      "example": "Tenemos que prepararnos bien para la evaluación del desempeño."
+    },
+    {
+      "id": "es-work-b1-b2-024",
+      "word": "Tenemos que prepararnos bien para el plazo del proyecto.",
+      "translation": "We need to prepare carefully for the project deadline.",
+      "example": "Tenemos que prepararnos bien para el plazo del proyecto."
+    },
+    {
+      "id": "es-work-b1-b2-025",
+      "word": "Tenemos que prepararnos bien para el programa de formación.",
+      "translation": "We need to prepare carefully for the training programme.",
+      "example": "Tenemos que prepararnos bien para el programa de formación."
+    },
+    {
+      "id": "es-work-b1-b2-026",
+      "word": "Tenemos que prepararnos bien para la negociación salarial.",
+      "translation": "We need to prepare carefully for the salary negotiation.",
+      "example": "Tenemos que prepararnos bien para la negociación salarial."
+    },
+    {
+      "id": "es-work-b1-b2-027",
+      "word": "Tenemos que prepararnos bien para la política de teletrabajo.",
+      "translation": "We need to prepare carefully for the remote-work policy.",
+      "example": "Tenemos que prepararnos bien para la política de teletrabajo."
+    },
+    {
+      "id": "es-work-b1-b2-028",
+      "word": "Tenemos que prepararnos bien para la oportunidad de ascenso.",
+      "translation": "We need to prepare carefully for the promotion opportunity.",
+      "example": "Tenemos que prepararnos bien para la oportunidad de ascenso."
+    },
+    {
+      "id": "es-work-b1-b2-029",
+      "word": "Tenemos que prepararnos bien para la presentación al cliente.",
+      "translation": "We need to prepare carefully for the client presentation.",
+      "example": "Tenemos que prepararnos bien para la presentación al cliente."
+    },
+    {
+      "id": "es-work-b1-b2-030",
+      "word": "Tenemos que prepararnos bien para los comentarios constructivos.",
+      "translation": "We need to prepare carefully for the constructive feedback.",
+      "example": "Tenemos que prepararnos bien para los comentarios constructivos."
+    },
+    {
+      "id": "es-work-b1-b2-031",
+      "word": "El gerente nos orientó sobre la solicitud de empleo.",
+      "translation": "The manager gave us guidance on the job application.",
+      "example": "El gerente nos orientó sobre la solicitud de empleo."
+    },
+    {
+      "id": "es-work-b1-b2-032",
+      "word": "El gerente nos orientó sobre el contrato de trabajo.",
+      "translation": "The manager gave us guidance on the employment contract.",
+      "example": "El gerente nos orientó sobre el contrato de trabajo."
+    },
+    {
+      "id": "es-work-b1-b2-033",
+      "word": "El gerente nos orientó sobre la evaluación del desempeño.",
+      "translation": "The manager gave us guidance on the performance review.",
+      "example": "El gerente nos orientó sobre la evaluación del desempeño."
+    },
+    {
+      "id": "es-work-b1-b2-034",
+      "word": "El gerente nos orientó sobre el plazo del proyecto.",
+      "translation": "The manager gave us guidance on the project deadline.",
+      "example": "El gerente nos orientó sobre el plazo del proyecto."
+    },
+    {
+      "id": "es-work-b1-b2-035",
+      "word": "El gerente nos orientó sobre el programa de formación.",
+      "translation": "The manager gave us guidance on the training programme.",
+      "example": "El gerente nos orientó sobre el programa de formación."
+    },
+    {
+      "id": "es-work-b1-b2-036",
+      "word": "El gerente nos orientó sobre la negociación salarial.",
+      "translation": "The manager gave us guidance on the salary negotiation.",
+      "example": "El gerente nos orientó sobre la negociación salarial."
+    },
+    {
+      "id": "es-work-b1-b2-037",
+      "word": "El gerente nos orientó sobre la política de teletrabajo.",
+      "translation": "The manager gave us guidance on the remote-work policy.",
+      "example": "El gerente nos orientó sobre la política de teletrabajo."
+    },
+    {
+      "id": "es-work-b1-b2-038",
+      "word": "El gerente nos orientó sobre la oportunidad de ascenso.",
+      "translation": "The manager gave us guidance on the promotion opportunity.",
+      "example": "El gerente nos orientó sobre la oportunidad de ascenso."
+    },
+    {
+      "id": "es-work-b1-b2-039",
+      "word": "El gerente nos orientó sobre la presentación al cliente.",
+      "translation": "The manager gave us guidance on the client presentation.",
+      "example": "El gerente nos orientó sobre la presentación al cliente."
+    },
+    {
+      "id": "es-work-b1-b2-040",
+      "word": "El gerente nos orientó sobre los comentarios constructivos.",
+      "translation": "The manager gave us guidance on the constructive feedback.",
+      "example": "El gerente nos orientó sobre los comentarios constructivos."
+    },
+    {
+      "id": "es-work-b1-b2-041",
+      "word": "Ha habido un retraso con la solicitud de empleo.",
+      "translation": "There has been a delay with the job application.",
+      "example": "Ha habido un retraso con la solicitud de empleo."
+    },
+    {
+      "id": "es-work-b1-b2-042",
+      "word": "Ha habido un retraso con el contrato de trabajo.",
+      "translation": "There has been a delay with the employment contract.",
+      "example": "Ha habido un retraso con el contrato de trabajo."
+    },
+    {
+      "id": "es-work-b1-b2-043",
+      "word": "Ha habido un retraso con la evaluación del desempeño.",
+      "translation": "There has been a delay with the performance review.",
+      "example": "Ha habido un retraso con la evaluación del desempeño."
+    },
+    {
+      "id": "es-work-b1-b2-044",
+      "word": "Ha habido un retraso con el plazo del proyecto.",
+      "translation": "There has been a delay with the project deadline.",
+      "example": "Ha habido un retraso con el plazo del proyecto."
+    },
+    {
+      "id": "es-work-b1-b2-045",
+      "word": "Ha habido un retraso con el programa de formación.",
+      "translation": "There has been a delay with the training programme.",
+      "example": "Ha habido un retraso con el programa de formación."
+    },
+    {
+      "id": "es-work-b1-b2-046",
+      "word": "Ha habido un retraso con la negociación salarial.",
+      "translation": "There has been a delay with the salary negotiation.",
+      "example": "Ha habido un retraso con la negociación salarial."
+    },
+    {
+      "id": "es-work-b1-b2-047",
+      "word": "Ha habido un retraso con la política de teletrabajo.",
+      "translation": "There has been a delay with the remote-work policy.",
+      "example": "Ha habido un retraso con la política de teletrabajo."
+    },
+    {
+      "id": "es-work-b1-b2-048",
+      "word": "Ha habido un retraso con la oportunidad de ascenso.",
+      "translation": "There has been a delay with the promotion opportunity.",
+      "example": "Ha habido un retraso con la oportunidad de ascenso."
+    },
+    {
+      "id": "es-work-b1-b2-049",
+      "word": "Ha habido un retraso con la presentación al cliente.",
+      "translation": "There has been a delay with the client presentation.",
+      "example": "Ha habido un retraso con la presentación al cliente."
+    },
+    {
+      "id": "es-work-b1-b2-050",
+      "word": "Ha habido un retraso con los comentarios constructivos.",
+      "translation": "There has been a delay with the constructive feedback.",
+      "example": "Ha habido un retraso con los comentarios constructivos."
+    },
+    {
+      "id": "es-work-b1-b2-051",
+      "word": "El equipo llegó a un acuerdo sobre la solicitud de empleo.",
+      "translation": "The team reached an agreement about the job application.",
+      "example": "El equipo llegó a un acuerdo sobre la solicitud de empleo."
+    },
+    {
+      "id": "es-work-b1-b2-052",
+      "word": "El equipo llegó a un acuerdo sobre el contrato de trabajo.",
+      "translation": "The team reached an agreement about the employment contract.",
+      "example": "El equipo llegó a un acuerdo sobre el contrato de trabajo."
+    },
+    {
+      "id": "es-work-b1-b2-053",
+      "word": "El equipo llegó a un acuerdo sobre la evaluación del desempeño.",
+      "translation": "The team reached an agreement about the performance review.",
+      "example": "El equipo llegó a un acuerdo sobre la evaluación del desempeño."
+    },
+    {
+      "id": "es-work-b1-b2-054",
+      "word": "El equipo llegó a un acuerdo sobre el plazo del proyecto.",
+      "translation": "The team reached an agreement about the project deadline.",
+      "example": "El equipo llegó a un acuerdo sobre el plazo del proyecto."
+    },
+    {
+      "id": "es-work-b1-b2-055",
+      "word": "El equipo llegó a un acuerdo sobre el programa de formación.",
+      "translation": "The team reached an agreement about the training programme.",
+      "example": "El equipo llegó a un acuerdo sobre el programa de formación."
+    },
+    {
+      "id": "es-work-b1-b2-056",
+      "word": "El equipo llegó a un acuerdo sobre la negociación salarial.",
+      "translation": "The team reached an agreement about the salary negotiation.",
+      "example": "El equipo llegó a un acuerdo sobre la negociación salarial."
+    },
+    {
+      "id": "es-work-b1-b2-057",
+      "word": "El equipo llegó a un acuerdo sobre la política de teletrabajo.",
+      "translation": "The team reached an agreement about the remote-work policy.",
+      "example": "El equipo llegó a un acuerdo sobre la política de teletrabajo."
+    },
+    {
+      "id": "es-work-b1-b2-058",
+      "word": "El equipo llegó a un acuerdo sobre la oportunidad de ascenso.",
+      "translation": "The team reached an agreement about the promotion opportunity.",
+      "example": "El equipo llegó a un acuerdo sobre la oportunidad de ascenso."
+    },
+    {
+      "id": "es-work-b1-b2-059",
+      "word": "El equipo llegó a un acuerdo sobre la presentación al cliente.",
+      "translation": "The team reached an agreement about the client presentation.",
+      "example": "El equipo llegó a un acuerdo sobre la presentación al cliente."
+    },
+    {
+      "id": "es-work-b1-b2-060",
+      "word": "El equipo llegó a un acuerdo sobre los comentarios constructivos.",
+      "translation": "The team reached an agreement about the constructive feedback.",
+      "example": "El equipo llegó a un acuerdo sobre los comentarios constructivos."
+    },
+    {
+      "id": "es-work-b1-b2-061",
+      "word": "Adquirí experiencia útil mediante la solicitud de empleo.",
+      "translation": "I gained useful experience through the job application.",
+      "example": "Adquirí experiencia útil mediante la solicitud de empleo."
+    },
+    {
+      "id": "es-work-b1-b2-062",
+      "word": "Adquirí experiencia útil mediante el contrato de trabajo.",
+      "translation": "I gained useful experience through the employment contract.",
+      "example": "Adquirí experiencia útil mediante el contrato de trabajo."
+    },
+    {
+      "id": "es-work-b1-b2-063",
+      "word": "Adquirí experiencia útil mediante la evaluación del desempeño.",
+      "translation": "I gained useful experience through the performance review.",
+      "example": "Adquirí experiencia útil mediante la evaluación del desempeño."
+    },
+    {
+      "id": "es-work-b1-b2-064",
+      "word": "Adquirí experiencia útil mediante el plazo del proyecto.",
+      "translation": "I gained useful experience through the project deadline.",
+      "example": "Adquirí experiencia útil mediante el plazo del proyecto."
+    },
+    {
+      "id": "es-work-b1-b2-065",
+      "word": "Adquirí experiencia útil mediante el programa de formación.",
+      "translation": "I gained useful experience through the training programme.",
+      "example": "Adquirí experiencia útil mediante el programa de formación."
+    },
+    {
+      "id": "es-work-b1-b2-066",
+      "word": "Adquirí experiencia útil mediante la negociación salarial.",
+      "translation": "I gained useful experience through the salary negotiation.",
+      "example": "Adquirí experiencia útil mediante la negociación salarial."
+    },
+    {
+      "id": "es-work-b1-b2-067",
+      "word": "Adquirí experiencia útil mediante la política de teletrabajo.",
+      "translation": "I gained useful experience through the remote-work policy.",
+      "example": "Adquirí experiencia útil mediante la política de teletrabajo."
+    },
+    {
+      "id": "es-work-b1-b2-068",
+      "word": "Adquirí experiencia útil mediante la oportunidad de ascenso.",
+      "translation": "I gained useful experience through the promotion opportunity.",
+      "example": "Adquirí experiencia útil mediante la oportunidad de ascenso."
+    },
+    {
+      "id": "es-work-b1-b2-069",
+      "word": "Adquirí experiencia útil mediante la presentación al cliente.",
+      "translation": "I gained useful experience through the client presentation.",
+      "example": "Adquirí experiencia útil mediante la presentación al cliente."
+    },
+    {
+      "id": "es-work-b1-b2-070",
+      "word": "Adquirí experiencia útil mediante los comentarios constructivos.",
+      "translation": "I gained useful experience through the constructive feedback.",
+      "example": "Adquirí experiencia útil mediante los comentarios constructivos."
+    },
+    {
+      "id": "es-work-b1-b2-071",
+      "word": "Deberíamos guardar registros escritos de la solicitud de empleo.",
+      "translation": "We should keep written records of the job application.",
+      "example": "Deberíamos guardar registros escritos de la solicitud de empleo."
+    },
+    {
+      "id": "es-work-b1-b2-072",
+      "word": "Deberíamos guardar registros escritos de el contrato de trabajo.",
+      "translation": "We should keep written records of the employment contract.",
+      "example": "Deberíamos guardar registros escritos de el contrato de trabajo."
+    },
+    {
+      "id": "es-work-b1-b2-073",
+      "word": "Deberíamos guardar registros escritos de la evaluación del desempeño.",
+      "translation": "We should keep written records of the performance review.",
+      "example": "Deberíamos guardar registros escritos de la evaluación del desempeño."
+    },
+    {
+      "id": "es-work-b1-b2-074",
+      "word": "Deberíamos guardar registros escritos de el plazo del proyecto.",
+      "translation": "We should keep written records of the project deadline.",
+      "example": "Deberíamos guardar registros escritos de el plazo del proyecto."
+    },
+    {
+      "id": "es-work-b1-b2-075",
+      "word": "Deberíamos guardar registros escritos de el programa de formación.",
+      "translation": "We should keep written records of the training programme.",
+      "example": "Deberíamos guardar registros escritos de el programa de formación."
+    },
+    {
+      "id": "es-work-b1-b2-076",
+      "word": "Deberíamos guardar registros escritos de la negociación salarial.",
+      "translation": "We should keep written records of the salary negotiation.",
+      "example": "Deberíamos guardar registros escritos de la negociación salarial."
+    },
+    {
+      "id": "es-work-b1-b2-077",
+      "word": "Deberíamos guardar registros escritos de la política de teletrabajo.",
+      "translation": "We should keep written records of the remote-work policy.",
+      "example": "Deberíamos guardar registros escritos de la política de teletrabajo."
+    },
+    {
+      "id": "es-work-b1-b2-078",
+      "word": "Deberíamos guardar registros escritos de la oportunidad de ascenso.",
+      "translation": "We should keep written records of the promotion opportunity.",
+      "example": "Deberíamos guardar registros escritos de la oportunidad de ascenso."
+    },
+    {
+      "id": "es-work-b1-b2-079",
+      "word": "Deberíamos guardar registros escritos de la presentación al cliente.",
+      "translation": "We should keep written records of the client presentation.",
+      "example": "Deberíamos guardar registros escritos de la presentación al cliente."
+    },
+    {
+      "id": "es-work-b1-b2-080",
+      "word": "Deberíamos guardar registros escritos de los comentarios constructivos.",
+      "translation": "We should keep written records of the constructive feedback.",
+      "example": "Deberíamos guardar registros escritos de los comentarios constructivos."
+    },
+    {
+      "id": "es-work-b1-b2-081",
+      "word": "¿Quién es responsable de coordinar la solicitud de empleo?",
+      "translation": "Who is responsible for coordinating the job application?",
+      "example": "¿Quién es responsable de coordinar la solicitud de empleo?"
+    },
+    {
+      "id": "es-work-b1-b2-082",
+      "word": "¿Quién es responsable de coordinar el contrato de trabajo?",
+      "translation": "Who is responsible for coordinating the employment contract?",
+      "example": "¿Quién es responsable de coordinar el contrato de trabajo?"
+    },
+    {
+      "id": "es-work-b1-b2-083",
+      "word": "¿Quién es responsable de coordinar la evaluación del desempeño?",
+      "translation": "Who is responsible for coordinating the performance review?",
+      "example": "¿Quién es responsable de coordinar la evaluación del desempeño?"
+    },
+    {
+      "id": "es-work-b1-b2-084",
+      "word": "¿Quién es responsable de coordinar el plazo del proyecto?",
+      "translation": "Who is responsible for coordinating the project deadline?",
+      "example": "¿Quién es responsable de coordinar el plazo del proyecto?"
+    },
+    {
+      "id": "es-work-b1-b2-085",
+      "word": "¿Quién es responsable de coordinar el programa de formación?",
+      "translation": "Who is responsible for coordinating the training programme?",
+      "example": "¿Quién es responsable de coordinar el programa de formación?"
+    },
+    {
+      "id": "es-work-b1-b2-086",
+      "word": "¿Quién es responsable de coordinar la negociación salarial?",
+      "translation": "Who is responsible for coordinating the salary negotiation?",
+      "example": "¿Quién es responsable de coordinar la negociación salarial?"
+    },
+    {
+      "id": "es-work-b1-b2-087",
+      "word": "¿Quién es responsable de coordinar la política de teletrabajo?",
+      "translation": "Who is responsible for coordinating the remote-work policy?",
+      "example": "¿Quién es responsable de coordinar la política de teletrabajo?"
+    },
+    {
+      "id": "es-work-b1-b2-088",
+      "word": "¿Quién es responsable de coordinar la oportunidad de ascenso?",
+      "translation": "Who is responsible for coordinating the promotion opportunity?",
+      "example": "¿Quién es responsable de coordinar la oportunidad de ascenso?"
+    },
+    {
+      "id": "es-work-b1-b2-089",
+      "word": "¿Quién es responsable de coordinar la presentación al cliente?",
+      "translation": "Who is responsible for coordinating the client presentation?",
+      "example": "¿Quién es responsable de coordinar la presentación al cliente?"
+    },
+    {
+      "id": "es-work-b1-b2-090",
+      "word": "¿Quién es responsable de coordinar los comentarios constructivos?",
+      "translation": "Who is responsible for coordinating the constructive feedback?",
+      "example": "¿Quién es responsable de coordinar los comentarios constructivos?"
+    },
+    {
+      "id": "es-work-b1-b2-091",
+      "word": "El resultado de la solicitud de empleo superó nuestras expectativas.",
+      "translation": "The outcome of the job application exceeded our expectations.",
+      "example": "El resultado de la solicitud de empleo superó nuestras expectativas."
+    },
+    {
+      "id": "es-work-b1-b2-092",
+      "word": "El resultado de el contrato de trabajo superó nuestras expectativas.",
+      "translation": "The outcome of the employment contract exceeded our expectations.",
+      "example": "El resultado de el contrato de trabajo superó nuestras expectativas."
+    },
+    {
+      "id": "es-work-b1-b2-093",
+      "word": "El resultado de la evaluación del desempeño superó nuestras expectativas.",
+      "translation": "The outcome of the performance review exceeded our expectations.",
+      "example": "El resultado de la evaluación del desempeño superó nuestras expectativas."
+    },
+    {
+      "id": "es-work-b1-b2-094",
+      "word": "El resultado de el plazo del proyecto superó nuestras expectativas.",
+      "translation": "The outcome of the project deadline exceeded our expectations.",
+      "example": "El resultado de el plazo del proyecto superó nuestras expectativas."
+    },
+    {
+      "id": "es-work-b1-b2-095",
+      "word": "El resultado de el programa de formación superó nuestras expectativas.",
+      "translation": "The outcome of the training programme exceeded our expectations.",
+      "example": "El resultado de el programa de formación superó nuestras expectativas."
+    },
+    {
+      "id": "es-work-b1-b2-096",
+      "word": "El resultado de la negociación salarial superó nuestras expectativas.",
+      "translation": "The outcome of the salary negotiation exceeded our expectations.",
+      "example": "El resultado de la negociación salarial superó nuestras expectativas."
+    },
+    {
+      "id": "es-work-b1-b2-097",
+      "word": "El resultado de la política de teletrabajo superó nuestras expectativas.",
+      "translation": "The outcome of the remote-work policy exceeded our expectations.",
+      "example": "El resultado de la política de teletrabajo superó nuestras expectativas."
+    },
+    {
+      "id": "es-work-b1-b2-098",
+      "word": "El resultado de la oportunidad de ascenso superó nuestras expectativas.",
+      "translation": "The outcome of the promotion opportunity exceeded our expectations.",
+      "example": "El resultado de la oportunidad de ascenso superó nuestras expectativas."
+    },
+    {
+      "id": "es-work-b1-b2-099",
+      "word": "El resultado de la presentación al cliente superó nuestras expectativas.",
+      "translation": "The outcome of the client presentation exceeded our expectations.",
+      "example": "El resultado de la presentación al cliente superó nuestras expectativas."
+    },
+    {
+      "id": "es-work-b1-b2-100",
+      "word": "El resultado de los comentarios constructivos superó nuestras expectativas.",
+      "translation": "The outcome of the constructive feedback exceeded our expectations.",
+      "example": "El resultado de los comentarios constructivos superó nuestras expectativas."
+    }
+  ]
+}
