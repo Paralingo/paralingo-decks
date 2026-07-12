@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-food-c1-c2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "food",
+  "categoryTitle": "Food & Restaurants",
+  "title": "Food & Restaurants",
+  "level": "C1-C2",
+  "emoji": "🍽️",
+  "description": "Explore gastronomy, sustainability, food science, and culinary discourse.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-food-c1-c2-001",
+      "word": "la gastronomía",
+      "translation": "gastronomy",
+      "example": "En este contexto se usa «la gastronomía»."
+    },
+    {
+      "id": "es-food-c1-c2-002",
+      "word": "el patrimonio culinario",
+      "translation": "culinary heritage",
+      "example": "En este contexto se usa «el patrimonio culinario»."
+    },
+    {
+      "id": "es-food-c1-c2-003",
+      "word": "la denominación de origen",
+      "translation": "designation of origin",
+      "example": "En este contexto se usa «la denominación de origen»."
+    },
+    {
+      "id": "es-food-c1-c2-004",
+      "word": "la trazabilidad",
+      "translation": "traceability",
+      "example": "En este contexto se usa «la trazabilidad»."
+    },
+    {
+      "id": "es-food-c1-c2-005",
+      "word": "la soberanía alimentaria",
+      "translation": "food sovereignty",
+      "example": "En este contexto se usa «la soberanía alimentaria»."
+    },
+    {
+      "id": "es-food-c1-c2-006",
+      "word": "la seguridad alimentaria",
+      "translation": "food security",
+      "example": "En este contexto se usa «la seguridad alimentaria»."
+    },
+    {
+      "id": "es-food-c1-c2-007",
+      "word": "la agricultura sostenible",
+      "translation": "sustainable agriculture",
+      "example": "En este contexto se usa «la agricultura sostenible»."
+    },
+    {
+      "id": "es-food-c1-c2-008",
+      "word": "la agricultura regenerativa",
+      "translation": "regenerative farming",
+      "example": "En este contexto se usa «la agricultura regenerativa»."
+    },
+    {
+      "id": "es-food-c1-c2-009",
+      "word": "la cadena corta de suministro",
+      "translation": "short supply chain",
+      "example": "En este contexto se usa «la cadena corta de suministro»."
+    },
+    {
+      "id": "es-food-c1-c2-010",
+      "word": "la huella de carbono",
+      "translation": "carbon footprint",
+      "example": "En este contexto se usa «la huella de carbono»."
+    },
+    {
+      "id": "es-food-c1-c2-011",
+      "word": "el consumo ético",
+      "translation": "ethical consumption",
+      "example": "En este contexto se usa «el consumo ético»."
+    },
+    {
+      "id": "es-food-c1-c2-012",
+      "word": "el abastecimiento responsable",
+      "translation": "responsible sourcing",
+      "example": "En este contexto se usa «el abastecimiento responsable»."
+    },
+    {
+      "id": "es-food-c1-c2-013",
+      "word": "la biodiversidad",
+      "translation": "biodiversity",
+      "example": "En este contexto se usa «la biodiversidad»."
+    },
+    {
+      "id": "es-food-c1-c2-014",
+      "word": "el sistema alimentario",
+      "translation": "food system",
+      "example": "En este contexto se usa «el sistema alimentario»."
+    },
+    {
+      "id": "es-food-c1-c2-015",
+      "word": "la economía circular",
+      "translation": "circular economy",
+      "example": "En este contexto se usa «la economía circular»."
+    },
+    {
+      "id": "es-food-c1-c2-016",
+      "word": "la agricultura industrial",
+      "translation": "industrial agriculture",
+      "example": "En este contexto se usa «la agricultura industrial»."
+    },
+    {
+      "id": "es-food-c1-c2-017",
+      "word": "la ganadería intensiva",
+      "translation": "intensive livestock farming",
+      "example": "En este contexto se usa «la ganadería intensiva»."
+    },
+    {
+      "id": "es-food-c1-c2-018",
+      "word": "la producción artesanal",
+      "translation": "artisanal production",
+      "example": "En este contexto se usa «la producción artesanal»."
+    },
+    {
+      "id": "es-food-c1-c2-019",
+      "word": "el pequeño productor",
+      "translation": "small-scale producer",
+      "example": "En este contexto se usa «el pequeño productor»."
+    },
+    {
+      "id": "es-food-c1-c2-020",
+      "word": "el comercio justo",
+      "translation": "fair trade",
+      "example": "En este contexto se usa «el comercio justo»."
+    },
+    {
+      "id": "es-food-c1-c2-021",
+      "word": "el análisis sensorial",
+      "translation": "sensory analysis",
+      "example": "En este contexto se usa «el análisis sensorial»."
+    },
+    {
+      "id": "es-food-c1-c2-022",
+      "word": "la sensación en boca",
+      "translation": "mouthfeel",
+      "example": "En este contexto se usa «la sensación en boca»."
+    },
+    {
+      "id": "es-food-c1-c2-023",
+      "word": "el regusto",
+      "translation": "aftertaste",
+      "example": "En este contexto se usa «el regusto»."
+    },
+    {
+      "id": "es-food-c1-c2-024",
+      "word": "el perfil de sabor",
+      "translation": "flavor profile",
+      "example": "En este contexto se usa «el perfil de sabor»."
+    },
+    {
+      "id": "es-food-c1-c2-025",
+      "word": "el paladar",
+      "translation": "palate",
+      "example": "En este contexto se usa «el paladar»."
+    },
+    {
+      "id": "es-food-c1-c2-026",
+      "word": "la astringencia",
+      "translation": "astringency",
+      "example": "En este contexto se usa «la astringencia»."
+    },
+    {
+      "id": "es-food-c1-c2-027",
+      "word": "el umami",
+      "translation": "umami",
+      "example": "En este contexto se usa «el umami»."
+    },
+    {
+      "id": "es-food-c1-c2-028",
+      "word": "la fermentación",
+      "translation": "fermentation",
+      "example": "En este contexto se usa «la fermentación»."
+    },
+    {
+      "id": "es-food-c1-c2-029",
+      "word": "la curación",
+      "translation": "curing",
+      "example": "En este contexto se usa «la curación»."
+    },
+    {
+      "id": "es-food-c1-c2-030",
+      "word": "el ahumado",
+      "translation": "smoking",
+      "example": "En este contexto se usa «el ahumado»."
+    },
+    {
+      "id": "es-food-c1-c2-031",
+      "word": "la deshidratación",
+      "translation": "dehydration",
+      "example": "En este contexto se usa «la deshidratación»."
+    },
+    {
+      "id": "es-food-c1-c2-032",
+      "word": "la infusión",
+      "translation": "infusion",
+      "example": "En este contexto se usa «la infusión»."
+    },
+    {
+      "id": "es-food-c1-c2-033",
+      "word": "la emulsión",
+      "translation": "emulsion",
+      "example": "En este contexto se usa «la emulsión»."
+    },
+    {
+      "id": "es-food-c1-c2-034",
+      "word": "la caramelización",
+      "translation": "caramelization",
+      "example": "En este contexto se usa «la caramelización»."
+    },
+    {
+      "id": "es-food-c1-c2-035",
+      "word": "la reacción de Maillard",
+      "translation": "Maillard reaction",
+      "example": "En este contexto se usa «la reacción de Maillard»."
+    },
+    {
+      "id": "es-food-c1-c2-036",
+      "word": "la gastronomía molecular",
+      "translation": "molecular gastronomy",
+      "example": "En este contexto se usa «la gastronomía molecular»."
+    },
+    {
+      "id": "es-food-c1-c2-037",
+      "word": "la cocción lenta",
+      "translation": "slow cooking",
+      "example": "En este contexto se usa «la cocción lenta»."
+    },
+    {
+      "id": "es-food-c1-c2-038",
+      "word": "la cocción al vacío",
+      "translation": "vacuum cooking",
+      "example": "En este contexto se usa «la cocción al vacío»."
+    },
+    {
+      "id": "es-food-c1-c2-039",
+      "word": "el confitado",
+      "translation": "confit",
+      "example": "En este contexto se usa «el confitado»."
+    },
+    {
+      "id": "es-food-c1-c2-040",
+      "word": "la reducción",
+      "translation": "reduction",
+      "example": "En este contexto se usa «la reducción»."
+    },
+    {
+      "id": "es-food-c1-c2-041",
+      "word": "la clarificación",
+      "translation": "clarification",
+      "example": "En este contexto se usa «la clarificación»."
+    },
+    {
+      "id": "es-food-c1-c2-042",
+      "word": "el emplatado",
+      "translation": "plating",
+      "example": "En este contexto se usa «el emplatado»."
+    },
+    {
+      "id": "es-food-c1-c2-043",
+      "word": "la técnica culinaria",
+      "translation": "culinary technique",
+      "example": "En este contexto se usa «la técnica culinaria»."
+    },
+    {
+      "id": "es-food-c1-c2-044",
+      "word": "el manejo del cuchillo",
+      "translation": "knife skills",
+      "example": "En este contexto se usa «el manejo del cuchillo»."
+    },
+    {
+      "id": "es-food-c1-c2-045",
+      "word": "el desarrollo de recetas",
+      "translation": "recipe development",
+      "example": "En este contexto se usa «el desarrollo de recetas»."
+    },
+    {
+      "id": "es-food-c1-c2-046",
+      "word": "el diseño del menú",
+      "translation": "menu design",
+      "example": "En este contexto se usa «el diseño del menú»."
+    },
+    {
+      "id": "es-food-c1-c2-047",
+      "word": "el maridaje gastronómico",
+      "translation": "food pairing",
+      "example": "En este contexto se usa «el maridaje gastronómico»."
+    },
+    {
+      "id": "es-food-c1-c2-048",
+      "word": "el maridaje de vinos",
+      "translation": "wine pairing",
+      "example": "En este contexto se usa «el maridaje de vinos»."
+    },
+    {
+      "id": "es-food-c1-c2-049",
+      "word": "el sumiller",
+      "translation": "sommelier",
+      "example": "En este contexto se usa «el sumiller»."
+    },
+    {
+      "id": "es-food-c1-c2-050",
+      "word": "el restaurador",
+      "translation": "restaurateur",
+      "example": "En este contexto se usa «el restaurador»."
+    },
+    {
+      "id": "es-food-c1-c2-051",
+      "word": "el jefe de cocina",
+      "translation": "head chef",
+      "example": "En este contexto se usa «el jefe de cocina»."
+    },
+    {
+      "id": "es-food-c1-c2-052",
+      "word": "el segundo de cocina",
+      "translation": "sous-chef",
+      "example": "En este contexto se usa «el segundo de cocina»."
+    },
+    {
+      "id": "es-food-c1-c2-053",
+      "word": "las notas de cata",
+      "translation": "tasting notes",
+      "example": "En este contexto se usa «las notas de cata»."
+    },
+    {
+      "id": "es-food-c1-c2-054",
+      "word": "la cata a ciegas",
+      "translation": "blind tasting",
+      "example": "En este contexto se usa «la cata a ciegas»."
+    },
+    {
+      "id": "es-food-c1-c2-055",
+      "word": "la añada",
+      "translation": "vintage",
+      "example": "En este contexto se usa «la añada»."
+    },
+    {
+      "id": "es-food-c1-c2-056",
+      "word": "el terruño",
+      "translation": "terroir",
+      "example": "En este contexto se usa «el terruño»."
+    },
+    {
+      "id": "es-food-c1-c2-057",
+      "word": "la crianza en bodega",
+      "translation": "cellaring",
+      "example": "En este contexto se usa «la crianza en bodega»."
+    },
+    {
+      "id": "es-food-c1-c2-058",
+      "word": "la indicación geográfica",
+      "translation": "appellation",
+      "example": "En este contexto se usa «la indicación geográfica»."
+    },
+    {
+      "id": "es-food-c1-c2-059",
+      "word": "la crítica gastronómica",
+      "translation": "food criticism",
+      "example": "En este contexto se usa «la crítica gastronómica»."
+    },
+    {
+      "id": "es-food-c1-c2-060",
+      "word": "la reseña de restaurante",
+      "translation": "restaurant review",
+      "example": "En este contexto se usa «la reseña de restaurante»."
+    },
+    {
+      "id": "es-food-c1-c2-061",
+      "word": "la alta cocina",
+      "translation": "fine dining",
+      "example": "En este contexto se usa «la alta cocina»."
+    },
+    {
+      "id": "es-food-c1-c2-062",
+      "word": "el plato de autor",
+      "translation": "signature dish",
+      "example": "En este contexto se usa «el plato de autor»."
+    },
+    {
+      "id": "es-food-c1-c2-063",
+      "word": "el plato deconstruido",
+      "translation": "deconstructed dish",
+      "example": "En este contexto se usa «el plato deconstruido»."
+    },
+    {
+      "id": "es-food-c1-c2-064",
+      "word": "la innovación culinaria",
+      "translation": "culinary innovation",
+      "example": "En este contexto se usa «la innovación culinaria»."
+    },
+    {
+      "id": "es-food-c1-c2-065",
+      "word": "la cocina fusión",
+      "translation": "fusion cuisine",
+      "example": "En este contexto se usa «la cocina fusión»."
+    },
+    {
+      "id": "es-food-c1-c2-066",
+      "word": "la tendencia gastronómica",
+      "translation": "food trend",
+      "example": "En este contexto se usa «la tendencia gastronómica»."
+    },
+    {
+      "id": "es-food-c1-c2-067",
+      "word": "la cocina vegetal",
+      "translation": "plant-based cuisine",
+      "example": "En este contexto se usa «la cocina vegetal»."
+    },
+    {
+      "id": "es-food-c1-c2-068",
+      "word": "la proteína alternativa",
+      "translation": "alternative protein",
+      "example": "En este contexto se usa «la proteína alternativa»."
+    },
+    {
+      "id": "es-food-c1-c2-069",
+      "word": "la carne cultivada",
+      "translation": "lab-grown meat",
+      "example": "En este contexto se usa «la carne cultivada»."
+    },
+    {
+      "id": "es-food-c1-c2-070",
+      "word": "el nuevo alimento",
+      "translation": "novel food",
+      "example": "En este contexto se usa «el nuevo alimento»."
+    },
+    {
+      "id": "es-food-c1-c2-071",
+      "word": "la regulación alimentaria",
+      "translation": "food regulation",
+      "example": "En este contexto se usa «la regulación alimentaria»."
+    },
+    {
+      "id": "es-food-c1-c2-072",
+      "word": "la declaración de propiedades saludables",
+      "translation": "health claim",
+      "example": "En este contexto se usa «la declaración de propiedades saludables»."
+    },
+    {
+      "id": "es-food-c1-c2-073",
+      "word": "el etiquetado nutricional",
+      "translation": "nutrition labeling",
+      "example": "En este contexto se usa «el etiquetado nutricional»."
+    },
+    {
+      "id": "es-food-c1-c2-074",
+      "word": "la declaración de alérgenos",
+      "translation": "allergen declaration",
+      "example": "En este contexto se usa «la declaración de alérgenos»."
+    },
+    {
+      "id": "es-food-c1-c2-075",
+      "word": "el fraude alimentario",
+      "translation": "food fraud",
+      "example": "En este contexto se usa «el fraude alimentario»."
+    },
+    {
+      "id": "es-food-c1-c2-076",
+      "word": "la adulteración",
+      "translation": "adulteration",
+      "example": "En este contexto se usa «la adulteración»."
+    },
+    {
+      "id": "es-food-c1-c2-077",
+      "word": "la contaminación cruzada",
+      "translation": "contamination",
+      "example": "En este contexto se usa «la contaminación cruzada»."
+    },
+    {
+      "id": "es-food-c1-c2-078",
+      "word": "la cadena de frío",
+      "translation": "cold chain",
+      "example": "En este contexto se usa «la cadena de frío»."
+    },
+    {
+      "id": "es-food-c1-c2-079",
+      "word": "la vida útil",
+      "translation": "shelf life",
+      "example": "En este contexto se usa «la vida útil»."
+    },
+    {
+      "id": "es-food-c1-c2-080",
+      "word": "el control de calidad",
+      "translation": "quality control",
+      "example": "En este contexto se usa «el control de calidad»."
+    },
+    {
+      "id": "es-food-c1-c2-081",
+      "word": "el análisis de peligros",
+      "translation": "hazard analysis",
+      "example": "En este contexto se usa «el análisis de peligros»."
+    },
+    {
+      "id": "es-food-c1-c2-082",
+      "word": "la intolerancia alimentaria",
+      "translation": "food intolerance",
+      "example": "En este contexto se usa «la intolerancia alimentaria»."
+    },
+    {
+      "id": "es-food-c1-c2-083",
+      "word": "el microbioma",
+      "translation": "microbiome",
+      "example": "En este contexto se usa «el microbioma»."
+    },
+    {
+      "id": "es-food-c1-c2-084",
+      "word": "el metabolismo",
+      "translation": "metabolism",
+      "example": "En este contexto se usa «el metabolismo»."
+    },
+    {
+      "id": "es-food-c1-c2-085",
+      "word": "la densidad nutricional",
+      "translation": "nutrient density",
+      "example": "En este contexto se usa «la densidad nutricional»."
+    },
+    {
+      "id": "es-food-c1-c2-086",
+      "word": "la biodisponibilidad",
+      "translation": "bioavailability",
+      "example": "En este contexto se usa «la biodisponibilidad»."
+    },
+    {
+      "id": "es-food-c1-c2-087",
+      "word": "la malnutrición",
+      "translation": "malnutrition",
+      "example": "En este contexto se usa «la malnutrición»."
+    },
+    {
+      "id": "es-food-c1-c2-088",
+      "word": "el alimento ultraprocesado",
+      "translation": "ultra-processed food",
+      "example": "En este contexto se usa «el alimento ultraprocesado»."
+    },
+    {
+      "id": "es-food-c1-c2-089",
+      "word": "la pauta alimentaria",
+      "translation": "dietary guideline",
+      "example": "En este contexto se usa «la pauta alimentaria»."
+    },
+    {
+      "id": "es-food-c1-c2-090",
+      "word": "la nutrición de salud pública",
+      "translation": "public health nutrition",
+      "example": "En este contexto se usa «la nutrición de salud pública»."
+    },
+    {
+      "id": "es-food-c1-c2-091",
+      "word": "la cultura alimentaria",
+      "translation": "food culture",
+      "example": "En este contexto se usa «la cultura alimentaria»."
+    },
+    {
+      "id": "es-food-c1-c2-092",
+      "word": "la comensalidad",
+      "translation": "commensality",
+      "example": "En este contexto se usa «la comensalidad»."
+    },
+    {
+      "id": "es-food-c1-c2-093",
+      "word": "la identidad culinaria",
+      "translation": "culinary identity",
+      "example": "En este contexto se usa «la identidad culinaria»."
+    },
+    {
+      "id": "es-food-c1-c2-094",
+      "word": "el ritual alimentario",
+      "translation": "food ritual",
+      "example": "En este contexto se usa «el ritual alimentario»."
+    },
+    {
+      "id": "es-food-c1-c2-095",
+      "word": "la hospitalidad",
+      "translation": "hospitality",
+      "example": "En este contexto se usa «la hospitalidad»."
+    },
+    {
+      "id": "es-food-c1-c2-096",
+      "word": "la etiqueta en la mesa",
+      "translation": "table etiquette",
+      "example": "En este contexto se usa «la etiqueta en la mesa»."
+    },
+    {
+      "id": "es-food-c1-c2-097",
+      "word": "el gusto adquirido",
+      "translation": "acquired taste",
+      "example": "En este contexto se usa «el gusto adquirido»."
+    },
+    {
+      "id": "es-food-c1-c2-098",
+      "word": "el discurso gastronómico",
+      "translation": "gastronomic discourse",
+      "example": "En este contexto se usa «el discurso gastronómico»."
+    },
+    {
+      "id": "es-food-c1-c2-099",
+      "word": "la apropiación culinaria",
+      "translation": "culinary appropriation",
+      "example": "En este contexto se usa «la apropiación culinaria»."
+    },
+    {
+      "id": "es-food-c1-c2-100",
+      "word": "la diplomacia culinaria",
+      "translation": "culinary diplomacy",
+      "example": "En este contexto se usa «la diplomacia culinaria»."
+    }
+  ]
+}
