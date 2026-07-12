@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-it-food-b1-b2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "food",
+  "categoryTitle": "Food & Restaurants",
+  "title": "Food & Restaurants",
+  "level": "B1-B2",
+  "emoji": "🍽️",
+  "description": "Discuss cooking, nutrition, dining experiences, and food culture.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-food-b1-b2-001",
+      "word": "l'alimentazione equilibrata",
+      "translation": "balanced diet",
+      "example": "In questo contesto si usa «l'alimentazione equilibrata»."
+    },
+    {
+      "id": "it-food-b1-b2-002",
+      "word": "i prodotti di stagione",
+      "translation": "seasonal produce",
+      "example": "In questo contesto si usa «i prodotti di stagione»."
+    },
+    {
+      "id": "it-food-b1-b2-003",
+      "word": "lo spreco alimentare",
+      "translation": "food waste",
+      "example": "In questo contesto si usa «lo spreco alimentare»."
+    },
+    {
+      "id": "it-food-b1-b2-004",
+      "word": "il piatto fatto in casa",
+      "translation": "homemade dish",
+      "example": "In questo contesto si usa «il piatto fatto in casa»."
+    },
+    {
+      "id": "it-food-b1-b2-005",
+      "word": "la data di scadenza",
+      "translation": "expiry date",
+      "example": "In questo contesto si usa «la data di scadenza»."
+    },
+    {
+      "id": "it-food-b1-b2-006",
+      "word": "essere cotto al punto giusto",
+      "translation": "to be cooked just right",
+      "example": "In questo contesto si usa «essere cotto al punto giusto»."
+    },
+    {
+      "id": "it-food-b1-b2-007",
+      "word": "rimanere affamato",
+      "translation": "to remain hungry",
+      "example": "In questo contesto si usa «rimanere affamato»."
+    },
+    {
+      "id": "it-food-b1-b2-008",
+      "word": "avere un bell'aspetto",
+      "translation": "to look appetizing",
+      "example": "In questo contesto si usa «avere un bell'aspetto»."
+    },
+    {
+      "id": "it-food-b1-b2-009",
+      "word": "preparare",
+      "translation": "to prepare",
+      "example": "In questo contesto si usa «preparare»."
+    },
+    {
+      "id": "it-food-b1-b2-010",
+      "word": "condire",
+      "translation": "to season",
+      "example": "In questo contesto si usa «condire»."
+    },
+    {
+      "id": "it-food-b1-b2-011",
+      "word": "saltare in padella",
+      "translation": "to sauté",
+      "example": "In questo contesto si usa «saltare in padella»."
+    },
+    {
+      "id": "it-food-b1-b2-012",
+      "word": "cuocere a fuoco lento",
+      "translation": "to simmer",
+      "example": "In questo contesto si usa «cuocere a fuoco lento»."
+    },
+    {
+      "id": "it-food-b1-b2-013",
+      "word": "il contorno",
+      "translation": "side dish",
+      "example": "In questo contesto si usa «il contorno»."
+    },
+    {
+      "id": "it-food-b1-b2-014",
+      "word": "la porzione abbondante",
+      "translation": "serving",
+      "example": "In questo contesto si usa «la porzione abbondante»."
+    },
+    {
+      "id": "it-food-b1-b2-015",
+      "word": "il menù degustazione",
+      "translation": "tasting menu",
+      "example": "In questo contesto si usa «il menù degustazione»."
+    },
+    {
+      "id": "it-food-b1-b2-016",
+      "word": "il rapporto qualità-prezzo",
+      "translation": "value for money",
+      "example": "In questo contesto si usa «il rapporto qualità-prezzo»."
+    },
+    {
+      "id": "it-food-b1-b2-017",
+      "word": "fare un reclamo",
+      "translation": "to make a complaint",
+      "example": "In questo contesto si usa «fare un reclamo»."
+    },
+    {
+      "id": "it-food-b1-b2-018",
+      "word": "essere allergico a",
+      "translation": "to be allergic to",
+      "example": "In questo contesto si usa «essere allergico a»."
+    },
+    {
+      "id": "it-food-b1-b2-019",
+      "word": "adatto a",
+      "translation": "suitable for",
+      "example": "In questo contesto si usa «adatto a»."
+    },
+    {
+      "id": "it-food-b1-b2-020",
+      "word": "la cucina tradizionale",
+      "translation": "traditional cuisine",
+      "example": "In questo contesto si usa «la cucina tradizionale»."
+    },
+    {
+      "id": "it-food-b1-b2-021",
+      "word": "il sapore intenso",
+      "translation": "intense flavor",
+      "example": "In questo contesto si usa «il sapore intenso»."
+    },
+    {
+      "id": "it-food-b1-b2-022",
+      "word": "il sapore delicato",
+      "translation": "mild flavor",
+      "example": "In questo contesto si usa «il sapore delicato»."
+    },
+    {
+      "id": "it-food-b1-b2-023",
+      "word": "agrodolce",
+      "translation": "sweet and sour",
+      "example": "In questo contesto si usa «agrodolce»."
+    },
+    {
+      "id": "it-food-b1-b2-024",
+      "word": "amaro",
+      "translation": "bitter",
+      "example": "In questo contesto si usa «amaro»."
+    },
+    {
+      "id": "it-food-b1-b2-025",
+      "word": "essere insipido",
+      "translation": "bland",
+      "example": "In questo contesto si usa «essere insipido»."
+    },
+    {
+      "id": "it-food-b1-b2-026",
+      "word": "essere tenero",
+      "translation": "tender",
+      "example": "In questo contesto si usa «essere tenero»."
+    },
+    {
+      "id": "it-food-b1-b2-027",
+      "word": "essere croccante",
+      "translation": "crispy",
+      "example": "In questo contesto si usa «essere croccante»."
+    },
+    {
+      "id": "it-food-b1-b2-028",
+      "word": "la consistenza",
+      "translation": "texture",
+      "example": "In questo contesto si usa «la consistenza»."
+    },
+    {
+      "id": "it-food-b1-b2-029",
+      "word": "il profumo",
+      "translation": "aroma",
+      "example": "In questo contesto si usa «il profumo»."
+    },
+    {
+      "id": "it-food-b1-b2-030",
+      "word": "marinare",
+      "translation": "to marinate",
+      "example": "In questo contesto si usa «marinare»."
+    },
+    {
+      "id": "it-food-b1-b2-031",
+      "word": "arrostire",
+      "translation": "to roast",
+      "example": "In questo contesto si usa «arrostire»."
+    },
+    {
+      "id": "it-food-b1-b2-032",
+      "word": "cuocere al vapore",
+      "translation": "to steam",
+      "example": "In questo contesto si usa «cuocere al vapore»."
+    },
+    {
+      "id": "it-food-b1-b2-033",
+      "word": "sbattere",
+      "translation": "to whisk",
+      "example": "In questo contesto si usa «sbattere»."
+    },
+    {
+      "id": "it-food-b1-b2-034",
+      "word": "impastare",
+      "translation": "to knead",
+      "example": "In questo contesto si usa «impastare»."
+    },
+    {
+      "id": "it-food-b1-b2-035",
+      "word": "sbucciare",
+      "translation": "to peel",
+      "example": "In questo contesto si usa «sbucciare»."
+    },
+    {
+      "id": "it-food-b1-b2-036",
+      "word": "tritare",
+      "translation": "to chop",
+      "example": "In questo contesto si usa «tritare»."
+    },
+    {
+      "id": "it-food-b1-b2-037",
+      "word": "sostituire",
+      "translation": "to substitute",
+      "example": "In questo contesto si usa «sostituire»."
+    },
+    {
+      "id": "it-food-b1-b2-038",
+      "word": "avanzare",
+      "translation": "to be left over",
+      "example": "In questo contesto si usa «avanzare»."
+    },
+    {
+      "id": "it-food-b1-b2-039",
+      "word": "riutilizzare gli avanzi",
+      "translation": "to use leftovers",
+      "example": "In questo contesto si usa «riutilizzare gli avanzi»."
+    },
+    {
+      "id": "it-food-b1-b2-040",
+      "word": "mangiare fuori",
+      "translation": "to eat out",
+      "example": "In questo contesto si usa «mangiare fuori»."
+    },
+    {
+      "id": "it-food-b1-b2-041",
+      "word": "invitare a cena",
+      "translation": "to invite for dinner",
+      "example": "In questo contesto si usa «invitare a cena»."
+    },
+    {
+      "id": "it-food-b1-b2-042",
+      "word": "dividere il conto",
+      "translation": "to split the bill",
+      "example": "In questo contesto si usa «dividere il conto»."
+    },
+    {
+      "id": "it-food-b1-b2-043",
+      "word": "ordinare a domicilio",
+      "translation": "to order delivery",
+      "example": "In questo contesto si usa «ordinare a domicilio»."
+    },
+    {
+      "id": "it-food-b1-b2-044",
+      "word": "il servizio attento",
+      "translation": "attentive service",
+      "example": "In questo contesto si usa «il servizio attento»."
+    },
+    {
+      "id": "it-food-b1-b2-045",
+      "word": "la prenotazione anticipata",
+      "translation": "advance booking",
+      "example": "In questo contesto si usa «la prenotazione anticipata»."
+    },
+    {
+      "id": "it-food-b1-b2-046",
+      "word": "la provenienza degli alimenti",
+      "translation": "food origin",
+      "example": "In questo contesto si usa «la provenienza degli alimenti»."
+    },
+    {
+      "id": "it-food-b1-b2-047",
+      "word": "l'agricoltura biologica",
+      "translation": "organic farming",
+      "example": "In questo contesto si usa «l'agricoltura biologica»."
+    },
+    {
+      "id": "it-food-b1-b2-048",
+      "word": "le abitudini alimentari",
+      "translation": "eating habits",
+      "example": "In questo contesto si usa «le abitudini alimentari»."
+    },
+    {
+      "id": "it-food-b1-b2-049",
+      "word": "godersi il pasto",
+      "translation": "to enjoy the meal",
+      "example": "In questo contesto si usa «godersi il pasto»."
+    },
+    {
+      "id": "it-food-b1-b2-050",
+      "word": "il valore nutrizionale",
+      "translation": "nutritional value",
+      "example": "In questo contesto si usa «il valore nutrizionale»."
+    },
+    {
+      "id": "it-food-b1-b2-051",
+      "word": "le proteine",
+      "translation": "protein",
+      "example": "In questo contesto si usa «le proteine»."
+    },
+    {
+      "id": "it-food-b1-b2-052",
+      "word": "il carboidrato",
+      "translation": "carbohydrate",
+      "example": "In questo contesto si usa «il carboidrato»."
+    },
+    {
+      "id": "it-food-b1-b2-053",
+      "word": "la fibra",
+      "translation": "fiber",
+      "example": "In questo contesto si usa «la fibra»."
+    },
+    {
+      "id": "it-food-b1-b2-054",
+      "word": "la vitamina",
+      "translation": "vitamin",
+      "example": "In questo contesto si usa «la vitamina»."
+    },
+    {
+      "id": "it-food-b1-b2-055",
+      "word": "il conservante",
+      "translation": "preservative",
+      "example": "In questo contesto si usa «il conservante»."
+    },
+    {
+      "id": "it-food-b1-b2-056",
+      "word": "l'additivo",
+      "translation": "additive",
+      "example": "In questo contesto si usa «l'additivo»."
+    },
+    {
+      "id": "it-food-b1-b2-057",
+      "word": "gli alimenti trasformati",
+      "translation": "processed food",
+      "example": "In questo contesto si usa «gli alimenti trasformati»."
+    },
+    {
+      "id": "it-food-b1-b2-058",
+      "word": "il cereale integrale",
+      "translation": "whole grain",
+      "example": "In questo contesto si usa «il cereale integrale»."
+    },
+    {
+      "id": "it-food-b1-b2-059",
+      "word": "il legume",
+      "translation": "legume",
+      "example": "In questo contesto si usa «il legume»."
+    },
+    {
+      "id": "it-food-b1-b2-060",
+      "word": "il latticino",
+      "translation": "dairy product",
+      "example": "In questo contesto si usa «il latticino»."
+    },
+    {
+      "id": "it-food-b1-b2-061",
+      "word": "i frutti di mare",
+      "translation": "shellfish",
+      "example": "In questo contesto si usa «i frutti di mare»."
+    },
+    {
+      "id": "it-food-b1-b2-062",
+      "word": "la frutta secca",
+      "translation": "nuts",
+      "example": "In questo contesto si usa «la frutta secca»."
+    },
+    {
+      "id": "it-food-b1-b2-063",
+      "word": "le erbe aromatiche",
+      "translation": "herbs",
+      "example": "In questo contesto si usa «le erbe aromatiche»."
+    },
+    {
+      "id": "it-food-b1-b2-064",
+      "word": "il condimento",
+      "translation": "seasoning",
+      "example": "In questo contesto si usa «il condimento»."
+    },
+    {
+      "id": "it-food-b1-b2-065",
+      "word": "il brodo",
+      "translation": "broth",
+      "example": "In questo contesto si usa «il brodo»."
+    },
+    {
+      "id": "it-food-b1-b2-066",
+      "word": "lo stufato",
+      "translation": "stew",
+      "example": "In questo contesto si usa «lo stufato»."
+    },
+    {
+      "id": "it-food-b1-b2-067",
+      "word": "l'impasto",
+      "translation": "dough",
+      "example": "In questo contesto si usa «l'impasto»."
+    },
+    {
+      "id": "it-food-b1-b2-068",
+      "word": "il ripieno",
+      "translation": "filling",
+      "example": "In questo contesto si usa «il ripieno»."
+    },
+    {
+      "id": "it-food-b1-b2-069",
+      "word": "la crosta",
+      "translation": "crust",
+      "example": "In questo contesto si usa «la crosta»."
+    },
+    {
+      "id": "it-food-b1-b2-070",
+      "word": "la mollica",
+      "translation": "crumb",
+      "example": "In questo contesto si usa «la mollica»."
+    },
+    {
+      "id": "it-food-b1-b2-071",
+      "word": "l'appetito",
+      "translation": "appetite",
+      "example": "In questo contesto si usa «l'appetito»."
+    },
+    {
+      "id": "it-food-b1-b2-072",
+      "word": "la digestione",
+      "translation": "digestion",
+      "example": "In questo contesto si usa «la digestione»."
+    },
+    {
+      "id": "it-food-b1-b2-073",
+      "word": "digerire",
+      "translation": "to digest",
+      "example": "In questo contesto si usa «digerire»."
+    },
+    {
+      "id": "it-food-b1-b2-074",
+      "word": "ingrassare",
+      "translation": "to gain weight",
+      "example": "In questo contesto si usa «ingrassare»."
+    },
+    {
+      "id": "it-food-b1-b2-075",
+      "word": "dimagrire",
+      "translation": "to lose weight",
+      "example": "In questo contesto si usa «dimagrire»."
+    },
+    {
+      "id": "it-food-b1-b2-076",
+      "word": "saltare un pasto",
+      "translation": "to skip a meal",
+      "example": "In questo contesto si usa «saltare un pasto»."
+    },
+    {
+      "id": "it-food-b1-b2-077",
+      "word": "fare uno spuntino",
+      "translation": "to snack",
+      "example": "In questo contesto si usa «fare uno spuntino»."
+    },
+    {
+      "id": "it-food-b1-b2-078",
+      "word": "una porzione generosa",
+      "translation": "generous helping",
+      "example": "In questo contesto si usa «una porzione generosa»."
+    },
+    {
+      "id": "it-food-b1-b2-079",
+      "word": "il piatto del giorno",
+      "translation": "daily special",
+      "example": "In questo contesto si usa «il piatto del giorno»."
+    },
+    {
+      "id": "it-food-b1-b2-080",
+      "word": "il vino della casa",
+      "translation": "house wine",
+      "example": "In questo contesto si usa «il vino della casa»."
+    },
+    {
+      "id": "it-food-b1-b2-081",
+      "word": "il menù fisso",
+      "translation": "set menu",
+      "example": "In questo contesto si usa «il menù fisso»."
+    },
+    {
+      "id": "it-food-b1-b2-082",
+      "word": "la bancarella gastronomica",
+      "translation": "food stall",
+      "example": "In questo contesto si usa «la bancarella gastronomica»."
+    },
+    {
+      "id": "it-food-b1-b2-083",
+      "word": "il mercato locale",
+      "translation": "local market",
+      "example": "In questo contesto si usa «il mercato locale»."
+    },
+    {
+      "id": "it-food-b1-b2-084",
+      "word": "il cibo di strada",
+      "translation": "street food",
+      "example": "In questo contesto si usa «il cibo di strada»."
+    },
+    {
+      "id": "it-food-b1-b2-085",
+      "word": "il piatto regionale",
+      "translation": "regional dish",
+      "example": "In questo contesto si usa «il piatto regionale»."
+    },
+    {
+      "id": "it-food-b1-b2-086",
+      "word": "la tradizione culinaria",
+      "translation": "culinary tradition",
+      "example": "In questo contesto si usa «la tradizione culinaria»."
+    },
+    {
+      "id": "it-food-b1-b2-087",
+      "word": "la ricetta di famiglia",
+      "translation": "family recipe",
+      "example": "In questo contesto si usa «la ricetta di famiglia»."
+    },
+    {
+      "id": "it-food-b1-b2-088",
+      "word": "l'ingrediente segreto",
+      "translation": "secret ingredient",
+      "example": "In questo contesto si usa «l'ingrediente segreto»."
+    },
+    {
+      "id": "it-food-b1-b2-089",
+      "word": "il tempo di cottura",
+      "translation": "cooking time",
+      "example": "In questo contesto si usa «il tempo di cottura»."
+    },
+    {
+      "id": "it-food-b1-b2-090",
+      "word": "il tempo di preparazione",
+      "translation": "preparation time",
+      "example": "In questo contesto si usa «il tempo di preparazione»."
+    },
+    {
+      "id": "it-food-b1-b2-091",
+      "word": "a fuoco medio",
+      "translation": "medium heat",
+      "example": "In questo contesto si usa «a fuoco medio»."
+    },
+    {
+      "id": "it-food-b1-b2-092",
+      "word": "a fuoco alto",
+      "translation": "high heat",
+      "example": "In questo contesto si usa «a fuoco alto»."
+    },
+    {
+      "id": "it-food-b1-b2-093",
+      "word": "a fuoco basso",
+      "translation": "low heat",
+      "example": "In questo contesto si usa «a fuoco basso»."
+    },
+    {
+      "id": "it-food-b1-b2-094",
+      "word": "preriscaldare",
+      "translation": "to preheat",
+      "example": "In questo contesto si usa «preriscaldare»."
+    },
+    {
+      "id": "it-food-b1-b2-095",
+      "word": "scolare",
+      "translation": "to drain",
+      "example": "In questo contesto si usa «scolare»."
+    },
+    {
+      "id": "it-food-b1-b2-096",
+      "word": "grattugiare",
+      "translation": "to grate",
+      "example": "In questo contesto si usa «grattugiare»."
+    },
+    {
+      "id": "it-food-b1-b2-097",
+      "word": "spalmare",
+      "translation": "to spread",
+      "example": "In questo contesto si usa «spalmare»."
+    },
+    {
+      "id": "it-food-b1-b2-098",
+      "word": "guarnire",
+      "translation": "to garnish",
+      "example": "In questo contesto si usa «guarnire»."
+    },
+    {
+      "id": "it-food-b1-b2-099",
+      "word": "conservare",
+      "translation": "to preserve",
+      "example": "In questo contesto si usa «conservare»."
+    },
+    {
+      "id": "it-food-b1-b2-100",
+      "word": "il contenitore ermetico",
+      "translation": "airtight container",
+      "example": "In questo contesto si usa «il contenitore ermetico»."
+    }
+  ]
+}
