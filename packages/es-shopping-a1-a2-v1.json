@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-shopping-a1-a2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "shopping",
+  "categoryTitle": "Shopping & Services",
+  "title": "Shopping & Services",
+  "level": "A1-A2",
+  "emoji": "🛍️",
+  "description": "Shop for everyday items, ask about prices and sizes, pay, and use common local services.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-shopping-a1-a2-001",
+      "word": "¿Cuánto cuesta esta camisa azul?",
+      "translation": "How much is this blue shirt?",
+      "example": "¿Cuánto cuesta esta camisa azul?"
+    },
+    {
+      "id": "es-shopping-a1-a2-002",
+      "word": "¿Cuánto cuesta una talla más pequeña?",
+      "translation": "How much is a smaller size?",
+      "example": "¿Cuánto cuesta una talla más pequeña?"
+    },
+    {
+      "id": "es-shopping-a1-a2-003",
+      "word": "¿Cuánto cuesta el pan fresco?",
+      "translation": "How much is the fresh bread?",
+      "example": "¿Cuánto cuesta el pan fresco?"
+    },
+    {
+      "id": "es-shopping-a1-a2-004",
+      "word": "¿Cuánto cuesta un billete de autobús?",
+      "translation": "How much is a bus ticket?",
+      "example": "¿Cuánto cuesta un billete de autobús?"
+    },
+    {
+      "id": "es-shopping-a1-a2-005",
+      "word": "¿Cuánto cuesta el precio total?",
+      "translation": "How much is the total price?",
+      "example": "¿Cuánto cuesta el precio total?"
+    },
+    {
+      "id": "es-shopping-a1-a2-006",
+      "word": "¿Cuánto cuesta el pago con tarjeta?",
+      "translation": "How much is the card payment?",
+      "example": "¿Cuánto cuesta el pago con tarjeta?"
+    },
+    {
+      "id": "es-shopping-a1-a2-007",
+      "word": "¿Cuánto cuesta el probador?",
+      "translation": "How much is the changing room?",
+      "example": "¿Cuánto cuesta el probador?"
+    },
+    {
+      "id": "es-shopping-a1-a2-008",
+      "word": "¿Cuánto cuesta la oficina de correos?",
+      "translation": "How much is the post office?",
+      "example": "¿Cuánto cuesta la oficina de correos?"
+    },
+    {
+      "id": "es-shopping-a1-a2-009",
+      "word": "¿Cuánto cuesta la peluquería?",
+      "translation": "How much is the hairdresser?",
+      "example": "¿Cuánto cuesta la peluquería?"
+    },
+    {
+      "id": "es-shopping-a1-a2-010",
+      "word": "¿Cuánto cuesta el recibo de compra?",
+      "translation": "How much is the shopping receipt?",
+      "example": "¿Cuánto cuesta el recibo de compra?"
+    },
+    {
+      "id": "es-shopping-a1-a2-011",
+      "word": "Estoy buscando esta camisa azul.",
+      "translation": "I am looking for this blue shirt.",
+      "example": "Estoy buscando esta camisa azul."
+    },
+    {
+      "id": "es-shopping-a1-a2-012",
+      "word": "Estoy buscando una talla más pequeña.",
+      "translation": "I am looking for a smaller size.",
+      "example": "Estoy buscando una talla más pequeña."
+    },
+    {
+      "id": "es-shopping-a1-a2-013",
+      "word": "Estoy buscando el pan fresco.",
+      "translation": "I am looking for the fresh bread.",
+      "example": "Estoy buscando el pan fresco."
+    },
+    {
+      "id": "es-shopping-a1-a2-014",
+      "word": "Estoy buscando un billete de autobús.",
+      "translation": "I am looking for a bus ticket.",
+      "example": "Estoy buscando un billete de autobús."
+    },
+    {
+      "id": "es-shopping-a1-a2-015",
+      "word": "Estoy buscando el precio total.",
+      "translation": "I am looking for the total price.",
+      "example": "Estoy buscando el precio total."
+    },
+    {
+      "id": "es-shopping-a1-a2-016",
+      "word": "Estoy buscando el pago con tarjeta.",
+      "translation": "I am looking for the card payment.",
+      "example": "Estoy buscando el pago con tarjeta."
+    },
+    {
+      "id": "es-shopping-a1-a2-017",
+      "word": "Estoy buscando el probador.",
+      "translation": "I am looking for the changing room.",
+      "example": "Estoy buscando el probador."
+    },
+    {
+      "id": "es-shopping-a1-a2-018",
+      "word": "Estoy buscando la oficina de correos.",
+      "translation": "I am looking for the post office.",
+      "example": "Estoy buscando la oficina de correos."
+    },
+    {
+      "id": "es-shopping-a1-a2-019",
+      "word": "Estoy buscando la peluquería.",
+      "translation": "I am looking for the hairdresser.",
+      "example": "Estoy buscando la peluquería."
+    },
+    {
+      "id": "es-shopping-a1-a2-020",
+      "word": "Estoy buscando el recibo de compra.",
+      "translation": "I am looking for the shopping receipt.",
+      "example": "Estoy buscando el recibo de compra."
+    },
+    {
+      "id": "es-shopping-a1-a2-021",
+      "word": "¿Dónde puedo encontrar esta camisa azul?",
+      "translation": "Where can I find this blue shirt?",
+      "example": "¿Dónde puedo encontrar esta camisa azul?"
+    },
+    {
+      "id": "es-shopping-a1-a2-022",
+      "word": "¿Dónde puedo encontrar una talla más pequeña?",
+      "translation": "Where can I find a smaller size?",
+      "example": "¿Dónde puedo encontrar una talla más pequeña?"
+    },
+    {
+      "id": "es-shopping-a1-a2-023",
+      "word": "¿Dónde puedo encontrar el pan fresco?",
+      "translation": "Where can I find the fresh bread?",
+      "example": "¿Dónde puedo encontrar el pan fresco?"
+    },
+    {
+      "id": "es-shopping-a1-a2-024",
+      "word": "¿Dónde puedo encontrar un billete de autobús?",
+      "translation": "Where can I find a bus ticket?",
+      "example": "¿Dónde puedo encontrar un billete de autobús?"
+    },
+    {
+      "id": "es-shopping-a1-a2-025",
+      "word": "¿Dónde puedo encontrar el precio total?",
+      "translation": "Where can I find the total price?",
+      "example": "¿Dónde puedo encontrar el precio total?"
+    },
+    {
+      "id": "es-shopping-a1-a2-026",
+      "word": "¿Dónde puedo encontrar el pago con tarjeta?",
+      "translation": "Where can I find the card payment?",
+      "example": "¿Dónde puedo encontrar el pago con tarjeta?"
+    },
+    {
+      "id": "es-shopping-a1-a2-027",
+      "word": "¿Dónde puedo encontrar el probador?",
+      "translation": "Where can I find the changing room?",
+      "example": "¿Dónde puedo encontrar el probador?"
+    },
+    {
+      "id": "es-shopping-a1-a2-028",
+      "word": "¿Dónde puedo encontrar la oficina de correos?",
+      "translation": "Where can I find the post office?",
+      "example": "¿Dónde puedo encontrar la oficina de correos?"
+    },
+    {
+      "id": "es-shopping-a1-a2-029",
+      "word": "¿Dónde puedo encontrar la peluquería?",
+      "translation": "Where can I find the hairdresser?",
+      "example": "¿Dónde puedo encontrar la peluquería?"
+    },
+    {
+      "id": "es-shopping-a1-a2-030",
+      "word": "¿Dónde puedo encontrar el recibo de compra?",
+      "translation": "Where can I find the shopping receipt?",
+      "example": "¿Dónde puedo encontrar el recibo de compra?"
+    },
+    {
+      "id": "es-shopping-a1-a2-031",
+      "word": "Quisiera esta camisa azul, por favor.",
+      "translation": "I would like this blue shirt, please.",
+      "example": "Quisiera esta camisa azul, por favor."
+    },
+    {
+      "id": "es-shopping-a1-a2-032",
+      "word": "Quisiera una talla más pequeña, por favor.",
+      "translation": "I would like a smaller size, please.",
+      "example": "Quisiera una talla más pequeña, por favor."
+    },
+    {
+      "id": "es-shopping-a1-a2-033",
+      "word": "Quisiera el pan fresco, por favor.",
+      "translation": "I would like the fresh bread, please.",
+      "example": "Quisiera el pan fresco, por favor."
+    },
+    {
+      "id": "es-shopping-a1-a2-034",
+      "word": "Quisiera un billete de autobús, por favor.",
+      "translation": "I would like a bus ticket, please.",
+      "example": "Quisiera un billete de autobús, por favor."
+    },
+    {
+      "id": "es-shopping-a1-a2-035",
+      "word": "Quisiera el precio total, por favor.",
+      "translation": "I would like the total price, please.",
+      "example": "Quisiera el precio total, por favor."
+    },
+    {
+      "id": "es-shopping-a1-a2-036",
+      "word": "Quisiera el pago con tarjeta, por favor.",
+      "translation": "I would like the card payment, please.",
+      "example": "Quisiera el pago con tarjeta, por favor."
+    },
+    {
+      "id": "es-shopping-a1-a2-037",
+      "word": "Quisiera el probador, por favor.",
+      "translation": "I would like the changing room, please.",
+      "example": "Quisiera el probador, por favor."
+    },
+    {
+      "id": "es-shopping-a1-a2-038",
+      "word": "Quisiera la oficina de correos, por favor.",
+      "translation": "I would like the post office, please.",
+      "example": "Quisiera la oficina de correos, por favor."
+    },
+    {
+      "id": "es-shopping-a1-a2-039",
+      "word": "Quisiera la peluquería, por favor.",
+      "translation": "I would like the hairdresser, please.",
+      "example": "Quisiera la peluquería, por favor."
+    },
+    {
+      "id": "es-shopping-a1-a2-040",
+      "word": "Quisiera el recibo de compra, por favor.",
+      "translation": "I would like the shopping receipt, please.",
+      "example": "Quisiera el recibo de compra, por favor."
+    },
+    {
+      "id": "es-shopping-a1-a2-041",
+      "word": "¿Tiene esta camisa azul?",
+      "translation": "Do you have this blue shirt?",
+      "example": "¿Tiene esta camisa azul?"
+    },
+    {
+      "id": "es-shopping-a1-a2-042",
+      "word": "¿Tiene una talla más pequeña?",
+      "translation": "Do you have a smaller size?",
+      "example": "¿Tiene una talla más pequeña?"
+    },
+    {
+      "id": "es-shopping-a1-a2-043",
+      "word": "¿Tiene el pan fresco?",
+      "translation": "Do you have the fresh bread?",
+      "example": "¿Tiene el pan fresco?"
+    },
+    {
+      "id": "es-shopping-a1-a2-044",
+      "word": "¿Tiene un billete de autobús?",
+      "translation": "Do you have a bus ticket?",
+      "example": "¿Tiene un billete de autobús?"
+    },
+    {
+      "id": "es-shopping-a1-a2-045",
+      "word": "¿Tiene el precio total?",
+      "translation": "Do you have the total price?",
+      "example": "¿Tiene el precio total?"
+    },
+    {
+      "id": "es-shopping-a1-a2-046",
+      "word": "¿Tiene el pago con tarjeta?",
+      "translation": "Do you have the card payment?",
+      "example": "¿Tiene el pago con tarjeta?"
+    },
+    {
+      "id": "es-shopping-a1-a2-047",
+      "word": "¿Tiene el probador?",
+      "translation": "Do you have the changing room?",
+      "example": "¿Tiene el probador?"
+    },
+    {
+      "id": "es-shopping-a1-a2-048",
+      "word": "¿Tiene la oficina de correos?",
+      "translation": "Do you have the post office?",
+      "example": "¿Tiene la oficina de correos?"
+    },
+    {
+      "id": "es-shopping-a1-a2-049",
+      "word": "¿Tiene la peluquería?",
+      "translation": "Do you have the hairdresser?",
+      "example": "¿Tiene la peluquería?"
+    },
+    {
+      "id": "es-shopping-a1-a2-050",
+      "word": "¿Tiene el recibo de compra?",
+      "translation": "Do you have the shopping receipt?",
+      "example": "¿Tiene el recibo de compra?"
+    },
+    {
+      "id": "es-shopping-a1-a2-051",
+      "word": "¿Puedo pagar esta camisa azul aquí?",
+      "translation": "Can I pay for this blue shirt here?",
+      "example": "¿Puedo pagar esta camisa azul aquí?"
+    },
+    {
+      "id": "es-shopping-a1-a2-052",
+      "word": "¿Puedo pagar una talla más pequeña aquí?",
+      "translation": "Can I pay for a smaller size here?",
+      "example": "¿Puedo pagar una talla más pequeña aquí?"
+    },
+    {
+      "id": "es-shopping-a1-a2-053",
+      "word": "¿Puedo pagar el pan fresco aquí?",
+      "translation": "Can I pay for the fresh bread here?",
+      "example": "¿Puedo pagar el pan fresco aquí?"
+    },
+    {
+      "id": "es-shopping-a1-a2-054",
+      "word": "¿Puedo pagar un billete de autobús aquí?",
+      "translation": "Can I pay for a bus ticket here?",
+      "example": "¿Puedo pagar un billete de autobús aquí?"
+    },
+    {
+      "id": "es-shopping-a1-a2-055",
+      "word": "¿Puedo pagar el precio total aquí?",
+      "translation": "Can I pay for the total price here?",
+      "example": "¿Puedo pagar el precio total aquí?"
+    },
+    {
+      "id": "es-shopping-a1-a2-056",
+      "word": "¿Puedo pagar el pago con tarjeta aquí?",
+      "translation": "Can I pay for the card payment here?",
+      "example": "¿Puedo pagar el pago con tarjeta aquí?"
+    },
+    {
+      "id": "es-shopping-a1-a2-057",
+      "word": "¿Puedo pagar el probador aquí?",
+      "translation": "Can I pay for the changing room here?",
+      "example": "¿Puedo pagar el probador aquí?"
+    },
+    {
+      "id": "es-shopping-a1-a2-058",
+      "word": "¿Puedo pagar la oficina de correos aquí?",
+      "translation": "Can I pay for the post office here?",
+      "example": "¿Puedo pagar la oficina de correos aquí?"
+    },
+    {
+      "id": "es-shopping-a1-a2-059",
+      "word": "¿Puedo pagar la peluquería aquí?",
+      "translation": "Can I pay for the hairdresser here?",
+      "example": "¿Puedo pagar la peluquería aquí?"
+    },
+    {
+      "id": "es-shopping-a1-a2-060",
+      "word": "¿Puedo pagar el recibo de compra aquí?",
+      "translation": "Can I pay for the shopping receipt here?",
+      "example": "¿Puedo pagar el recibo de compra aquí?"
+    },
+    {
+      "id": "es-shopping-a1-a2-061",
+      "word": "Necesito ayuda con esta camisa azul.",
+      "translation": "I need help with this blue shirt.",
+      "example": "Necesito ayuda con esta camisa azul."
+    },
+    {
+      "id": "es-shopping-a1-a2-062",
+      "word": "Necesito ayuda con una talla más pequeña.",
+      "translation": "I need help with a smaller size.",
+      "example": "Necesito ayuda con una talla más pequeña."
+    },
+    {
+      "id": "es-shopping-a1-a2-063",
+      "word": "Necesito ayuda con el pan fresco.",
+      "translation": "I need help with the fresh bread.",
+      "example": "Necesito ayuda con el pan fresco."
+    },
+    {
+      "id": "es-shopping-a1-a2-064",
+      "word": "Necesito ayuda con un billete de autobús.",
+      "translation": "I need help with a bus ticket.",
+      "example": "Necesito ayuda con un billete de autobús."
+    },
+    {
+      "id": "es-shopping-a1-a2-065",
+      "word": "Necesito ayuda con el precio total.",
+      "translation": "I need help with the total price.",
+      "example": "Necesito ayuda con el precio total."
+    },
+    {
+      "id": "es-shopping-a1-a2-066",
+      "word": "Necesito ayuda con el pago con tarjeta.",
+      "translation": "I need help with the card payment.",
+      "example": "Necesito ayuda con el pago con tarjeta."
+    },
+    {
+      "id": "es-shopping-a1-a2-067",
+      "word": "Necesito ayuda con el probador.",
+      "translation": "I need help with the changing room.",
+      "example": "Necesito ayuda con el probador."
+    },
+    {
+      "id": "es-shopping-a1-a2-068",
+      "word": "Necesito ayuda con la oficina de correos.",
+      "translation": "I need help with the post office.",
+      "example": "Necesito ayuda con la oficina de correos."
+    },
+    {
+      "id": "es-shopping-a1-a2-069",
+      "word": "Necesito ayuda con la peluquería.",
+      "translation": "I need help with the hairdresser.",
+      "example": "Necesito ayuda con la peluquería."
+    },
+    {
+      "id": "es-shopping-a1-a2-070",
+      "word": "Necesito ayuda con el recibo de compra.",
+      "translation": "I need help with the shopping receipt.",
+      "example": "Necesito ayuda con el recibo de compra."
+    },
+    {
+      "id": "es-shopping-a1-a2-071",
+      "word": "¿Está disponible esta camisa azul hoy?",
+      "translation": "Is this blue shirt available today?",
+      "example": "¿Está disponible esta camisa azul hoy?"
+    },
+    {
+      "id": "es-shopping-a1-a2-072",
+      "word": "¿Está disponible una talla más pequeña hoy?",
+      "translation": "Is a smaller size available today?",
+      "example": "¿Está disponible una talla más pequeña hoy?"
+    },
+    {
+      "id": "es-shopping-a1-a2-073",
+      "word": "¿Está disponible el pan fresco hoy?",
+      "translation": "Is the fresh bread available today?",
+      "example": "¿Está disponible el pan fresco hoy?"
+    },
+    {
+      "id": "es-shopping-a1-a2-074",
+      "word": "¿Está disponible un billete de autobús hoy?",
+      "translation": "Is a bus ticket available today?",
+      "example": "¿Está disponible un billete de autobús hoy?"
+    },
+    {
+      "id": "es-shopping-a1-a2-075",
+      "word": "¿Está disponible el precio total hoy?",
+      "translation": "Is the total price available today?",
+      "example": "¿Está disponible el precio total hoy?"
+    },
+    {
+      "id": "es-shopping-a1-a2-076",
+      "word": "¿Está disponible el pago con tarjeta hoy?",
+      "translation": "Is the card payment available today?",
+      "example": "¿Está disponible el pago con tarjeta hoy?"
+    },
+    {
+      "id": "es-shopping-a1-a2-077",
+      "word": "¿Está disponible el probador hoy?",
+      "translation": "Is the changing room available today?",
+      "example": "¿Está disponible el probador hoy?"
+    },
+    {
+      "id": "es-shopping-a1-a2-078",
+      "word": "¿Está disponible la oficina de correos hoy?",
+      "translation": "Is the post office available today?",
+      "example": "¿Está disponible la oficina de correos hoy?"
+    },
+    {
+      "id": "es-shopping-a1-a2-079",
+      "word": "¿Está disponible la peluquería hoy?",
+      "translation": "Is the hairdresser available today?",
+      "example": "¿Está disponible la peluquería hoy?"
+    },
+    {
+      "id": "es-shopping-a1-a2-080",
+      "word": "¿Está disponible el recibo de compra hoy?",
+      "translation": "Is the shopping receipt available today?",
+      "example": "¿Está disponible el recibo de compra hoy?"
+    },
+    {
+      "id": "es-shopping-a1-a2-081",
+      "word": "¿Podría enseñarme esta camisa azul?",
+      "translation": "Could you show me this blue shirt?",
+      "example": "¿Podría enseñarme esta camisa azul?"
+    },
+    {
+      "id": "es-shopping-a1-a2-082",
+      "word": "¿Podría enseñarme una talla más pequeña?",
+      "translation": "Could you show me a smaller size?",
+      "example": "¿Podría enseñarme una talla más pequeña?"
+    },
+    {
+      "id": "es-shopping-a1-a2-083",
+      "word": "¿Podría enseñarme el pan fresco?",
+      "translation": "Could you show me the fresh bread?",
+      "example": "¿Podría enseñarme el pan fresco?"
+    },
+    {
+      "id": "es-shopping-a1-a2-084",
+      "word": "¿Podría enseñarme un billete de autobús?",
+      "translation": "Could you show me a bus ticket?",
+      "example": "¿Podría enseñarme un billete de autobús?"
+    },
+    {
+      "id": "es-shopping-a1-a2-085",
+      "word": "¿Podría enseñarme el precio total?",
+      "translation": "Could you show me the total price?",
+      "example": "¿Podría enseñarme el precio total?"
+    },
+    {
+      "id": "es-shopping-a1-a2-086",
+      "word": "¿Podría enseñarme el pago con tarjeta?",
+      "translation": "Could you show me the card payment?",
+      "example": "¿Podría enseñarme el pago con tarjeta?"
+    },
+    {
+      "id": "es-shopping-a1-a2-087",
+      "word": "¿Podría enseñarme el probador?",
+      "translation": "Could you show me the changing room?",
+      "example": "¿Podría enseñarme el probador?"
+    },
+    {
+      "id": "es-shopping-a1-a2-088",
+      "word": "¿Podría enseñarme la oficina de correos?",
+      "translation": "Could you show me the post office?",
+      "example": "¿Podría enseñarme la oficina de correos?"
+    },
+    {
+      "id": "es-shopping-a1-a2-089",
+      "word": "¿Podría enseñarme la peluquería?",
+      "translation": "Could you show me the hairdresser?",
+      "example": "¿Podría enseñarme la peluquería?"
+    },
+    {
+      "id": "es-shopping-a1-a2-090",
+      "word": "¿Podría enseñarme el recibo de compra?",
+      "translation": "Could you show me the shopping receipt?",
+      "example": "¿Podría enseñarme el recibo de compra?"
+    },
+    {
+      "id": "es-shopping-a1-a2-091",
+      "word": "Tengo una pregunta sobre esta camisa azul.",
+      "translation": "I have a question about this blue shirt.",
+      "example": "Tengo una pregunta sobre esta camisa azul."
+    },
+    {
+      "id": "es-shopping-a1-a2-092",
+      "word": "Tengo una pregunta sobre una talla más pequeña.",
+      "translation": "I have a question about a smaller size.",
+      "example": "Tengo una pregunta sobre una talla más pequeña."
+    },
+    {
+      "id": "es-shopping-a1-a2-093",
+      "word": "Tengo una pregunta sobre el pan fresco.",
+      "translation": "I have a question about the fresh bread.",
+      "example": "Tengo una pregunta sobre el pan fresco."
+    },
+    {
+      "id": "es-shopping-a1-a2-094",
+      "word": "Tengo una pregunta sobre un billete de autobús.",
+      "translation": "I have a question about a bus ticket.",
+      "example": "Tengo una pregunta sobre un billete de autobús."
+    },
+    {
+      "id": "es-shopping-a1-a2-095",
+      "word": "Tengo una pregunta sobre el precio total.",
+      "translation": "I have a question about the total price.",
+      "example": "Tengo una pregunta sobre el precio total."
+    },
+    {
+      "id": "es-shopping-a1-a2-096",
+      "word": "Tengo una pregunta sobre el pago con tarjeta.",
+      "translation": "I have a question about the card payment.",
+      "example": "Tengo una pregunta sobre el pago con tarjeta."
+    },
+    {
+      "id": "es-shopping-a1-a2-097",
+      "word": "Tengo una pregunta sobre el probador.",
+      "translation": "I have a question about the changing room.",
+      "example": "Tengo una pregunta sobre el probador."
+    },
+    {
+      "id": "es-shopping-a1-a2-098",
+      "word": "Tengo una pregunta sobre la oficina de correos.",
+      "translation": "I have a question about the post office.",
+      "example": "Tengo una pregunta sobre la oficina de correos."
+    },
+    {
+      "id": "es-shopping-a1-a2-099",
+      "word": "Tengo una pregunta sobre la peluquería.",
+      "translation": "I have a question about the hairdresser.",
+      "example": "Tengo una pregunta sobre la peluquería."
+    },
+    {
+      "id": "es-shopping-a1-a2-100",
+      "word": "Tengo una pregunta sobre el recibo de compra.",
+      "translation": "I have a question about the shopping receipt.",
+      "example": "Tengo una pregunta sobre el recibo de compra."
+    }
+  ]
+}
