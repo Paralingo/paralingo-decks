@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-it-nature-c1-c2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "nature",
+  "categoryTitle": "Nature & Environment",
+  "title": "Nature & Environment",
+  "level": "C1-C2",
+  "emoji": "🌿",
+  "description": "Analyze climate policy, ecosystems, environmental justice, and complex sustainability transitions.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-nature-c1-c2-001",
+      "word": "I dibattiti politici su l'adattamento climatico richiedono cultura scientifica.",
+      "translation": "Policy debates about climate adaptation require scientific literacy.",
+      "example": "I dibattiti politici su l'adattamento climatico richiedono cultura scientifica."
+    },
+    {
+      "id": "it-nature-c1-c2-002",
+      "word": "I dibattiti politici su la perdita di biodiversità richiedono cultura scientifica.",
+      "translation": "Policy debates about biodiversity loss require scientific literacy.",
+      "example": "I dibattiti politici su la perdita di biodiversità richiedono cultura scientifica."
+    },
+    {
+      "id": "it-nature-c1-c2-003",
+      "word": "I dibattiti politici su la giustizia ambientale richiedono cultura scientifica.",
+      "translation": "Policy debates about environmental justice require scientific literacy.",
+      "example": "I dibattiti politici su la giustizia ambientale richiedono cultura scientifica."
+    },
+    {
+      "id": "it-nature-c1-c2-004",
+      "word": "I dibattiti politici su il ripristino degli ecosistemi richiedono cultura scientifica.",
+      "translation": "Policy debates about ecosystem restoration require scientific literacy.",
+      "example": "I dibattiti politici su il ripristino degli ecosistemi richiedono cultura scientifica."
+    },
+    {
+      "id": "it-nature-c1-c2-005",
+      "word": "I dibattiti politici su la tariffazione del carbonio richiedono cultura scientifica.",
+      "translation": "Policy debates about carbon pricing require scientific literacy.",
+      "example": "I dibattiti politici su la tariffazione del carbonio richiedono cultura scientifica."
+    },
+    {
+      "id": "it-nature-c1-c2-006",
+      "word": "I dibattiti politici su la transizione energetica richiedono cultura scientifica.",
+      "translation": "Policy debates about the energy transition require scientific literacy.",
+      "example": "I dibattiti politici su la transizione energetica richiedono cultura scientifica."
+    },
+    {
+      "id": "it-nature-c1-c2-007",
+      "word": "I dibattiti politici su i limiti planetari richiedono cultura scientifica.",
+      "translation": "Policy debates about planetary boundaries require scientific literacy.",
+      "example": "I dibattiti politici su i limiti planetari richiedono cultura scientifica."
+    },
+    {
+      "id": "it-nature-c1-c2-008",
+      "word": "I dibattiti politici su la migrazione climatica richiedono cultura scientifica.",
+      "translation": "Policy debates about climate migration require scientific literacy.",
+      "example": "I dibattiti politici su la migrazione climatica richiedono cultura scientifica."
+    },
+    {
+      "id": "it-nature-c1-c2-009",
+      "word": "I dibattiti politici su le soluzioni basate sulla natura richiedono cultura scientifica.",
+      "translation": "Policy debates about nature-based solutions require scientific literacy.",
+      "example": "I dibattiti politici su le soluzioni basate sulla natura richiedono cultura scientifica."
+    },
+    {
+      "id": "it-nature-c1-c2-010",
+      "word": "I dibattiti politici su la responsabilità intergenerazionale richiedono cultura scientifica.",
+      "translation": "Policy debates about intergenerational responsibility require scientific literacy.",
+      "example": "I dibattiti politici su la responsabilità intergenerazionale richiedono cultura scientifica."
+    },
+    {
+      "id": "it-nature-c1-c2-011",
+      "word": "Gli effetti distributivi di l'adattamento climatico meritano un esame più attento.",
+      "translation": "The distributional effects of climate adaptation deserve closer scrutiny.",
+      "example": "Gli effetti distributivi di l'adattamento climatico meritano un esame più attento."
+    },
+    {
+      "id": "it-nature-c1-c2-012",
+      "word": "Gli effetti distributivi di la perdita di biodiversità meritano un esame più attento.",
+      "translation": "The distributional effects of biodiversity loss deserve closer scrutiny.",
+      "example": "Gli effetti distributivi di la perdita di biodiversità meritano un esame più attento."
+    },
+    {
+      "id": "it-nature-c1-c2-013",
+      "word": "Gli effetti distributivi di la giustizia ambientale meritano un esame più attento.",
+      "translation": "The distributional effects of environmental justice deserve closer scrutiny.",
+      "example": "Gli effetti distributivi di la giustizia ambientale meritano un esame più attento."
+    },
+    {
+      "id": "it-nature-c1-c2-014",
+      "word": "Gli effetti distributivi di il ripristino degli ecosistemi meritano un esame più attento.",
+      "translation": "The distributional effects of ecosystem restoration deserve closer scrutiny.",
+      "example": "Gli effetti distributivi di il ripristino degli ecosistemi meritano un esame più attento."
+    },
+    {
+      "id": "it-nature-c1-c2-015",
+      "word": "Gli effetti distributivi di la tariffazione del carbonio meritano un esame più attento.",
+      "translation": "The distributional effects of carbon pricing deserve closer scrutiny.",
+      "example": "Gli effetti distributivi di la tariffazione del carbonio meritano un esame più attento."
+    },
+    {
+      "id": "it-nature-c1-c2-016",
+      "word": "Gli effetti distributivi di la transizione energetica meritano un esame più attento.",
+      "translation": "The distributional effects of the energy transition deserve closer scrutiny.",
+      "example": "Gli effetti distributivi di la transizione energetica meritano un esame più attento."
+    },
+    {
+      "id": "it-nature-c1-c2-017",
+      "word": "Gli effetti distributivi di i limiti planetari meritano un esame più attento.",
+      "translation": "The distributional effects of planetary boundaries deserve closer scrutiny.",
+      "example": "Gli effetti distributivi di i limiti planetari meritano un esame più attento."
+    },
+    {
+      "id": "it-nature-c1-c2-018",
+      "word": "Gli effetti distributivi di la migrazione climatica meritano un esame più attento.",
+      "translation": "The distributional effects of climate migration deserve closer scrutiny.",
+      "example": "Gli effetti distributivi di la migrazione climatica meritano un esame più attento."
+    },
+    {
+      "id": "it-nature-c1-c2-019",
+      "word": "Gli effetti distributivi di le soluzioni basate sulla natura meritano un esame più attento.",
+      "translation": "The distributional effects of nature-based solutions deserve closer scrutiny.",
+      "example": "Gli effetti distributivi di le soluzioni basate sulla natura meritano un esame più attento."
+    },
+    {
+      "id": "it-nature-c1-c2-020",
+      "word": "Gli effetti distributivi di la responsabilità intergenerazionale meritano un esame più attento.",
+      "translation": "The distributional effects of intergenerational responsibility deserve closer scrutiny.",
+      "example": "Gli effetti distributivi di la responsabilità intergenerazionale meritano un esame più attento."
+    },
+    {
+      "id": "it-nature-c1-c2-021",
+      "word": "I progressi concreti su l'adattamento climatico dipendono da riforme istituzionali.",
+      "translation": "Meaningful progress on climate adaptation depends on institutional reform.",
+      "example": "I progressi concreti su l'adattamento climatico dipendono da riforme istituzionali."
+    },
+    {
+      "id": "it-nature-c1-c2-022",
+      "word": "I progressi concreti su la perdita di biodiversità dipendono da riforme istituzionali.",
+      "translation": "Meaningful progress on biodiversity loss depends on institutional reform.",
+      "example": "I progressi concreti su la perdita di biodiversità dipendono da riforme istituzionali."
+    },
+    {
+      "id": "it-nature-c1-c2-023",
+      "word": "I progressi concreti su la giustizia ambientale dipendono da riforme istituzionali.",
+      "translation": "Meaningful progress on environmental justice depends on institutional reform.",
+      "example": "I progressi concreti su la giustizia ambientale dipendono da riforme istituzionali."
+    },
+    {
+      "id": "it-nature-c1-c2-024",
+      "word": "I progressi concreti su il ripristino degli ecosistemi dipendono da riforme istituzionali.",
+      "translation": "Meaningful progress on ecosystem restoration depends on institutional reform.",
+      "example": "I progressi concreti su il ripristino degli ecosistemi dipendono da riforme istituzionali."
+    },
+    {
+      "id": "it-nature-c1-c2-025",
+      "word": "I progressi concreti su la tariffazione del carbonio dipendono da riforme istituzionali.",
+      "translation": "Meaningful progress on carbon pricing depends on institutional reform.",
+      "example": "I progressi concreti su la tariffazione del carbonio dipendono da riforme istituzionali."
+    },
+    {
+      "id": "it-nature-c1-c2-026",
+      "word": "I progressi concreti su la transizione energetica dipendono da riforme istituzionali.",
+      "translation": "Meaningful progress on the energy transition depends on institutional reform.",
+      "example": "I progressi concreti su la transizione energetica dipendono da riforme istituzionali."
+    },
+    {
+      "id": "it-nature-c1-c2-027",
+      "word": "I progressi concreti su i limiti planetari dipendono da riforme istituzionali.",
+      "translation": "Meaningful progress on planetary boundaries depends on institutional reform.",
+      "example": "I progressi concreti su i limiti planetari dipendono da riforme istituzionali."
+    },
+    {
+      "id": "it-nature-c1-c2-028",
+      "word": "I progressi concreti su la migrazione climatica dipendono da riforme istituzionali.",
+      "translation": "Meaningful progress on climate migration depends on institutional reform.",
+      "example": "I progressi concreti su la migrazione climatica dipendono da riforme istituzionali."
+    },
+    {
+      "id": "it-nature-c1-c2-029",
+      "word": "I progressi concreti su le soluzioni basate sulla natura dipendono da riforme istituzionali.",
+      "translation": "Meaningful progress on nature-based solutions depends on institutional reform.",
+      "example": "I progressi concreti su le soluzioni basate sulla natura dipendono da riforme istituzionali."
+    },
+    {
+      "id": "it-nature-c1-c2-030",
+      "word": "I progressi concreti su la responsabilità intergenerazionale dipendono da riforme istituzionali.",
+      "translation": "Meaningful progress on intergenerational responsibility depends on institutional reform.",
+      "example": "I progressi concreti su la responsabilità intergenerazionale dipendono da riforme istituzionali."
+    },
+    {
+      "id": "it-nature-c1-c2-031",
+      "word": "Un'analisi economica ristretta di l'adattamento climatico può essere fuorviante.",
+      "translation": "A narrow economic analysis of climate adaptation can be misleading.",
+      "example": "Un'analisi economica ristretta di l'adattamento climatico può essere fuorviante."
+    },
+    {
+      "id": "it-nature-c1-c2-032",
+      "word": "Un'analisi economica ristretta di la perdita di biodiversità può essere fuorviante.",
+      "translation": "A narrow economic analysis of biodiversity loss can be misleading.",
+      "example": "Un'analisi economica ristretta di la perdita di biodiversità può essere fuorviante."
+    },
+    {
+      "id": "it-nature-c1-c2-033",
+      "word": "Un'analisi economica ristretta di la giustizia ambientale può essere fuorviante.",
+      "translation": "A narrow economic analysis of environmental justice can be misleading.",
+      "example": "Un'analisi economica ristretta di la giustizia ambientale può essere fuorviante."
+    },
+    {
+      "id": "it-nature-c1-c2-034",
+      "word": "Un'analisi economica ristretta di il ripristino degli ecosistemi può essere fuorviante.",
+      "translation": "A narrow economic analysis of ecosystem restoration can be misleading.",
+      "example": "Un'analisi economica ristretta di il ripristino degli ecosistemi può essere fuorviante."
+    },
+    {
+      "id": "it-nature-c1-c2-035",
+      "word": "Un'analisi economica ristretta di la tariffazione del carbonio può essere fuorviante.",
+      "translation": "A narrow economic analysis of carbon pricing can be misleading.",
+      "example": "Un'analisi economica ristretta di la tariffazione del carbonio può essere fuorviante."
+    },
+    {
+      "id": "it-nature-c1-c2-036",
+      "word": "Un'analisi economica ristretta di la transizione energetica può essere fuorviante.",
+      "translation": "A narrow economic analysis of the energy transition can be misleading.",
+      "example": "Un'analisi economica ristretta di la transizione energetica può essere fuorviante."
+    },
+    {
+      "id": "it-nature-c1-c2-037",
+      "word": "Un'analisi economica ristretta di i limiti planetari può essere fuorviante.",
+      "translation": "A narrow economic analysis of planetary boundaries can be misleading.",
+      "example": "Un'analisi economica ristretta di i limiti planetari può essere fuorviante."
+    },
+    {
+      "id": "it-nature-c1-c2-038",
+      "word": "Un'analisi economica ristretta di la migrazione climatica può essere fuorviante.",
+      "translation": "A narrow economic analysis of climate migration can be misleading.",
+      "example": "Un'analisi economica ristretta di la migrazione climatica può essere fuorviante."
+    },
+    {
+      "id": "it-nature-c1-c2-039",
+      "word": "Un'analisi economica ristretta di le soluzioni basate sulla natura può essere fuorviante.",
+      "translation": "A narrow economic analysis of nature-based solutions can be misleading.",
+      "example": "Un'analisi economica ristretta di le soluzioni basate sulla natura può essere fuorviante."
+    },
+    {
+      "id": "it-nature-c1-c2-040",
+      "word": "Un'analisi economica ristretta di la responsabilità intergenerazionale può essere fuorviante.",
+      "translation": "A narrow economic analysis of intergenerational responsibility can be misleading.",
+      "example": "Un'analisi economica ristretta di la responsabilità intergenerazionale può essere fuorviante."
+    },
+    {
+      "id": "it-nature-c1-c2-041",
+      "word": "La partecipazione pubblica dovrebbe orientare le decisioni su l'adattamento climatico.",
+      "translation": "Public participation should shape decisions about climate adaptation.",
+      "example": "La partecipazione pubblica dovrebbe orientare le decisioni su l'adattamento climatico."
+    },
+    {
+      "id": "it-nature-c1-c2-042",
+      "word": "La partecipazione pubblica dovrebbe orientare le decisioni su la perdita di biodiversità.",
+      "translation": "Public participation should shape decisions about biodiversity loss.",
+      "example": "La partecipazione pubblica dovrebbe orientare le decisioni su la perdita di biodiversità."
+    },
+    {
+      "id": "it-nature-c1-c2-043",
+      "word": "La partecipazione pubblica dovrebbe orientare le decisioni su la giustizia ambientale.",
+      "translation": "Public participation should shape decisions about environmental justice.",
+      "example": "La partecipazione pubblica dovrebbe orientare le decisioni su la giustizia ambientale."
+    },
+    {
+      "id": "it-nature-c1-c2-044",
+      "word": "La partecipazione pubblica dovrebbe orientare le decisioni su il ripristino degli ecosistemi.",
+      "translation": "Public participation should shape decisions about ecosystem restoration.",
+      "example": "La partecipazione pubblica dovrebbe orientare le decisioni su il ripristino degli ecosistemi."
+    },
+    {
+      "id": "it-nature-c1-c2-045",
+      "word": "La partecipazione pubblica dovrebbe orientare le decisioni su la tariffazione del carbonio.",
+      "translation": "Public participation should shape decisions about carbon pricing.",
+      "example": "La partecipazione pubblica dovrebbe orientare le decisioni su la tariffazione del carbonio."
+    },
+    {
+      "id": "it-nature-c1-c2-046",
+      "word": "La partecipazione pubblica dovrebbe orientare le decisioni su la transizione energetica.",
+      "translation": "Public participation should shape decisions about the energy transition.",
+      "example": "La partecipazione pubblica dovrebbe orientare le decisioni su la transizione energetica."
+    },
+    {
+      "id": "it-nature-c1-c2-047",
+      "word": "La partecipazione pubblica dovrebbe orientare le decisioni su i limiti planetari.",
+      "translation": "Public participation should shape decisions about planetary boundaries.",
+      "example": "La partecipazione pubblica dovrebbe orientare le decisioni su i limiti planetari."
+    },
+    {
+      "id": "it-nature-c1-c2-048",
+      "word": "La partecipazione pubblica dovrebbe orientare le decisioni su la migrazione climatica.",
+      "translation": "Public participation should shape decisions about climate migration.",
+      "example": "La partecipazione pubblica dovrebbe orientare le decisioni su la migrazione climatica."
+    },
+    {
+      "id": "it-nature-c1-c2-049",
+      "word": "La partecipazione pubblica dovrebbe orientare le decisioni su le soluzioni basate sulla natura.",
+      "translation": "Public participation should shape decisions about nature-based solutions.",
+      "example": "La partecipazione pubblica dovrebbe orientare le decisioni su le soluzioni basate sulla natura."
+    },
+    {
+      "id": "it-nature-c1-c2-050",
+      "word": "La partecipazione pubblica dovrebbe orientare le decisioni su la responsabilità intergenerazionale.",
+      "translation": "Public participation should shape decisions about intergenerational responsibility.",
+      "example": "La partecipazione pubblica dovrebbe orientare le decisioni su la responsabilità intergenerazionale."
+    },
+    {
+      "id": "it-nature-c1-c2-051",
+      "word": "Le prove riguardo a l'adattamento climatico evolvono rapidamente.",
+      "translation": "The evidence regarding climate adaptation is evolving rapidly.",
+      "example": "Le prove riguardo a l'adattamento climatico evolvono rapidamente."
+    },
+    {
+      "id": "it-nature-c1-c2-052",
+      "word": "Le prove riguardo a la perdita di biodiversità evolvono rapidamente.",
+      "translation": "The evidence regarding biodiversity loss is evolving rapidly.",
+      "example": "Le prove riguardo a la perdita di biodiversità evolvono rapidamente."
+    },
+    {
+      "id": "it-nature-c1-c2-053",
+      "word": "Le prove riguardo a la giustizia ambientale evolvono rapidamente.",
+      "translation": "The evidence regarding environmental justice is evolving rapidly.",
+      "example": "Le prove riguardo a la giustizia ambientale evolvono rapidamente."
+    },
+    {
+      "id": "it-nature-c1-c2-054",
+      "word": "Le prove riguardo a il ripristino degli ecosistemi evolvono rapidamente.",
+      "translation": "The evidence regarding ecosystem restoration is evolving rapidly.",
+      "example": "Le prove riguardo a il ripristino degli ecosistemi evolvono rapidamente."
+    },
+    {
+      "id": "it-nature-c1-c2-055",
+      "word": "Le prove riguardo a la tariffazione del carbonio evolvono rapidamente.",
+      "translation": "The evidence regarding carbon pricing is evolving rapidly.",
+      "example": "Le prove riguardo a la tariffazione del carbonio evolvono rapidamente."
+    },
+    {
+      "id": "it-nature-c1-c2-056",
+      "word": "Le prove riguardo a la transizione energetica evolvono rapidamente.",
+      "translation": "The evidence regarding the energy transition is evolving rapidly.",
+      "example": "Le prove riguardo a la transizione energetica evolvono rapidamente."
+    },
+    {
+      "id": "it-nature-c1-c2-057",
+      "word": "Le prove riguardo a i limiti planetari evolvono rapidamente.",
+      "translation": "The evidence regarding planetary boundaries is evolving rapidly.",
+      "example": "Le prove riguardo a i limiti planetari evolvono rapidamente."
+    },
+    {
+      "id": "it-nature-c1-c2-058",
+      "word": "Le prove riguardo a la migrazione climatica evolvono rapidamente.",
+      "translation": "The evidence regarding climate migration is evolving rapidly.",
+      "example": "Le prove riguardo a la migrazione climatica evolvono rapidamente."
+    },
+    {
+      "id": "it-nature-c1-c2-059",
+      "word": "Le prove riguardo a le soluzioni basate sulla natura evolvono rapidamente.",
+      "translation": "The evidence regarding nature-based solutions is evolving rapidly.",
+      "example": "Le prove riguardo a le soluzioni basate sulla natura evolvono rapidamente."
+    },
+    {
+      "id": "it-nature-c1-c2-060",
+      "word": "Le prove riguardo a la responsabilità intergenerazionale evolvono rapidamente.",
+      "translation": "The evidence regarding intergenerational responsibility is evolving rapidly.",
+      "example": "Le prove riguardo a la responsabilità intergenerazionale evolvono rapidamente."
+    },
+    {
+      "id": "it-nature-c1-c2-061",
+      "word": "Il diritto internazionale può promuovere l'adattamento climatico.",
+      "translation": "International law has a role in advancing climate adaptation.",
+      "example": "Il diritto internazionale può promuovere l'adattamento climatico."
+    },
+    {
+      "id": "it-nature-c1-c2-062",
+      "word": "Il diritto internazionale può promuovere la perdita di biodiversità.",
+      "translation": "International law has a role in advancing biodiversity loss.",
+      "example": "Il diritto internazionale può promuovere la perdita di biodiversità."
+    },
+    {
+      "id": "it-nature-c1-c2-063",
+      "word": "Il diritto internazionale può promuovere la giustizia ambientale.",
+      "translation": "International law has a role in advancing environmental justice.",
+      "example": "Il diritto internazionale può promuovere la giustizia ambientale."
+    },
+    {
+      "id": "it-nature-c1-c2-064",
+      "word": "Il diritto internazionale può promuovere il ripristino degli ecosistemi.",
+      "translation": "International law has a role in advancing ecosystem restoration.",
+      "example": "Il diritto internazionale può promuovere il ripristino degli ecosistemi."
+    },
+    {
+      "id": "it-nature-c1-c2-065",
+      "word": "Il diritto internazionale può promuovere la tariffazione del carbonio.",
+      "translation": "International law has a role in advancing carbon pricing.",
+      "example": "Il diritto internazionale può promuovere la tariffazione del carbonio."
+    },
+    {
+      "id": "it-nature-c1-c2-066",
+      "word": "Il diritto internazionale può promuovere la transizione energetica.",
+      "translation": "International law has a role in advancing the energy transition.",
+      "example": "Il diritto internazionale può promuovere la transizione energetica."
+    },
+    {
+      "id": "it-nature-c1-c2-067",
+      "word": "Il diritto internazionale può promuovere i limiti planetari.",
+      "translation": "International law has a role in advancing planetary boundaries.",
+      "example": "Il diritto internazionale può promuovere i limiti planetari."
+    },
+    {
+      "id": "it-nature-c1-c2-068",
+      "word": "Il diritto internazionale può promuovere la migrazione climatica.",
+      "translation": "International law has a role in advancing climate migration.",
+      "example": "Il diritto internazionale può promuovere la migrazione climatica."
+    },
+    {
+      "id": "it-nature-c1-c2-069",
+      "word": "Il diritto internazionale può promuovere le soluzioni basate sulla natura.",
+      "translation": "International law has a role in advancing nature-based solutions.",
+      "example": "Il diritto internazionale può promuovere le soluzioni basate sulla natura."
+    },
+    {
+      "id": "it-nature-c1-c2-070",
+      "word": "Il diritto internazionale può promuovere la responsabilità intergenerazionale.",
+      "translation": "International law has a role in advancing intergenerational responsibility.",
+      "example": "Il diritto internazionale può promuovere la responsabilità intergenerazionale."
+    },
+    {
+      "id": "it-nature-c1-c2-071",
+      "word": "I critici sostengono che gli approcci attuali a l'adattamento climatico siano poco ambiziosi.",
+      "translation": "Critics argue that current approaches to climate adaptation lack ambition.",
+      "example": "I critici sostengono che gli approcci attuali a l'adattamento climatico siano poco ambiziosi."
+    },
+    {
+      "id": "it-nature-c1-c2-072",
+      "word": "I critici sostengono che gli approcci attuali a la perdita di biodiversità siano poco ambiziosi.",
+      "translation": "Critics argue that current approaches to biodiversity loss lack ambition.",
+      "example": "I critici sostengono che gli approcci attuali a la perdita di biodiversità siano poco ambiziosi."
+    },
+    {
+      "id": "it-nature-c1-c2-073",
+      "word": "I critici sostengono che gli approcci attuali a la giustizia ambientale siano poco ambiziosi.",
+      "translation": "Critics argue that current approaches to environmental justice lack ambition.",
+      "example": "I critici sostengono che gli approcci attuali a la giustizia ambientale siano poco ambiziosi."
+    },
+    {
+      "id": "it-nature-c1-c2-074",
+      "word": "I critici sostengono che gli approcci attuali a il ripristino degli ecosistemi siano poco ambiziosi.",
+      "translation": "Critics argue that current approaches to ecosystem restoration lack ambition.",
+      "example": "I critici sostengono che gli approcci attuali a il ripristino degli ecosistemi siano poco ambiziosi."
+    },
+    {
+      "id": "it-nature-c1-c2-075",
+      "word": "I critici sostengono che gli approcci attuali a la tariffazione del carbonio siano poco ambiziosi.",
+      "translation": "Critics argue that current approaches to carbon pricing lack ambition.",
+      "example": "I critici sostengono che gli approcci attuali a la tariffazione del carbonio siano poco ambiziosi."
+    },
+    {
+      "id": "it-nature-c1-c2-076",
+      "word": "I critici sostengono che gli approcci attuali a la transizione energetica siano poco ambiziosi.",
+      "translation": "Critics argue that current approaches to the energy transition lack ambition.",
+      "example": "I critici sostengono che gli approcci attuali a la transizione energetica siano poco ambiziosi."
+    },
+    {
+      "id": "it-nature-c1-c2-077",
+      "word": "I critici sostengono che gli approcci attuali a i limiti planetari siano poco ambiziosi.",
+      "translation": "Critics argue that current approaches to planetary boundaries lack ambition.",
+      "example": "I critici sostengono che gli approcci attuali a i limiti planetari siano poco ambiziosi."
+    },
+    {
+      "id": "it-nature-c1-c2-078",
+      "word": "I critici sostengono che gli approcci attuali a la migrazione climatica siano poco ambiziosi.",
+      "translation": "Critics argue that current approaches to climate migration lack ambition.",
+      "example": "I critici sostengono che gli approcci attuali a la migrazione climatica siano poco ambiziosi."
+    },
+    {
+      "id": "it-nature-c1-c2-079",
+      "word": "I critici sostengono che gli approcci attuali a le soluzioni basate sulla natura siano poco ambiziosi.",
+      "translation": "Critics argue that current approaches to nature-based solutions lack ambition.",
+      "example": "I critici sostengono che gli approcci attuali a le soluzioni basate sulla natura siano poco ambiziosi."
+    },
+    {
+      "id": "it-nature-c1-c2-080",
+      "word": "I critici sostengono che gli approcci attuali a la responsabilità intergenerazionale siano poco ambiziosi.",
+      "translation": "Critics argue that current approaches to intergenerational responsibility lack ambition.",
+      "example": "I critici sostengono che gli approcci attuali a la responsabilità intergenerazionale siano poco ambiziosi."
+    },
+    {
+      "id": "it-nature-c1-c2-081",
+      "word": "Qualsiasi valutazione di l'adattamento climatico deve tenere conto dell'incertezza.",
+      "translation": "Any assessment of climate adaptation must account for uncertainty.",
+      "example": "Qualsiasi valutazione di l'adattamento climatico deve tenere conto dell'incertezza."
+    },
+    {
+      "id": "it-nature-c1-c2-082",
+      "word": "Qualsiasi valutazione di la perdita di biodiversità deve tenere conto dell'incertezza.",
+      "translation": "Any assessment of biodiversity loss must account for uncertainty.",
+      "example": "Qualsiasi valutazione di la perdita di biodiversità deve tenere conto dell'incertezza."
+    },
+    {
+      "id": "it-nature-c1-c2-083",
+      "word": "Qualsiasi valutazione di la giustizia ambientale deve tenere conto dell'incertezza.",
+      "translation": "Any assessment of environmental justice must account for uncertainty.",
+      "example": "Qualsiasi valutazione di la giustizia ambientale deve tenere conto dell'incertezza."
+    },
+    {
+      "id": "it-nature-c1-c2-084",
+      "word": "Qualsiasi valutazione di il ripristino degli ecosistemi deve tenere conto dell'incertezza.",
+      "translation": "Any assessment of ecosystem restoration must account for uncertainty.",
+      "example": "Qualsiasi valutazione di il ripristino degli ecosistemi deve tenere conto dell'incertezza."
+    },
+    {
+      "id": "it-nature-c1-c2-085",
+      "word": "Qualsiasi valutazione di la tariffazione del carbonio deve tenere conto dell'incertezza.",
+      "translation": "Any assessment of carbon pricing must account for uncertainty.",
+      "example": "Qualsiasi valutazione di la tariffazione del carbonio deve tenere conto dell'incertezza."
+    },
+    {
+      "id": "it-nature-c1-c2-086",
+      "word": "Qualsiasi valutazione di la transizione energetica deve tenere conto dell'incertezza.",
+      "translation": "Any assessment of the energy transition must account for uncertainty.",
+      "example": "Qualsiasi valutazione di la transizione energetica deve tenere conto dell'incertezza."
+    },
+    {
+      "id": "it-nature-c1-c2-087",
+      "word": "Qualsiasi valutazione di i limiti planetari deve tenere conto dell'incertezza.",
+      "translation": "Any assessment of planetary boundaries must account for uncertainty.",
+      "example": "Qualsiasi valutazione di i limiti planetari deve tenere conto dell'incertezza."
+    },
+    {
+      "id": "it-nature-c1-c2-088",
+      "word": "Qualsiasi valutazione di la migrazione climatica deve tenere conto dell'incertezza.",
+      "translation": "Any assessment of climate migration must account for uncertainty.",
+      "example": "Qualsiasi valutazione di la migrazione climatica deve tenere conto dell'incertezza."
+    },
+    {
+      "id": "it-nature-c1-c2-089",
+      "word": "Qualsiasi valutazione di le soluzioni basate sulla natura deve tenere conto dell'incertezza.",
+      "translation": "Any assessment of nature-based solutions must account for uncertainty.",
+      "example": "Qualsiasi valutazione di le soluzioni basate sulla natura deve tenere conto dell'incertezza."
+    },
+    {
+      "id": "it-nature-c1-c2-090",
+      "word": "Qualsiasi valutazione di la responsabilità intergenerazionale deve tenere conto dell'incertezza.",
+      "translation": "Any assessment of intergenerational responsibility must account for uncertainty.",
+      "example": "Qualsiasi valutazione di la responsabilità intergenerazionale deve tenere conto dell'incertezza."
+    },
+    {
+      "id": "it-nature-c1-c2-091",
+      "word": "Gli investimenti a lungo termine sono essenziali per l'adattamento climatico.",
+      "translation": "Long-term investment is essential for climate adaptation.",
+      "example": "Gli investimenti a lungo termine sono essenziali per l'adattamento climatico."
+    },
+    {
+      "id": "it-nature-c1-c2-092",
+      "word": "Gli investimenti a lungo termine sono essenziali per la perdita di biodiversità.",
+      "translation": "Long-term investment is essential for biodiversity loss.",
+      "example": "Gli investimenti a lungo termine sono essenziali per la perdita di biodiversità."
+    },
+    {
+      "id": "it-nature-c1-c2-093",
+      "word": "Gli investimenti a lungo termine sono essenziali per la giustizia ambientale.",
+      "translation": "Long-term investment is essential for environmental justice.",
+      "example": "Gli investimenti a lungo termine sono essenziali per la giustizia ambientale."
+    },
+    {
+      "id": "it-nature-c1-c2-094",
+      "word": "Gli investimenti a lungo termine sono essenziali per il ripristino degli ecosistemi.",
+      "translation": "Long-term investment is essential for ecosystem restoration.",
+      "example": "Gli investimenti a lungo termine sono essenziali per il ripristino degli ecosistemi."
+    },
+    {
+      "id": "it-nature-c1-c2-095",
+      "word": "Gli investimenti a lungo termine sono essenziali per la tariffazione del carbonio.",
+      "translation": "Long-term investment is essential for carbon pricing.",
+      "example": "Gli investimenti a lungo termine sono essenziali per la tariffazione del carbonio."
+    },
+    {
+      "id": "it-nature-c1-c2-096",
+      "word": "Gli investimenti a lungo termine sono essenziali per la transizione energetica.",
+      "translation": "Long-term investment is essential for the energy transition.",
+      "example": "Gli investimenti a lungo termine sono essenziali per la transizione energetica."
+    },
+    {
+      "id": "it-nature-c1-c2-097",
+      "word": "Gli investimenti a lungo termine sono essenziali per i limiti planetari.",
+      "translation": "Long-term investment is essential for planetary boundaries.",
+      "example": "Gli investimenti a lungo termine sono essenziali per i limiti planetari."
+    },
+    {
+      "id": "it-nature-c1-c2-098",
+      "word": "Gli investimenti a lungo termine sono essenziali per la migrazione climatica.",
+      "translation": "Long-term investment is essential for climate migration.",
+      "example": "Gli investimenti a lungo termine sono essenziali per la migrazione climatica."
+    },
+    {
+      "id": "it-nature-c1-c2-099",
+      "word": "Gli investimenti a lungo termine sono essenziali per le soluzioni basate sulla natura.",
+      "translation": "Long-term investment is essential for nature-based solutions.",
+      "example": "Gli investimenti a lungo termine sono essenziali per le soluzioni basate sulla natura."
+    },
+    {
+      "id": "it-nature-c1-c2-100",
+      "word": "Gli investimenti a lungo termine sono essenziali per la responsabilità intergenerazionale.",
+      "translation": "Long-term investment is essential for intergenerational responsibility.",
+      "example": "Gli investimenti a lungo termine sono essenziali per la responsabilità intergenerazionale."
+    }
+  ]
+}
