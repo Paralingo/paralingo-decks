@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-it-conversation-c1-c2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "conversation",
+  "categoryTitle": "Social & Conversation",
+  "title": "Social & Conversation",
+  "level": "C1-C2",
+  "emoji": "💬",
+  "description": "Communicate with nuance, diplomacy, persuasion, humor, and sensitivity across registers.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-conversation-c1-c2-001",
+      "word": "Potrebbe essere utile riformulare l'ipotesi sottostante.",
+      "translation": "It may be helpful to reframe the underlying assumption.",
+      "example": "Potrebbe essere utile riformulare l'ipotesi sottostante."
+    },
+    {
+      "id": "it-conversation-c1-c2-002",
+      "word": "Potrebbe essere utile riformulare il contesto più ampio.",
+      "translation": "It may be helpful to reframe the broader context.",
+      "example": "Potrebbe essere utile riformulare il contesto più ampio."
+    },
+    {
+      "id": "it-conversation-c1-c2-003",
+      "word": "Potrebbe essere utile riformulare il significato implicito.",
+      "translation": "It may be helpful to reframe the implied meaning.",
+      "example": "Potrebbe essere utile riformulare il significato implicito."
+    },
+    {
+      "id": "it-conversation-c1-c2-004",
+      "word": "Potrebbe essere utile riformulare la questione delicata.",
+      "translation": "It may be helpful to reframe the sensitive issue.",
+      "example": "Potrebbe essere utile riformulare la questione delicata."
+    },
+    {
+      "id": "it-conversation-c1-c2-005",
+      "word": "Potrebbe essere utile riformulare l'apparente contraddizione.",
+      "translation": "It may be helpful to reframe the apparent contradiction.",
+      "example": "Potrebbe essere utile riformulare l'apparente contraddizione."
+    },
+    {
+      "id": "it-conversation-c1-c2-006",
+      "word": "Potrebbe essere utile riformulare la strategia retorica.",
+      "translation": "It may be helpful to reframe the rhetorical strategy.",
+      "example": "Potrebbe essere utile riformulare la strategia retorica."
+    },
+    {
+      "id": "it-conversation-c1-c2-007",
+      "word": "Potrebbe essere utile riformulare la differenza di registro.",
+      "translation": "It may be helpful to reframe the difference in register.",
+      "example": "Potrebbe essere utile riformulare la differenza di registro."
+    },
+    {
+      "id": "it-conversation-c1-c2-008",
+      "word": "Potrebbe essere utile riformulare la preoccupazione inespressa.",
+      "translation": "It may be helpful to reframe the unspoken concern.",
+      "example": "Potrebbe essere utile riformulare la preoccupazione inespressa."
+    },
+    {
+      "id": "it-conversation-c1-c2-009",
+      "word": "Potrebbe essere utile riformulare l'interpretazione alternativa.",
+      "translation": "It may be helpful to reframe the alternative interpretation.",
+      "example": "Potrebbe essere utile riformulare l'interpretazione alternativa."
+    },
+    {
+      "id": "it-conversation-c1-c2-010",
+      "word": "Potrebbe essere utile riformulare il punto di disaccordo.",
+      "translation": "It may be helpful to reframe the point of disagreement.",
+      "example": "Potrebbe essere utile riformulare il punto di disaccordo."
+    },
+    {
+      "id": "it-conversation-c1-c2-011",
+      "word": "Senza liquidare l'ipotesi sottostante, aggiungerei qualche sfumatura.",
+      "translation": "Without dismissing the underlying assumption, I would add some nuance.",
+      "example": "Senza liquidare l'ipotesi sottostante, aggiungerei qualche sfumatura."
+    },
+    {
+      "id": "it-conversation-c1-c2-012",
+      "word": "Senza liquidare il contesto più ampio, aggiungerei qualche sfumatura.",
+      "translation": "Without dismissing the broader context, I would add some nuance.",
+      "example": "Senza liquidare il contesto più ampio, aggiungerei qualche sfumatura."
+    },
+    {
+      "id": "it-conversation-c1-c2-013",
+      "word": "Senza liquidare il significato implicito, aggiungerei qualche sfumatura.",
+      "translation": "Without dismissing the implied meaning, I would add some nuance.",
+      "example": "Senza liquidare il significato implicito, aggiungerei qualche sfumatura."
+    },
+    {
+      "id": "it-conversation-c1-c2-014",
+      "word": "Senza liquidare la questione delicata, aggiungerei qualche sfumatura.",
+      "translation": "Without dismissing the sensitive issue, I would add some nuance.",
+      "example": "Senza liquidare la questione delicata, aggiungerei qualche sfumatura."
+    },
+    {
+      "id": "it-conversation-c1-c2-015",
+      "word": "Senza liquidare l'apparente contraddizione, aggiungerei qualche sfumatura.",
+      "translation": "Without dismissing the apparent contradiction, I would add some nuance.",
+      "example": "Senza liquidare l'apparente contraddizione, aggiungerei qualche sfumatura."
+    },
+    {
+      "id": "it-conversation-c1-c2-016",
+      "word": "Senza liquidare la strategia retorica, aggiungerei qualche sfumatura.",
+      "translation": "Without dismissing the rhetorical strategy, I would add some nuance.",
+      "example": "Senza liquidare la strategia retorica, aggiungerei qualche sfumatura."
+    },
+    {
+      "id": "it-conversation-c1-c2-017",
+      "word": "Senza liquidare la differenza di registro, aggiungerei qualche sfumatura.",
+      "translation": "Without dismissing the difference in register, I would add some nuance.",
+      "example": "Senza liquidare la differenza di registro, aggiungerei qualche sfumatura."
+    },
+    {
+      "id": "it-conversation-c1-c2-018",
+      "word": "Senza liquidare la preoccupazione inespressa, aggiungerei qualche sfumatura.",
+      "translation": "Without dismissing the unspoken concern, I would add some nuance.",
+      "example": "Senza liquidare la preoccupazione inespressa, aggiungerei qualche sfumatura."
+    },
+    {
+      "id": "it-conversation-c1-c2-019",
+      "word": "Senza liquidare l'interpretazione alternativa, aggiungerei qualche sfumatura.",
+      "translation": "Without dismissing the alternative interpretation, I would add some nuance.",
+      "example": "Senza liquidare l'interpretazione alternativa, aggiungerei qualche sfumatura."
+    },
+    {
+      "id": "it-conversation-c1-c2-020",
+      "word": "Senza liquidare il punto di disaccordo, aggiungerei qualche sfumatura.",
+      "translation": "Without dismissing the point of disagreement, I would add some nuance.",
+      "example": "Senza liquidare il punto di disaccordo, aggiungerei qualche sfumatura."
+    },
+    {
+      "id": "it-conversation-c1-c2-021",
+      "word": "Dovremmo distinguere l'ipotesi sottostante dall'intenzione del parlante.",
+      "translation": "We should distinguish the underlying assumption from the speaker's intention.",
+      "example": "Dovremmo distinguere l'ipotesi sottostante dall'intenzione del parlante."
+    },
+    {
+      "id": "it-conversation-c1-c2-022",
+      "word": "Dovremmo distinguere il contesto più ampio dall'intenzione del parlante.",
+      "translation": "We should distinguish the broader context from the speaker's intention.",
+      "example": "Dovremmo distinguere il contesto più ampio dall'intenzione del parlante."
+    },
+    {
+      "id": "it-conversation-c1-c2-023",
+      "word": "Dovremmo distinguere il significato implicito dall'intenzione del parlante.",
+      "translation": "We should distinguish the implied meaning from the speaker's intention.",
+      "example": "Dovremmo distinguere il significato implicito dall'intenzione del parlante."
+    },
+    {
+      "id": "it-conversation-c1-c2-024",
+      "word": "Dovremmo distinguere la questione delicata dall'intenzione del parlante.",
+      "translation": "We should distinguish the sensitive issue from the speaker's intention.",
+      "example": "Dovremmo distinguere la questione delicata dall'intenzione del parlante."
+    },
+    {
+      "id": "it-conversation-c1-c2-025",
+      "word": "Dovremmo distinguere l'apparente contraddizione dall'intenzione del parlante.",
+      "translation": "We should distinguish the apparent contradiction from the speaker's intention.",
+      "example": "Dovremmo distinguere l'apparente contraddizione dall'intenzione del parlante."
+    },
+    {
+      "id": "it-conversation-c1-c2-026",
+      "word": "Dovremmo distinguere la strategia retorica dall'intenzione del parlante.",
+      "translation": "We should distinguish the rhetorical strategy from the speaker's intention.",
+      "example": "Dovremmo distinguere la strategia retorica dall'intenzione del parlante."
+    },
+    {
+      "id": "it-conversation-c1-c2-027",
+      "word": "Dovremmo distinguere la differenza di registro dall'intenzione del parlante.",
+      "translation": "We should distinguish the difference in register from the speaker's intention.",
+      "example": "Dovremmo distinguere la differenza di registro dall'intenzione del parlante."
+    },
+    {
+      "id": "it-conversation-c1-c2-028",
+      "word": "Dovremmo distinguere la preoccupazione inespressa dall'intenzione del parlante.",
+      "translation": "We should distinguish the unspoken concern from the speaker's intention.",
+      "example": "Dovremmo distinguere la preoccupazione inespressa dall'intenzione del parlante."
+    },
+    {
+      "id": "it-conversation-c1-c2-029",
+      "word": "Dovremmo distinguere l'interpretazione alternativa dall'intenzione del parlante.",
+      "translation": "We should distinguish the alternative interpretation from the speaker's intention.",
+      "example": "Dovremmo distinguere l'interpretazione alternativa dall'intenzione del parlante."
+    },
+    {
+      "id": "it-conversation-c1-c2-030",
+      "word": "Dovremmo distinguere il punto di disaccordo dall'intenzione del parlante.",
+      "translation": "We should distinguish the point of disagreement from the speaker's intention.",
+      "example": "Dovremmo distinguere il punto di disaccordo dall'intenzione del parlante."
+    },
+    {
+      "id": "it-conversation-c1-c2-031",
+      "word": "Una lettura benevola di l'ipotesi sottostante porta a una conclusione diversa.",
+      "translation": "A charitable reading of the underlying assumption leads to a different conclusion.",
+      "example": "Una lettura benevola di l'ipotesi sottostante porta a una conclusione diversa."
+    },
+    {
+      "id": "it-conversation-c1-c2-032",
+      "word": "Una lettura benevola di il contesto più ampio porta a una conclusione diversa.",
+      "translation": "A charitable reading of the broader context leads to a different conclusion.",
+      "example": "Una lettura benevola di il contesto più ampio porta a una conclusione diversa."
+    },
+    {
+      "id": "it-conversation-c1-c2-033",
+      "word": "Una lettura benevola di il significato implicito porta a una conclusione diversa.",
+      "translation": "A charitable reading of the implied meaning leads to a different conclusion.",
+      "example": "Una lettura benevola di il significato implicito porta a una conclusione diversa."
+    },
+    {
+      "id": "it-conversation-c1-c2-034",
+      "word": "Una lettura benevola di la questione delicata porta a una conclusione diversa.",
+      "translation": "A charitable reading of the sensitive issue leads to a different conclusion.",
+      "example": "Una lettura benevola di la questione delicata porta a una conclusione diversa."
+    },
+    {
+      "id": "it-conversation-c1-c2-035",
+      "word": "Una lettura benevola di l'apparente contraddizione porta a una conclusione diversa.",
+      "translation": "A charitable reading of the apparent contradiction leads to a different conclusion.",
+      "example": "Una lettura benevola di l'apparente contraddizione porta a una conclusione diversa."
+    },
+    {
+      "id": "it-conversation-c1-c2-036",
+      "word": "Una lettura benevola di la strategia retorica porta a una conclusione diversa.",
+      "translation": "A charitable reading of the rhetorical strategy leads to a different conclusion.",
+      "example": "Una lettura benevola di la strategia retorica porta a una conclusione diversa."
+    },
+    {
+      "id": "it-conversation-c1-c2-037",
+      "word": "Una lettura benevola di la differenza di registro porta a una conclusione diversa.",
+      "translation": "A charitable reading of the difference in register leads to a different conclusion.",
+      "example": "Una lettura benevola di la differenza di registro porta a una conclusione diversa."
+    },
+    {
+      "id": "it-conversation-c1-c2-038",
+      "word": "Una lettura benevola di la preoccupazione inespressa porta a una conclusione diversa.",
+      "translation": "A charitable reading of the unspoken concern leads to a different conclusion.",
+      "example": "Una lettura benevola di la preoccupazione inespressa porta a una conclusione diversa."
+    },
+    {
+      "id": "it-conversation-c1-c2-039",
+      "word": "Una lettura benevola di l'interpretazione alternativa porta a una conclusione diversa.",
+      "translation": "A charitable reading of the alternative interpretation leads to a different conclusion.",
+      "example": "Una lettura benevola di l'interpretazione alternativa porta a una conclusione diversa."
+    },
+    {
+      "id": "it-conversation-c1-c2-040",
+      "word": "Una lettura benevola di il punto di disaccordo porta a una conclusione diversa.",
+      "translation": "A charitable reading of the point of disagreement leads to a different conclusion.",
+      "example": "Una lettura benevola di il punto di disaccordo porta a una conclusione diversa."
+    },
+    {
+      "id": "it-conversation-c1-c2-041",
+      "word": "Capisco il tuo punto su l'ipotesi sottostante, anche se non sono del tutto convinto.",
+      "translation": "I take your point about the underlying assumption, although I remain unconvinced.",
+      "example": "Capisco il tuo punto su l'ipotesi sottostante, anche se non sono del tutto convinto."
+    },
+    {
+      "id": "it-conversation-c1-c2-042",
+      "word": "Capisco il tuo punto su il contesto più ampio, anche se non sono del tutto convinto.",
+      "translation": "I take your point about the broader context, although I remain unconvinced.",
+      "example": "Capisco il tuo punto su il contesto più ampio, anche se non sono del tutto convinto."
+    },
+    {
+      "id": "it-conversation-c1-c2-043",
+      "word": "Capisco il tuo punto su il significato implicito, anche se non sono del tutto convinto.",
+      "translation": "I take your point about the implied meaning, although I remain unconvinced.",
+      "example": "Capisco il tuo punto su il significato implicito, anche se non sono del tutto convinto."
+    },
+    {
+      "id": "it-conversation-c1-c2-044",
+      "word": "Capisco il tuo punto su la questione delicata, anche se non sono del tutto convinto.",
+      "translation": "I take your point about the sensitive issue, although I remain unconvinced.",
+      "example": "Capisco il tuo punto su la questione delicata, anche se non sono del tutto convinto."
+    },
+    {
+      "id": "it-conversation-c1-c2-045",
+      "word": "Capisco il tuo punto su l'apparente contraddizione, anche se non sono del tutto convinto.",
+      "translation": "I take your point about the apparent contradiction, although I remain unconvinced.",
+      "example": "Capisco il tuo punto su l'apparente contraddizione, anche se non sono del tutto convinto."
+    },
+    {
+      "id": "it-conversation-c1-c2-046",
+      "word": "Capisco il tuo punto su la strategia retorica, anche se non sono del tutto convinto.",
+      "translation": "I take your point about the rhetorical strategy, although I remain unconvinced.",
+      "example": "Capisco il tuo punto su la strategia retorica, anche se non sono del tutto convinto."
+    },
+    {
+      "id": "it-conversation-c1-c2-047",
+      "word": "Capisco il tuo punto su la differenza di registro, anche se non sono del tutto convinto.",
+      "translation": "I take your point about the difference in register, although I remain unconvinced.",
+      "example": "Capisco il tuo punto su la differenza di registro, anche se non sono del tutto convinto."
+    },
+    {
+      "id": "it-conversation-c1-c2-048",
+      "word": "Capisco il tuo punto su la preoccupazione inespressa, anche se non sono del tutto convinto.",
+      "translation": "I take your point about the unspoken concern, although I remain unconvinced.",
+      "example": "Capisco il tuo punto su la preoccupazione inespressa, anche se non sono del tutto convinto."
+    },
+    {
+      "id": "it-conversation-c1-c2-049",
+      "word": "Capisco il tuo punto su l'interpretazione alternativa, anche se non sono del tutto convinto.",
+      "translation": "I take your point about the alternative interpretation, although I remain unconvinced.",
+      "example": "Capisco il tuo punto su l'interpretazione alternativa, anche se non sono del tutto convinto."
+    },
+    {
+      "id": "it-conversation-c1-c2-050",
+      "word": "Capisco il tuo punto su il punto di disaccordo, anche se non sono del tutto convinto.",
+      "translation": "I take your point about the point of disagreement, although I remain unconvinced.",
+      "example": "Capisco il tuo punto su il punto di disaccordo, anche se non sono del tutto convinto."
+    },
+    {
+      "id": "it-conversation-c1-c2-051",
+      "word": "L'umorismo dipende in gran parte da l'ipotesi sottostante.",
+      "translation": "The humor depends largely on the underlying assumption.",
+      "example": "L'umorismo dipende in gran parte da l'ipotesi sottostante."
+    },
+    {
+      "id": "it-conversation-c1-c2-052",
+      "word": "L'umorismo dipende in gran parte da il contesto più ampio.",
+      "translation": "The humor depends largely on the broader context.",
+      "example": "L'umorismo dipende in gran parte da il contesto più ampio."
+    },
+    {
+      "id": "it-conversation-c1-c2-053",
+      "word": "L'umorismo dipende in gran parte da il significato implicito.",
+      "translation": "The humor depends largely on the implied meaning.",
+      "example": "L'umorismo dipende in gran parte da il significato implicito."
+    },
+    {
+      "id": "it-conversation-c1-c2-054",
+      "word": "L'umorismo dipende in gran parte da la questione delicata.",
+      "translation": "The humor depends largely on the sensitive issue.",
+      "example": "L'umorismo dipende in gran parte da la questione delicata."
+    },
+    {
+      "id": "it-conversation-c1-c2-055",
+      "word": "L'umorismo dipende in gran parte da l'apparente contraddizione.",
+      "translation": "The humor depends largely on the apparent contradiction.",
+      "example": "L'umorismo dipende in gran parte da l'apparente contraddizione."
+    },
+    {
+      "id": "it-conversation-c1-c2-056",
+      "word": "L'umorismo dipende in gran parte da la strategia retorica.",
+      "translation": "The humor depends largely on the rhetorical strategy.",
+      "example": "L'umorismo dipende in gran parte da la strategia retorica."
+    },
+    {
+      "id": "it-conversation-c1-c2-057",
+      "word": "L'umorismo dipende in gran parte da la differenza di registro.",
+      "translation": "The humor depends largely on the difference in register.",
+      "example": "L'umorismo dipende in gran parte da la differenza di registro."
+    },
+    {
+      "id": "it-conversation-c1-c2-058",
+      "word": "L'umorismo dipende in gran parte da la preoccupazione inespressa.",
+      "translation": "The humor depends largely on the unspoken concern.",
+      "example": "L'umorismo dipende in gran parte da la preoccupazione inespressa."
+    },
+    {
+      "id": "it-conversation-c1-c2-059",
+      "word": "L'umorismo dipende in gran parte da l'interpretazione alternativa.",
+      "translation": "The humor depends largely on the alternative interpretation.",
+      "example": "L'umorismo dipende in gran parte da l'interpretazione alternativa."
+    },
+    {
+      "id": "it-conversation-c1-c2-060",
+      "word": "L'umorismo dipende in gran parte da il punto di disaccordo.",
+      "translation": "The humor depends largely on the point of disagreement.",
+      "example": "L'umorismo dipende in gran parte da il punto di disaccordo."
+    },
+    {
+      "id": "it-conversation-c1-c2-061",
+      "word": "Affrontare diplomaticamente l'ipotesi sottostante richiede parole ponderate.",
+      "translation": "Diplomatically addressing the underlying assumption requires careful wording.",
+      "example": "Affrontare diplomaticamente l'ipotesi sottostante richiede parole ponderate."
+    },
+    {
+      "id": "it-conversation-c1-c2-062",
+      "word": "Affrontare diplomaticamente il contesto più ampio richiede parole ponderate.",
+      "translation": "Diplomatically addressing the broader context requires careful wording.",
+      "example": "Affrontare diplomaticamente il contesto più ampio richiede parole ponderate."
+    },
+    {
+      "id": "it-conversation-c1-c2-063",
+      "word": "Affrontare diplomaticamente il significato implicito richiede parole ponderate.",
+      "translation": "Diplomatically addressing the implied meaning requires careful wording.",
+      "example": "Affrontare diplomaticamente il significato implicito richiede parole ponderate."
+    },
+    {
+      "id": "it-conversation-c1-c2-064",
+      "word": "Affrontare diplomaticamente la questione delicata richiede parole ponderate.",
+      "translation": "Diplomatically addressing the sensitive issue requires careful wording.",
+      "example": "Affrontare diplomaticamente la questione delicata richiede parole ponderate."
+    },
+    {
+      "id": "it-conversation-c1-c2-065",
+      "word": "Affrontare diplomaticamente l'apparente contraddizione richiede parole ponderate.",
+      "translation": "Diplomatically addressing the apparent contradiction requires careful wording.",
+      "example": "Affrontare diplomaticamente l'apparente contraddizione richiede parole ponderate."
+    },
+    {
+      "id": "it-conversation-c1-c2-066",
+      "word": "Affrontare diplomaticamente la strategia retorica richiede parole ponderate.",
+      "translation": "Diplomatically addressing the rhetorical strategy requires careful wording.",
+      "example": "Affrontare diplomaticamente la strategia retorica richiede parole ponderate."
+    },
+    {
+      "id": "it-conversation-c1-c2-067",
+      "word": "Affrontare diplomaticamente la differenza di registro richiede parole ponderate.",
+      "translation": "Diplomatically addressing the difference in register requires careful wording.",
+      "example": "Affrontare diplomaticamente la differenza di registro richiede parole ponderate."
+    },
+    {
+      "id": "it-conversation-c1-c2-068",
+      "word": "Affrontare diplomaticamente la preoccupazione inespressa richiede parole ponderate.",
+      "translation": "Diplomatically addressing the unspoken concern requires careful wording.",
+      "example": "Affrontare diplomaticamente la preoccupazione inespressa richiede parole ponderate."
+    },
+    {
+      "id": "it-conversation-c1-c2-069",
+      "word": "Affrontare diplomaticamente l'interpretazione alternativa richiede parole ponderate.",
+      "translation": "Diplomatically addressing the alternative interpretation requires careful wording.",
+      "example": "Affrontare diplomaticamente l'interpretazione alternativa richiede parole ponderate."
+    },
+    {
+      "id": "it-conversation-c1-c2-070",
+      "word": "Affrontare diplomaticamente il punto di disaccordo richiede parole ponderate.",
+      "translation": "Diplomatically addressing the point of disagreement requires careful wording.",
+      "example": "Affrontare diplomaticamente il punto di disaccordo richiede parole ponderate."
+    },
+    {
+      "id": "it-conversation-c1-c2-071",
+      "word": "La discussione trarrebbe beneficio dal riconoscere l'ipotesi sottostante.",
+      "translation": "The discussion would benefit from acknowledging the underlying assumption.",
+      "example": "La discussione trarrebbe beneficio dal riconoscere l'ipotesi sottostante."
+    },
+    {
+      "id": "it-conversation-c1-c2-072",
+      "word": "La discussione trarrebbe beneficio dal riconoscere il contesto più ampio.",
+      "translation": "The discussion would benefit from acknowledging the broader context.",
+      "example": "La discussione trarrebbe beneficio dal riconoscere il contesto più ampio."
+    },
+    {
+      "id": "it-conversation-c1-c2-073",
+      "word": "La discussione trarrebbe beneficio dal riconoscere il significato implicito.",
+      "translation": "The discussion would benefit from acknowledging the implied meaning.",
+      "example": "La discussione trarrebbe beneficio dal riconoscere il significato implicito."
+    },
+    {
+      "id": "it-conversation-c1-c2-074",
+      "word": "La discussione trarrebbe beneficio dal riconoscere la questione delicata.",
+      "translation": "The discussion would benefit from acknowledging the sensitive issue.",
+      "example": "La discussione trarrebbe beneficio dal riconoscere la questione delicata."
+    },
+    {
+      "id": "it-conversation-c1-c2-075",
+      "word": "La discussione trarrebbe beneficio dal riconoscere l'apparente contraddizione.",
+      "translation": "The discussion would benefit from acknowledging the apparent contradiction.",
+      "example": "La discussione trarrebbe beneficio dal riconoscere l'apparente contraddizione."
+    },
+    {
+      "id": "it-conversation-c1-c2-076",
+      "word": "La discussione trarrebbe beneficio dal riconoscere la strategia retorica.",
+      "translation": "The discussion would benefit from acknowledging the rhetorical strategy.",
+      "example": "La discussione trarrebbe beneficio dal riconoscere la strategia retorica."
+    },
+    {
+      "id": "it-conversation-c1-c2-077",
+      "word": "La discussione trarrebbe beneficio dal riconoscere la differenza di registro.",
+      "translation": "The discussion would benefit from acknowledging the difference in register.",
+      "example": "La discussione trarrebbe beneficio dal riconoscere la differenza di registro."
+    },
+    {
+      "id": "it-conversation-c1-c2-078",
+      "word": "La discussione trarrebbe beneficio dal riconoscere la preoccupazione inespressa.",
+      "translation": "The discussion would benefit from acknowledging the unspoken concern.",
+      "example": "La discussione trarrebbe beneficio dal riconoscere la preoccupazione inespressa."
+    },
+    {
+      "id": "it-conversation-c1-c2-079",
+      "word": "La discussione trarrebbe beneficio dal riconoscere l'interpretazione alternativa.",
+      "translation": "The discussion would benefit from acknowledging the alternative interpretation.",
+      "example": "La discussione trarrebbe beneficio dal riconoscere l'interpretazione alternativa."
+    },
+    {
+      "id": "it-conversation-c1-c2-080",
+      "word": "La discussione trarrebbe beneficio dal riconoscere il punto di disaccordo.",
+      "translation": "The discussion would benefit from acknowledging the point of disagreement.",
+      "example": "La discussione trarrebbe beneficio dal riconoscere il punto di disaccordo."
+    },
+    {
+      "id": "it-conversation-c1-c2-081",
+      "word": "Forse non ci stiamo capendo a causa di l'ipotesi sottostante.",
+      "translation": "We may be talking past each other because of the underlying assumption.",
+      "example": "Forse non ci stiamo capendo a causa di l'ipotesi sottostante."
+    },
+    {
+      "id": "it-conversation-c1-c2-082",
+      "word": "Forse non ci stiamo capendo a causa di il contesto più ampio.",
+      "translation": "We may be talking past each other because of the broader context.",
+      "example": "Forse non ci stiamo capendo a causa di il contesto più ampio."
+    },
+    {
+      "id": "it-conversation-c1-c2-083",
+      "word": "Forse non ci stiamo capendo a causa di il significato implicito.",
+      "translation": "We may be talking past each other because of the implied meaning.",
+      "example": "Forse non ci stiamo capendo a causa di il significato implicito."
+    },
+    {
+      "id": "it-conversation-c1-c2-084",
+      "word": "Forse non ci stiamo capendo a causa di la questione delicata.",
+      "translation": "We may be talking past each other because of the sensitive issue.",
+      "example": "Forse non ci stiamo capendo a causa di la questione delicata."
+    },
+    {
+      "id": "it-conversation-c1-c2-085",
+      "word": "Forse non ci stiamo capendo a causa di l'apparente contraddizione.",
+      "translation": "We may be talking past each other because of the apparent contradiction.",
+      "example": "Forse non ci stiamo capendo a causa di l'apparente contraddizione."
+    },
+    {
+      "id": "it-conversation-c1-c2-086",
+      "word": "Forse non ci stiamo capendo a causa di la strategia retorica.",
+      "translation": "We may be talking past each other because of the rhetorical strategy.",
+      "example": "Forse non ci stiamo capendo a causa di la strategia retorica."
+    },
+    {
+      "id": "it-conversation-c1-c2-087",
+      "word": "Forse non ci stiamo capendo a causa di la differenza di registro.",
+      "translation": "We may be talking past each other because of the difference in register.",
+      "example": "Forse non ci stiamo capendo a causa di la differenza di registro."
+    },
+    {
+      "id": "it-conversation-c1-c2-088",
+      "word": "Forse non ci stiamo capendo a causa di la preoccupazione inespressa.",
+      "translation": "We may be talking past each other because of the unspoken concern.",
+      "example": "Forse non ci stiamo capendo a causa di la preoccupazione inespressa."
+    },
+    {
+      "id": "it-conversation-c1-c2-089",
+      "word": "Forse non ci stiamo capendo a causa di l'interpretazione alternativa.",
+      "translation": "We may be talking past each other because of the alternative interpretation.",
+      "example": "Forse non ci stiamo capendo a causa di l'interpretazione alternativa."
+    },
+    {
+      "id": "it-conversation-c1-c2-090",
+      "word": "Forse non ci stiamo capendo a causa di il punto di disaccordo.",
+      "translation": "We may be talking past each other because of the point of disagreement.",
+      "example": "Forse non ci stiamo capendo a causa di il punto di disaccordo."
+    },
+    {
+      "id": "it-conversation-c1-c2-091",
+      "word": "Prima di trarre conclusioni, esaminiamo l'ipotesi sottostante.",
+      "translation": "Before drawing conclusions, let us examine the underlying assumption.",
+      "example": "Prima di trarre conclusioni, esaminiamo l'ipotesi sottostante."
+    },
+    {
+      "id": "it-conversation-c1-c2-092",
+      "word": "Prima di trarre conclusioni, esaminiamo il contesto più ampio.",
+      "translation": "Before drawing conclusions, let us examine the broader context.",
+      "example": "Prima di trarre conclusioni, esaminiamo il contesto più ampio."
+    },
+    {
+      "id": "it-conversation-c1-c2-093",
+      "word": "Prima di trarre conclusioni, esaminiamo il significato implicito.",
+      "translation": "Before drawing conclusions, let us examine the implied meaning.",
+      "example": "Prima di trarre conclusioni, esaminiamo il significato implicito."
+    },
+    {
+      "id": "it-conversation-c1-c2-094",
+      "word": "Prima di trarre conclusioni, esaminiamo la questione delicata.",
+      "translation": "Before drawing conclusions, let us examine the sensitive issue.",
+      "example": "Prima di trarre conclusioni, esaminiamo la questione delicata."
+    },
+    {
+      "id": "it-conversation-c1-c2-095",
+      "word": "Prima di trarre conclusioni, esaminiamo l'apparente contraddizione.",
+      "translation": "Before drawing conclusions, let us examine the apparent contradiction.",
+      "example": "Prima di trarre conclusioni, esaminiamo l'apparente contraddizione."
+    },
+    {
+      "id": "it-conversation-c1-c2-096",
+      "word": "Prima di trarre conclusioni, esaminiamo la strategia retorica.",
+      "translation": "Before drawing conclusions, let us examine the rhetorical strategy.",
+      "example": "Prima di trarre conclusioni, esaminiamo la strategia retorica."
+    },
+    {
+      "id": "it-conversation-c1-c2-097",
+      "word": "Prima di trarre conclusioni, esaminiamo la differenza di registro.",
+      "translation": "Before drawing conclusions, let us examine the difference in register.",
+      "example": "Prima di trarre conclusioni, esaminiamo la differenza di registro."
+    },
+    {
+      "id": "it-conversation-c1-c2-098",
+      "word": "Prima di trarre conclusioni, esaminiamo la preoccupazione inespressa.",
+      "translation": "Before drawing conclusions, let us examine the unspoken concern.",
+      "example": "Prima di trarre conclusioni, esaminiamo la preoccupazione inespressa."
+    },
+    {
+      "id": "it-conversation-c1-c2-099",
+      "word": "Prima di trarre conclusioni, esaminiamo l'interpretazione alternativa.",
+      "translation": "Before drawing conclusions, let us examine the alternative interpretation.",
+      "example": "Prima di trarre conclusioni, esaminiamo l'interpretazione alternativa."
+    },
+    {
+      "id": "it-conversation-c1-c2-100",
+      "word": "Prima di trarre conclusioni, esaminiamo il punto di disaccordo.",
+      "translation": "Before drawing conclusions, let us examine the point of disagreement.",
+      "example": "Prima di trarre conclusioni, esaminiamo il punto di disaccordo."
+    }
+  ]
+}
