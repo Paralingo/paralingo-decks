@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-it-health-c1-c2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "health",
+  "categoryTitle": "Body & Health",
+  "title": "Body & Health",
+  "level": "C1-C2",
+  "emoji": "🩺",
+  "description": "Analyze healthcare systems, medical evidence, chronic illness, prevention, and health ethics.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-health-c1-c2-001",
+      "word": "Le politiche su la disuguaglianza sanitaria dovrebbero basarsi su prove solide.",
+      "translation": "Public policy on health inequality should reflect robust evidence.",
+      "example": "Le politiche su la disuguaglianza sanitaria dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-002",
+      "word": "Le politiche su la medicina preventiva dovrebbero basarsi su prove solide.",
+      "translation": "Public policy on preventive medicine should reflect robust evidence.",
+      "example": "Le politiche su la medicina preventiva dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-003",
+      "word": "Le politiche su la resistenza antimicrobica dovrebbero basarsi su prove solide.",
+      "translation": "Public policy on antimicrobial resistance should reflect robust evidence.",
+      "example": "Le politiche su la resistenza antimicrobica dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-004",
+      "word": "Le politiche su la gestione delle malattie croniche dovrebbero basarsi su prove solide.",
+      "translation": "Public policy on chronic disease management should reflect robust evidence.",
+      "example": "Le politiche su la gestione delle malattie croniche dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-005",
+      "word": "Le politiche su il consenso informato dovrebbero basarsi su prove solide.",
+      "translation": "Public policy on informed consent should reflect robust evidence.",
+      "example": "Le politiche su il consenso informato dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-006",
+      "word": "Le politiche su l'assistenza per la salute mentale dovrebbero basarsi su prove solide.",
+      "translation": "Public policy on mental health provision should reflect robust evidence.",
+      "example": "Le politiche su l'assistenza per la salute mentale dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-007",
+      "word": "Le politiche su la disinformazione medica dovrebbero basarsi su prove solide.",
+      "translation": "Public policy on medical misinformation should reflect robust evidence.",
+      "example": "Le politiche su la disinformazione medica dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-008",
+      "word": "Le politiche su l'autonomia del paziente dovrebbero basarsi su prove solide.",
+      "translation": "Public policy on patient autonomy should reflect robust evidence.",
+      "example": "Le politiche su l'autonomia del paziente dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-009",
+      "word": "Le politiche su l'accesso alle cure primarie dovrebbero basarsi su prove solide.",
+      "translation": "Public policy on access to primary care should reflect robust evidence.",
+      "example": "Le politiche su l'accesso alle cure primarie dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-010",
+      "word": "Le politiche su il trattamento basato sulle prove dovrebbero basarsi su prove solide.",
+      "translation": "Public policy on evidence-based treatment should reflect robust evidence.",
+      "example": "Le politiche su il trattamento basato sulle prove dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-011",
+      "word": "Le implicazioni etiche di la disuguaglianza sanitaria meritano un esame più attento.",
+      "translation": "The ethical implications of health inequality deserve closer scrutiny.",
+      "example": "Le implicazioni etiche di la disuguaglianza sanitaria meritano un esame più attento."
+    },
+    {
+      "id": "it-health-c1-c2-012",
+      "word": "Le implicazioni etiche di la medicina preventiva meritano un esame più attento.",
+      "translation": "The ethical implications of preventive medicine deserve closer scrutiny.",
+      "example": "Le implicazioni etiche di la medicina preventiva meritano un esame più attento."
+    },
+    {
+      "id": "it-health-c1-c2-013",
+      "word": "Le implicazioni etiche di la resistenza antimicrobica meritano un esame più attento.",
+      "translation": "The ethical implications of antimicrobial resistance deserve closer scrutiny.",
+      "example": "Le implicazioni etiche di la resistenza antimicrobica meritano un esame più attento."
+    },
+    {
+      "id": "it-health-c1-c2-014",
+      "word": "Le implicazioni etiche di la gestione delle malattie croniche meritano un esame più attento.",
+      "translation": "The ethical implications of chronic disease management deserve closer scrutiny.",
+      "example": "Le implicazioni etiche di la gestione delle malattie croniche meritano un esame più attento."
+    },
+    {
+      "id": "it-health-c1-c2-015",
+      "word": "Le implicazioni etiche di il consenso informato meritano un esame più attento.",
+      "translation": "The ethical implications of informed consent deserve closer scrutiny.",
+      "example": "Le implicazioni etiche di il consenso informato meritano un esame più attento."
+    },
+    {
+      "id": "it-health-c1-c2-016",
+      "word": "Le implicazioni etiche di l'assistenza per la salute mentale meritano un esame più attento.",
+      "translation": "The ethical implications of mental health provision deserve closer scrutiny.",
+      "example": "Le implicazioni etiche di l'assistenza per la salute mentale meritano un esame più attento."
+    },
+    {
+      "id": "it-health-c1-c2-017",
+      "word": "Le implicazioni etiche di la disinformazione medica meritano un esame più attento.",
+      "translation": "The ethical implications of medical misinformation deserve closer scrutiny.",
+      "example": "Le implicazioni etiche di la disinformazione medica meritano un esame più attento."
+    },
+    {
+      "id": "it-health-c1-c2-018",
+      "word": "Le implicazioni etiche di l'autonomia del paziente meritano un esame più attento.",
+      "translation": "The ethical implications of patient autonomy deserve closer scrutiny.",
+      "example": "Le implicazioni etiche di l'autonomia del paziente meritano un esame più attento."
+    },
+    {
+      "id": "it-health-c1-c2-019",
+      "word": "Le implicazioni etiche di l'accesso alle cure primarie meritano un esame più attento.",
+      "translation": "The ethical implications of access to primary care deserve closer scrutiny.",
+      "example": "Le implicazioni etiche di l'accesso alle cure primarie meritano un esame più attento."
+    },
+    {
+      "id": "it-health-c1-c2-020",
+      "word": "Le implicazioni etiche di il trattamento basato sulle prove meritano un esame più attento.",
+      "translation": "The ethical implications of evidence-based treatment deserve closer scrutiny.",
+      "example": "Le implicazioni etiche di il trattamento basato sulle prove meritano un esame più attento."
+    },
+    {
+      "id": "it-health-c1-c2-021",
+      "word": "Le condizioni sociali influenzano fortemente la disuguaglianza sanitaria.",
+      "translation": "Social conditions strongly influence health inequality.",
+      "example": "Le condizioni sociali influenzano fortemente la disuguaglianza sanitaria."
+    },
+    {
+      "id": "it-health-c1-c2-022",
+      "word": "Le condizioni sociali influenzano fortemente la medicina preventiva.",
+      "translation": "Social conditions strongly influence preventive medicine.",
+      "example": "Le condizioni sociali influenzano fortemente la medicina preventiva."
+    },
+    {
+      "id": "it-health-c1-c2-023",
+      "word": "Le condizioni sociali influenzano fortemente la resistenza antimicrobica.",
+      "translation": "Social conditions strongly influence antimicrobial resistance.",
+      "example": "Le condizioni sociali influenzano fortemente la resistenza antimicrobica."
+    },
+    {
+      "id": "it-health-c1-c2-024",
+      "word": "Le condizioni sociali influenzano fortemente la gestione delle malattie croniche.",
+      "translation": "Social conditions strongly influence chronic disease management.",
+      "example": "Le condizioni sociali influenzano fortemente la gestione delle malattie croniche."
+    },
+    {
+      "id": "it-health-c1-c2-025",
+      "word": "Le condizioni sociali influenzano fortemente il consenso informato.",
+      "translation": "Social conditions strongly influence informed consent.",
+      "example": "Le condizioni sociali influenzano fortemente il consenso informato."
+    },
+    {
+      "id": "it-health-c1-c2-026",
+      "word": "Le condizioni sociali influenzano fortemente l'assistenza per la salute mentale.",
+      "translation": "Social conditions strongly influence mental health provision.",
+      "example": "Le condizioni sociali influenzano fortemente l'assistenza per la salute mentale."
+    },
+    {
+      "id": "it-health-c1-c2-027",
+      "word": "Le condizioni sociali influenzano fortemente la disinformazione medica.",
+      "translation": "Social conditions strongly influence medical misinformation.",
+      "example": "Le condizioni sociali influenzano fortemente la disinformazione medica."
+    },
+    {
+      "id": "it-health-c1-c2-028",
+      "word": "Le condizioni sociali influenzano fortemente l'autonomia del paziente.",
+      "translation": "Social conditions strongly influence patient autonomy.",
+      "example": "Le condizioni sociali influenzano fortemente l'autonomia del paziente."
+    },
+    {
+      "id": "it-health-c1-c2-029",
+      "word": "Le condizioni sociali influenzano fortemente l'accesso alle cure primarie.",
+      "translation": "Social conditions strongly influence access to primary care.",
+      "example": "Le condizioni sociali influenzano fortemente l'accesso alle cure primarie."
+    },
+    {
+      "id": "it-health-c1-c2-030",
+      "word": "Le condizioni sociali influenzano fortemente il trattamento basato sulle prove.",
+      "translation": "Social conditions strongly influence evidence-based treatment.",
+      "example": "Le condizioni sociali influenzano fortemente il trattamento basato sulle prove."
+    },
+    {
+      "id": "it-health-c1-c2-031",
+      "word": "Gli investimenti in la disuguaglianza sanitaria possono ridurre i costi a lungo termine.",
+      "translation": "Investment in health inequality may reduce long-term costs.",
+      "example": "Gli investimenti in la disuguaglianza sanitaria possono ridurre i costi a lungo termine."
+    },
+    {
+      "id": "it-health-c1-c2-032",
+      "word": "Gli investimenti in la medicina preventiva possono ridurre i costi a lungo termine.",
+      "translation": "Investment in preventive medicine may reduce long-term costs.",
+      "example": "Gli investimenti in la medicina preventiva possono ridurre i costi a lungo termine."
+    },
+    {
+      "id": "it-health-c1-c2-033",
+      "word": "Gli investimenti in la resistenza antimicrobica possono ridurre i costi a lungo termine.",
+      "translation": "Investment in antimicrobial resistance may reduce long-term costs.",
+      "example": "Gli investimenti in la resistenza antimicrobica possono ridurre i costi a lungo termine."
+    },
+    {
+      "id": "it-health-c1-c2-034",
+      "word": "Gli investimenti in la gestione delle malattie croniche possono ridurre i costi a lungo termine.",
+      "translation": "Investment in chronic disease management may reduce long-term costs.",
+      "example": "Gli investimenti in la gestione delle malattie croniche possono ridurre i costi a lungo termine."
+    },
+    {
+      "id": "it-health-c1-c2-035",
+      "word": "Gli investimenti in il consenso informato possono ridurre i costi a lungo termine.",
+      "translation": "Investment in informed consent may reduce long-term costs.",
+      "example": "Gli investimenti in il consenso informato possono ridurre i costi a lungo termine."
+    },
+    {
+      "id": "it-health-c1-c2-036",
+      "word": "Gli investimenti in l'assistenza per la salute mentale possono ridurre i costi a lungo termine.",
+      "translation": "Investment in mental health provision may reduce long-term costs.",
+      "example": "Gli investimenti in l'assistenza per la salute mentale possono ridurre i costi a lungo termine."
+    },
+    {
+      "id": "it-health-c1-c2-037",
+      "word": "Gli investimenti in la disinformazione medica possono ridurre i costi a lungo termine.",
+      "translation": "Investment in medical misinformation may reduce long-term costs.",
+      "example": "Gli investimenti in la disinformazione medica possono ridurre i costi a lungo termine."
+    },
+    {
+      "id": "it-health-c1-c2-038",
+      "word": "Gli investimenti in l'autonomia del paziente possono ridurre i costi a lungo termine.",
+      "translation": "Investment in patient autonomy may reduce long-term costs.",
+      "example": "Gli investimenti in l'autonomia del paziente possono ridurre i costi a lungo termine."
+    },
+    {
+      "id": "it-health-c1-c2-039",
+      "word": "Gli investimenti in l'accesso alle cure primarie possono ridurre i costi a lungo termine.",
+      "translation": "Investment in access to primary care may reduce long-term costs.",
+      "example": "Gli investimenti in l'accesso alle cure primarie possono ridurre i costi a lungo termine."
+    },
+    {
+      "id": "it-health-c1-c2-040",
+      "word": "Gli investimenti in il trattamento basato sulle prove possono ridurre i costi a lungo termine.",
+      "translation": "Investment in evidence-based treatment may reduce long-term costs.",
+      "example": "Gli investimenti in il trattamento basato sulle prove possono ridurre i costi a lungo termine."
+    },
+    {
+      "id": "it-health-c1-c2-041",
+      "word": "Il dibattito su la disuguaglianza sanitaria è spesso eccessivamente semplificato.",
+      "translation": "The debate around health inequality is often oversimplified.",
+      "example": "Il dibattito su la disuguaglianza sanitaria è spesso eccessivamente semplificato."
+    },
+    {
+      "id": "it-health-c1-c2-042",
+      "word": "Il dibattito su la medicina preventiva è spesso eccessivamente semplificato.",
+      "translation": "The debate around preventive medicine is often oversimplified.",
+      "example": "Il dibattito su la medicina preventiva è spesso eccessivamente semplificato."
+    },
+    {
+      "id": "it-health-c1-c2-043",
+      "word": "Il dibattito su la resistenza antimicrobica è spesso eccessivamente semplificato.",
+      "translation": "The debate around antimicrobial resistance is often oversimplified.",
+      "example": "Il dibattito su la resistenza antimicrobica è spesso eccessivamente semplificato."
+    },
+    {
+      "id": "it-health-c1-c2-044",
+      "word": "Il dibattito su la gestione delle malattie croniche è spesso eccessivamente semplificato.",
+      "translation": "The debate around chronic disease management is often oversimplified.",
+      "example": "Il dibattito su la gestione delle malattie croniche è spesso eccessivamente semplificato."
+    },
+    {
+      "id": "it-health-c1-c2-045",
+      "word": "Il dibattito su il consenso informato è spesso eccessivamente semplificato.",
+      "translation": "The debate around informed consent is often oversimplified.",
+      "example": "Il dibattito su il consenso informato è spesso eccessivamente semplificato."
+    },
+    {
+      "id": "it-health-c1-c2-046",
+      "word": "Il dibattito su l'assistenza per la salute mentale è spesso eccessivamente semplificato.",
+      "translation": "The debate around mental health provision is often oversimplified.",
+      "example": "Il dibattito su l'assistenza per la salute mentale è spesso eccessivamente semplificato."
+    },
+    {
+      "id": "it-health-c1-c2-047",
+      "word": "Il dibattito su la disinformazione medica è spesso eccessivamente semplificato.",
+      "translation": "The debate around medical misinformation is often oversimplified.",
+      "example": "Il dibattito su la disinformazione medica è spesso eccessivamente semplificato."
+    },
+    {
+      "id": "it-health-c1-c2-048",
+      "word": "Il dibattito su l'autonomia del paziente è spesso eccessivamente semplificato.",
+      "translation": "The debate around patient autonomy is often oversimplified.",
+      "example": "Il dibattito su l'autonomia del paziente è spesso eccessivamente semplificato."
+    },
+    {
+      "id": "it-health-c1-c2-049",
+      "word": "Il dibattito su l'accesso alle cure primarie è spesso eccessivamente semplificato.",
+      "translation": "The debate around access to primary care is often oversimplified.",
+      "example": "Il dibattito su l'accesso alle cure primarie è spesso eccessivamente semplificato."
+    },
+    {
+      "id": "it-health-c1-c2-050",
+      "word": "Il dibattito su il trattamento basato sulle prove è spesso eccessivamente semplificato.",
+      "translation": "The debate around evidence-based treatment is often oversimplified.",
+      "example": "Il dibattito su il trattamento basato sulle prove è spesso eccessivamente semplificato."
+    },
+    {
+      "id": "it-health-c1-c2-051",
+      "word": "I dati affidabili su la disuguaglianza sanitaria restano limitati.",
+      "translation": "Reliable data on health inequality remain limited.",
+      "example": "I dati affidabili su la disuguaglianza sanitaria restano limitati."
+    },
+    {
+      "id": "it-health-c1-c2-052",
+      "word": "I dati affidabili su la medicina preventiva restano limitati.",
+      "translation": "Reliable data on preventive medicine remain limited.",
+      "example": "I dati affidabili su la medicina preventiva restano limitati."
+    },
+    {
+      "id": "it-health-c1-c2-053",
+      "word": "I dati affidabili su la resistenza antimicrobica restano limitati.",
+      "translation": "Reliable data on antimicrobial resistance remain limited.",
+      "example": "I dati affidabili su la resistenza antimicrobica restano limitati."
+    },
+    {
+      "id": "it-health-c1-c2-054",
+      "word": "I dati affidabili su la gestione delle malattie croniche restano limitati.",
+      "translation": "Reliable data on chronic disease management remain limited.",
+      "example": "I dati affidabili su la gestione delle malattie croniche restano limitati."
+    },
+    {
+      "id": "it-health-c1-c2-055",
+      "word": "I dati affidabili su il consenso informato restano limitati.",
+      "translation": "Reliable data on informed consent remain limited.",
+      "example": "I dati affidabili su il consenso informato restano limitati."
+    },
+    {
+      "id": "it-health-c1-c2-056",
+      "word": "I dati affidabili su l'assistenza per la salute mentale restano limitati.",
+      "translation": "Reliable data on mental health provision remain limited.",
+      "example": "I dati affidabili su l'assistenza per la salute mentale restano limitati."
+    },
+    {
+      "id": "it-health-c1-c2-057",
+      "word": "I dati affidabili su la disinformazione medica restano limitati.",
+      "translation": "Reliable data on medical misinformation remain limited.",
+      "example": "I dati affidabili su la disinformazione medica restano limitati."
+    },
+    {
+      "id": "it-health-c1-c2-058",
+      "word": "I dati affidabili su l'autonomia del paziente restano limitati.",
+      "translation": "Reliable data on patient autonomy remain limited.",
+      "example": "I dati affidabili su l'autonomia del paziente restano limitati."
+    },
+    {
+      "id": "it-health-c1-c2-059",
+      "word": "I dati affidabili su l'accesso alle cure primarie restano limitati.",
+      "translation": "Reliable data on access to primary care remain limited.",
+      "example": "I dati affidabili su l'accesso alle cure primarie restano limitati."
+    },
+    {
+      "id": "it-health-c1-c2-060",
+      "word": "I dati affidabili su il trattamento basato sulle prove restano limitati.",
+      "translation": "Reliable data on evidence-based treatment remain limited.",
+      "example": "I dati affidabili su il trattamento basato sulle prove restano limitati."
+    },
+    {
+      "id": "it-health-c1-c2-061",
+      "word": "Un approccio centrato sul paziente può migliorare la disuguaglianza sanitaria.",
+      "translation": "A patient-centered approach can improve health inequality.",
+      "example": "Un approccio centrato sul paziente può migliorare la disuguaglianza sanitaria."
+    },
+    {
+      "id": "it-health-c1-c2-062",
+      "word": "Un approccio centrato sul paziente può migliorare la medicina preventiva.",
+      "translation": "A patient-centered approach can improve preventive medicine.",
+      "example": "Un approccio centrato sul paziente può migliorare la medicina preventiva."
+    },
+    {
+      "id": "it-health-c1-c2-063",
+      "word": "Un approccio centrato sul paziente può migliorare la resistenza antimicrobica.",
+      "translation": "A patient-centered approach can improve antimicrobial resistance.",
+      "example": "Un approccio centrato sul paziente può migliorare la resistenza antimicrobica."
+    },
+    {
+      "id": "it-health-c1-c2-064",
+      "word": "Un approccio centrato sul paziente può migliorare la gestione delle malattie croniche.",
+      "translation": "A patient-centered approach can improve chronic disease management.",
+      "example": "Un approccio centrato sul paziente può migliorare la gestione delle malattie croniche."
+    },
+    {
+      "id": "it-health-c1-c2-065",
+      "word": "Un approccio centrato sul paziente può migliorare il consenso informato.",
+      "translation": "A patient-centered approach can improve informed consent.",
+      "example": "Un approccio centrato sul paziente può migliorare il consenso informato."
+    },
+    {
+      "id": "it-health-c1-c2-066",
+      "word": "Un approccio centrato sul paziente può migliorare l'assistenza per la salute mentale.",
+      "translation": "A patient-centered approach can improve mental health provision.",
+      "example": "Un approccio centrato sul paziente può migliorare l'assistenza per la salute mentale."
+    },
+    {
+      "id": "it-health-c1-c2-067",
+      "word": "Un approccio centrato sul paziente può migliorare la disinformazione medica.",
+      "translation": "A patient-centered approach can improve medical misinformation.",
+      "example": "Un approccio centrato sul paziente può migliorare la disinformazione medica."
+    },
+    {
+      "id": "it-health-c1-c2-068",
+      "word": "Un approccio centrato sul paziente può migliorare l'autonomia del paziente.",
+      "translation": "A patient-centered approach can improve patient autonomy.",
+      "example": "Un approccio centrato sul paziente può migliorare l'autonomia del paziente."
+    },
+    {
+      "id": "it-health-c1-c2-069",
+      "word": "Un approccio centrato sul paziente può migliorare l'accesso alle cure primarie.",
+      "translation": "A patient-centered approach can improve access to primary care.",
+      "example": "Un approccio centrato sul paziente può migliorare l'accesso alle cure primarie."
+    },
+    {
+      "id": "it-health-c1-c2-070",
+      "word": "Un approccio centrato sul paziente può migliorare il trattamento basato sulle prove.",
+      "translation": "A patient-centered approach can improve evidence-based treatment.",
+      "example": "Un approccio centrato sul paziente può migliorare il trattamento basato sulle prove."
+    },
+    {
+      "id": "it-health-c1-c2-071",
+      "word": "La cooperazione internazionale è essenziale per la disuguaglianza sanitaria.",
+      "translation": "International cooperation is essential for health inequality.",
+      "example": "La cooperazione internazionale è essenziale per la disuguaglianza sanitaria."
+    },
+    {
+      "id": "it-health-c1-c2-072",
+      "word": "La cooperazione internazionale è essenziale per la medicina preventiva.",
+      "translation": "International cooperation is essential for preventive medicine.",
+      "example": "La cooperazione internazionale è essenziale per la medicina preventiva."
+    },
+    {
+      "id": "it-health-c1-c2-073",
+      "word": "La cooperazione internazionale è essenziale per la resistenza antimicrobica.",
+      "translation": "International cooperation is essential for antimicrobial resistance.",
+      "example": "La cooperazione internazionale è essenziale per la resistenza antimicrobica."
+    },
+    {
+      "id": "it-health-c1-c2-074",
+      "word": "La cooperazione internazionale è essenziale per la gestione delle malattie croniche.",
+      "translation": "International cooperation is essential for chronic disease management.",
+      "example": "La cooperazione internazionale è essenziale per la gestione delle malattie croniche."
+    },
+    {
+      "id": "it-health-c1-c2-075",
+      "word": "La cooperazione internazionale è essenziale per il consenso informato.",
+      "translation": "International cooperation is essential for informed consent.",
+      "example": "La cooperazione internazionale è essenziale per il consenso informato."
+    },
+    {
+      "id": "it-health-c1-c2-076",
+      "word": "La cooperazione internazionale è essenziale per l'assistenza per la salute mentale.",
+      "translation": "International cooperation is essential for mental health provision.",
+      "example": "La cooperazione internazionale è essenziale per l'assistenza per la salute mentale."
+    },
+    {
+      "id": "it-health-c1-c2-077",
+      "word": "La cooperazione internazionale è essenziale per la disinformazione medica.",
+      "translation": "International cooperation is essential for medical misinformation.",
+      "example": "La cooperazione internazionale è essenziale per la disinformazione medica."
+    },
+    {
+      "id": "it-health-c1-c2-078",
+      "word": "La cooperazione internazionale è essenziale per l'autonomia del paziente.",
+      "translation": "International cooperation is essential for patient autonomy.",
+      "example": "La cooperazione internazionale è essenziale per l'autonomia del paziente."
+    },
+    {
+      "id": "it-health-c1-c2-079",
+      "word": "La cooperazione internazionale è essenziale per l'accesso alle cure primarie.",
+      "translation": "International cooperation is essential for access to primary care.",
+      "example": "La cooperazione internazionale è essenziale per l'accesso alle cure primarie."
+    },
+    {
+      "id": "it-health-c1-c2-080",
+      "word": "La cooperazione internazionale è essenziale per il trattamento basato sulle prove.",
+      "translation": "International cooperation is essential for evidence-based treatment.",
+      "example": "La cooperazione internazionale è essenziale per il trattamento basato sulle prove."
+    },
+    {
+      "id": "it-health-c1-c2-081",
+      "word": "Qualsiasi riforma di la disuguaglianza sanitaria deve considerare le conseguenze indesiderate.",
+      "translation": "Any reform of health inequality must consider unintended consequences.",
+      "example": "Qualsiasi riforma di la disuguaglianza sanitaria deve considerare le conseguenze indesiderate."
+    },
+    {
+      "id": "it-health-c1-c2-082",
+      "word": "Qualsiasi riforma di la medicina preventiva deve considerare le conseguenze indesiderate.",
+      "translation": "Any reform of preventive medicine must consider unintended consequences.",
+      "example": "Qualsiasi riforma di la medicina preventiva deve considerare le conseguenze indesiderate."
+    },
+    {
+      "id": "it-health-c1-c2-083",
+      "word": "Qualsiasi riforma di la resistenza antimicrobica deve considerare le conseguenze indesiderate.",
+      "translation": "Any reform of antimicrobial resistance must consider unintended consequences.",
+      "example": "Qualsiasi riforma di la resistenza antimicrobica deve considerare le conseguenze indesiderate."
+    },
+    {
+      "id": "it-health-c1-c2-084",
+      "word": "Qualsiasi riforma di la gestione delle malattie croniche deve considerare le conseguenze indesiderate.",
+      "translation": "Any reform of chronic disease management must consider unintended consequences.",
+      "example": "Qualsiasi riforma di la gestione delle malattie croniche deve considerare le conseguenze indesiderate."
+    },
+    {
+      "id": "it-health-c1-c2-085",
+      "word": "Qualsiasi riforma di il consenso informato deve considerare le conseguenze indesiderate.",
+      "translation": "Any reform of informed consent must consider unintended consequences.",
+      "example": "Qualsiasi riforma di il consenso informato deve considerare le conseguenze indesiderate."
+    },
+    {
+      "id": "it-health-c1-c2-086",
+      "word": "Qualsiasi riforma di l'assistenza per la salute mentale deve considerare le conseguenze indesiderate.",
+      "translation": "Any reform of mental health provision must consider unintended consequences.",
+      "example": "Qualsiasi riforma di l'assistenza per la salute mentale deve considerare le conseguenze indesiderate."
+    },
+    {
+      "id": "it-health-c1-c2-087",
+      "word": "Qualsiasi riforma di la disinformazione medica deve considerare le conseguenze indesiderate.",
+      "translation": "Any reform of medical misinformation must consider unintended consequences.",
+      "example": "Qualsiasi riforma di la disinformazione medica deve considerare le conseguenze indesiderate."
+    },
+    {
+      "id": "it-health-c1-c2-088",
+      "word": "Qualsiasi riforma di l'autonomia del paziente deve considerare le conseguenze indesiderate.",
+      "translation": "Any reform of patient autonomy must consider unintended consequences.",
+      "example": "Qualsiasi riforma di l'autonomia del paziente deve considerare le conseguenze indesiderate."
+    },
+    {
+      "id": "it-health-c1-c2-089",
+      "word": "Qualsiasi riforma di l'accesso alle cure primarie deve considerare le conseguenze indesiderate.",
+      "translation": "Any reform of access to primary care must consider unintended consequences.",
+      "example": "Qualsiasi riforma di l'accesso alle cure primarie deve considerare le conseguenze indesiderate."
+    },
+    {
+      "id": "it-health-c1-c2-090",
+      "word": "Qualsiasi riforma di il trattamento basato sulle prove deve considerare le conseguenze indesiderate.",
+      "translation": "Any reform of evidence-based treatment must consider unintended consequences.",
+      "example": "Qualsiasi riforma di il trattamento basato sulle prove deve considerare le conseguenze indesiderate."
+    },
+    {
+      "id": "it-health-c1-c2-091",
+      "word": "La comprensione pubblica di la disuguaglianza sanitaria è cambiata notevolmente.",
+      "translation": "Public understanding of health inequality has changed significantly.",
+      "example": "La comprensione pubblica di la disuguaglianza sanitaria è cambiata notevolmente."
+    },
+    {
+      "id": "it-health-c1-c2-092",
+      "word": "La comprensione pubblica di la medicina preventiva è cambiata notevolmente.",
+      "translation": "Public understanding of preventive medicine has changed significantly.",
+      "example": "La comprensione pubblica di la medicina preventiva è cambiata notevolmente."
+    },
+    {
+      "id": "it-health-c1-c2-093",
+      "word": "La comprensione pubblica di la resistenza antimicrobica è cambiata notevolmente.",
+      "translation": "Public understanding of antimicrobial resistance has changed significantly.",
+      "example": "La comprensione pubblica di la resistenza antimicrobica è cambiata notevolmente."
+    },
+    {
+      "id": "it-health-c1-c2-094",
+      "word": "La comprensione pubblica di la gestione delle malattie croniche è cambiata notevolmente.",
+      "translation": "Public understanding of chronic disease management has changed significantly.",
+      "example": "La comprensione pubblica di la gestione delle malattie croniche è cambiata notevolmente."
+    },
+    {
+      "id": "it-health-c1-c2-095",
+      "word": "La comprensione pubblica di il consenso informato è cambiata notevolmente.",
+      "translation": "Public understanding of informed consent has changed significantly.",
+      "example": "La comprensione pubblica di il consenso informato è cambiata notevolmente."
+    },
+    {
+      "id": "it-health-c1-c2-096",
+      "word": "La comprensione pubblica di l'assistenza per la salute mentale è cambiata notevolmente.",
+      "translation": "Public understanding of mental health provision has changed significantly.",
+      "example": "La comprensione pubblica di l'assistenza per la salute mentale è cambiata notevolmente."
+    },
+    {
+      "id": "it-health-c1-c2-097",
+      "word": "La comprensione pubblica di la disinformazione medica è cambiata notevolmente.",
+      "translation": "Public understanding of medical misinformation has changed significantly.",
+      "example": "La comprensione pubblica di la disinformazione medica è cambiata notevolmente."
+    },
+    {
+      "id": "it-health-c1-c2-098",
+      "word": "La comprensione pubblica di l'autonomia del paziente è cambiata notevolmente.",
+      "translation": "Public understanding of patient autonomy has changed significantly.",
+      "example": "La comprensione pubblica di l'autonomia del paziente è cambiata notevolmente."
+    },
+    {
+      "id": "it-health-c1-c2-099",
+      "word": "La comprensione pubblica di l'accesso alle cure primarie è cambiata notevolmente.",
+      "translation": "Public understanding of access to primary care has changed significantly.",
+      "example": "La comprensione pubblica di l'accesso alle cure primarie è cambiata notevolmente."
+    },
+    {
+      "id": "it-health-c1-c2-100",
+      "word": "La comprensione pubblica di il trattamento basato sulle prove è cambiata notevolmente.",
+      "translation": "Public understanding of evidence-based treatment has changed significantly.",
+      "example": "La comprensione pubblica di il trattamento basato sulle prove è cambiata notevolmente."
+    }
+  ]
+}
