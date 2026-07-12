@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-clothing-c1-c2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "clothing",
+  "categoryTitle": "Appearance & Clothing",
+  "title": "Appearance & Clothing",
+  "level": "C1-C2",
+  "emoji": "👗",
+  "description": "Explore fashion history, identity, craftsmanship, sustainability, design, and the clothing industry.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-clothing-c1-c2-001",
+      "word": "La exposición ofrece una perspectiva histórica sobre la producción textil sostenible.",
+      "translation": "The exhibition offers a historical perspective on sustainable textile production.",
+      "example": "La exposición ofrece una perspectiva histórica sobre la producción textil sostenible."
+    },
+    {
+      "id": "es-clothing-c1-c2-002",
+      "word": "La exposición ofrece una perspectiva histórica sobre la artesanía tradicional.",
+      "translation": "The exhibition offers a historical perspective on traditional craftsmanship.",
+      "example": "La exposición ofrece una perspectiva histórica sobre la artesanía tradicional."
+    },
+    {
+      "id": "es-clothing-c1-c2-003",
+      "word": "La exposición ofrece una perspectiva histórica sobre la moda como expresión personal.",
+      "translation": "The exhibition offers a historical perspective on fashion as self-expression.",
+      "example": "La exposición ofrece una perspectiva histórica sobre la moda como expresión personal."
+    },
+    {
+      "id": "es-clothing-c1-c2-004",
+      "word": "La exposición ofrece una perspectiva histórica sobre la trazabilidad de las prendas.",
+      "translation": "The exhibition offers a historical perspective on garment traceability.",
+      "example": "La exposición ofrece una perspectiva histórica sobre la trazabilidad de las prendas."
+    },
+    {
+      "id": "es-clothing-c1-c2-005",
+      "word": "La exposición ofrece una perspectiva histórica sobre la moda circular.",
+      "translation": "The exhibition offers a historical perspective on circular fashion.",
+      "example": "La exposición ofrece una perspectiva histórica sobre la moda circular."
+    },
+    {
+      "id": "es-clothing-c1-c2-006",
+      "word": "La exposición ofrece una perspectiva histórica sobre las tradiciones culturales de vestimenta.",
+      "translation": "The exhibition offers a historical perspective on cultural dress traditions.",
+      "example": "La exposición ofrece una perspectiva histórica sobre las tradiciones culturales de vestimenta."
+    },
+    {
+      "id": "es-clothing-c1-c2-007",
+      "word": "La exposición ofrece una perspectiva histórica sobre la sastrería a medida.",
+      "translation": "The exhibition offers a historical perspective on bespoke tailoring.",
+      "example": "La exposición ofrece una perspectiva histórica sobre la sastrería a medida."
+    },
+    {
+      "id": "es-clothing-c1-c2-008",
+      "word": "La exposición ofrece una perspectiva histórica sobre la presentación visual.",
+      "translation": "The exhibition offers a historical perspective on visual presentation.",
+      "example": "La exposición ofrece una perspectiva histórica sobre la presentación visual."
+    },
+    {
+      "id": "es-clothing-c1-c2-009",
+      "word": "La exposición ofrece una perspectiva histórica sobre la innovación textil.",
+      "translation": "The exhibition offers a historical perspective on textile innovation.",
+      "example": "La exposición ofrece una perspectiva histórica sobre la innovación textil."
+    },
+    {
+      "id": "es-clothing-c1-c2-010",
+      "word": "La exposición ofrece una perspectiva histórica sobre la industria mundial de la moda.",
+      "translation": "The exhibition offers a historical perspective on the global fashion industry.",
+      "example": "La exposición ofrece una perspectiva histórica sobre la industria mundial de la moda."
+    },
+    {
+      "id": "es-clothing-c1-c2-011",
+      "word": "Los investigadores han estudiado el significado social de la producción textil sostenible.",
+      "translation": "Researchers have examined the social meaning of sustainable textile production.",
+      "example": "Los investigadores han estudiado el significado social de la producción textil sostenible."
+    },
+    {
+      "id": "es-clothing-c1-c2-012",
+      "word": "Los investigadores han estudiado el significado social de la artesanía tradicional.",
+      "translation": "Researchers have examined the social meaning of traditional craftsmanship.",
+      "example": "Los investigadores han estudiado el significado social de la artesanía tradicional."
+    },
+    {
+      "id": "es-clothing-c1-c2-013",
+      "word": "Los investigadores han estudiado el significado social de la moda como expresión personal.",
+      "translation": "Researchers have examined the social meaning of fashion as self-expression.",
+      "example": "Los investigadores han estudiado el significado social de la moda como expresión personal."
+    },
+    {
+      "id": "es-clothing-c1-c2-014",
+      "word": "Los investigadores han estudiado el significado social de la trazabilidad de las prendas.",
+      "translation": "Researchers have examined the social meaning of garment traceability.",
+      "example": "Los investigadores han estudiado el significado social de la trazabilidad de las prendas."
+    },
+    {
+      "id": "es-clothing-c1-c2-015",
+      "word": "Los investigadores han estudiado el significado social de la moda circular.",
+      "translation": "Researchers have examined the social meaning of circular fashion.",
+      "example": "Los investigadores han estudiado el significado social de la moda circular."
+    },
+    {
+      "id": "es-clothing-c1-c2-016",
+      "word": "Los investigadores han estudiado el significado social de las tradiciones culturales de vestimenta.",
+      "translation": "Researchers have examined the social meaning of cultural dress traditions.",
+      "example": "Los investigadores han estudiado el significado social de las tradiciones culturales de vestimenta."
+    },
+    {
+      "id": "es-clothing-c1-c2-017",
+      "word": "Los investigadores han estudiado el significado social de la sastrería a medida.",
+      "translation": "Researchers have examined the social meaning of bespoke tailoring.",
+      "example": "Los investigadores han estudiado el significado social de la sastrería a medida."
+    },
+    {
+      "id": "es-clothing-c1-c2-018",
+      "word": "Los investigadores han estudiado el significado social de la presentación visual.",
+      "translation": "Researchers have examined the social meaning of visual presentation.",
+      "example": "Los investigadores han estudiado el significado social de la presentación visual."
+    },
+    {
+      "id": "es-clothing-c1-c2-019",
+      "word": "Los investigadores han estudiado el significado social de la innovación textil.",
+      "translation": "Researchers have examined the social meaning of textile innovation.",
+      "example": "Los investigadores han estudiado el significado social de la innovación textil."
+    },
+    {
+      "id": "es-clothing-c1-c2-020",
+      "word": "Los investigadores han estudiado el significado social de la industria mundial de la moda.",
+      "translation": "Researchers have examined the social meaning of the global fashion industry.",
+      "example": "Los investigadores han estudiado el significado social de la industria mundial de la moda."
+    },
+    {
+      "id": "es-clothing-c1-c2-021",
+      "word": "El interés de los consumidores por la producción textil sostenible ha crecido considerablemente.",
+      "translation": "Consumer interest in sustainable textile production has grown considerably.",
+      "example": "El interés de los consumidores por la producción textil sostenible ha crecido considerablemente."
+    },
+    {
+      "id": "es-clothing-c1-c2-022",
+      "word": "El interés de los consumidores por la artesanía tradicional ha crecido considerablemente.",
+      "translation": "Consumer interest in traditional craftsmanship has grown considerably.",
+      "example": "El interés de los consumidores por la artesanía tradicional ha crecido considerablemente."
+    },
+    {
+      "id": "es-clothing-c1-c2-023",
+      "word": "El interés de los consumidores por la moda como expresión personal ha crecido considerablemente.",
+      "translation": "Consumer interest in fashion as self-expression has grown considerably.",
+      "example": "El interés de los consumidores por la moda como expresión personal ha crecido considerablemente."
+    },
+    {
+      "id": "es-clothing-c1-c2-024",
+      "word": "El interés de los consumidores por la trazabilidad de las prendas ha crecido considerablemente.",
+      "translation": "Consumer interest in garment traceability has grown considerably.",
+      "example": "El interés de los consumidores por la trazabilidad de las prendas ha crecido considerablemente."
+    },
+    {
+      "id": "es-clothing-c1-c2-025",
+      "word": "El interés de los consumidores por la moda circular ha crecido considerablemente.",
+      "translation": "Consumer interest in circular fashion has grown considerably.",
+      "example": "El interés de los consumidores por la moda circular ha crecido considerablemente."
+    },
+    {
+      "id": "es-clothing-c1-c2-026",
+      "word": "El interés de los consumidores por las tradiciones culturales de vestimenta ha crecido considerablemente.",
+      "translation": "Consumer interest in cultural dress traditions has grown considerably.",
+      "example": "El interés de los consumidores por las tradiciones culturales de vestimenta ha crecido considerablemente."
+    },
+    {
+      "id": "es-clothing-c1-c2-027",
+      "word": "El interés de los consumidores por la sastrería a medida ha crecido considerablemente.",
+      "translation": "Consumer interest in bespoke tailoring has grown considerably.",
+      "example": "El interés de los consumidores por la sastrería a medida ha crecido considerablemente."
+    },
+    {
+      "id": "es-clothing-c1-c2-028",
+      "word": "El interés de los consumidores por la presentación visual ha crecido considerablemente.",
+      "translation": "Consumer interest in visual presentation has grown considerably.",
+      "example": "El interés de los consumidores por la presentación visual ha crecido considerablemente."
+    },
+    {
+      "id": "es-clothing-c1-c2-029",
+      "word": "El interés de los consumidores por la innovación textil ha crecido considerablemente.",
+      "translation": "Consumer interest in textile innovation has grown considerably.",
+      "example": "El interés de los consumidores por la innovación textil ha crecido considerablemente."
+    },
+    {
+      "id": "es-clothing-c1-c2-030",
+      "word": "El interés de los consumidores por la industria mundial de la moda ha crecido considerablemente.",
+      "translation": "Consumer interest in the global fashion industry has grown considerably.",
+      "example": "El interés de los consumidores por la industria mundial de la moda ha crecido considerablemente."
+    },
+    {
+      "id": "es-clothing-c1-c2-031",
+      "word": "Un debate matizado sobre la producción textil sostenible requiere contexto cultural.",
+      "translation": "A nuanced discussion of sustainable textile production requires cultural context.",
+      "example": "Un debate matizado sobre la producción textil sostenible requiere contexto cultural."
+    },
+    {
+      "id": "es-clothing-c1-c2-032",
+      "word": "Un debate matizado sobre la artesanía tradicional requiere contexto cultural.",
+      "translation": "A nuanced discussion of traditional craftsmanship requires cultural context.",
+      "example": "Un debate matizado sobre la artesanía tradicional requiere contexto cultural."
+    },
+    {
+      "id": "es-clothing-c1-c2-033",
+      "word": "Un debate matizado sobre la moda como expresión personal requiere contexto cultural.",
+      "translation": "A nuanced discussion of fashion as self-expression requires cultural context.",
+      "example": "Un debate matizado sobre la moda como expresión personal requiere contexto cultural."
+    },
+    {
+      "id": "es-clothing-c1-c2-034",
+      "word": "Un debate matizado sobre la trazabilidad de las prendas requiere contexto cultural.",
+      "translation": "A nuanced discussion of garment traceability requires cultural context.",
+      "example": "Un debate matizado sobre la trazabilidad de las prendas requiere contexto cultural."
+    },
+    {
+      "id": "es-clothing-c1-c2-035",
+      "word": "Un debate matizado sobre la moda circular requiere contexto cultural.",
+      "translation": "A nuanced discussion of circular fashion requires cultural context.",
+      "example": "Un debate matizado sobre la moda circular requiere contexto cultural."
+    },
+    {
+      "id": "es-clothing-c1-c2-036",
+      "word": "Un debate matizado sobre las tradiciones culturales de vestimenta requiere contexto cultural.",
+      "translation": "A nuanced discussion of cultural dress traditions requires cultural context.",
+      "example": "Un debate matizado sobre las tradiciones culturales de vestimenta requiere contexto cultural."
+    },
+    {
+      "id": "es-clothing-c1-c2-037",
+      "word": "Un debate matizado sobre la sastrería a medida requiere contexto cultural.",
+      "translation": "A nuanced discussion of bespoke tailoring requires cultural context.",
+      "example": "Un debate matizado sobre la sastrería a medida requiere contexto cultural."
+    },
+    {
+      "id": "es-clothing-c1-c2-038",
+      "word": "Un debate matizado sobre la presentación visual requiere contexto cultural.",
+      "translation": "A nuanced discussion of visual presentation requires cultural context.",
+      "example": "Un debate matizado sobre la presentación visual requiere contexto cultural."
+    },
+    {
+      "id": "es-clothing-c1-c2-039",
+      "word": "Un debate matizado sobre la innovación textil requiere contexto cultural.",
+      "translation": "A nuanced discussion of textile innovation requires cultural context.",
+      "example": "Un debate matizado sobre la innovación textil requiere contexto cultural."
+    },
+    {
+      "id": "es-clothing-c1-c2-040",
+      "word": "Un debate matizado sobre la industria mundial de la moda requiere contexto cultural.",
+      "translation": "A nuanced discussion of the global fashion industry requires cultural context.",
+      "example": "Un debate matizado sobre la industria mundial de la moda requiere contexto cultural."
+    },
+    {
+      "id": "es-clothing-c1-c2-041",
+      "word": "Las nuevas tecnologías están transformando la producción textil sostenible.",
+      "translation": "New technology is transforming sustainable textile production.",
+      "example": "Las nuevas tecnologías están transformando la producción textil sostenible."
+    },
+    {
+      "id": "es-clothing-c1-c2-042",
+      "word": "Las nuevas tecnologías están transformando la artesanía tradicional.",
+      "translation": "New technology is transforming traditional craftsmanship.",
+      "example": "Las nuevas tecnologías están transformando la artesanía tradicional."
+    },
+    {
+      "id": "es-clothing-c1-c2-043",
+      "word": "Las nuevas tecnologías están transformando la moda como expresión personal.",
+      "translation": "New technology is transforming fashion as self-expression.",
+      "example": "Las nuevas tecnologías están transformando la moda como expresión personal."
+    },
+    {
+      "id": "es-clothing-c1-c2-044",
+      "word": "Las nuevas tecnologías están transformando la trazabilidad de las prendas.",
+      "translation": "New technology is transforming garment traceability.",
+      "example": "Las nuevas tecnologías están transformando la trazabilidad de las prendas."
+    },
+    {
+      "id": "es-clothing-c1-c2-045",
+      "word": "Las nuevas tecnologías están transformando la moda circular.",
+      "translation": "New technology is transforming circular fashion.",
+      "example": "Las nuevas tecnologías están transformando la moda circular."
+    },
+    {
+      "id": "es-clothing-c1-c2-046",
+      "word": "Las nuevas tecnologías están transformando las tradiciones culturales de vestimenta.",
+      "translation": "New technology is transforming cultural dress traditions.",
+      "example": "Las nuevas tecnologías están transformando las tradiciones culturales de vestimenta."
+    },
+    {
+      "id": "es-clothing-c1-c2-047",
+      "word": "Las nuevas tecnologías están transformando la sastrería a medida.",
+      "translation": "New technology is transforming bespoke tailoring.",
+      "example": "Las nuevas tecnologías están transformando la sastrería a medida."
+    },
+    {
+      "id": "es-clothing-c1-c2-048",
+      "word": "Las nuevas tecnologías están transformando la presentación visual.",
+      "translation": "New technology is transforming visual presentation.",
+      "example": "Las nuevas tecnologías están transformando la presentación visual."
+    },
+    {
+      "id": "es-clothing-c1-c2-049",
+      "word": "Las nuevas tecnologías están transformando la innovación textil.",
+      "translation": "New technology is transforming textile innovation.",
+      "example": "Las nuevas tecnologías están transformando la innovación textil."
+    },
+    {
+      "id": "es-clothing-c1-c2-050",
+      "word": "Las nuevas tecnologías están transformando la industria mundial de la moda.",
+      "translation": "New technology is transforming the global fashion industry.",
+      "example": "Las nuevas tecnologías están transformando la industria mundial de la moda."
+    },
+    {
+      "id": "es-clothing-c1-c2-051",
+      "word": "El impacto ambiental de la producción textil sostenible merece más atención.",
+      "translation": "The environmental impact of sustainable textile production deserves closer attention.",
+      "example": "El impacto ambiental de la producción textil sostenible merece más atención."
+    },
+    {
+      "id": "es-clothing-c1-c2-052",
+      "word": "El impacto ambiental de la artesanía tradicional merece más atención.",
+      "translation": "The environmental impact of traditional craftsmanship deserves closer attention.",
+      "example": "El impacto ambiental de la artesanía tradicional merece más atención."
+    },
+    {
+      "id": "es-clothing-c1-c2-053",
+      "word": "El impacto ambiental de la moda como expresión personal merece más atención.",
+      "translation": "The environmental impact of fashion as self-expression deserves closer attention.",
+      "example": "El impacto ambiental de la moda como expresión personal merece más atención."
+    },
+    {
+      "id": "es-clothing-c1-c2-054",
+      "word": "El impacto ambiental de la trazabilidad de las prendas merece más atención.",
+      "translation": "The environmental impact of garment traceability deserves closer attention.",
+      "example": "El impacto ambiental de la trazabilidad de las prendas merece más atención."
+    },
+    {
+      "id": "es-clothing-c1-c2-055",
+      "word": "El impacto ambiental de la moda circular merece más atención.",
+      "translation": "The environmental impact of circular fashion deserves closer attention.",
+      "example": "El impacto ambiental de la moda circular merece más atención."
+    },
+    {
+      "id": "es-clothing-c1-c2-056",
+      "word": "El impacto ambiental de las tradiciones culturales de vestimenta merece más atención.",
+      "translation": "The environmental impact of cultural dress traditions deserves closer attention.",
+      "example": "El impacto ambiental de las tradiciones culturales de vestimenta merece más atención."
+    },
+    {
+      "id": "es-clothing-c1-c2-057",
+      "word": "El impacto ambiental de la sastrería a medida merece más atención.",
+      "translation": "The environmental impact of bespoke tailoring deserves closer attention.",
+      "example": "El impacto ambiental de la sastrería a medida merece más atención."
+    },
+    {
+      "id": "es-clothing-c1-c2-058",
+      "word": "El impacto ambiental de la presentación visual merece más atención.",
+      "translation": "The environmental impact of visual presentation deserves closer attention.",
+      "example": "El impacto ambiental de la presentación visual merece más atención."
+    },
+    {
+      "id": "es-clothing-c1-c2-059",
+      "word": "El impacto ambiental de la innovación textil merece más atención.",
+      "translation": "The environmental impact of textile innovation deserves closer attention.",
+      "example": "El impacto ambiental de la innovación textil merece más atención."
+    },
+    {
+      "id": "es-clothing-c1-c2-060",
+      "word": "El impacto ambiental de la industria mundial de la moda merece más atención.",
+      "translation": "The environmental impact of the global fashion industry deserves closer attention.",
+      "example": "El impacto ambiental de la industria mundial de la moda merece más atención."
+    },
+    {
+      "id": "es-clothing-c1-c2-061",
+      "word": "El documental cuestiona ideas comunes sobre la producción textil sostenible.",
+      "translation": "The documentary challenges common assumptions about sustainable textile production.",
+      "example": "El documental cuestiona ideas comunes sobre la producción textil sostenible."
+    },
+    {
+      "id": "es-clothing-c1-c2-062",
+      "word": "El documental cuestiona ideas comunes sobre la artesanía tradicional.",
+      "translation": "The documentary challenges common assumptions about traditional craftsmanship.",
+      "example": "El documental cuestiona ideas comunes sobre la artesanía tradicional."
+    },
+    {
+      "id": "es-clothing-c1-c2-063",
+      "word": "El documental cuestiona ideas comunes sobre la moda como expresión personal.",
+      "translation": "The documentary challenges common assumptions about fashion as self-expression.",
+      "example": "El documental cuestiona ideas comunes sobre la moda como expresión personal."
+    },
+    {
+      "id": "es-clothing-c1-c2-064",
+      "word": "El documental cuestiona ideas comunes sobre la trazabilidad de las prendas.",
+      "translation": "The documentary challenges common assumptions about garment traceability.",
+      "example": "El documental cuestiona ideas comunes sobre la trazabilidad de las prendas."
+    },
+    {
+      "id": "es-clothing-c1-c2-065",
+      "word": "El documental cuestiona ideas comunes sobre la moda circular.",
+      "translation": "The documentary challenges common assumptions about circular fashion.",
+      "example": "El documental cuestiona ideas comunes sobre la moda circular."
+    },
+    {
+      "id": "es-clothing-c1-c2-066",
+      "word": "El documental cuestiona ideas comunes sobre las tradiciones culturales de vestimenta.",
+      "translation": "The documentary challenges common assumptions about cultural dress traditions.",
+      "example": "El documental cuestiona ideas comunes sobre las tradiciones culturales de vestimenta."
+    },
+    {
+      "id": "es-clothing-c1-c2-067",
+      "word": "El documental cuestiona ideas comunes sobre la sastrería a medida.",
+      "translation": "The documentary challenges common assumptions about bespoke tailoring.",
+      "example": "El documental cuestiona ideas comunes sobre la sastrería a medida."
+    },
+    {
+      "id": "es-clothing-c1-c2-068",
+      "word": "El documental cuestiona ideas comunes sobre la presentación visual.",
+      "translation": "The documentary challenges common assumptions about visual presentation.",
+      "example": "El documental cuestiona ideas comunes sobre la presentación visual."
+    },
+    {
+      "id": "es-clothing-c1-c2-069",
+      "word": "El documental cuestiona ideas comunes sobre la innovación textil.",
+      "translation": "The documentary challenges common assumptions about textile innovation.",
+      "example": "El documental cuestiona ideas comunes sobre la innovación textil."
+    },
+    {
+      "id": "es-clothing-c1-c2-070",
+      "word": "El documental cuestiona ideas comunes sobre la industria mundial de la moda.",
+      "translation": "The documentary challenges common assumptions about the global fashion industry.",
+      "example": "El documental cuestiona ideas comunes sobre la industria mundial de la moda."
+    },
+    {
+      "id": "es-clothing-c1-c2-071",
+      "word": "La educación puede mejorar la comprensión pública de la producción textil sostenible.",
+      "translation": "Education can deepen public understanding of sustainable textile production.",
+      "example": "La educación puede mejorar la comprensión pública de la producción textil sostenible."
+    },
+    {
+      "id": "es-clothing-c1-c2-072",
+      "word": "La educación puede mejorar la comprensión pública de la artesanía tradicional.",
+      "translation": "Education can deepen public understanding of traditional craftsmanship.",
+      "example": "La educación puede mejorar la comprensión pública de la artesanía tradicional."
+    },
+    {
+      "id": "es-clothing-c1-c2-073",
+      "word": "La educación puede mejorar la comprensión pública de la moda como expresión personal.",
+      "translation": "Education can deepen public understanding of fashion as self-expression.",
+      "example": "La educación puede mejorar la comprensión pública de la moda como expresión personal."
+    },
+    {
+      "id": "es-clothing-c1-c2-074",
+      "word": "La educación puede mejorar la comprensión pública de la trazabilidad de las prendas.",
+      "translation": "Education can deepen public understanding of garment traceability.",
+      "example": "La educación puede mejorar la comprensión pública de la trazabilidad de las prendas."
+    },
+    {
+      "id": "es-clothing-c1-c2-075",
+      "word": "La educación puede mejorar la comprensión pública de la moda circular.",
+      "translation": "Education can deepen public understanding of circular fashion.",
+      "example": "La educación puede mejorar la comprensión pública de la moda circular."
+    },
+    {
+      "id": "es-clothing-c1-c2-076",
+      "word": "La educación puede mejorar la comprensión pública de las tradiciones culturales de vestimenta.",
+      "translation": "Education can deepen public understanding of cultural dress traditions.",
+      "example": "La educación puede mejorar la comprensión pública de las tradiciones culturales de vestimenta."
+    },
+    {
+      "id": "es-clothing-c1-c2-077",
+      "word": "La educación puede mejorar la comprensión pública de la sastrería a medida.",
+      "translation": "Education can deepen public understanding of bespoke tailoring.",
+      "example": "La educación puede mejorar la comprensión pública de la sastrería a medida."
+    },
+    {
+      "id": "es-clothing-c1-c2-078",
+      "word": "La educación puede mejorar la comprensión pública de la presentación visual.",
+      "translation": "Education can deepen public understanding of visual presentation.",
+      "example": "La educación puede mejorar la comprensión pública de la presentación visual."
+    },
+    {
+      "id": "es-clothing-c1-c2-079",
+      "word": "La educación puede mejorar la comprensión pública de la innovación textil.",
+      "translation": "Education can deepen public understanding of textile innovation.",
+      "example": "La educación puede mejorar la comprensión pública de la innovación textil."
+    },
+    {
+      "id": "es-clothing-c1-c2-080",
+      "word": "La educación puede mejorar la comprensión pública de la industria mundial de la moda.",
+      "translation": "Education can deepen public understanding of the global fashion industry.",
+      "example": "La educación puede mejorar la comprensión pública de la industria mundial de la moda."
+    },
+    {
+      "id": "es-clothing-c1-c2-081",
+      "word": "Los diseñadores están reconsiderando su enfoque de la producción textil sostenible.",
+      "translation": "Designers are reconsidering their approach to sustainable textile production.",
+      "example": "Los diseñadores están reconsiderando su enfoque de la producción textil sostenible."
+    },
+    {
+      "id": "es-clothing-c1-c2-082",
+      "word": "Los diseñadores están reconsiderando su enfoque de la artesanía tradicional.",
+      "translation": "Designers are reconsidering their approach to traditional craftsmanship.",
+      "example": "Los diseñadores están reconsiderando su enfoque de la artesanía tradicional."
+    },
+    {
+      "id": "es-clothing-c1-c2-083",
+      "word": "Los diseñadores están reconsiderando su enfoque de la moda como expresión personal.",
+      "translation": "Designers are reconsidering their approach to fashion as self-expression.",
+      "example": "Los diseñadores están reconsiderando su enfoque de la moda como expresión personal."
+    },
+    {
+      "id": "es-clothing-c1-c2-084",
+      "word": "Los diseñadores están reconsiderando su enfoque de la trazabilidad de las prendas.",
+      "translation": "Designers are reconsidering their approach to garment traceability.",
+      "example": "Los diseñadores están reconsiderando su enfoque de la trazabilidad de las prendas."
+    },
+    {
+      "id": "es-clothing-c1-c2-085",
+      "word": "Los diseñadores están reconsiderando su enfoque de la moda circular.",
+      "translation": "Designers are reconsidering their approach to circular fashion.",
+      "example": "Los diseñadores están reconsiderando su enfoque de la moda circular."
+    },
+    {
+      "id": "es-clothing-c1-c2-086",
+      "word": "Los diseñadores están reconsiderando su enfoque de las tradiciones culturales de vestimenta.",
+      "translation": "Designers are reconsidering their approach to cultural dress traditions.",
+      "example": "Los diseñadores están reconsiderando su enfoque de las tradiciones culturales de vestimenta."
+    },
+    {
+      "id": "es-clothing-c1-c2-087",
+      "word": "Los diseñadores están reconsiderando su enfoque de la sastrería a medida.",
+      "translation": "Designers are reconsidering their approach to bespoke tailoring.",
+      "example": "Los diseñadores están reconsiderando su enfoque de la sastrería a medida."
+    },
+    {
+      "id": "es-clothing-c1-c2-088",
+      "word": "Los diseñadores están reconsiderando su enfoque de la presentación visual.",
+      "translation": "Designers are reconsidering their approach to visual presentation.",
+      "example": "Los diseñadores están reconsiderando su enfoque de la presentación visual."
+    },
+    {
+      "id": "es-clothing-c1-c2-089",
+      "word": "Los diseñadores están reconsiderando su enfoque de la innovación textil.",
+      "translation": "Designers are reconsidering their approach to textile innovation.",
+      "example": "Los diseñadores están reconsiderando su enfoque de la innovación textil."
+    },
+    {
+      "id": "es-clothing-c1-c2-090",
+      "word": "Los diseñadores están reconsiderando su enfoque de la industria mundial de la moda.",
+      "translation": "Designers are reconsidering their approach to the global fashion industry.",
+      "example": "Los diseñadores están reconsiderando su enfoque de la industria mundial de la moda."
+    },
+    {
+      "id": "es-clothing-c1-c2-091",
+      "word": "Las comparaciones internacionales enriquecen el debate sobre la producción textil sostenible.",
+      "translation": "International comparisons enrich the debate about sustainable textile production.",
+      "example": "Las comparaciones internacionales enriquecen el debate sobre la producción textil sostenible."
+    },
+    {
+      "id": "es-clothing-c1-c2-092",
+      "word": "Las comparaciones internacionales enriquecen el debate sobre la artesanía tradicional.",
+      "translation": "International comparisons enrich the debate about traditional craftsmanship.",
+      "example": "Las comparaciones internacionales enriquecen el debate sobre la artesanía tradicional."
+    },
+    {
+      "id": "es-clothing-c1-c2-093",
+      "word": "Las comparaciones internacionales enriquecen el debate sobre la moda como expresión personal.",
+      "translation": "International comparisons enrich the debate about fashion as self-expression.",
+      "example": "Las comparaciones internacionales enriquecen el debate sobre la moda como expresión personal."
+    },
+    {
+      "id": "es-clothing-c1-c2-094",
+      "word": "Las comparaciones internacionales enriquecen el debate sobre la trazabilidad de las prendas.",
+      "translation": "International comparisons enrich the debate about garment traceability.",
+      "example": "Las comparaciones internacionales enriquecen el debate sobre la trazabilidad de las prendas."
+    },
+    {
+      "id": "es-clothing-c1-c2-095",
+      "word": "Las comparaciones internacionales enriquecen el debate sobre la moda circular.",
+      "translation": "International comparisons enrich the debate about circular fashion.",
+      "example": "Las comparaciones internacionales enriquecen el debate sobre la moda circular."
+    },
+    {
+      "id": "es-clothing-c1-c2-096",
+      "word": "Las comparaciones internacionales enriquecen el debate sobre las tradiciones culturales de vestimenta.",
+      "translation": "International comparisons enrich the debate about cultural dress traditions.",
+      "example": "Las comparaciones internacionales enriquecen el debate sobre las tradiciones culturales de vestimenta."
+    },
+    {
+      "id": "es-clothing-c1-c2-097",
+      "word": "Las comparaciones internacionales enriquecen el debate sobre la sastrería a medida.",
+      "translation": "International comparisons enrich the debate about bespoke tailoring.",
+      "example": "Las comparaciones internacionales enriquecen el debate sobre la sastrería a medida."
+    },
+    {
+      "id": "es-clothing-c1-c2-098",
+      "word": "Las comparaciones internacionales enriquecen el debate sobre la presentación visual.",
+      "translation": "International comparisons enrich the debate about visual presentation.",
+      "example": "Las comparaciones internacionales enriquecen el debate sobre la presentación visual."
+    },
+    {
+      "id": "es-clothing-c1-c2-099",
+      "word": "Las comparaciones internacionales enriquecen el debate sobre la innovación textil.",
+      "translation": "International comparisons enrich the debate about textile innovation.",
+      "example": "Las comparaciones internacionales enriquecen el debate sobre la innovación textil."
+    },
+    {
+      "id": "es-clothing-c1-c2-100",
+      "word": "Las comparaciones internacionales enriquecen el debate sobre la industria mundial de la moda.",
+      "translation": "International comparisons enrich the debate about the global fashion industry.",
+      "example": "Las comparaciones internacionales enriquecen el debate sobre la industria mundial de la moda."
+    }
+  ]
+}
