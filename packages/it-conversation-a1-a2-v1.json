@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-it-conversation-a1-a2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "conversation",
+  "categoryTitle": "Social & Conversation",
+  "title": "Social & Conversation",
+  "level": "A1-A2",
+  "emoji": "💬",
+  "description": "Start conversations, make plans, respond politely, and handle everyday social situations.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-conversation-a1-a2-001",
+      "word": "Parlami di la tua giornata.",
+      "translation": "Tell me about your day.",
+      "example": "Parlami di la tua giornata."
+    },
+    {
+      "id": "it-conversation-a1-a2-002",
+      "word": "Parlami di la tua famiglia.",
+      "translation": "Tell me about your family.",
+      "example": "Parlami di la tua famiglia."
+    },
+    {
+      "id": "it-conversation-a1-a2-003",
+      "word": "Parlami di il tuo lavoro.",
+      "translation": "Tell me about your work.",
+      "example": "Parlami di il tuo lavoro."
+    },
+    {
+      "id": "it-conversation-a1-a2-004",
+      "word": "Parlami di i tuoi studi.",
+      "translation": "Tell me about your studies.",
+      "example": "Parlami di i tuoi studi."
+    },
+    {
+      "id": "it-conversation-a1-a2-005",
+      "word": "Parlami di la tua città natale.",
+      "translation": "Tell me about your hometown.",
+      "example": "Parlami di la tua città natale."
+    },
+    {
+      "id": "it-conversation-a1-a2-006",
+      "word": "Parlami di i tuoi hobby.",
+      "translation": "Tell me about your hobbies.",
+      "example": "Parlami di i tuoi hobby."
+    },
+    {
+      "id": "it-conversation-a1-a2-007",
+      "word": "Parlami di il tuo fine settimana.",
+      "translation": "Tell me about your weekend.",
+      "example": "Parlami di il tuo fine settimana."
+    },
+    {
+      "id": "it-conversation-a1-a2-008",
+      "word": "Parlami di i tuoi programmi.",
+      "translation": "Tell me about your plans.",
+      "example": "Parlami di i tuoi programmi."
+    },
+    {
+      "id": "it-conversation-a1-a2-009",
+      "word": "Parlami di il tuo viaggio.",
+      "translation": "Tell me about your trip.",
+      "example": "Parlami di il tuo viaggio."
+    },
+    {
+      "id": "it-conversation-a1-a2-010",
+      "word": "Parlami di il tuo corso di lingua.",
+      "translation": "Tell me about your language course.",
+      "example": "Parlami di il tuo corso di lingua."
+    },
+    {
+      "id": "it-conversation-a1-a2-011",
+      "word": "Come va la tua giornata?",
+      "translation": "How is your day going?",
+      "example": "Come va la tua giornata?"
+    },
+    {
+      "id": "it-conversation-a1-a2-012",
+      "word": "Come va la tua famiglia?",
+      "translation": "How is your family going?",
+      "example": "Come va la tua famiglia?"
+    },
+    {
+      "id": "it-conversation-a1-a2-013",
+      "word": "Come va il tuo lavoro?",
+      "translation": "How is your work going?",
+      "example": "Come va il tuo lavoro?"
+    },
+    {
+      "id": "it-conversation-a1-a2-014",
+      "word": "Come va i tuoi studi?",
+      "translation": "How is your studies going?",
+      "example": "Come va i tuoi studi?"
+    },
+    {
+      "id": "it-conversation-a1-a2-015",
+      "word": "Come va la tua città natale?",
+      "translation": "How is your hometown going?",
+      "example": "Come va la tua città natale?"
+    },
+    {
+      "id": "it-conversation-a1-a2-016",
+      "word": "Come va i tuoi hobby?",
+      "translation": "How is your hobbies going?",
+      "example": "Come va i tuoi hobby?"
+    },
+    {
+      "id": "it-conversation-a1-a2-017",
+      "word": "Come va il tuo fine settimana?",
+      "translation": "How is your weekend going?",
+      "example": "Come va il tuo fine settimana?"
+    },
+    {
+      "id": "it-conversation-a1-a2-018",
+      "word": "Come va i tuoi programmi?",
+      "translation": "How is your plans going?",
+      "example": "Come va i tuoi programmi?"
+    },
+    {
+      "id": "it-conversation-a1-a2-019",
+      "word": "Come va il tuo viaggio?",
+      "translation": "How is your trip going?",
+      "example": "Come va il tuo viaggio?"
+    },
+    {
+      "id": "it-conversation-a1-a2-020",
+      "word": "Come va il tuo corso di lingua?",
+      "translation": "How is your language course going?",
+      "example": "Come va il tuo corso di lingua?"
+    },
+    {
+      "id": "it-conversation-a1-a2-021",
+      "word": "Mi piacerebbe sapere di più su la tua giornata.",
+      "translation": "I would like to hear about your day.",
+      "example": "Mi piacerebbe sapere di più su la tua giornata."
+    },
+    {
+      "id": "it-conversation-a1-a2-022",
+      "word": "Mi piacerebbe sapere di più su la tua famiglia.",
+      "translation": "I would like to hear about your family.",
+      "example": "Mi piacerebbe sapere di più su la tua famiglia."
+    },
+    {
+      "id": "it-conversation-a1-a2-023",
+      "word": "Mi piacerebbe sapere di più su il tuo lavoro.",
+      "translation": "I would like to hear about your work.",
+      "example": "Mi piacerebbe sapere di più su il tuo lavoro."
+    },
+    {
+      "id": "it-conversation-a1-a2-024",
+      "word": "Mi piacerebbe sapere di più su i tuoi studi.",
+      "translation": "I would like to hear about your studies.",
+      "example": "Mi piacerebbe sapere di più su i tuoi studi."
+    },
+    {
+      "id": "it-conversation-a1-a2-025",
+      "word": "Mi piacerebbe sapere di più su la tua città natale.",
+      "translation": "I would like to hear about your hometown.",
+      "example": "Mi piacerebbe sapere di più su la tua città natale."
+    },
+    {
+      "id": "it-conversation-a1-a2-026",
+      "word": "Mi piacerebbe sapere di più su i tuoi hobby.",
+      "translation": "I would like to hear about your hobbies.",
+      "example": "Mi piacerebbe sapere di più su i tuoi hobby."
+    },
+    {
+      "id": "it-conversation-a1-a2-027",
+      "word": "Mi piacerebbe sapere di più su il tuo fine settimana.",
+      "translation": "I would like to hear about your weekend.",
+      "example": "Mi piacerebbe sapere di più su il tuo fine settimana."
+    },
+    {
+      "id": "it-conversation-a1-a2-028",
+      "word": "Mi piacerebbe sapere di più su i tuoi programmi.",
+      "translation": "I would like to hear about your plans.",
+      "example": "Mi piacerebbe sapere di più su i tuoi programmi."
+    },
+    {
+      "id": "it-conversation-a1-a2-029",
+      "word": "Mi piacerebbe sapere di più su il tuo viaggio.",
+      "translation": "I would like to hear about your trip.",
+      "example": "Mi piacerebbe sapere di più su il tuo viaggio."
+    },
+    {
+      "id": "it-conversation-a1-a2-030",
+      "word": "Mi piacerebbe sapere di più su il tuo corso di lingua.",
+      "translation": "I would like to hear about your language course.",
+      "example": "Mi piacerebbe sapere di più su il tuo corso di lingua."
+    },
+    {
+      "id": "it-conversation-a1-a2-031",
+      "word": "Posso chiederti di la tua giornata?",
+      "translation": "Can I ask you about your day?",
+      "example": "Posso chiederti di la tua giornata?"
+    },
+    {
+      "id": "it-conversation-a1-a2-032",
+      "word": "Posso chiederti di la tua famiglia?",
+      "translation": "Can I ask you about your family?",
+      "example": "Posso chiederti di la tua famiglia?"
+    },
+    {
+      "id": "it-conversation-a1-a2-033",
+      "word": "Posso chiederti di il tuo lavoro?",
+      "translation": "Can I ask you about your work?",
+      "example": "Posso chiederti di il tuo lavoro?"
+    },
+    {
+      "id": "it-conversation-a1-a2-034",
+      "word": "Posso chiederti di i tuoi studi?",
+      "translation": "Can I ask you about your studies?",
+      "example": "Posso chiederti di i tuoi studi?"
+    },
+    {
+      "id": "it-conversation-a1-a2-035",
+      "word": "Posso chiederti di la tua città natale?",
+      "translation": "Can I ask you about your hometown?",
+      "example": "Posso chiederti di la tua città natale?"
+    },
+    {
+      "id": "it-conversation-a1-a2-036",
+      "word": "Posso chiederti di i tuoi hobby?",
+      "translation": "Can I ask you about your hobbies?",
+      "example": "Posso chiederti di i tuoi hobby?"
+    },
+    {
+      "id": "it-conversation-a1-a2-037",
+      "word": "Posso chiederti di il tuo fine settimana?",
+      "translation": "Can I ask you about your weekend?",
+      "example": "Posso chiederti di il tuo fine settimana?"
+    },
+    {
+      "id": "it-conversation-a1-a2-038",
+      "word": "Posso chiederti di i tuoi programmi?",
+      "translation": "Can I ask you about your plans?",
+      "example": "Posso chiederti di i tuoi programmi?"
+    },
+    {
+      "id": "it-conversation-a1-a2-039",
+      "word": "Posso chiederti di il tuo viaggio?",
+      "translation": "Can I ask you about your trip?",
+      "example": "Posso chiederti di il tuo viaggio?"
+    },
+    {
+      "id": "it-conversation-a1-a2-040",
+      "word": "Posso chiederti di il tuo corso di lingua?",
+      "translation": "Can I ask you about your language course?",
+      "example": "Posso chiederti di il tuo corso di lingua?"
+    },
+    {
+      "id": "it-conversation-a1-a2-041",
+      "word": "Sembra interessante, soprattutto la tua giornata.",
+      "translation": "That sounds interesting—especially your day.",
+      "example": "Sembra interessante, soprattutto la tua giornata."
+    },
+    {
+      "id": "it-conversation-a1-a2-042",
+      "word": "Sembra interessante, soprattutto la tua famiglia.",
+      "translation": "That sounds interesting—especially your family.",
+      "example": "Sembra interessante, soprattutto la tua famiglia."
+    },
+    {
+      "id": "it-conversation-a1-a2-043",
+      "word": "Sembra interessante, soprattutto il tuo lavoro.",
+      "translation": "That sounds interesting—especially your work.",
+      "example": "Sembra interessante, soprattutto il tuo lavoro."
+    },
+    {
+      "id": "it-conversation-a1-a2-044",
+      "word": "Sembra interessante, soprattutto i tuoi studi.",
+      "translation": "That sounds interesting—especially your studies.",
+      "example": "Sembra interessante, soprattutto i tuoi studi."
+    },
+    {
+      "id": "it-conversation-a1-a2-045",
+      "word": "Sembra interessante, soprattutto la tua città natale.",
+      "translation": "That sounds interesting—especially your hometown.",
+      "example": "Sembra interessante, soprattutto la tua città natale."
+    },
+    {
+      "id": "it-conversation-a1-a2-046",
+      "word": "Sembra interessante, soprattutto i tuoi hobby.",
+      "translation": "That sounds interesting—especially your hobbies.",
+      "example": "Sembra interessante, soprattutto i tuoi hobby."
+    },
+    {
+      "id": "it-conversation-a1-a2-047",
+      "word": "Sembra interessante, soprattutto il tuo fine settimana.",
+      "translation": "That sounds interesting—especially your weekend.",
+      "example": "Sembra interessante, soprattutto il tuo fine settimana."
+    },
+    {
+      "id": "it-conversation-a1-a2-048",
+      "word": "Sembra interessante, soprattutto i tuoi programmi.",
+      "translation": "That sounds interesting—especially your plans.",
+      "example": "Sembra interessante, soprattutto i tuoi programmi."
+    },
+    {
+      "id": "it-conversation-a1-a2-049",
+      "word": "Sembra interessante, soprattutto il tuo viaggio.",
+      "translation": "That sounds interesting—especially your trip.",
+      "example": "Sembra interessante, soprattutto il tuo viaggio."
+    },
+    {
+      "id": "it-conversation-a1-a2-050",
+      "word": "Sembra interessante, soprattutto il tuo corso di lingua.",
+      "translation": "That sounds interesting—especially your language course.",
+      "example": "Sembra interessante, soprattutto il tuo corso di lingua."
+    },
+    {
+      "id": "it-conversation-a1-a2-051",
+      "word": "Spero che vada bene la tua giornata.",
+      "translation": "I hope your day goes well.",
+      "example": "Spero che vada bene la tua giornata."
+    },
+    {
+      "id": "it-conversation-a1-a2-052",
+      "word": "Spero che vada bene la tua famiglia.",
+      "translation": "I hope your family goes well.",
+      "example": "Spero che vada bene la tua famiglia."
+    },
+    {
+      "id": "it-conversation-a1-a2-053",
+      "word": "Spero che vada bene il tuo lavoro.",
+      "translation": "I hope your work goes well.",
+      "example": "Spero che vada bene il tuo lavoro."
+    },
+    {
+      "id": "it-conversation-a1-a2-054",
+      "word": "Spero che vada bene i tuoi studi.",
+      "translation": "I hope your studies goes well.",
+      "example": "Spero che vada bene i tuoi studi."
+    },
+    {
+      "id": "it-conversation-a1-a2-055",
+      "word": "Spero che vada bene la tua città natale.",
+      "translation": "I hope your hometown goes well.",
+      "example": "Spero che vada bene la tua città natale."
+    },
+    {
+      "id": "it-conversation-a1-a2-056",
+      "word": "Spero che vada bene i tuoi hobby.",
+      "translation": "I hope your hobbies goes well.",
+      "example": "Spero che vada bene i tuoi hobby."
+    },
+    {
+      "id": "it-conversation-a1-a2-057",
+      "word": "Spero che vada bene il tuo fine settimana.",
+      "translation": "I hope your weekend goes well.",
+      "example": "Spero che vada bene il tuo fine settimana."
+    },
+    {
+      "id": "it-conversation-a1-a2-058",
+      "word": "Spero che vada bene i tuoi programmi.",
+      "translation": "I hope your plans goes well.",
+      "example": "Spero che vada bene i tuoi programmi."
+    },
+    {
+      "id": "it-conversation-a1-a2-059",
+      "word": "Spero che vada bene il tuo viaggio.",
+      "translation": "I hope your trip goes well.",
+      "example": "Spero che vada bene il tuo viaggio."
+    },
+    {
+      "id": "it-conversation-a1-a2-060",
+      "word": "Spero che vada bene il tuo corso di lingua.",
+      "translation": "I hope your language course goes well.",
+      "example": "Spero che vada bene il tuo corso di lingua."
+    },
+    {
+      "id": "it-conversation-a1-a2-061",
+      "word": "Ti piace parlare di la tua giornata?",
+      "translation": "Do you enjoy talking about your day?",
+      "example": "Ti piace parlare di la tua giornata?"
+    },
+    {
+      "id": "it-conversation-a1-a2-062",
+      "word": "Ti piace parlare di la tua famiglia?",
+      "translation": "Do you enjoy talking about your family?",
+      "example": "Ti piace parlare di la tua famiglia?"
+    },
+    {
+      "id": "it-conversation-a1-a2-063",
+      "word": "Ti piace parlare di il tuo lavoro?",
+      "translation": "Do you enjoy talking about your work?",
+      "example": "Ti piace parlare di il tuo lavoro?"
+    },
+    {
+      "id": "it-conversation-a1-a2-064",
+      "word": "Ti piace parlare di i tuoi studi?",
+      "translation": "Do you enjoy talking about your studies?",
+      "example": "Ti piace parlare di i tuoi studi?"
+    },
+    {
+      "id": "it-conversation-a1-a2-065",
+      "word": "Ti piace parlare di la tua città natale?",
+      "translation": "Do you enjoy talking about your hometown?",
+      "example": "Ti piace parlare di la tua città natale?"
+    },
+    {
+      "id": "it-conversation-a1-a2-066",
+      "word": "Ti piace parlare di i tuoi hobby?",
+      "translation": "Do you enjoy talking about your hobbies?",
+      "example": "Ti piace parlare di i tuoi hobby?"
+    },
+    {
+      "id": "it-conversation-a1-a2-067",
+      "word": "Ti piace parlare di il tuo fine settimana?",
+      "translation": "Do you enjoy talking about your weekend?",
+      "example": "Ti piace parlare di il tuo fine settimana?"
+    },
+    {
+      "id": "it-conversation-a1-a2-068",
+      "word": "Ti piace parlare di i tuoi programmi?",
+      "translation": "Do you enjoy talking about your plans?",
+      "example": "Ti piace parlare di i tuoi programmi?"
+    },
+    {
+      "id": "it-conversation-a1-a2-069",
+      "word": "Ti piace parlare di il tuo viaggio?",
+      "translation": "Do you enjoy talking about your trip?",
+      "example": "Ti piace parlare di il tuo viaggio?"
+    },
+    {
+      "id": "it-conversation-a1-a2-070",
+      "word": "Ti piace parlare di il tuo corso di lingua?",
+      "translation": "Do you enjoy talking about your language course?",
+      "example": "Ti piace parlare di il tuo corso di lingua?"
+    },
+    {
+      "id": "it-conversation-a1-a2-071",
+      "word": "Abbiamo qualcosa in comune: la tua giornata.",
+      "translation": "We have something in common: your day.",
+      "example": "Abbiamo qualcosa in comune: la tua giornata."
+    },
+    {
+      "id": "it-conversation-a1-a2-072",
+      "word": "Abbiamo qualcosa in comune: la tua famiglia.",
+      "translation": "We have something in common: your family.",
+      "example": "Abbiamo qualcosa in comune: la tua famiglia."
+    },
+    {
+      "id": "it-conversation-a1-a2-073",
+      "word": "Abbiamo qualcosa in comune: il tuo lavoro.",
+      "translation": "We have something in common: your work.",
+      "example": "Abbiamo qualcosa in comune: il tuo lavoro."
+    },
+    {
+      "id": "it-conversation-a1-a2-074",
+      "word": "Abbiamo qualcosa in comune: i tuoi studi.",
+      "translation": "We have something in common: your studies.",
+      "example": "Abbiamo qualcosa in comune: i tuoi studi."
+    },
+    {
+      "id": "it-conversation-a1-a2-075",
+      "word": "Abbiamo qualcosa in comune: la tua città natale.",
+      "translation": "We have something in common: your hometown.",
+      "example": "Abbiamo qualcosa in comune: la tua città natale."
+    },
+    {
+      "id": "it-conversation-a1-a2-076",
+      "word": "Abbiamo qualcosa in comune: i tuoi hobby.",
+      "translation": "We have something in common: your hobbies.",
+      "example": "Abbiamo qualcosa in comune: i tuoi hobby."
+    },
+    {
+      "id": "it-conversation-a1-a2-077",
+      "word": "Abbiamo qualcosa in comune: il tuo fine settimana.",
+      "translation": "We have something in common: your weekend.",
+      "example": "Abbiamo qualcosa in comune: il tuo fine settimana."
+    },
+    {
+      "id": "it-conversation-a1-a2-078",
+      "word": "Abbiamo qualcosa in comune: i tuoi programmi.",
+      "translation": "We have something in common: your plans.",
+      "example": "Abbiamo qualcosa in comune: i tuoi programmi."
+    },
+    {
+      "id": "it-conversation-a1-a2-079",
+      "word": "Abbiamo qualcosa in comune: il tuo viaggio.",
+      "translation": "We have something in common: your trip.",
+      "example": "Abbiamo qualcosa in comune: il tuo viaggio."
+    },
+    {
+      "id": "it-conversation-a1-a2-080",
+      "word": "Abbiamo qualcosa in comune: il tuo corso di lingua.",
+      "translation": "We have something in common: your language course.",
+      "example": "Abbiamo qualcosa in comune: il tuo corso di lingua."
+    },
+    {
+      "id": "it-conversation-a1-a2-081",
+      "word": "Forse possiamo parlare di la tua giornata più tardi.",
+      "translation": "Maybe we can talk about your day later.",
+      "example": "Forse possiamo parlare di la tua giornata più tardi."
+    },
+    {
+      "id": "it-conversation-a1-a2-082",
+      "word": "Forse possiamo parlare di la tua famiglia più tardi.",
+      "translation": "Maybe we can talk about your family later.",
+      "example": "Forse possiamo parlare di la tua famiglia più tardi."
+    },
+    {
+      "id": "it-conversation-a1-a2-083",
+      "word": "Forse possiamo parlare di il tuo lavoro più tardi.",
+      "translation": "Maybe we can talk about your work later.",
+      "example": "Forse possiamo parlare di il tuo lavoro più tardi."
+    },
+    {
+      "id": "it-conversation-a1-a2-084",
+      "word": "Forse possiamo parlare di i tuoi studi più tardi.",
+      "translation": "Maybe we can talk about your studies later.",
+      "example": "Forse possiamo parlare di i tuoi studi più tardi."
+    },
+    {
+      "id": "it-conversation-a1-a2-085",
+      "word": "Forse possiamo parlare di la tua città natale più tardi.",
+      "translation": "Maybe we can talk about your hometown later.",
+      "example": "Forse possiamo parlare di la tua città natale più tardi."
+    },
+    {
+      "id": "it-conversation-a1-a2-086",
+      "word": "Forse possiamo parlare di i tuoi hobby più tardi.",
+      "translation": "Maybe we can talk about your hobbies later.",
+      "example": "Forse possiamo parlare di i tuoi hobby più tardi."
+    },
+    {
+      "id": "it-conversation-a1-a2-087",
+      "word": "Forse possiamo parlare di il tuo fine settimana più tardi.",
+      "translation": "Maybe we can talk about your weekend later.",
+      "example": "Forse possiamo parlare di il tuo fine settimana più tardi."
+    },
+    {
+      "id": "it-conversation-a1-a2-088",
+      "word": "Forse possiamo parlare di i tuoi programmi più tardi.",
+      "translation": "Maybe we can talk about your plans later.",
+      "example": "Forse possiamo parlare di i tuoi programmi più tardi."
+    },
+    {
+      "id": "it-conversation-a1-a2-089",
+      "word": "Forse possiamo parlare di il tuo viaggio più tardi.",
+      "translation": "Maybe we can talk about your trip later.",
+      "example": "Forse possiamo parlare di il tuo viaggio più tardi."
+    },
+    {
+      "id": "it-conversation-a1-a2-090",
+      "word": "Forse possiamo parlare di il tuo corso di lingua più tardi.",
+      "translation": "Maybe we can talk about your language course later.",
+      "example": "Forse possiamo parlare di il tuo corso di lingua più tardi."
+    },
+    {
+      "id": "it-conversation-a1-a2-091",
+      "word": "Grazie per avermi parlato di la tua giornata.",
+      "translation": "Thanks for telling me about your day.",
+      "example": "Grazie per avermi parlato di la tua giornata."
+    },
+    {
+      "id": "it-conversation-a1-a2-092",
+      "word": "Grazie per avermi parlato di la tua famiglia.",
+      "translation": "Thanks for telling me about your family.",
+      "example": "Grazie per avermi parlato di la tua famiglia."
+    },
+    {
+      "id": "it-conversation-a1-a2-093",
+      "word": "Grazie per avermi parlato di il tuo lavoro.",
+      "translation": "Thanks for telling me about your work.",
+      "example": "Grazie per avermi parlato di il tuo lavoro."
+    },
+    {
+      "id": "it-conversation-a1-a2-094",
+      "word": "Grazie per avermi parlato di i tuoi studi.",
+      "translation": "Thanks for telling me about your studies.",
+      "example": "Grazie per avermi parlato di i tuoi studi."
+    },
+    {
+      "id": "it-conversation-a1-a2-095",
+      "word": "Grazie per avermi parlato di la tua città natale.",
+      "translation": "Thanks for telling me about your hometown.",
+      "example": "Grazie per avermi parlato di la tua città natale."
+    },
+    {
+      "id": "it-conversation-a1-a2-096",
+      "word": "Grazie per avermi parlato di i tuoi hobby.",
+      "translation": "Thanks for telling me about your hobbies.",
+      "example": "Grazie per avermi parlato di i tuoi hobby."
+    },
+    {
+      "id": "it-conversation-a1-a2-097",
+      "word": "Grazie per avermi parlato di il tuo fine settimana.",
+      "translation": "Thanks for telling me about your weekend.",
+      "example": "Grazie per avermi parlato di il tuo fine settimana."
+    },
+    {
+      "id": "it-conversation-a1-a2-098",
+      "word": "Grazie per avermi parlato di i tuoi programmi.",
+      "translation": "Thanks for telling me about your plans.",
+      "example": "Grazie per avermi parlato di i tuoi programmi."
+    },
+    {
+      "id": "it-conversation-a1-a2-099",
+      "word": "Grazie per avermi parlato di il tuo viaggio.",
+      "translation": "Thanks for telling me about your trip.",
+      "example": "Grazie per avermi parlato di il tuo viaggio."
+    },
+    {
+      "id": "it-conversation-a1-a2-100",
+      "word": "Grazie per avermi parlato di il tuo corso di lingua.",
+      "translation": "Thanks for telling me about your language course.",
+      "example": "Grazie per avermi parlato di il tuo corso di lingua."
+    }
+  ]
+}
