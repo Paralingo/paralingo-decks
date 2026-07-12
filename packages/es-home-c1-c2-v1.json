@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-home-c1-c2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "home",
+  "categoryTitle": "Home & Daily Life",
+  "title": "Home & Daily Life",
+  "level": "C1-C2",
+  "emoji": "🏠",
+  "description": "Explore housing policy, architecture, domestic life, sustainability, and changing living arrangements.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-home-c1-c2-001",
+      "word": "El debate público sobre la asequibilidad de la vivienda requiere una perspectiva a largo plazo.",
+      "translation": "Public debate about housing affordability requires a long-term perspective.",
+      "example": "El debate público sobre la asequibilidad de la vivienda requiere una perspectiva a largo plazo."
+    },
+    {
+      "id": "es-home-c1-c2-002",
+      "word": "El debate público sobre la arquitectura residencial requiere una perspectiva a largo plazo.",
+      "translation": "Public debate about residential architecture requires a long-term perspective.",
+      "example": "El debate público sobre la arquitectura residencial requiere una perspectiva a largo plazo."
+    },
+    {
+      "id": "es-home-c1-c2-003",
+      "word": "El debate público sobre la rehabilitación energética requiere una perspectiva a largo plazo.",
+      "translation": "Public debate about energy-efficient renovation requires a long-term perspective.",
+      "example": "El debate público sobre la rehabilitación energética requiere una perspectiva a largo plazo."
+    },
+    {
+      "id": "es-home-c1-c2-004",
+      "word": "El debate público sobre la convivencia multigeneracional requiere una perspectiva a largo plazo.",
+      "translation": "Public debate about multigenerational living requires a long-term perspective.",
+      "example": "El debate público sobre la convivencia multigeneracional requiere una perspectiva a largo plazo."
+    },
+    {
+      "id": "es-home-c1-c2-005",
+      "word": "El debate público sobre la densidad urbana requiere una perspectiva a largo plazo.",
+      "translation": "Public debate about urban density requires a long-term perspective.",
+      "example": "El debate público sobre la densidad urbana requiere una perspectiva a largo plazo."
+    },
+    {
+      "id": "es-home-c1-c2-006",
+      "word": "El debate público sobre el trabajo doméstico requiere una perspectiva a largo plazo.",
+      "translation": "Public debate about domestic labour requires a long-term perspective.",
+      "example": "El debate público sobre el trabajo doméstico requiere una perspectiva a largo plazo."
+    },
+    {
+      "id": "es-home-c1-c2-007",
+      "word": "El debate público sobre los derechos de los inquilinos requiere una perspectiva a largo plazo.",
+      "translation": "Public debate about tenants' rights requires a long-term perspective.",
+      "example": "El debate público sobre los derechos de los inquilinos requiere una perspectiva a largo plazo."
+    },
+    {
+      "id": "es-home-c1-c2-008",
+      "word": "El debate público sobre la inseguridad habitacional requiere una perspectiva a largo plazo.",
+      "translation": "Public debate about housing insecurity requires a long-term perspective.",
+      "example": "El debate público sobre la inseguridad habitacional requiere una perspectiva a largo plazo."
+    },
+    {
+      "id": "es-home-c1-c2-009",
+      "word": "El debate público sobre la reutilización adaptativa requiere una perspectiva a largo plazo.",
+      "translation": "Public debate about adaptive reuse requires a long-term perspective.",
+      "example": "El debate público sobre la reutilización adaptativa requiere una perspectiva a largo plazo."
+    },
+    {
+      "id": "es-home-c1-c2-010",
+      "word": "El debate público sobre la vida comunitaria requiere una perspectiva a largo plazo.",
+      "translation": "Public debate about communal living requires a long-term perspective.",
+      "example": "El debate público sobre la vida comunitaria requiere una perspectiva a largo plazo."
+    },
+    {
+      "id": "es-home-c1-c2-011",
+      "word": "Los investigadores han estudiado el impacto social de la asequibilidad de la vivienda.",
+      "translation": "Researchers have examined the social impact of housing affordability.",
+      "example": "Los investigadores han estudiado el impacto social de la asequibilidad de la vivienda."
+    },
+    {
+      "id": "es-home-c1-c2-012",
+      "word": "Los investigadores han estudiado el impacto social de la arquitectura residencial.",
+      "translation": "Researchers have examined the social impact of residential architecture.",
+      "example": "Los investigadores han estudiado el impacto social de la arquitectura residencial."
+    },
+    {
+      "id": "es-home-c1-c2-013",
+      "word": "Los investigadores han estudiado el impacto social de la rehabilitación energética.",
+      "translation": "Researchers have examined the social impact of energy-efficient renovation.",
+      "example": "Los investigadores han estudiado el impacto social de la rehabilitación energética."
+    },
+    {
+      "id": "es-home-c1-c2-014",
+      "word": "Los investigadores han estudiado el impacto social de la convivencia multigeneracional.",
+      "translation": "Researchers have examined the social impact of multigenerational living.",
+      "example": "Los investigadores han estudiado el impacto social de la convivencia multigeneracional."
+    },
+    {
+      "id": "es-home-c1-c2-015",
+      "word": "Los investigadores han estudiado el impacto social de la densidad urbana.",
+      "translation": "Researchers have examined the social impact of urban density.",
+      "example": "Los investigadores han estudiado el impacto social de la densidad urbana."
+    },
+    {
+      "id": "es-home-c1-c2-016",
+      "word": "Los investigadores han estudiado el impacto social de el trabajo doméstico.",
+      "translation": "Researchers have examined the social impact of domestic labour.",
+      "example": "Los investigadores han estudiado el impacto social de el trabajo doméstico."
+    },
+    {
+      "id": "es-home-c1-c2-017",
+      "word": "Los investigadores han estudiado el impacto social de los derechos de los inquilinos.",
+      "translation": "Researchers have examined the social impact of tenants' rights.",
+      "example": "Los investigadores han estudiado el impacto social de los derechos de los inquilinos."
+    },
+    {
+      "id": "es-home-c1-c2-018",
+      "word": "Los investigadores han estudiado el impacto social de la inseguridad habitacional.",
+      "translation": "Researchers have examined the social impact of housing insecurity.",
+      "example": "Los investigadores han estudiado el impacto social de la inseguridad habitacional."
+    },
+    {
+      "id": "es-home-c1-c2-019",
+      "word": "Los investigadores han estudiado el impacto social de la reutilización adaptativa.",
+      "translation": "Researchers have examined the social impact of adaptive reuse.",
+      "example": "Los investigadores han estudiado el impacto social de la reutilización adaptativa."
+    },
+    {
+      "id": "es-home-c1-c2-020",
+      "word": "Los investigadores han estudiado el impacto social de la vida comunitaria.",
+      "translation": "Researchers have examined the social impact of communal living.",
+      "example": "Los investigadores han estudiado el impacto social de la vida comunitaria."
+    },
+    {
+      "id": "es-home-c1-c2-021",
+      "word": "La política actual no aborda adecuadamente la asequibilidad de la vivienda.",
+      "translation": "Current policy does not adequately address housing affordability.",
+      "example": "La política actual no aborda adecuadamente la asequibilidad de la vivienda."
+    },
+    {
+      "id": "es-home-c1-c2-022",
+      "word": "La política actual no aborda adecuadamente la arquitectura residencial.",
+      "translation": "Current policy does not adequately address residential architecture.",
+      "example": "La política actual no aborda adecuadamente la arquitectura residencial."
+    },
+    {
+      "id": "es-home-c1-c2-023",
+      "word": "La política actual no aborda adecuadamente la rehabilitación energética.",
+      "translation": "Current policy does not adequately address energy-efficient renovation.",
+      "example": "La política actual no aborda adecuadamente la rehabilitación energética."
+    },
+    {
+      "id": "es-home-c1-c2-024",
+      "word": "La política actual no aborda adecuadamente la convivencia multigeneracional.",
+      "translation": "Current policy does not adequately address multigenerational living.",
+      "example": "La política actual no aborda adecuadamente la convivencia multigeneracional."
+    },
+    {
+      "id": "es-home-c1-c2-025",
+      "word": "La política actual no aborda adecuadamente la densidad urbana.",
+      "translation": "Current policy does not adequately address urban density.",
+      "example": "La política actual no aborda adecuadamente la densidad urbana."
+    },
+    {
+      "id": "es-home-c1-c2-026",
+      "word": "La política actual no aborda adecuadamente el trabajo doméstico.",
+      "translation": "Current policy does not adequately address domestic labour.",
+      "example": "La política actual no aborda adecuadamente el trabajo doméstico."
+    },
+    {
+      "id": "es-home-c1-c2-027",
+      "word": "La política actual no aborda adecuadamente los derechos de los inquilinos.",
+      "translation": "Current policy does not adequately address tenants' rights.",
+      "example": "La política actual no aborda adecuadamente los derechos de los inquilinos."
+    },
+    {
+      "id": "es-home-c1-c2-028",
+      "word": "La política actual no aborda adecuadamente la inseguridad habitacional.",
+      "translation": "Current policy does not adequately address housing insecurity.",
+      "example": "La política actual no aborda adecuadamente la inseguridad habitacional."
+    },
+    {
+      "id": "es-home-c1-c2-029",
+      "word": "La política actual no aborda adecuadamente la reutilización adaptativa.",
+      "translation": "Current policy does not adequately address adaptive reuse.",
+      "example": "La política actual no aborda adecuadamente la reutilización adaptativa."
+    },
+    {
+      "id": "es-home-c1-c2-030",
+      "word": "La política actual no aborda adecuadamente la vida comunitaria.",
+      "translation": "Current policy does not adequately address communal living.",
+      "example": "La política actual no aborda adecuadamente la vida comunitaria."
+    },
+    {
+      "id": "es-home-c1-c2-031",
+      "word": "El proyecto ofrece un enfoque innovador de la asequibilidad de la vivienda.",
+      "translation": "The project offers an innovative approach to housing affordability.",
+      "example": "El proyecto ofrece un enfoque innovador de la asequibilidad de la vivienda."
+    },
+    {
+      "id": "es-home-c1-c2-032",
+      "word": "El proyecto ofrece un enfoque innovador de la arquitectura residencial.",
+      "translation": "The project offers an innovative approach to residential architecture.",
+      "example": "El proyecto ofrece un enfoque innovador de la arquitectura residencial."
+    },
+    {
+      "id": "es-home-c1-c2-033",
+      "word": "El proyecto ofrece un enfoque innovador de la rehabilitación energética.",
+      "translation": "The project offers an innovative approach to energy-efficient renovation.",
+      "example": "El proyecto ofrece un enfoque innovador de la rehabilitación energética."
+    },
+    {
+      "id": "es-home-c1-c2-034",
+      "word": "El proyecto ofrece un enfoque innovador de la convivencia multigeneracional.",
+      "translation": "The project offers an innovative approach to multigenerational living.",
+      "example": "El proyecto ofrece un enfoque innovador de la convivencia multigeneracional."
+    },
+    {
+      "id": "es-home-c1-c2-035",
+      "word": "El proyecto ofrece un enfoque innovador de la densidad urbana.",
+      "translation": "The project offers an innovative approach to urban density.",
+      "example": "El proyecto ofrece un enfoque innovador de la densidad urbana."
+    },
+    {
+      "id": "es-home-c1-c2-036",
+      "word": "El proyecto ofrece un enfoque innovador de el trabajo doméstico.",
+      "translation": "The project offers an innovative approach to domestic labour.",
+      "example": "El proyecto ofrece un enfoque innovador de el trabajo doméstico."
+    },
+    {
+      "id": "es-home-c1-c2-037",
+      "word": "El proyecto ofrece un enfoque innovador de los derechos de los inquilinos.",
+      "translation": "The project offers an innovative approach to tenants' rights.",
+      "example": "El proyecto ofrece un enfoque innovador de los derechos de los inquilinos."
+    },
+    {
+      "id": "es-home-c1-c2-038",
+      "word": "El proyecto ofrece un enfoque innovador de la inseguridad habitacional.",
+      "translation": "The project offers an innovative approach to housing insecurity.",
+      "example": "El proyecto ofrece un enfoque innovador de la inseguridad habitacional."
+    },
+    {
+      "id": "es-home-c1-c2-039",
+      "word": "El proyecto ofrece un enfoque innovador de la reutilización adaptativa.",
+      "translation": "The project offers an innovative approach to adaptive reuse.",
+      "example": "El proyecto ofrece un enfoque innovador de la reutilización adaptativa."
+    },
+    {
+      "id": "es-home-c1-c2-040",
+      "word": "El proyecto ofrece un enfoque innovador de la vida comunitaria.",
+      "translation": "The project offers an innovative approach to communal living.",
+      "example": "El proyecto ofrece un enfoque innovador de la vida comunitaria."
+    },
+    {
+      "id": "es-home-c1-c2-041",
+      "word": "Las presiones económicas han transformado las actitudes hacia la asequibilidad de la vivienda.",
+      "translation": "Economic pressures have transformed attitudes towards housing affordability.",
+      "example": "Las presiones económicas han transformado las actitudes hacia la asequibilidad de la vivienda."
+    },
+    {
+      "id": "es-home-c1-c2-042",
+      "word": "Las presiones económicas han transformado las actitudes hacia la arquitectura residencial.",
+      "translation": "Economic pressures have transformed attitudes towards residential architecture.",
+      "example": "Las presiones económicas han transformado las actitudes hacia la arquitectura residencial."
+    },
+    {
+      "id": "es-home-c1-c2-043",
+      "word": "Las presiones económicas han transformado las actitudes hacia la rehabilitación energética.",
+      "translation": "Economic pressures have transformed attitudes towards energy-efficient renovation.",
+      "example": "Las presiones económicas han transformado las actitudes hacia la rehabilitación energética."
+    },
+    {
+      "id": "es-home-c1-c2-044",
+      "word": "Las presiones económicas han transformado las actitudes hacia la convivencia multigeneracional.",
+      "translation": "Economic pressures have transformed attitudes towards multigenerational living.",
+      "example": "Las presiones económicas han transformado las actitudes hacia la convivencia multigeneracional."
+    },
+    {
+      "id": "es-home-c1-c2-045",
+      "word": "Las presiones económicas han transformado las actitudes hacia la densidad urbana.",
+      "translation": "Economic pressures have transformed attitudes towards urban density.",
+      "example": "Las presiones económicas han transformado las actitudes hacia la densidad urbana."
+    },
+    {
+      "id": "es-home-c1-c2-046",
+      "word": "Las presiones económicas han transformado las actitudes hacia el trabajo doméstico.",
+      "translation": "Economic pressures have transformed attitudes towards domestic labour.",
+      "example": "Las presiones económicas han transformado las actitudes hacia el trabajo doméstico."
+    },
+    {
+      "id": "es-home-c1-c2-047",
+      "word": "Las presiones económicas han transformado las actitudes hacia los derechos de los inquilinos.",
+      "translation": "Economic pressures have transformed attitudes towards tenants' rights.",
+      "example": "Las presiones económicas han transformado las actitudes hacia los derechos de los inquilinos."
+    },
+    {
+      "id": "es-home-c1-c2-048",
+      "word": "Las presiones económicas han transformado las actitudes hacia la inseguridad habitacional.",
+      "translation": "Economic pressures have transformed attitudes towards housing insecurity.",
+      "example": "Las presiones económicas han transformado las actitudes hacia la inseguridad habitacional."
+    },
+    {
+      "id": "es-home-c1-c2-049",
+      "word": "Las presiones económicas han transformado las actitudes hacia la reutilización adaptativa.",
+      "translation": "Economic pressures have transformed attitudes towards adaptive reuse.",
+      "example": "Las presiones económicas han transformado las actitudes hacia la reutilización adaptativa."
+    },
+    {
+      "id": "es-home-c1-c2-050",
+      "word": "Las presiones económicas han transformado las actitudes hacia la vida comunitaria.",
+      "translation": "Economic pressures have transformed attitudes towards communal living.",
+      "example": "Las presiones económicas han transformado las actitudes hacia la vida comunitaria."
+    },
+    {
+      "id": "es-home-c1-c2-051",
+      "word": "Toda evaluación de la asequibilidad de la vivienda debe considerar las diferencias regionales.",
+      "translation": "Any assessment of housing affordability must consider regional differences.",
+      "example": "Toda evaluación de la asequibilidad de la vivienda debe considerar las diferencias regionales."
+    },
+    {
+      "id": "es-home-c1-c2-052",
+      "word": "Toda evaluación de la arquitectura residencial debe considerar las diferencias regionales.",
+      "translation": "Any assessment of residential architecture must consider regional differences.",
+      "example": "Toda evaluación de la arquitectura residencial debe considerar las diferencias regionales."
+    },
+    {
+      "id": "es-home-c1-c2-053",
+      "word": "Toda evaluación de la rehabilitación energética debe considerar las diferencias regionales.",
+      "translation": "Any assessment of energy-efficient renovation must consider regional differences.",
+      "example": "Toda evaluación de la rehabilitación energética debe considerar las diferencias regionales."
+    },
+    {
+      "id": "es-home-c1-c2-054",
+      "word": "Toda evaluación de la convivencia multigeneracional debe considerar las diferencias regionales.",
+      "translation": "Any assessment of multigenerational living must consider regional differences.",
+      "example": "Toda evaluación de la convivencia multigeneracional debe considerar las diferencias regionales."
+    },
+    {
+      "id": "es-home-c1-c2-055",
+      "word": "Toda evaluación de la densidad urbana debe considerar las diferencias regionales.",
+      "translation": "Any assessment of urban density must consider regional differences.",
+      "example": "Toda evaluación de la densidad urbana debe considerar las diferencias regionales."
+    },
+    {
+      "id": "es-home-c1-c2-056",
+      "word": "Toda evaluación de el trabajo doméstico debe considerar las diferencias regionales.",
+      "translation": "Any assessment of domestic labour must consider regional differences.",
+      "example": "Toda evaluación de el trabajo doméstico debe considerar las diferencias regionales."
+    },
+    {
+      "id": "es-home-c1-c2-057",
+      "word": "Toda evaluación de los derechos de los inquilinos debe considerar las diferencias regionales.",
+      "translation": "Any assessment of tenants' rights must consider regional differences.",
+      "example": "Toda evaluación de los derechos de los inquilinos debe considerar las diferencias regionales."
+    },
+    {
+      "id": "es-home-c1-c2-058",
+      "word": "Toda evaluación de la inseguridad habitacional debe considerar las diferencias regionales.",
+      "translation": "Any assessment of housing insecurity must consider regional differences.",
+      "example": "Toda evaluación de la inseguridad habitacional debe considerar las diferencias regionales."
+    },
+    {
+      "id": "es-home-c1-c2-059",
+      "word": "Toda evaluación de la reutilización adaptativa debe considerar las diferencias regionales.",
+      "translation": "Any assessment of adaptive reuse must consider regional differences.",
+      "example": "Toda evaluación de la reutilización adaptativa debe considerar las diferencias regionales."
+    },
+    {
+      "id": "es-home-c1-c2-060",
+      "word": "Toda evaluación de la vida comunitaria debe considerar las diferencias regionales.",
+      "translation": "Any assessment of communal living must consider regional differences.",
+      "example": "Toda evaluación de la vida comunitaria debe considerar las diferencias regionales."
+    },
+    {
+      "id": "es-home-c1-c2-061",
+      "word": "Los beneficios ambientales de la asequibilidad de la vivienda son cada vez más evidentes.",
+      "translation": "The environmental benefits of housing affordability are increasingly apparent.",
+      "example": "Los beneficios ambientales de la asequibilidad de la vivienda son cada vez más evidentes."
+    },
+    {
+      "id": "es-home-c1-c2-062",
+      "word": "Los beneficios ambientales de la arquitectura residencial son cada vez más evidentes.",
+      "translation": "The environmental benefits of residential architecture are increasingly apparent.",
+      "example": "Los beneficios ambientales de la arquitectura residencial son cada vez más evidentes."
+    },
+    {
+      "id": "es-home-c1-c2-063",
+      "word": "Los beneficios ambientales de la rehabilitación energética son cada vez más evidentes.",
+      "translation": "The environmental benefits of energy-efficient renovation are increasingly apparent.",
+      "example": "Los beneficios ambientales de la rehabilitación energética son cada vez más evidentes."
+    },
+    {
+      "id": "es-home-c1-c2-064",
+      "word": "Los beneficios ambientales de la convivencia multigeneracional son cada vez más evidentes.",
+      "translation": "The environmental benefits of multigenerational living are increasingly apparent.",
+      "example": "Los beneficios ambientales de la convivencia multigeneracional son cada vez más evidentes."
+    },
+    {
+      "id": "es-home-c1-c2-065",
+      "word": "Los beneficios ambientales de la densidad urbana son cada vez más evidentes.",
+      "translation": "The environmental benefits of urban density are increasingly apparent.",
+      "example": "Los beneficios ambientales de la densidad urbana son cada vez más evidentes."
+    },
+    {
+      "id": "es-home-c1-c2-066",
+      "word": "Los beneficios ambientales de el trabajo doméstico son cada vez más evidentes.",
+      "translation": "The environmental benefits of domestic labour are increasingly apparent.",
+      "example": "Los beneficios ambientales de el trabajo doméstico son cada vez más evidentes."
+    },
+    {
+      "id": "es-home-c1-c2-067",
+      "word": "Los beneficios ambientales de los derechos de los inquilinos son cada vez más evidentes.",
+      "translation": "The environmental benefits of tenants' rights are increasingly apparent.",
+      "example": "Los beneficios ambientales de los derechos de los inquilinos son cada vez más evidentes."
+    },
+    {
+      "id": "es-home-c1-c2-068",
+      "word": "Los beneficios ambientales de la inseguridad habitacional son cada vez más evidentes.",
+      "translation": "The environmental benefits of housing insecurity are increasingly apparent.",
+      "example": "Los beneficios ambientales de la inseguridad habitacional son cada vez más evidentes."
+    },
+    {
+      "id": "es-home-c1-c2-069",
+      "word": "Los beneficios ambientales de la reutilización adaptativa son cada vez más evidentes.",
+      "translation": "The environmental benefits of adaptive reuse are increasingly apparent.",
+      "example": "Los beneficios ambientales de la reutilización adaptativa son cada vez más evidentes."
+    },
+    {
+      "id": "es-home-c1-c2-070",
+      "word": "Los beneficios ambientales de la vida comunitaria son cada vez más evidentes.",
+      "translation": "The environmental benefits of communal living are increasingly apparent.",
+      "example": "Los beneficios ambientales de la vida comunitaria son cada vez más evidentes."
+    },
+    {
+      "id": "es-home-c1-c2-071",
+      "word": "El artículo cuestiona ideas comunes sobre la asequibilidad de la vivienda.",
+      "translation": "The article challenges common assumptions about housing affordability.",
+      "example": "El artículo cuestiona ideas comunes sobre la asequibilidad de la vivienda."
+    },
+    {
+      "id": "es-home-c1-c2-072",
+      "word": "El artículo cuestiona ideas comunes sobre la arquitectura residencial.",
+      "translation": "The article challenges common assumptions about residential architecture.",
+      "example": "El artículo cuestiona ideas comunes sobre la arquitectura residencial."
+    },
+    {
+      "id": "es-home-c1-c2-073",
+      "word": "El artículo cuestiona ideas comunes sobre la rehabilitación energética.",
+      "translation": "The article challenges common assumptions about energy-efficient renovation.",
+      "example": "El artículo cuestiona ideas comunes sobre la rehabilitación energética."
+    },
+    {
+      "id": "es-home-c1-c2-074",
+      "word": "El artículo cuestiona ideas comunes sobre la convivencia multigeneracional.",
+      "translation": "The article challenges common assumptions about multigenerational living.",
+      "example": "El artículo cuestiona ideas comunes sobre la convivencia multigeneracional."
+    },
+    {
+      "id": "es-home-c1-c2-075",
+      "word": "El artículo cuestiona ideas comunes sobre la densidad urbana.",
+      "translation": "The article challenges common assumptions about urban density.",
+      "example": "El artículo cuestiona ideas comunes sobre la densidad urbana."
+    },
+    {
+      "id": "es-home-c1-c2-076",
+      "word": "El artículo cuestiona ideas comunes sobre el trabajo doméstico.",
+      "translation": "The article challenges common assumptions about domestic labour.",
+      "example": "El artículo cuestiona ideas comunes sobre el trabajo doméstico."
+    },
+    {
+      "id": "es-home-c1-c2-077",
+      "word": "El artículo cuestiona ideas comunes sobre los derechos de los inquilinos.",
+      "translation": "The article challenges common assumptions about tenants' rights.",
+      "example": "El artículo cuestiona ideas comunes sobre los derechos de los inquilinos."
+    },
+    {
+      "id": "es-home-c1-c2-078",
+      "word": "El artículo cuestiona ideas comunes sobre la inseguridad habitacional.",
+      "translation": "The article challenges common assumptions about housing insecurity.",
+      "example": "El artículo cuestiona ideas comunes sobre la inseguridad habitacional."
+    },
+    {
+      "id": "es-home-c1-c2-079",
+      "word": "El artículo cuestiona ideas comunes sobre la reutilización adaptativa.",
+      "translation": "The article challenges common assumptions about adaptive reuse.",
+      "example": "El artículo cuestiona ideas comunes sobre la reutilización adaptativa."
+    },
+    {
+      "id": "es-home-c1-c2-080",
+      "word": "El artículo cuestiona ideas comunes sobre la vida comunitaria.",
+      "translation": "The article challenges common assumptions about communal living.",
+      "example": "El artículo cuestiona ideas comunes sobre la vida comunitaria."
+    },
+    {
+      "id": "es-home-c1-c2-081",
+      "word": "Las autoridades locales pueden fomentar una inversión responsable en la asequibilidad de la vivienda.",
+      "translation": "Local authorities can encourage thoughtful investment in housing affordability.",
+      "example": "Las autoridades locales pueden fomentar una inversión responsable en la asequibilidad de la vivienda."
+    },
+    {
+      "id": "es-home-c1-c2-082",
+      "word": "Las autoridades locales pueden fomentar una inversión responsable en la arquitectura residencial.",
+      "translation": "Local authorities can encourage thoughtful investment in residential architecture.",
+      "example": "Las autoridades locales pueden fomentar una inversión responsable en la arquitectura residencial."
+    },
+    {
+      "id": "es-home-c1-c2-083",
+      "word": "Las autoridades locales pueden fomentar una inversión responsable en la rehabilitación energética.",
+      "translation": "Local authorities can encourage thoughtful investment in energy-efficient renovation.",
+      "example": "Las autoridades locales pueden fomentar una inversión responsable en la rehabilitación energética."
+    },
+    {
+      "id": "es-home-c1-c2-084",
+      "word": "Las autoridades locales pueden fomentar una inversión responsable en la convivencia multigeneracional.",
+      "translation": "Local authorities can encourage thoughtful investment in multigenerational living.",
+      "example": "Las autoridades locales pueden fomentar una inversión responsable en la convivencia multigeneracional."
+    },
+    {
+      "id": "es-home-c1-c2-085",
+      "word": "Las autoridades locales pueden fomentar una inversión responsable en la densidad urbana.",
+      "translation": "Local authorities can encourage thoughtful investment in urban density.",
+      "example": "Las autoridades locales pueden fomentar una inversión responsable en la densidad urbana."
+    },
+    {
+      "id": "es-home-c1-c2-086",
+      "word": "Las autoridades locales pueden fomentar una inversión responsable en el trabajo doméstico.",
+      "translation": "Local authorities can encourage thoughtful investment in domestic labour.",
+      "example": "Las autoridades locales pueden fomentar una inversión responsable en el trabajo doméstico."
+    },
+    {
+      "id": "es-home-c1-c2-087",
+      "word": "Las autoridades locales pueden fomentar una inversión responsable en los derechos de los inquilinos.",
+      "translation": "Local authorities can encourage thoughtful investment in tenants' rights.",
+      "example": "Las autoridades locales pueden fomentar una inversión responsable en los derechos de los inquilinos."
+    },
+    {
+      "id": "es-home-c1-c2-088",
+      "word": "Las autoridades locales pueden fomentar una inversión responsable en la inseguridad habitacional.",
+      "translation": "Local authorities can encourage thoughtful investment in housing insecurity.",
+      "example": "Las autoridades locales pueden fomentar una inversión responsable en la inseguridad habitacional."
+    },
+    {
+      "id": "es-home-c1-c2-089",
+      "word": "Las autoridades locales pueden fomentar una inversión responsable en la reutilización adaptativa.",
+      "translation": "Local authorities can encourage thoughtful investment in adaptive reuse.",
+      "example": "Las autoridades locales pueden fomentar una inversión responsable en la reutilización adaptativa."
+    },
+    {
+      "id": "es-home-c1-c2-090",
+      "word": "Las autoridades locales pueden fomentar una inversión responsable en la vida comunitaria.",
+      "translation": "Local authorities can encourage thoughtful investment in communal living.",
+      "example": "Las autoridades locales pueden fomentar una inversión responsable en la vida comunitaria."
+    },
+    {
+      "id": "es-home-c1-c2-091",
+      "word": "El cambio tecnológico está transformando nuestra comprensión de la asequibilidad de la vivienda.",
+      "translation": "Technological change is reshaping our understanding of housing affordability.",
+      "example": "El cambio tecnológico está transformando nuestra comprensión de la asequibilidad de la vivienda."
+    },
+    {
+      "id": "es-home-c1-c2-092",
+      "word": "El cambio tecnológico está transformando nuestra comprensión de la arquitectura residencial.",
+      "translation": "Technological change is reshaping our understanding of residential architecture.",
+      "example": "El cambio tecnológico está transformando nuestra comprensión de la arquitectura residencial."
+    },
+    {
+      "id": "es-home-c1-c2-093",
+      "word": "El cambio tecnológico está transformando nuestra comprensión de la rehabilitación energética.",
+      "translation": "Technological change is reshaping our understanding of energy-efficient renovation.",
+      "example": "El cambio tecnológico está transformando nuestra comprensión de la rehabilitación energética."
+    },
+    {
+      "id": "es-home-c1-c2-094",
+      "word": "El cambio tecnológico está transformando nuestra comprensión de la convivencia multigeneracional.",
+      "translation": "Technological change is reshaping our understanding of multigenerational living.",
+      "example": "El cambio tecnológico está transformando nuestra comprensión de la convivencia multigeneracional."
+    },
+    {
+      "id": "es-home-c1-c2-095",
+      "word": "El cambio tecnológico está transformando nuestra comprensión de la densidad urbana.",
+      "translation": "Technological change is reshaping our understanding of urban density.",
+      "example": "El cambio tecnológico está transformando nuestra comprensión de la densidad urbana."
+    },
+    {
+      "id": "es-home-c1-c2-096",
+      "word": "El cambio tecnológico está transformando nuestra comprensión de el trabajo doméstico.",
+      "translation": "Technological change is reshaping our understanding of domestic labour.",
+      "example": "El cambio tecnológico está transformando nuestra comprensión de el trabajo doméstico."
+    },
+    {
+      "id": "es-home-c1-c2-097",
+      "word": "El cambio tecnológico está transformando nuestra comprensión de los derechos de los inquilinos.",
+      "translation": "Technological change is reshaping our understanding of tenants' rights.",
+      "example": "El cambio tecnológico está transformando nuestra comprensión de los derechos de los inquilinos."
+    },
+    {
+      "id": "es-home-c1-c2-098",
+      "word": "El cambio tecnológico está transformando nuestra comprensión de la inseguridad habitacional.",
+      "translation": "Technological change is reshaping our understanding of housing insecurity.",
+      "example": "El cambio tecnológico está transformando nuestra comprensión de la inseguridad habitacional."
+    },
+    {
+      "id": "es-home-c1-c2-099",
+      "word": "El cambio tecnológico está transformando nuestra comprensión de la reutilización adaptativa.",
+      "translation": "Technological change is reshaping our understanding of adaptive reuse.",
+      "example": "El cambio tecnológico está transformando nuestra comprensión de la reutilización adaptativa."
+    },
+    {
+      "id": "es-home-c1-c2-100",
+      "word": "El cambio tecnológico está transformando nuestra comprensión de la vida comunitaria.",
+      "translation": "Technological change is reshaping our understanding of communal living.",
+      "example": "El cambio tecnológico está transformando nuestra comprensión de la vida comunitaria."
+    }
+  ]
+}
