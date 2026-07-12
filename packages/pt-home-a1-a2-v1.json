@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-pt-home-a1-a2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "home",
+  "categoryTitle": "Home & Daily Life",
+  "title": "Home & Daily Life",
+  "level": "A1-A2",
+  "emoji": "🏠",
+  "description": "Talk about rooms, furniture, chores, appliances, and simple routines at home.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-home-a1-a2-001",
+      "word": "Preciso de limpar a cozinha.",
+      "translation": "I need to clean the kitchen.",
+      "example": "Preciso de limpar a cozinha."
+    },
+    {
+      "id": "pt-home-a1-a2-002",
+      "word": "Preciso de limpar o quarto.",
+      "translation": "I need to clean the bedroom.",
+      "example": "Preciso de limpar o quarto."
+    },
+    {
+      "id": "pt-home-a1-a2-003",
+      "word": "Preciso de limpar a sala de estar.",
+      "translation": "I need to clean the living room.",
+      "example": "Preciso de limpar a sala de estar."
+    },
+    {
+      "id": "pt-home-a1-a2-004",
+      "word": "Preciso de limpar a casa de banho.",
+      "translation": "I need to clean the bathroom.",
+      "example": "Preciso de limpar a casa de banho."
+    },
+    {
+      "id": "pt-home-a1-a2-005",
+      "word": "Preciso de limpar a mesa de jantar.",
+      "translation": "I need to clean the dining table.",
+      "example": "Preciso de limpar a mesa de jantar."
+    },
+    {
+      "id": "pt-home-a1-a2-006",
+      "word": "Preciso de limpar a máquina de lavar roupa.",
+      "translation": "I need to clean the washing machine.",
+      "example": "Preciso de limpar a máquina de lavar roupa."
+    },
+    {
+      "id": "pt-home-a1-a2-007",
+      "word": "Preciso de limpar a porta da frente.",
+      "translation": "I need to clean the front door.",
+      "example": "Preciso de limpar a porta da frente."
+    },
+    {
+      "id": "pt-home-a1-a2-008",
+      "word": "Preciso de limpar o roupeiro.",
+      "translation": "I need to clean the clothes cupboard.",
+      "example": "Preciso de limpar o roupeiro."
+    },
+    {
+      "id": "pt-home-a1-a2-009",
+      "word": "Preciso de limpar o lixo doméstico.",
+      "translation": "I need to clean the household rubbish.",
+      "example": "Preciso de limpar o lixo doméstico."
+    },
+    {
+      "id": "pt-home-a1-a2-010",
+      "word": "Preciso de limpar a limpeza semanal.",
+      "translation": "I need to clean the weekly cleaning.",
+      "example": "Preciso de limpar a limpeza semanal."
+    },
+    {
+      "id": "pt-home-a1-a2-011",
+      "word": "Onde fica a cozinha?",
+      "translation": "Where is the kitchen?",
+      "example": "Onde fica a cozinha?"
+    },
+    {
+      "id": "pt-home-a1-a2-012",
+      "word": "Onde fica o quarto?",
+      "translation": "Where is the bedroom?",
+      "example": "Onde fica o quarto?"
+    },
+    {
+      "id": "pt-home-a1-a2-013",
+      "word": "Onde fica a sala de estar?",
+      "translation": "Where is the living room?",
+      "example": "Onde fica a sala de estar?"
+    },
+    {
+      "id": "pt-home-a1-a2-014",
+      "word": "Onde fica a casa de banho?",
+      "translation": "Where is the bathroom?",
+      "example": "Onde fica a casa de banho?"
+    },
+    {
+      "id": "pt-home-a1-a2-015",
+      "word": "Onde fica a mesa de jantar?",
+      "translation": "Where is the dining table?",
+      "example": "Onde fica a mesa de jantar?"
+    },
+    {
+      "id": "pt-home-a1-a2-016",
+      "word": "Onde fica a máquina de lavar roupa?",
+      "translation": "Where is the washing machine?",
+      "example": "Onde fica a máquina de lavar roupa?"
+    },
+    {
+      "id": "pt-home-a1-a2-017",
+      "word": "Onde fica a porta da frente?",
+      "translation": "Where is the front door?",
+      "example": "Onde fica a porta da frente?"
+    },
+    {
+      "id": "pt-home-a1-a2-018",
+      "word": "Onde fica o roupeiro?",
+      "translation": "Where is the clothes cupboard?",
+      "example": "Onde fica o roupeiro?"
+    },
+    {
+      "id": "pt-home-a1-a2-019",
+      "word": "Onde fica o lixo doméstico?",
+      "translation": "Where is the household rubbish?",
+      "example": "Onde fica o lixo doméstico?"
+    },
+    {
+      "id": "pt-home-a1-a2-020",
+      "word": "Onde fica a limpeza semanal?",
+      "translation": "Where is the weekly cleaning?",
+      "example": "Onde fica a limpeza semanal?"
+    },
+    {
+      "id": "pt-home-a1-a2-021",
+      "word": "Usamos a cozinha todos os dias.",
+      "translation": "We use the kitchen every day.",
+      "example": "Usamos a cozinha todos os dias."
+    },
+    {
+      "id": "pt-home-a1-a2-022",
+      "word": "Usamos o quarto todos os dias.",
+      "translation": "We use the bedroom every day.",
+      "example": "Usamos o quarto todos os dias."
+    },
+    {
+      "id": "pt-home-a1-a2-023",
+      "word": "Usamos a sala de estar todos os dias.",
+      "translation": "We use the living room every day.",
+      "example": "Usamos a sala de estar todos os dias."
+    },
+    {
+      "id": "pt-home-a1-a2-024",
+      "word": "Usamos a casa de banho todos os dias.",
+      "translation": "We use the bathroom every day.",
+      "example": "Usamos a casa de banho todos os dias."
+    },
+    {
+      "id": "pt-home-a1-a2-025",
+      "word": "Usamos a mesa de jantar todos os dias.",
+      "translation": "We use the dining table every day.",
+      "example": "Usamos a mesa de jantar todos os dias."
+    },
+    {
+      "id": "pt-home-a1-a2-026",
+      "word": "Usamos a máquina de lavar roupa todos os dias.",
+      "translation": "We use the washing machine every day.",
+      "example": "Usamos a máquina de lavar roupa todos os dias."
+    },
+    {
+      "id": "pt-home-a1-a2-027",
+      "word": "Usamos a porta da frente todos os dias.",
+      "translation": "We use the front door every day.",
+      "example": "Usamos a porta da frente todos os dias."
+    },
+    {
+      "id": "pt-home-a1-a2-028",
+      "word": "Usamos o roupeiro todos os dias.",
+      "translation": "We use the clothes cupboard every day.",
+      "example": "Usamos o roupeiro todos os dias."
+    },
+    {
+      "id": "pt-home-a1-a2-029",
+      "word": "Usamos o lixo doméstico todos os dias.",
+      "translation": "We use the household rubbish every day.",
+      "example": "Usamos o lixo doméstico todos os dias."
+    },
+    {
+      "id": "pt-home-a1-a2-030",
+      "word": "Usamos a limpeza semanal todos os dias.",
+      "translation": "We use the weekly cleaning every day.",
+      "example": "Usamos a limpeza semanal todos os dias."
+    },
+    {
+      "id": "pt-home-a1-a2-031",
+      "word": "Há um problema com a cozinha.",
+      "translation": "There is a problem with the kitchen.",
+      "example": "Há um problema com a cozinha."
+    },
+    {
+      "id": "pt-home-a1-a2-032",
+      "word": "Há um problema com o quarto.",
+      "translation": "There is a problem with the bedroom.",
+      "example": "Há um problema com o quarto."
+    },
+    {
+      "id": "pt-home-a1-a2-033",
+      "word": "Há um problema com a sala de estar.",
+      "translation": "There is a problem with the living room.",
+      "example": "Há um problema com a sala de estar."
+    },
+    {
+      "id": "pt-home-a1-a2-034",
+      "word": "Há um problema com a casa de banho.",
+      "translation": "There is a problem with the bathroom.",
+      "example": "Há um problema com a casa de banho."
+    },
+    {
+      "id": "pt-home-a1-a2-035",
+      "word": "Há um problema com a mesa de jantar.",
+      "translation": "There is a problem with the dining table.",
+      "example": "Há um problema com a mesa de jantar."
+    },
+    {
+      "id": "pt-home-a1-a2-036",
+      "word": "Há um problema com a máquina de lavar roupa.",
+      "translation": "There is a problem with the washing machine.",
+      "example": "Há um problema com a máquina de lavar roupa."
+    },
+    {
+      "id": "pt-home-a1-a2-037",
+      "word": "Há um problema com a porta da frente.",
+      "translation": "There is a problem with the front door.",
+      "example": "Há um problema com a porta da frente."
+    },
+    {
+      "id": "pt-home-a1-a2-038",
+      "word": "Há um problema com o roupeiro.",
+      "translation": "There is a problem with the clothes cupboard.",
+      "example": "Há um problema com o roupeiro."
+    },
+    {
+      "id": "pt-home-a1-a2-039",
+      "word": "Há um problema com o lixo doméstico.",
+      "translation": "There is a problem with the household rubbish.",
+      "example": "Há um problema com o lixo doméstico."
+    },
+    {
+      "id": "pt-home-a1-a2-040",
+      "word": "Há um problema com a limpeza semanal.",
+      "translation": "There is a problem with the weekly cleaning.",
+      "example": "Há um problema com a limpeza semanal."
+    },
+    {
+      "id": "pt-home-a1-a2-041",
+      "word": "Podes ajudar-me com a cozinha?",
+      "translation": "Can you help me with the kitchen?",
+      "example": "Podes ajudar-me com a cozinha?"
+    },
+    {
+      "id": "pt-home-a1-a2-042",
+      "word": "Podes ajudar-me com o quarto?",
+      "translation": "Can you help me with the bedroom?",
+      "example": "Podes ajudar-me com o quarto?"
+    },
+    {
+      "id": "pt-home-a1-a2-043",
+      "word": "Podes ajudar-me com a sala de estar?",
+      "translation": "Can you help me with the living room?",
+      "example": "Podes ajudar-me com a sala de estar?"
+    },
+    {
+      "id": "pt-home-a1-a2-044",
+      "word": "Podes ajudar-me com a casa de banho?",
+      "translation": "Can you help me with the bathroom?",
+      "example": "Podes ajudar-me com a casa de banho?"
+    },
+    {
+      "id": "pt-home-a1-a2-045",
+      "word": "Podes ajudar-me com a mesa de jantar?",
+      "translation": "Can you help me with the dining table?",
+      "example": "Podes ajudar-me com a mesa de jantar?"
+    },
+    {
+      "id": "pt-home-a1-a2-046",
+      "word": "Podes ajudar-me com a máquina de lavar roupa?",
+      "translation": "Can you help me with the washing machine?",
+      "example": "Podes ajudar-me com a máquina de lavar roupa?"
+    },
+    {
+      "id": "pt-home-a1-a2-047",
+      "word": "Podes ajudar-me com a porta da frente?",
+      "translation": "Can you help me with the front door?",
+      "example": "Podes ajudar-me com a porta da frente?"
+    },
+    {
+      "id": "pt-home-a1-a2-048",
+      "word": "Podes ajudar-me com o roupeiro?",
+      "translation": "Can you help me with the clothes cupboard?",
+      "example": "Podes ajudar-me com o roupeiro?"
+    },
+    {
+      "id": "pt-home-a1-a2-049",
+      "word": "Podes ajudar-me com o lixo doméstico?",
+      "translation": "Can you help me with the household rubbish?",
+      "example": "Podes ajudar-me com o lixo doméstico?"
+    },
+    {
+      "id": "pt-home-a1-a2-050",
+      "word": "Podes ajudar-me com a limpeza semanal?",
+      "translation": "Can you help me with the weekly cleaning?",
+      "example": "Podes ajudar-me com a limpeza semanal?"
+    },
+    {
+      "id": "pt-home-a1-a2-051",
+      "word": "Comprei uma coisa para a cozinha.",
+      "translation": "I bought something for the kitchen.",
+      "example": "Comprei uma coisa para a cozinha."
+    },
+    {
+      "id": "pt-home-a1-a2-052",
+      "word": "Comprei uma coisa para o quarto.",
+      "translation": "I bought something for the bedroom.",
+      "example": "Comprei uma coisa para o quarto."
+    },
+    {
+      "id": "pt-home-a1-a2-053",
+      "word": "Comprei uma coisa para a sala de estar.",
+      "translation": "I bought something for the living room.",
+      "example": "Comprei uma coisa para a sala de estar."
+    },
+    {
+      "id": "pt-home-a1-a2-054",
+      "word": "Comprei uma coisa para a casa de banho.",
+      "translation": "I bought something for the bathroom.",
+      "example": "Comprei uma coisa para a casa de banho."
+    },
+    {
+      "id": "pt-home-a1-a2-055",
+      "word": "Comprei uma coisa para a mesa de jantar.",
+      "translation": "I bought something for the dining table.",
+      "example": "Comprei uma coisa para a mesa de jantar."
+    },
+    {
+      "id": "pt-home-a1-a2-056",
+      "word": "Comprei uma coisa para a máquina de lavar roupa.",
+      "translation": "I bought something for the washing machine.",
+      "example": "Comprei uma coisa para a máquina de lavar roupa."
+    },
+    {
+      "id": "pt-home-a1-a2-057",
+      "word": "Comprei uma coisa para a porta da frente.",
+      "translation": "I bought something for the front door.",
+      "example": "Comprei uma coisa para a porta da frente."
+    },
+    {
+      "id": "pt-home-a1-a2-058",
+      "word": "Comprei uma coisa para o roupeiro.",
+      "translation": "I bought something for the clothes cupboard.",
+      "example": "Comprei uma coisa para o roupeiro."
+    },
+    {
+      "id": "pt-home-a1-a2-059",
+      "word": "Comprei uma coisa para o lixo doméstico.",
+      "translation": "I bought something for the household rubbish.",
+      "example": "Comprei uma coisa para o lixo doméstico."
+    },
+    {
+      "id": "pt-home-a1-a2-060",
+      "word": "Comprei uma coisa para a limpeza semanal.",
+      "translation": "I bought something for the weekly cleaning.",
+      "example": "Comprei uma coisa para a limpeza semanal."
+    },
+    {
+      "id": "pt-home-a1-a2-061",
+      "word": "Por favor, trata de a cozinha.",
+      "translation": "Please take care of the kitchen.",
+      "example": "Por favor, trata de a cozinha."
+    },
+    {
+      "id": "pt-home-a1-a2-062",
+      "word": "Por favor, trata de o quarto.",
+      "translation": "Please take care of the bedroom.",
+      "example": "Por favor, trata de o quarto."
+    },
+    {
+      "id": "pt-home-a1-a2-063",
+      "word": "Por favor, trata de a sala de estar.",
+      "translation": "Please take care of the living room.",
+      "example": "Por favor, trata de a sala de estar."
+    },
+    {
+      "id": "pt-home-a1-a2-064",
+      "word": "Por favor, trata de a casa de banho.",
+      "translation": "Please take care of the bathroom.",
+      "example": "Por favor, trata de a casa de banho."
+    },
+    {
+      "id": "pt-home-a1-a2-065",
+      "word": "Por favor, trata de a mesa de jantar.",
+      "translation": "Please take care of the dining table.",
+      "example": "Por favor, trata de a mesa de jantar."
+    },
+    {
+      "id": "pt-home-a1-a2-066",
+      "word": "Por favor, trata de a máquina de lavar roupa.",
+      "translation": "Please take care of the washing machine.",
+      "example": "Por favor, trata de a máquina de lavar roupa."
+    },
+    {
+      "id": "pt-home-a1-a2-067",
+      "word": "Por favor, trata de a porta da frente.",
+      "translation": "Please take care of the front door.",
+      "example": "Por favor, trata de a porta da frente."
+    },
+    {
+      "id": "pt-home-a1-a2-068",
+      "word": "Por favor, trata de o roupeiro.",
+      "translation": "Please take care of the clothes cupboard.",
+      "example": "Por favor, trata de o roupeiro."
+    },
+    {
+      "id": "pt-home-a1-a2-069",
+      "word": "Por favor, trata de o lixo doméstico.",
+      "translation": "Please take care of the household rubbish.",
+      "example": "Por favor, trata de o lixo doméstico."
+    },
+    {
+      "id": "pt-home-a1-a2-070",
+      "word": "Por favor, trata de a limpeza semanal.",
+      "translation": "Please take care of the weekly cleaning.",
+      "example": "Por favor, trata de a limpeza semanal."
+    },
+    {
+      "id": "pt-home-a1-a2-071",
+      "word": "Devíamos organizar a cozinha.",
+      "translation": "We should organise the kitchen.",
+      "example": "Devíamos organizar a cozinha."
+    },
+    {
+      "id": "pt-home-a1-a2-072",
+      "word": "Devíamos organizar o quarto.",
+      "translation": "We should organise the bedroom.",
+      "example": "Devíamos organizar o quarto."
+    },
+    {
+      "id": "pt-home-a1-a2-073",
+      "word": "Devíamos organizar a sala de estar.",
+      "translation": "We should organise the living room.",
+      "example": "Devíamos organizar a sala de estar."
+    },
+    {
+      "id": "pt-home-a1-a2-074",
+      "word": "Devíamos organizar a casa de banho.",
+      "translation": "We should organise the bathroom.",
+      "example": "Devíamos organizar a casa de banho."
+    },
+    {
+      "id": "pt-home-a1-a2-075",
+      "word": "Devíamos organizar a mesa de jantar.",
+      "translation": "We should organise the dining table.",
+      "example": "Devíamos organizar a mesa de jantar."
+    },
+    {
+      "id": "pt-home-a1-a2-076",
+      "word": "Devíamos organizar a máquina de lavar roupa.",
+      "translation": "We should organise the washing machine.",
+      "example": "Devíamos organizar a máquina de lavar roupa."
+    },
+    {
+      "id": "pt-home-a1-a2-077",
+      "word": "Devíamos organizar a porta da frente.",
+      "translation": "We should organise the front door.",
+      "example": "Devíamos organizar a porta da frente."
+    },
+    {
+      "id": "pt-home-a1-a2-078",
+      "word": "Devíamos organizar o roupeiro.",
+      "translation": "We should organise the clothes cupboard.",
+      "example": "Devíamos organizar o roupeiro."
+    },
+    {
+      "id": "pt-home-a1-a2-079",
+      "word": "Devíamos organizar o lixo doméstico.",
+      "translation": "We should organise the household rubbish.",
+      "example": "Devíamos organizar o lixo doméstico."
+    },
+    {
+      "id": "pt-home-a1-a2-080",
+      "word": "Devíamos organizar a limpeza semanal.",
+      "translation": "We should organise the weekly cleaning.",
+      "example": "Devíamos organizar a limpeza semanal."
+    },
+    {
+      "id": "pt-home-a1-a2-081",
+      "word": "Esqueci-me de a cozinha.",
+      "translation": "I forgot about the kitchen.",
+      "example": "Esqueci-me de a cozinha."
+    },
+    {
+      "id": "pt-home-a1-a2-082",
+      "word": "Esqueci-me de o quarto.",
+      "translation": "I forgot about the bedroom.",
+      "example": "Esqueci-me de o quarto."
+    },
+    {
+      "id": "pt-home-a1-a2-083",
+      "word": "Esqueci-me de a sala de estar.",
+      "translation": "I forgot about the living room.",
+      "example": "Esqueci-me de a sala de estar."
+    },
+    {
+      "id": "pt-home-a1-a2-084",
+      "word": "Esqueci-me de a casa de banho.",
+      "translation": "I forgot about the bathroom.",
+      "example": "Esqueci-me de a casa de banho."
+    },
+    {
+      "id": "pt-home-a1-a2-085",
+      "word": "Esqueci-me de a mesa de jantar.",
+      "translation": "I forgot about the dining table.",
+      "example": "Esqueci-me de a mesa de jantar."
+    },
+    {
+      "id": "pt-home-a1-a2-086",
+      "word": "Esqueci-me de a máquina de lavar roupa.",
+      "translation": "I forgot about the washing machine.",
+      "example": "Esqueci-me de a máquina de lavar roupa."
+    },
+    {
+      "id": "pt-home-a1-a2-087",
+      "word": "Esqueci-me de a porta da frente.",
+      "translation": "I forgot about the front door.",
+      "example": "Esqueci-me de a porta da frente."
+    },
+    {
+      "id": "pt-home-a1-a2-088",
+      "word": "Esqueci-me de o roupeiro.",
+      "translation": "I forgot about the clothes cupboard.",
+      "example": "Esqueci-me de o roupeiro."
+    },
+    {
+      "id": "pt-home-a1-a2-089",
+      "word": "Esqueci-me de o lixo doméstico.",
+      "translation": "I forgot about the household rubbish.",
+      "example": "Esqueci-me de o lixo doméstico."
+    },
+    {
+      "id": "pt-home-a1-a2-090",
+      "word": "Esqueci-me de a limpeza semanal.",
+      "translation": "I forgot about the weekly cleaning.",
+      "example": "Esqueci-me de a limpeza semanal."
+    },
+    {
+      "id": "pt-home-a1-a2-091",
+      "word": "Está na hora de verificar a cozinha.",
+      "translation": "It is time to check the kitchen.",
+      "example": "Está na hora de verificar a cozinha."
+    },
+    {
+      "id": "pt-home-a1-a2-092",
+      "word": "Está na hora de verificar o quarto.",
+      "translation": "It is time to check the bedroom.",
+      "example": "Está na hora de verificar o quarto."
+    },
+    {
+      "id": "pt-home-a1-a2-093",
+      "word": "Está na hora de verificar a sala de estar.",
+      "translation": "It is time to check the living room.",
+      "example": "Está na hora de verificar a sala de estar."
+    },
+    {
+      "id": "pt-home-a1-a2-094",
+      "word": "Está na hora de verificar a casa de banho.",
+      "translation": "It is time to check the bathroom.",
+      "example": "Está na hora de verificar a casa de banho."
+    },
+    {
+      "id": "pt-home-a1-a2-095",
+      "word": "Está na hora de verificar a mesa de jantar.",
+      "translation": "It is time to check the dining table.",
+      "example": "Está na hora de verificar a mesa de jantar."
+    },
+    {
+      "id": "pt-home-a1-a2-096",
+      "word": "Está na hora de verificar a máquina de lavar roupa.",
+      "translation": "It is time to check the washing machine.",
+      "example": "Está na hora de verificar a máquina de lavar roupa."
+    },
+    {
+      "id": "pt-home-a1-a2-097",
+      "word": "Está na hora de verificar a porta da frente.",
+      "translation": "It is time to check the front door.",
+      "example": "Está na hora de verificar a porta da frente."
+    },
+    {
+      "id": "pt-home-a1-a2-098",
+      "word": "Está na hora de verificar o roupeiro.",
+      "translation": "It is time to check the clothes cupboard.",
+      "example": "Está na hora de verificar o roupeiro."
+    },
+    {
+      "id": "pt-home-a1-a2-099",
+      "word": "Está na hora de verificar o lixo doméstico.",
+      "translation": "It is time to check the household rubbish.",
+      "example": "Está na hora de verificar o lixo doméstico."
+    },
+    {
+      "id": "pt-home-a1-a2-100",
+      "word": "Está na hora de verificar a limpeza semanal.",
+      "translation": "It is time to check the weekly cleaning.",
+      "example": "Está na hora de verificar a limpeza semanal."
+    }
+  ]
+}
