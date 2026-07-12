@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-travel-a1-a2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "travel",
+  "categoryTitle": "Travel & Transport",
+  "title": "Travel & Transport",
+  "level": "A1-A2",
+  "emoji": "🧳",
+  "description": "Navigate common journeys, accommodation, and everyday travel situations.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-travel-a1-a2-001",
+      "word": "¿Dónde está el aeropuerto?",
+      "translation": "Where is the airport?",
+      "example": "¿Dónde está el aeropuerto?"
+    },
+    {
+      "id": "es-travel-a1-a2-002",
+      "word": "¿Dónde está la estación de tren?",
+      "translation": "Where is the train station?",
+      "example": "¿Dónde está la estación de tren?"
+    },
+    {
+      "id": "es-travel-a1-a2-003",
+      "word": "¿Dónde está el centro de la ciudad?",
+      "translation": "Where is the city center?",
+      "example": "¿Dónde está el centro de la ciudad?"
+    },
+    {
+      "id": "es-travel-a1-a2-004",
+      "word": "¿Dónde está el casco antiguo?",
+      "translation": "Where is the old town?",
+      "example": "¿Dónde está el casco antiguo?"
+    },
+    {
+      "id": "es-travel-a1-a2-005",
+      "word": "¿Dónde está el hotel?",
+      "translation": "Where is the hotel?",
+      "example": "¿Dónde está el hotel?"
+    },
+    {
+      "id": "es-travel-a1-a2-006",
+      "word": "¿Dónde está el museo?",
+      "translation": "Where is the museum?",
+      "example": "¿Dónde está el museo?"
+    },
+    {
+      "id": "es-travel-a1-a2-007",
+      "word": "¿Dónde está la playa?",
+      "translation": "Where is the beach?",
+      "example": "¿Dónde está la playa?"
+    },
+    {
+      "id": "es-travel-a1-a2-008",
+      "word": "¿Dónde está el puerto?",
+      "translation": "Where is the port?",
+      "example": "¿Dónde está el puerto?"
+    },
+    {
+      "id": "es-travel-a1-a2-009",
+      "word": "¿Dónde está el mercado?",
+      "translation": "Where is the market?",
+      "example": "¿Dónde está el mercado?"
+    },
+    {
+      "id": "es-travel-a1-a2-010",
+      "word": "¿Dónde está la plaza principal?",
+      "translation": "Where is the main square?",
+      "example": "¿Dónde está la plaza principal?"
+    },
+    {
+      "id": "es-travel-a1-a2-011",
+      "word": "¿Cómo llego a el aeropuerto?",
+      "translation": "How do I get to the airport?",
+      "example": "¿Cómo llego a el aeropuerto?"
+    },
+    {
+      "id": "es-travel-a1-a2-012",
+      "word": "¿Cómo llego a la estación de tren?",
+      "translation": "How do I get to the train station?",
+      "example": "¿Cómo llego a la estación de tren?"
+    },
+    {
+      "id": "es-travel-a1-a2-013",
+      "word": "¿Cómo llego a el centro de la ciudad?",
+      "translation": "How do I get to the city center?",
+      "example": "¿Cómo llego a el centro de la ciudad?"
+    },
+    {
+      "id": "es-travel-a1-a2-014",
+      "word": "¿Cómo llego a el casco antiguo?",
+      "translation": "How do I get to the old town?",
+      "example": "¿Cómo llego a el casco antiguo?"
+    },
+    {
+      "id": "es-travel-a1-a2-015",
+      "word": "¿Cómo llego a el hotel?",
+      "translation": "How do I get to the hotel?",
+      "example": "¿Cómo llego a el hotel?"
+    },
+    {
+      "id": "es-travel-a1-a2-016",
+      "word": "¿Cómo llego a el museo?",
+      "translation": "How do I get to the museum?",
+      "example": "¿Cómo llego a el museo?"
+    },
+    {
+      "id": "es-travel-a1-a2-017",
+      "word": "¿Cómo llego a la playa?",
+      "translation": "How do I get to the beach?",
+      "example": "¿Cómo llego a la playa?"
+    },
+    {
+      "id": "es-travel-a1-a2-018",
+      "word": "¿Cómo llego a el puerto?",
+      "translation": "How do I get to the port?",
+      "example": "¿Cómo llego a el puerto?"
+    },
+    {
+      "id": "es-travel-a1-a2-019",
+      "word": "¿Cómo llego a el mercado?",
+      "translation": "How do I get to the market?",
+      "example": "¿Cómo llego a el mercado?"
+    },
+    {
+      "id": "es-travel-a1-a2-020",
+      "word": "¿Cómo llego a la plaza principal?",
+      "translation": "How do I get to the main square?",
+      "example": "¿Cómo llego a la plaza principal?"
+    },
+    {
+      "id": "es-travel-a1-a2-021",
+      "word": "¿Está el aeropuerto lejos de aquí?",
+      "translation": "Is the airport far from here?",
+      "example": "¿Está el aeropuerto lejos de aquí?"
+    },
+    {
+      "id": "es-travel-a1-a2-022",
+      "word": "¿Está la estación de tren lejos de aquí?",
+      "translation": "Is the train station far from here?",
+      "example": "¿Está la estación de tren lejos de aquí?"
+    },
+    {
+      "id": "es-travel-a1-a2-023",
+      "word": "¿Está el centro de la ciudad lejos de aquí?",
+      "translation": "Is the city center far from here?",
+      "example": "¿Está el centro de la ciudad lejos de aquí?"
+    },
+    {
+      "id": "es-travel-a1-a2-024",
+      "word": "¿Está el casco antiguo lejos de aquí?",
+      "translation": "Is the old town far from here?",
+      "example": "¿Está el casco antiguo lejos de aquí?"
+    },
+    {
+      "id": "es-travel-a1-a2-025",
+      "word": "¿Está el hotel lejos de aquí?",
+      "translation": "Is the hotel far from here?",
+      "example": "¿Está el hotel lejos de aquí?"
+    },
+    {
+      "id": "es-travel-a1-a2-026",
+      "word": "¿Está el museo lejos de aquí?",
+      "translation": "Is the museum far from here?",
+      "example": "¿Está el museo lejos de aquí?"
+    },
+    {
+      "id": "es-travel-a1-a2-027",
+      "word": "¿Está la playa lejos de aquí?",
+      "translation": "Is the beach far from here?",
+      "example": "¿Está la playa lejos de aquí?"
+    },
+    {
+      "id": "es-travel-a1-a2-028",
+      "word": "¿Está el puerto lejos de aquí?",
+      "translation": "Is the port far from here?",
+      "example": "¿Está el puerto lejos de aquí?"
+    },
+    {
+      "id": "es-travel-a1-a2-029",
+      "word": "¿Está el mercado lejos de aquí?",
+      "translation": "Is the market far from here?",
+      "example": "¿Está el mercado lejos de aquí?"
+    },
+    {
+      "id": "es-travel-a1-a2-030",
+      "word": "¿Está la plaza principal lejos de aquí?",
+      "translation": "Is the main square far from here?",
+      "example": "¿Está la plaza principal lejos de aquí?"
+    },
+    {
+      "id": "es-travel-a1-a2-031",
+      "word": "Me gustaría visitar el aeropuerto.",
+      "translation": "I would like to visit the airport.",
+      "example": "Me gustaría visitar el aeropuerto."
+    },
+    {
+      "id": "es-travel-a1-a2-032",
+      "word": "Me gustaría visitar la estación de tren.",
+      "translation": "I would like to visit the train station.",
+      "example": "Me gustaría visitar la estación de tren."
+    },
+    {
+      "id": "es-travel-a1-a2-033",
+      "word": "Me gustaría visitar el centro de la ciudad.",
+      "translation": "I would like to visit the city center.",
+      "example": "Me gustaría visitar el centro de la ciudad."
+    },
+    {
+      "id": "es-travel-a1-a2-034",
+      "word": "Me gustaría visitar el casco antiguo.",
+      "translation": "I would like to visit the old town.",
+      "example": "Me gustaría visitar el casco antiguo."
+    },
+    {
+      "id": "es-travel-a1-a2-035",
+      "word": "Me gustaría visitar el hotel.",
+      "translation": "I would like to visit the hotel.",
+      "example": "Me gustaría visitar el hotel."
+    },
+    {
+      "id": "es-travel-a1-a2-036",
+      "word": "Me gustaría visitar el museo.",
+      "translation": "I would like to visit the museum.",
+      "example": "Me gustaría visitar el museo."
+    },
+    {
+      "id": "es-travel-a1-a2-037",
+      "word": "Me gustaría visitar la playa.",
+      "translation": "I would like to visit the beach.",
+      "example": "Me gustaría visitar la playa."
+    },
+    {
+      "id": "es-travel-a1-a2-038",
+      "word": "Me gustaría visitar el puerto.",
+      "translation": "I would like to visit the port.",
+      "example": "Me gustaría visitar el puerto."
+    },
+    {
+      "id": "es-travel-a1-a2-039",
+      "word": "Me gustaría visitar el mercado.",
+      "translation": "I would like to visit the market.",
+      "example": "Me gustaría visitar el mercado."
+    },
+    {
+      "id": "es-travel-a1-a2-040",
+      "word": "Me gustaría visitar la plaza principal.",
+      "translation": "I would like to visit the main square.",
+      "example": "Me gustaría visitar la plaza principal."
+    },
+    {
+      "id": "es-travel-a1-a2-041",
+      "word": "Estamos buscando el aeropuerto.",
+      "translation": "We are looking for the airport.",
+      "example": "Estamos buscando el aeropuerto."
+    },
+    {
+      "id": "es-travel-a1-a2-042",
+      "word": "Estamos buscando la estación de tren.",
+      "translation": "We are looking for the train station.",
+      "example": "Estamos buscando la estación de tren."
+    },
+    {
+      "id": "es-travel-a1-a2-043",
+      "word": "Estamos buscando el centro de la ciudad.",
+      "translation": "We are looking for the city center.",
+      "example": "Estamos buscando el centro de la ciudad."
+    },
+    {
+      "id": "es-travel-a1-a2-044",
+      "word": "Estamos buscando el casco antiguo.",
+      "translation": "We are looking for the old town.",
+      "example": "Estamos buscando el casco antiguo."
+    },
+    {
+      "id": "es-travel-a1-a2-045",
+      "word": "Estamos buscando el hotel.",
+      "translation": "We are looking for the hotel.",
+      "example": "Estamos buscando el hotel."
+    },
+    {
+      "id": "es-travel-a1-a2-046",
+      "word": "Estamos buscando el museo.",
+      "translation": "We are looking for the museum.",
+      "example": "Estamos buscando el museo."
+    },
+    {
+      "id": "es-travel-a1-a2-047",
+      "word": "Estamos buscando la playa.",
+      "translation": "We are looking for the beach.",
+      "example": "Estamos buscando la playa."
+    },
+    {
+      "id": "es-travel-a1-a2-048",
+      "word": "Estamos buscando el puerto.",
+      "translation": "We are looking for the port.",
+      "example": "Estamos buscando el puerto."
+    },
+    {
+      "id": "es-travel-a1-a2-049",
+      "word": "Estamos buscando el mercado.",
+      "translation": "We are looking for the market.",
+      "example": "Estamos buscando el mercado."
+    },
+    {
+      "id": "es-travel-a1-a2-050",
+      "word": "Estamos buscando la plaza principal.",
+      "translation": "We are looking for the main square.",
+      "example": "Estamos buscando la plaza principal."
+    },
+    {
+      "id": "es-travel-a1-a2-051",
+      "word": "¿Puede mostrarme el aeropuerto en el mapa?",
+      "translation": "Can you show me the airport on the map?",
+      "example": "¿Puede mostrarme el aeropuerto en el mapa?"
+    },
+    {
+      "id": "es-travel-a1-a2-052",
+      "word": "¿Puede mostrarme la estación de tren en el mapa?",
+      "translation": "Can you show me the train station on the map?",
+      "example": "¿Puede mostrarme la estación de tren en el mapa?"
+    },
+    {
+      "id": "es-travel-a1-a2-053",
+      "word": "¿Puede mostrarme el centro de la ciudad en el mapa?",
+      "translation": "Can you show me the city center on the map?",
+      "example": "¿Puede mostrarme el centro de la ciudad en el mapa?"
+    },
+    {
+      "id": "es-travel-a1-a2-054",
+      "word": "¿Puede mostrarme el casco antiguo en el mapa?",
+      "translation": "Can you show me the old town on the map?",
+      "example": "¿Puede mostrarme el casco antiguo en el mapa?"
+    },
+    {
+      "id": "es-travel-a1-a2-055",
+      "word": "¿Puede mostrarme el hotel en el mapa?",
+      "translation": "Can you show me the hotel on the map?",
+      "example": "¿Puede mostrarme el hotel en el mapa?"
+    },
+    {
+      "id": "es-travel-a1-a2-056",
+      "word": "¿Puede mostrarme el museo en el mapa?",
+      "translation": "Can you show me the museum on the map?",
+      "example": "¿Puede mostrarme el museo en el mapa?"
+    },
+    {
+      "id": "es-travel-a1-a2-057",
+      "word": "¿Puede mostrarme la playa en el mapa?",
+      "translation": "Can you show me the beach on the map?",
+      "example": "¿Puede mostrarme la playa en el mapa?"
+    },
+    {
+      "id": "es-travel-a1-a2-058",
+      "word": "¿Puede mostrarme el puerto en el mapa?",
+      "translation": "Can you show me the port on the map?",
+      "example": "¿Puede mostrarme el puerto en el mapa?"
+    },
+    {
+      "id": "es-travel-a1-a2-059",
+      "word": "¿Puede mostrarme el mercado en el mapa?",
+      "translation": "Can you show me the market on the map?",
+      "example": "¿Puede mostrarme el mercado en el mapa?"
+    },
+    {
+      "id": "es-travel-a1-a2-060",
+      "word": "¿Puede mostrarme la plaza principal en el mapa?",
+      "translation": "Can you show me the main square on the map?",
+      "example": "¿Puede mostrarme la plaza principal en el mapa?"
+    },
+    {
+      "id": "es-travel-a1-a2-061",
+      "word": "¿A qué hora abre el aeropuerto?",
+      "translation": "What time does the airport open?",
+      "example": "¿A qué hora abre el aeropuerto?"
+    },
+    {
+      "id": "es-travel-a1-a2-062",
+      "word": "¿A qué hora abre la estación de tren?",
+      "translation": "What time does the train station open?",
+      "example": "¿A qué hora abre la estación de tren?"
+    },
+    {
+      "id": "es-travel-a1-a2-063",
+      "word": "¿A qué hora abre el centro de la ciudad?",
+      "translation": "What time does the city center open?",
+      "example": "¿A qué hora abre el centro de la ciudad?"
+    },
+    {
+      "id": "es-travel-a1-a2-064",
+      "word": "¿A qué hora abre el casco antiguo?",
+      "translation": "What time does the old town open?",
+      "example": "¿A qué hora abre el casco antiguo?"
+    },
+    {
+      "id": "es-travel-a1-a2-065",
+      "word": "¿A qué hora abre el hotel?",
+      "translation": "What time does the hotel open?",
+      "example": "¿A qué hora abre el hotel?"
+    },
+    {
+      "id": "es-travel-a1-a2-066",
+      "word": "¿A qué hora abre el museo?",
+      "translation": "What time does the museum open?",
+      "example": "¿A qué hora abre el museo?"
+    },
+    {
+      "id": "es-travel-a1-a2-067",
+      "word": "¿A qué hora abre la playa?",
+      "translation": "What time does the beach open?",
+      "example": "¿A qué hora abre la playa?"
+    },
+    {
+      "id": "es-travel-a1-a2-068",
+      "word": "¿A qué hora abre el puerto?",
+      "translation": "What time does the port open?",
+      "example": "¿A qué hora abre el puerto?"
+    },
+    {
+      "id": "es-travel-a1-a2-069",
+      "word": "¿A qué hora abre el mercado?",
+      "translation": "What time does the market open?",
+      "example": "¿A qué hora abre el mercado?"
+    },
+    {
+      "id": "es-travel-a1-a2-070",
+      "word": "¿A qué hora abre la plaza principal?",
+      "translation": "What time does the main square open?",
+      "example": "¿A qué hora abre la plaza principal?"
+    },
+    {
+      "id": "es-travel-a1-a2-071",
+      "word": "¿Hay un autobús a el aeropuerto?",
+      "translation": "Is there a bus to the airport?",
+      "example": "¿Hay un autobús a el aeropuerto?"
+    },
+    {
+      "id": "es-travel-a1-a2-072",
+      "word": "¿Hay un autobús a la estación de tren?",
+      "translation": "Is there a bus to the train station?",
+      "example": "¿Hay un autobús a la estación de tren?"
+    },
+    {
+      "id": "es-travel-a1-a2-073",
+      "word": "¿Hay un autobús a el centro de la ciudad?",
+      "translation": "Is there a bus to the city center?",
+      "example": "¿Hay un autobús a el centro de la ciudad?"
+    },
+    {
+      "id": "es-travel-a1-a2-074",
+      "word": "¿Hay un autobús a el casco antiguo?",
+      "translation": "Is there a bus to the old town?",
+      "example": "¿Hay un autobús a el casco antiguo?"
+    },
+    {
+      "id": "es-travel-a1-a2-075",
+      "word": "¿Hay un autobús a el hotel?",
+      "translation": "Is there a bus to the hotel?",
+      "example": "¿Hay un autobús a el hotel?"
+    },
+    {
+      "id": "es-travel-a1-a2-076",
+      "word": "¿Hay un autobús a el museo?",
+      "translation": "Is there a bus to the museum?",
+      "example": "¿Hay un autobús a el museo?"
+    },
+    {
+      "id": "es-travel-a1-a2-077",
+      "word": "¿Hay un autobús a la playa?",
+      "translation": "Is there a bus to the beach?",
+      "example": "¿Hay un autobús a la playa?"
+    },
+    {
+      "id": "es-travel-a1-a2-078",
+      "word": "¿Hay un autobús a el puerto?",
+      "translation": "Is there a bus to the port?",
+      "example": "¿Hay un autobús a el puerto?"
+    },
+    {
+      "id": "es-travel-a1-a2-079",
+      "word": "¿Hay un autobús a el mercado?",
+      "translation": "Is there a bus to the market?",
+      "example": "¿Hay un autobús a el mercado?"
+    },
+    {
+      "id": "es-travel-a1-a2-080",
+      "word": "¿Hay un autobús a la plaza principal?",
+      "translation": "Is there a bus to the main square?",
+      "example": "¿Hay un autobús a la plaza principal?"
+    },
+    {
+      "id": "es-travel-a1-a2-081",
+      "word": "¿Cuánto cuesta un taxi a el aeropuerto?",
+      "translation": "How much is a taxi to the airport?",
+      "example": "¿Cuánto cuesta un taxi a el aeropuerto?"
+    },
+    {
+      "id": "es-travel-a1-a2-082",
+      "word": "¿Cuánto cuesta un taxi a la estación de tren?",
+      "translation": "How much is a taxi to the train station?",
+      "example": "¿Cuánto cuesta un taxi a la estación de tren?"
+    },
+    {
+      "id": "es-travel-a1-a2-083",
+      "word": "¿Cuánto cuesta un taxi a el centro de la ciudad?",
+      "translation": "How much is a taxi to the city center?",
+      "example": "¿Cuánto cuesta un taxi a el centro de la ciudad?"
+    },
+    {
+      "id": "es-travel-a1-a2-084",
+      "word": "¿Cuánto cuesta un taxi a el casco antiguo?",
+      "translation": "How much is a taxi to the old town?",
+      "example": "¿Cuánto cuesta un taxi a el casco antiguo?"
+    },
+    {
+      "id": "es-travel-a1-a2-085",
+      "word": "¿Cuánto cuesta un taxi a el hotel?",
+      "translation": "How much is a taxi to the hotel?",
+      "example": "¿Cuánto cuesta un taxi a el hotel?"
+    },
+    {
+      "id": "es-travel-a1-a2-086",
+      "word": "¿Cuánto cuesta un taxi a el museo?",
+      "translation": "How much is a taxi to the museum?",
+      "example": "¿Cuánto cuesta un taxi a el museo?"
+    },
+    {
+      "id": "es-travel-a1-a2-087",
+      "word": "¿Cuánto cuesta un taxi a la playa?",
+      "translation": "How much is a taxi to the beach?",
+      "example": "¿Cuánto cuesta un taxi a la playa?"
+    },
+    {
+      "id": "es-travel-a1-a2-088",
+      "word": "¿Cuánto cuesta un taxi a el puerto?",
+      "translation": "How much is a taxi to the port?",
+      "example": "¿Cuánto cuesta un taxi a el puerto?"
+    },
+    {
+      "id": "es-travel-a1-a2-089",
+      "word": "¿Cuánto cuesta un taxi a el mercado?",
+      "translation": "How much is a taxi to the market?",
+      "example": "¿Cuánto cuesta un taxi a el mercado?"
+    },
+    {
+      "id": "es-travel-a1-a2-090",
+      "word": "¿Cuánto cuesta un taxi a la plaza principal?",
+      "translation": "How much is a taxi to the main square?",
+      "example": "¿Cuánto cuesta un taxi a la plaza principal?"
+    },
+    {
+      "id": "es-travel-a1-a2-091",
+      "word": "Acabamos de llegar a el aeropuerto.",
+      "translation": "We have just arrived at the airport.",
+      "example": "Acabamos de llegar a el aeropuerto."
+    },
+    {
+      "id": "es-travel-a1-a2-092",
+      "word": "Acabamos de llegar a la estación de tren.",
+      "translation": "We have just arrived at the train station.",
+      "example": "Acabamos de llegar a la estación de tren."
+    },
+    {
+      "id": "es-travel-a1-a2-093",
+      "word": "Acabamos de llegar a el centro de la ciudad.",
+      "translation": "We have just arrived at the city center.",
+      "example": "Acabamos de llegar a el centro de la ciudad."
+    },
+    {
+      "id": "es-travel-a1-a2-094",
+      "word": "Acabamos de llegar a el casco antiguo.",
+      "translation": "We have just arrived at the old town.",
+      "example": "Acabamos de llegar a el casco antiguo."
+    },
+    {
+      "id": "es-travel-a1-a2-095",
+      "word": "Acabamos de llegar a el hotel.",
+      "translation": "We have just arrived at the hotel.",
+      "example": "Acabamos de llegar a el hotel."
+    },
+    {
+      "id": "es-travel-a1-a2-096",
+      "word": "Acabamos de llegar a el museo.",
+      "translation": "We have just arrived at the museum.",
+      "example": "Acabamos de llegar a el museo."
+    },
+    {
+      "id": "es-travel-a1-a2-097",
+      "word": "Acabamos de llegar a la playa.",
+      "translation": "We have just arrived at the beach.",
+      "example": "Acabamos de llegar a la playa."
+    },
+    {
+      "id": "es-travel-a1-a2-098",
+      "word": "Acabamos de llegar a el puerto.",
+      "translation": "We have just arrived at the port.",
+      "example": "Acabamos de llegar a el puerto."
+    },
+    {
+      "id": "es-travel-a1-a2-099",
+      "word": "Acabamos de llegar a el mercado.",
+      "translation": "We have just arrived at the market.",
+      "example": "Acabamos de llegar a el mercado."
+    },
+    {
+      "id": "es-travel-a1-a2-100",
+      "word": "Acabamos de llegar a la plaza principal.",
+      "translation": "We have just arrived at the main square.",
+      "example": "Acabamos de llegar a la plaza principal."
+    }
+  ]
+}
