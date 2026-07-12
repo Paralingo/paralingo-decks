@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-pt-everyday-b1-b2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "everyday",
+  "categoryTitle": "Everyday Essentials",
+  "title": "Everyday Essentials",
+  "level": "B1-B2",
+  "emoji": "🗓️",
+  "description": "Manage schedules, household responsibilities, services, relationships, and common problems.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-everyday-b1-b2-001",
+      "word": "Preciso de organizar uma consulta médica.",
+      "translation": "I need to arrange a medical appointment.",
+      "example": "Preciso de organizar uma consulta médica."
+    },
+    {
+      "id": "pt-everyday-b1-b2-002",
+      "word": "Preciso de organizar uma reparação doméstica.",
+      "translation": "I need to arrange a household repair.",
+      "example": "Preciso de organizar uma reparação doméstica."
+    },
+    {
+      "id": "pt-everyday-b1-b2-003",
+      "word": "Preciso de organizar um contrato de arrendamento.",
+      "translation": "I need to arrange a rental agreement.",
+      "example": "Preciso de organizar um contrato de arrendamento."
+    },
+    {
+      "id": "pt-everyday-b1-b2-004",
+      "word": "Preciso de organizar uma fatura de serviços.",
+      "translation": "I need to arrange a utility bill.",
+      "example": "Preciso de organizar uma fatura de serviços."
+    },
+    {
+      "id": "pt-everyday-b1-b2-005",
+      "word": "Preciso de organizar um prazo de trabalho.",
+      "translation": "I need to arrange a work deadline.",
+      "example": "Preciso de organizar um prazo de trabalho."
+    },
+    {
+      "id": "pt-everyday-b1-b2-006",
+      "word": "Preciso de organizar um compromisso familiar.",
+      "translation": "I need to arrange a family commitment.",
+      "example": "Preciso de organizar um compromisso familiar."
+    },
+    {
+      "id": "pt-everyday-b1-b2-007",
+      "word": "Preciso de organizar um problema bancário.",
+      "translation": "I need to arrange a banking issue.",
+      "example": "Preciso de organizar um problema bancário."
+    },
+    {
+      "id": "pt-everyday-b1-b2-008",
+      "word": "Preciso de organizar uma entrega.",
+      "translation": "I need to arrange a delivery.",
+      "example": "Preciso de organizar uma entrega."
+    },
+    {
+      "id": "pt-everyday-b1-b2-009",
+      "word": "Preciso de organizar uma mudança de planos.",
+      "translation": "I need to arrange a change of plans.",
+      "example": "Preciso de organizar uma mudança de planos."
+    },
+    {
+      "id": "pt-everyday-b1-b2-010",
+      "word": "Preciso de organizar uma conversa difícil.",
+      "translation": "I need to arrange a difficult conversation.",
+      "example": "Preciso de organizar uma conversa difícil."
+    },
+    {
+      "id": "pt-everyday-b1-b2-011",
+      "word": "Poderíamos adiar uma consulta médica?",
+      "translation": "Could we postpone a medical appointment?",
+      "example": "Poderíamos adiar uma consulta médica?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-012",
+      "word": "Poderíamos adiar uma reparação doméstica?",
+      "translation": "Could we postpone a household repair?",
+      "example": "Poderíamos adiar uma reparação doméstica?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-013",
+      "word": "Poderíamos adiar um contrato de arrendamento?",
+      "translation": "Could we postpone a rental agreement?",
+      "example": "Poderíamos adiar um contrato de arrendamento?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-014",
+      "word": "Poderíamos adiar uma fatura de serviços?",
+      "translation": "Could we postpone a utility bill?",
+      "example": "Poderíamos adiar uma fatura de serviços?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-015",
+      "word": "Poderíamos adiar um prazo de trabalho?",
+      "translation": "Could we postpone a work deadline?",
+      "example": "Poderíamos adiar um prazo de trabalho?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-016",
+      "word": "Poderíamos adiar um compromisso familiar?",
+      "translation": "Could we postpone a family commitment?",
+      "example": "Poderíamos adiar um compromisso familiar?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-017",
+      "word": "Poderíamos adiar um problema bancário?",
+      "translation": "Could we postpone a banking issue?",
+      "example": "Poderíamos adiar um problema bancário?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-018",
+      "word": "Poderíamos adiar uma entrega?",
+      "translation": "Could we postpone a delivery?",
+      "example": "Poderíamos adiar uma entrega?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-019",
+      "word": "Poderíamos adiar uma mudança de planos?",
+      "translation": "Could we postpone a change of plans?",
+      "example": "Poderíamos adiar uma mudança de planos?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-020",
+      "word": "Poderíamos adiar uma conversa difícil?",
+      "translation": "Could we postpone a difficult conversation?",
+      "example": "Poderíamos adiar uma conversa difícil?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-021",
+      "word": "Houve um problema com uma consulta médica.",
+      "translation": "There has been a problem with a medical appointment.",
+      "example": "Houve um problema com uma consulta médica."
+    },
+    {
+      "id": "pt-everyday-b1-b2-022",
+      "word": "Houve um problema com uma reparação doméstica.",
+      "translation": "There has been a problem with a household repair.",
+      "example": "Houve um problema com uma reparação doméstica."
+    },
+    {
+      "id": "pt-everyday-b1-b2-023",
+      "word": "Houve um problema com um contrato de arrendamento.",
+      "translation": "There has been a problem with a rental agreement.",
+      "example": "Houve um problema com um contrato de arrendamento."
+    },
+    {
+      "id": "pt-everyday-b1-b2-024",
+      "word": "Houve um problema com uma fatura de serviços.",
+      "translation": "There has been a problem with a utility bill.",
+      "example": "Houve um problema com uma fatura de serviços."
+    },
+    {
+      "id": "pt-everyday-b1-b2-025",
+      "word": "Houve um problema com um prazo de trabalho.",
+      "translation": "There has been a problem with a work deadline.",
+      "example": "Houve um problema com um prazo de trabalho."
+    },
+    {
+      "id": "pt-everyday-b1-b2-026",
+      "word": "Houve um problema com um compromisso familiar.",
+      "translation": "There has been a problem with a family commitment.",
+      "example": "Houve um problema com um compromisso familiar."
+    },
+    {
+      "id": "pt-everyday-b1-b2-027",
+      "word": "Houve um problema com um problema bancário.",
+      "translation": "There has been a problem with a banking issue.",
+      "example": "Houve um problema com um problema bancário."
+    },
+    {
+      "id": "pt-everyday-b1-b2-028",
+      "word": "Houve um problema com uma entrega.",
+      "translation": "There has been a problem with a delivery.",
+      "example": "Houve um problema com uma entrega."
+    },
+    {
+      "id": "pt-everyday-b1-b2-029",
+      "word": "Houve um problema com uma mudança de planos.",
+      "translation": "There has been a problem with a change of plans.",
+      "example": "Houve um problema com uma mudança de planos."
+    },
+    {
+      "id": "pt-everyday-b1-b2-030",
+      "word": "Houve um problema com uma conversa difícil.",
+      "translation": "There has been a problem with a difficult conversation.",
+      "example": "Houve um problema com uma conversa difícil."
+    },
+    {
+      "id": "pt-everyday-b1-b2-031",
+      "word": "Sou responsável por uma consulta médica.",
+      "translation": "I am responsible for a medical appointment.",
+      "example": "Sou responsável por uma consulta médica."
+    },
+    {
+      "id": "pt-everyday-b1-b2-032",
+      "word": "Sou responsável por uma reparação doméstica.",
+      "translation": "I am responsible for a household repair.",
+      "example": "Sou responsável por uma reparação doméstica."
+    },
+    {
+      "id": "pt-everyday-b1-b2-033",
+      "word": "Sou responsável por um contrato de arrendamento.",
+      "translation": "I am responsible for a rental agreement.",
+      "example": "Sou responsável por um contrato de arrendamento."
+    },
+    {
+      "id": "pt-everyday-b1-b2-034",
+      "word": "Sou responsável por uma fatura de serviços.",
+      "translation": "I am responsible for a utility bill.",
+      "example": "Sou responsável por uma fatura de serviços."
+    },
+    {
+      "id": "pt-everyday-b1-b2-035",
+      "word": "Sou responsável por um prazo de trabalho.",
+      "translation": "I am responsible for a work deadline.",
+      "example": "Sou responsável por um prazo de trabalho."
+    },
+    {
+      "id": "pt-everyday-b1-b2-036",
+      "word": "Sou responsável por um compromisso familiar.",
+      "translation": "I am responsible for a family commitment.",
+      "example": "Sou responsável por um compromisso familiar."
+    },
+    {
+      "id": "pt-everyday-b1-b2-037",
+      "word": "Sou responsável por um problema bancário.",
+      "translation": "I am responsible for a banking issue.",
+      "example": "Sou responsável por um problema bancário."
+    },
+    {
+      "id": "pt-everyday-b1-b2-038",
+      "word": "Sou responsável por uma entrega.",
+      "translation": "I am responsible for a delivery.",
+      "example": "Sou responsável por uma entrega."
+    },
+    {
+      "id": "pt-everyday-b1-b2-039",
+      "word": "Sou responsável por uma mudança de planos.",
+      "translation": "I am responsible for a change of plans.",
+      "example": "Sou responsável por uma mudança de planos."
+    },
+    {
+      "id": "pt-everyday-b1-b2-040",
+      "word": "Sou responsável por uma conversa difícil.",
+      "translation": "I am responsible for a difficult conversation.",
+      "example": "Sou responsável por uma conversa difícil."
+    },
+    {
+      "id": "pt-everyday-b1-b2-041",
+      "word": "Deveríamos discutir uma consulta médica com antecedência.",
+      "translation": "We should discuss a medical appointment in advance.",
+      "example": "Deveríamos discutir uma consulta médica com antecedência."
+    },
+    {
+      "id": "pt-everyday-b1-b2-042",
+      "word": "Deveríamos discutir uma reparação doméstica com antecedência.",
+      "translation": "We should discuss a household repair in advance.",
+      "example": "Deveríamos discutir uma reparação doméstica com antecedência."
+    },
+    {
+      "id": "pt-everyday-b1-b2-043",
+      "word": "Deveríamos discutir um contrato de arrendamento com antecedência.",
+      "translation": "We should discuss a rental agreement in advance.",
+      "example": "Deveríamos discutir um contrato de arrendamento com antecedência."
+    },
+    {
+      "id": "pt-everyday-b1-b2-044",
+      "word": "Deveríamos discutir uma fatura de serviços com antecedência.",
+      "translation": "We should discuss a utility bill in advance.",
+      "example": "Deveríamos discutir uma fatura de serviços com antecedência."
+    },
+    {
+      "id": "pt-everyday-b1-b2-045",
+      "word": "Deveríamos discutir um prazo de trabalho com antecedência.",
+      "translation": "We should discuss a work deadline in advance.",
+      "example": "Deveríamos discutir um prazo de trabalho com antecedência."
+    },
+    {
+      "id": "pt-everyday-b1-b2-046",
+      "word": "Deveríamos discutir um compromisso familiar com antecedência.",
+      "translation": "We should discuss a family commitment in advance.",
+      "example": "Deveríamos discutir um compromisso familiar com antecedência."
+    },
+    {
+      "id": "pt-everyday-b1-b2-047",
+      "word": "Deveríamos discutir um problema bancário com antecedência.",
+      "translation": "We should discuss a banking issue in advance.",
+      "example": "Deveríamos discutir um problema bancário com antecedência."
+    },
+    {
+      "id": "pt-everyday-b1-b2-048",
+      "word": "Deveríamos discutir uma entrega com antecedência.",
+      "translation": "We should discuss a delivery in advance.",
+      "example": "Deveríamos discutir uma entrega com antecedência."
+    },
+    {
+      "id": "pt-everyday-b1-b2-049",
+      "word": "Deveríamos discutir uma mudança de planos com antecedência.",
+      "translation": "We should discuss a change of plans in advance.",
+      "example": "Deveríamos discutir uma mudança de planos com antecedência."
+    },
+    {
+      "id": "pt-everyday-b1-b2-050",
+      "word": "Deveríamos discutir uma conversa difícil com antecedência.",
+      "translation": "We should discuss a difficult conversation in advance.",
+      "example": "Deveríamos discutir uma conversa difícil com antecedência."
+    },
+    {
+      "id": "pt-everyday-b1-b2-051",
+      "word": "Preciso da confirmação por escrito de uma consulta médica.",
+      "translation": "I need written confirmation of a medical appointment.",
+      "example": "Preciso da confirmação por escrito de uma consulta médica."
+    },
+    {
+      "id": "pt-everyday-b1-b2-052",
+      "word": "Preciso da confirmação por escrito de uma reparação doméstica.",
+      "translation": "I need written confirmation of a household repair.",
+      "example": "Preciso da confirmação por escrito de uma reparação doméstica."
+    },
+    {
+      "id": "pt-everyday-b1-b2-053",
+      "word": "Preciso da confirmação por escrito de um contrato de arrendamento.",
+      "translation": "I need written confirmation of a rental agreement.",
+      "example": "Preciso da confirmação por escrito de um contrato de arrendamento."
+    },
+    {
+      "id": "pt-everyday-b1-b2-054",
+      "word": "Preciso da confirmação por escrito de uma fatura de serviços.",
+      "translation": "I need written confirmation of a utility bill.",
+      "example": "Preciso da confirmação por escrito de uma fatura de serviços."
+    },
+    {
+      "id": "pt-everyday-b1-b2-055",
+      "word": "Preciso da confirmação por escrito de um prazo de trabalho.",
+      "translation": "I need written confirmation of a work deadline.",
+      "example": "Preciso da confirmação por escrito de um prazo de trabalho."
+    },
+    {
+      "id": "pt-everyday-b1-b2-056",
+      "word": "Preciso da confirmação por escrito de um compromisso familiar.",
+      "translation": "I need written confirmation of a family commitment.",
+      "example": "Preciso da confirmação por escrito de um compromisso familiar."
+    },
+    {
+      "id": "pt-everyday-b1-b2-057",
+      "word": "Preciso da confirmação por escrito de um problema bancário.",
+      "translation": "I need written confirmation of a banking issue.",
+      "example": "Preciso da confirmação por escrito de um problema bancário."
+    },
+    {
+      "id": "pt-everyday-b1-b2-058",
+      "word": "Preciso da confirmação por escrito de uma entrega.",
+      "translation": "I need written confirmation of a delivery.",
+      "example": "Preciso da confirmação por escrito de uma entrega."
+    },
+    {
+      "id": "pt-everyday-b1-b2-059",
+      "word": "Preciso da confirmação por escrito de uma mudança de planos.",
+      "translation": "I need written confirmation of a change of plans.",
+      "example": "Preciso da confirmação por escrito de uma mudança de planos."
+    },
+    {
+      "id": "pt-everyday-b1-b2-060",
+      "word": "Preciso da confirmação por escrito de uma conversa difícil.",
+      "translation": "I need written confirmation of a difficult conversation.",
+      "example": "Preciso da confirmação por escrito de uma conversa difícil."
+    },
+    {
+      "id": "pt-everyday-b1-b2-061",
+      "word": "Pode explicar as condições de uma consulta médica?",
+      "translation": "Can you explain the conditions for a medical appointment?",
+      "example": "Pode explicar as condições de uma consulta médica?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-062",
+      "word": "Pode explicar as condições de uma reparação doméstica?",
+      "translation": "Can you explain the conditions for a household repair?",
+      "example": "Pode explicar as condições de uma reparação doméstica?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-063",
+      "word": "Pode explicar as condições de um contrato de arrendamento?",
+      "translation": "Can you explain the conditions for a rental agreement?",
+      "example": "Pode explicar as condições de um contrato de arrendamento?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-064",
+      "word": "Pode explicar as condições de uma fatura de serviços?",
+      "translation": "Can you explain the conditions for a utility bill?",
+      "example": "Pode explicar as condições de uma fatura de serviços?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-065",
+      "word": "Pode explicar as condições de um prazo de trabalho?",
+      "translation": "Can you explain the conditions for a work deadline?",
+      "example": "Pode explicar as condições de um prazo de trabalho?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-066",
+      "word": "Pode explicar as condições de um compromisso familiar?",
+      "translation": "Can you explain the conditions for a family commitment?",
+      "example": "Pode explicar as condições de um compromisso familiar?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-067",
+      "word": "Pode explicar as condições de um problema bancário?",
+      "translation": "Can you explain the conditions for a banking issue?",
+      "example": "Pode explicar as condições de um problema bancário?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-068",
+      "word": "Pode explicar as condições de uma entrega?",
+      "translation": "Can you explain the conditions for a delivery?",
+      "example": "Pode explicar as condições de uma entrega?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-069",
+      "word": "Pode explicar as condições de uma mudança de planos?",
+      "translation": "Can you explain the conditions for a change of plans?",
+      "example": "Pode explicar as condições de uma mudança de planos?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-070",
+      "word": "Pode explicar as condições de uma conversa difícil?",
+      "translation": "Can you explain the conditions for a difficult conversation?",
+      "example": "Pode explicar as condições de uma conversa difícil?"
+    },
+    {
+      "id": "pt-everyday-b1-b2-071",
+      "word": "Estou a tentar resolver uma consulta médica.",
+      "translation": "I am trying to resolve a medical appointment.",
+      "example": "Estou a tentar resolver uma consulta médica."
+    },
+    {
+      "id": "pt-everyday-b1-b2-072",
+      "word": "Estou a tentar resolver uma reparação doméstica.",
+      "translation": "I am trying to resolve a household repair.",
+      "example": "Estou a tentar resolver uma reparação doméstica."
+    },
+    {
+      "id": "pt-everyday-b1-b2-073",
+      "word": "Estou a tentar resolver um contrato de arrendamento.",
+      "translation": "I am trying to resolve a rental agreement.",
+      "example": "Estou a tentar resolver um contrato de arrendamento."
+    },
+    {
+      "id": "pt-everyday-b1-b2-074",
+      "word": "Estou a tentar resolver uma fatura de serviços.",
+      "translation": "I am trying to resolve a utility bill.",
+      "example": "Estou a tentar resolver uma fatura de serviços."
+    },
+    {
+      "id": "pt-everyday-b1-b2-075",
+      "word": "Estou a tentar resolver um prazo de trabalho.",
+      "translation": "I am trying to resolve a work deadline.",
+      "example": "Estou a tentar resolver um prazo de trabalho."
+    },
+    {
+      "id": "pt-everyday-b1-b2-076",
+      "word": "Estou a tentar resolver um compromisso familiar.",
+      "translation": "I am trying to resolve a family commitment.",
+      "example": "Estou a tentar resolver um compromisso familiar."
+    },
+    {
+      "id": "pt-everyday-b1-b2-077",
+      "word": "Estou a tentar resolver um problema bancário.",
+      "translation": "I am trying to resolve a banking issue.",
+      "example": "Estou a tentar resolver um problema bancário."
+    },
+    {
+      "id": "pt-everyday-b1-b2-078",
+      "word": "Estou a tentar resolver uma entrega.",
+      "translation": "I am trying to resolve a delivery.",
+      "example": "Estou a tentar resolver uma entrega."
+    },
+    {
+      "id": "pt-everyday-b1-b2-079",
+      "word": "Estou a tentar resolver uma mudança de planos.",
+      "translation": "I am trying to resolve a change of plans.",
+      "example": "Estou a tentar resolver uma mudança de planos."
+    },
+    {
+      "id": "pt-everyday-b1-b2-080",
+      "word": "Estou a tentar resolver uma conversa difícil.",
+      "translation": "I am trying to resolve a difficult conversation.",
+      "example": "Estou a tentar resolver uma conversa difícil."
+    },
+    {
+      "id": "pt-everyday-b1-b2-081",
+      "word": "Encontrámos uma solução prática para uma consulta médica.",
+      "translation": "We found a practical solution to a medical appointment.",
+      "example": "Encontrámos uma solução prática para uma consulta médica."
+    },
+    {
+      "id": "pt-everyday-b1-b2-082",
+      "word": "Encontrámos uma solução prática para uma reparação doméstica.",
+      "translation": "We found a practical solution to a household repair.",
+      "example": "Encontrámos uma solução prática para uma reparação doméstica."
+    },
+    {
+      "id": "pt-everyday-b1-b2-083",
+      "word": "Encontrámos uma solução prática para um contrato de arrendamento.",
+      "translation": "We found a practical solution to a rental agreement.",
+      "example": "Encontrámos uma solução prática para um contrato de arrendamento."
+    },
+    {
+      "id": "pt-everyday-b1-b2-084",
+      "word": "Encontrámos uma solução prática para uma fatura de serviços.",
+      "translation": "We found a practical solution to a utility bill.",
+      "example": "Encontrámos uma solução prática para uma fatura de serviços."
+    },
+    {
+      "id": "pt-everyday-b1-b2-085",
+      "word": "Encontrámos uma solução prática para um prazo de trabalho.",
+      "translation": "We found a practical solution to a work deadline.",
+      "example": "Encontrámos uma solução prática para um prazo de trabalho."
+    },
+    {
+      "id": "pt-everyday-b1-b2-086",
+      "word": "Encontrámos uma solução prática para um compromisso familiar.",
+      "translation": "We found a practical solution to a family commitment.",
+      "example": "Encontrámos uma solução prática para um compromisso familiar."
+    },
+    {
+      "id": "pt-everyday-b1-b2-087",
+      "word": "Encontrámos uma solução prática para um problema bancário.",
+      "translation": "We found a practical solution to a banking issue.",
+      "example": "Encontrámos uma solução prática para um problema bancário."
+    },
+    {
+      "id": "pt-everyday-b1-b2-088",
+      "word": "Encontrámos uma solução prática para uma entrega.",
+      "translation": "We found a practical solution to a delivery.",
+      "example": "Encontrámos uma solução prática para uma entrega."
+    },
+    {
+      "id": "pt-everyday-b1-b2-089",
+      "word": "Encontrámos uma solução prática para uma mudança de planos.",
+      "translation": "We found a practical solution to a change of plans.",
+      "example": "Encontrámos uma solução prática para uma mudança de planos."
+    },
+    {
+      "id": "pt-everyday-b1-b2-090",
+      "word": "Encontrámos uma solução prática para uma conversa difícil.",
+      "translation": "We found a practical solution to a difficult conversation.",
+      "example": "Encontrámos uma solução prática para uma conversa difícil."
+    },
+    {
+      "id": "pt-everyday-b1-b2-091",
+      "word": "O custo de uma consulta médica foi inesperado.",
+      "translation": "The cost of a medical appointment was unexpected.",
+      "example": "O custo de uma consulta médica foi inesperado."
+    },
+    {
+      "id": "pt-everyday-b1-b2-092",
+      "word": "O custo de uma reparação doméstica foi inesperado.",
+      "translation": "The cost of a household repair was unexpected.",
+      "example": "O custo de uma reparação doméstica foi inesperado."
+    },
+    {
+      "id": "pt-everyday-b1-b2-093",
+      "word": "O custo de um contrato de arrendamento foi inesperado.",
+      "translation": "The cost of a rental agreement was unexpected.",
+      "example": "O custo de um contrato de arrendamento foi inesperado."
+    },
+    {
+      "id": "pt-everyday-b1-b2-094",
+      "word": "O custo de uma fatura de serviços foi inesperado.",
+      "translation": "The cost of a utility bill was unexpected.",
+      "example": "O custo de uma fatura de serviços foi inesperado."
+    },
+    {
+      "id": "pt-everyday-b1-b2-095",
+      "word": "O custo de um prazo de trabalho foi inesperado.",
+      "translation": "The cost of a work deadline was unexpected.",
+      "example": "O custo de um prazo de trabalho foi inesperado."
+    },
+    {
+      "id": "pt-everyday-b1-b2-096",
+      "word": "O custo de um compromisso familiar foi inesperado.",
+      "translation": "The cost of a family commitment was unexpected.",
+      "example": "O custo de um compromisso familiar foi inesperado."
+    },
+    {
+      "id": "pt-everyday-b1-b2-097",
+      "word": "O custo de um problema bancário foi inesperado.",
+      "translation": "The cost of a banking issue was unexpected.",
+      "example": "O custo de um problema bancário foi inesperado."
+    },
+    {
+      "id": "pt-everyday-b1-b2-098",
+      "word": "O custo de uma entrega foi inesperado.",
+      "translation": "The cost of a delivery was unexpected.",
+      "example": "O custo de uma entrega foi inesperado."
+    },
+    {
+      "id": "pt-everyday-b1-b2-099",
+      "word": "O custo de uma mudança de planos foi inesperado.",
+      "translation": "The cost of a change of plans was unexpected.",
+      "example": "O custo de uma mudança de planos foi inesperado."
+    },
+    {
+      "id": "pt-everyday-b1-b2-100",
+      "word": "O custo de uma conversa difícil foi inesperado.",
+      "translation": "The cost of a difficult conversation was unexpected.",
+      "example": "O custo de uma conversa difícil foi inesperado."
+    }
+  ]
+}
