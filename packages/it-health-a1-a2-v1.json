@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-it-health-a1-a2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "health",
+  "categoryTitle": "Body & Health",
+  "title": "Body & Health",
+  "level": "A1-A2",
+  "emoji": "🩺",
+  "description": "Learn body parts, describe pain and common symptoms, and ask for basic medical help.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-health-a1-a2-001",
+      "word": "Mi fa male la testa.",
+      "translation": "My head hurts.",
+      "example": "Mi fa male la testa."
+    },
+    {
+      "id": "it-health-a1-a2-002",
+      "word": "Mi fa male la gola.",
+      "translation": "My throat hurts.",
+      "example": "Mi fa male la gola."
+    },
+    {
+      "id": "it-health-a1-a2-003",
+      "word": "Mi fa male lo stomaco.",
+      "translation": "My stomach hurts.",
+      "example": "Mi fa male lo stomaco."
+    },
+    {
+      "id": "it-health-a1-a2-004",
+      "word": "Mi fa male la schiena.",
+      "translation": "My back hurts.",
+      "example": "Mi fa male la schiena."
+    },
+    {
+      "id": "it-health-a1-a2-005",
+      "word": "Mi fa male il collo.",
+      "translation": "My neck hurts.",
+      "example": "Mi fa male il collo."
+    },
+    {
+      "id": "it-health-a1-a2-006",
+      "word": "Mi fa male il ginocchio.",
+      "translation": "My knee hurts.",
+      "example": "Mi fa male il ginocchio."
+    },
+    {
+      "id": "it-health-a1-a2-007",
+      "word": "Mi fa male il braccio.",
+      "translation": "My arm hurts.",
+      "example": "Mi fa male il braccio."
+    },
+    {
+      "id": "it-health-a1-a2-008",
+      "word": "Mi fa male la gamba.",
+      "translation": "My leg hurts.",
+      "example": "Mi fa male la gamba."
+    },
+    {
+      "id": "it-health-a1-a2-009",
+      "word": "Mi fa male la mano.",
+      "translation": "My hand hurts.",
+      "example": "Mi fa male la mano."
+    },
+    {
+      "id": "it-health-a1-a2-010",
+      "word": "Mi fa male il piede.",
+      "translation": "My foot hurts.",
+      "example": "Mi fa male il piede."
+    },
+    {
+      "id": "it-health-a1-a2-011",
+      "word": "Ieri mi sono fatto male a la testa.",
+      "translation": "I injured my head yesterday.",
+      "example": "Ieri mi sono fatto male a la testa."
+    },
+    {
+      "id": "it-health-a1-a2-012",
+      "word": "Ieri mi sono fatto male a la gola.",
+      "translation": "I injured my throat yesterday.",
+      "example": "Ieri mi sono fatto male a la gola."
+    },
+    {
+      "id": "it-health-a1-a2-013",
+      "word": "Ieri mi sono fatto male a lo stomaco.",
+      "translation": "I injured my stomach yesterday.",
+      "example": "Ieri mi sono fatto male a lo stomaco."
+    },
+    {
+      "id": "it-health-a1-a2-014",
+      "word": "Ieri mi sono fatto male a la schiena.",
+      "translation": "I injured my back yesterday.",
+      "example": "Ieri mi sono fatto male a la schiena."
+    },
+    {
+      "id": "it-health-a1-a2-015",
+      "word": "Ieri mi sono fatto male a il collo.",
+      "translation": "I injured my neck yesterday.",
+      "example": "Ieri mi sono fatto male a il collo."
+    },
+    {
+      "id": "it-health-a1-a2-016",
+      "word": "Ieri mi sono fatto male a il ginocchio.",
+      "translation": "I injured my knee yesterday.",
+      "example": "Ieri mi sono fatto male a il ginocchio."
+    },
+    {
+      "id": "it-health-a1-a2-017",
+      "word": "Ieri mi sono fatto male a il braccio.",
+      "translation": "I injured my arm yesterday.",
+      "example": "Ieri mi sono fatto male a il braccio."
+    },
+    {
+      "id": "it-health-a1-a2-018",
+      "word": "Ieri mi sono fatto male a la gamba.",
+      "translation": "I injured my leg yesterday.",
+      "example": "Ieri mi sono fatto male a la gamba."
+    },
+    {
+      "id": "it-health-a1-a2-019",
+      "word": "Ieri mi sono fatto male a la mano.",
+      "translation": "I injured my hand yesterday.",
+      "example": "Ieri mi sono fatto male a la mano."
+    },
+    {
+      "id": "it-health-a1-a2-020",
+      "word": "Ieri mi sono fatto male a il piede.",
+      "translation": "I injured my foot yesterday.",
+      "example": "Ieri mi sono fatto male a il piede."
+    },
+    {
+      "id": "it-health-a1-a2-021",
+      "word": "Il medico mi ha visitato la testa.",
+      "translation": "The doctor examined my head.",
+      "example": "Il medico mi ha visitato la testa."
+    },
+    {
+      "id": "it-health-a1-a2-022",
+      "word": "Il medico mi ha visitato la gola.",
+      "translation": "The doctor examined my throat.",
+      "example": "Il medico mi ha visitato la gola."
+    },
+    {
+      "id": "it-health-a1-a2-023",
+      "word": "Il medico mi ha visitato lo stomaco.",
+      "translation": "The doctor examined my stomach.",
+      "example": "Il medico mi ha visitato lo stomaco."
+    },
+    {
+      "id": "it-health-a1-a2-024",
+      "word": "Il medico mi ha visitato la schiena.",
+      "translation": "The doctor examined my back.",
+      "example": "Il medico mi ha visitato la schiena."
+    },
+    {
+      "id": "it-health-a1-a2-025",
+      "word": "Il medico mi ha visitato il collo.",
+      "translation": "The doctor examined my neck.",
+      "example": "Il medico mi ha visitato il collo."
+    },
+    {
+      "id": "it-health-a1-a2-026",
+      "word": "Il medico mi ha visitato il ginocchio.",
+      "translation": "The doctor examined my knee.",
+      "example": "Il medico mi ha visitato il ginocchio."
+    },
+    {
+      "id": "it-health-a1-a2-027",
+      "word": "Il medico mi ha visitato il braccio.",
+      "translation": "The doctor examined my arm.",
+      "example": "Il medico mi ha visitato il braccio."
+    },
+    {
+      "id": "it-health-a1-a2-028",
+      "word": "Il medico mi ha visitato la gamba.",
+      "translation": "The doctor examined my leg.",
+      "example": "Il medico mi ha visitato la gamba."
+    },
+    {
+      "id": "it-health-a1-a2-029",
+      "word": "Il medico mi ha visitato la mano.",
+      "translation": "The doctor examined my hand.",
+      "example": "Il medico mi ha visitato la mano."
+    },
+    {
+      "id": "it-health-a1-a2-030",
+      "word": "Il medico mi ha visitato il piede.",
+      "translation": "The doctor examined my foot.",
+      "example": "Il medico mi ha visitato il piede."
+    },
+    {
+      "id": "it-health-a1-a2-031",
+      "word": "Non riesco a muovere bene la testa.",
+      "translation": "I cannot move my head properly.",
+      "example": "Non riesco a muovere bene la testa."
+    },
+    {
+      "id": "it-health-a1-a2-032",
+      "word": "Non riesco a muovere bene la gola.",
+      "translation": "I cannot move my throat properly.",
+      "example": "Non riesco a muovere bene la gola."
+    },
+    {
+      "id": "it-health-a1-a2-033",
+      "word": "Non riesco a muovere bene lo stomaco.",
+      "translation": "I cannot move my stomach properly.",
+      "example": "Non riesco a muovere bene lo stomaco."
+    },
+    {
+      "id": "it-health-a1-a2-034",
+      "word": "Non riesco a muovere bene la schiena.",
+      "translation": "I cannot move my back properly.",
+      "example": "Non riesco a muovere bene la schiena."
+    },
+    {
+      "id": "it-health-a1-a2-035",
+      "word": "Non riesco a muovere bene il collo.",
+      "translation": "I cannot move my neck properly.",
+      "example": "Non riesco a muovere bene il collo."
+    },
+    {
+      "id": "it-health-a1-a2-036",
+      "word": "Non riesco a muovere bene il ginocchio.",
+      "translation": "I cannot move my knee properly.",
+      "example": "Non riesco a muovere bene il ginocchio."
+    },
+    {
+      "id": "it-health-a1-a2-037",
+      "word": "Non riesco a muovere bene il braccio.",
+      "translation": "I cannot move my arm properly.",
+      "example": "Non riesco a muovere bene il braccio."
+    },
+    {
+      "id": "it-health-a1-a2-038",
+      "word": "Non riesco a muovere bene la gamba.",
+      "translation": "I cannot move my leg properly.",
+      "example": "Non riesco a muovere bene la gamba."
+    },
+    {
+      "id": "it-health-a1-a2-039",
+      "word": "Non riesco a muovere bene la mano.",
+      "translation": "I cannot move my hand properly.",
+      "example": "Non riesco a muovere bene la mano."
+    },
+    {
+      "id": "it-health-a1-a2-040",
+      "word": "Non riesco a muovere bene il piede.",
+      "translation": "I cannot move my foot properly.",
+      "example": "Non riesco a muovere bene il piede."
+    },
+    {
+      "id": "it-health-a1-a2-041",
+      "word": "Oggi la testa sta meglio.",
+      "translation": "My head feels better today.",
+      "example": "Oggi la testa sta meglio."
+    },
+    {
+      "id": "it-health-a1-a2-042",
+      "word": "Oggi la gola sta meglio.",
+      "translation": "My throat feels better today.",
+      "example": "Oggi la gola sta meglio."
+    },
+    {
+      "id": "it-health-a1-a2-043",
+      "word": "Oggi lo stomaco sta meglio.",
+      "translation": "My stomach feels better today.",
+      "example": "Oggi lo stomaco sta meglio."
+    },
+    {
+      "id": "it-health-a1-a2-044",
+      "word": "Oggi la schiena sta meglio.",
+      "translation": "My back feels better today.",
+      "example": "Oggi la schiena sta meglio."
+    },
+    {
+      "id": "it-health-a1-a2-045",
+      "word": "Oggi il collo sta meglio.",
+      "translation": "My neck feels better today.",
+      "example": "Oggi il collo sta meglio."
+    },
+    {
+      "id": "it-health-a1-a2-046",
+      "word": "Oggi il ginocchio sta meglio.",
+      "translation": "My knee feels better today.",
+      "example": "Oggi il ginocchio sta meglio."
+    },
+    {
+      "id": "it-health-a1-a2-047",
+      "word": "Oggi il braccio sta meglio.",
+      "translation": "My arm feels better today.",
+      "example": "Oggi il braccio sta meglio."
+    },
+    {
+      "id": "it-health-a1-a2-048",
+      "word": "Oggi la gamba sta meglio.",
+      "translation": "My leg feels better today.",
+      "example": "Oggi la gamba sta meglio."
+    },
+    {
+      "id": "it-health-a1-a2-049",
+      "word": "Oggi la mano sta meglio.",
+      "translation": "My hand feels better today.",
+      "example": "Oggi la mano sta meglio."
+    },
+    {
+      "id": "it-health-a1-a2-050",
+      "word": "Oggi il piede sta meglio.",
+      "translation": "My foot feels better today.",
+      "example": "Oggi il piede sta meglio."
+    },
+    {
+      "id": "it-health-a1-a2-051",
+      "word": "C'è gonfiore intorno a la testa.",
+      "translation": "There is swelling around my head.",
+      "example": "C'è gonfiore intorno a la testa."
+    },
+    {
+      "id": "it-health-a1-a2-052",
+      "word": "C'è gonfiore intorno a la gola.",
+      "translation": "There is swelling around my throat.",
+      "example": "C'è gonfiore intorno a la gola."
+    },
+    {
+      "id": "it-health-a1-a2-053",
+      "word": "C'è gonfiore intorno a lo stomaco.",
+      "translation": "There is swelling around my stomach.",
+      "example": "C'è gonfiore intorno a lo stomaco."
+    },
+    {
+      "id": "it-health-a1-a2-054",
+      "word": "C'è gonfiore intorno a la schiena.",
+      "translation": "There is swelling around my back.",
+      "example": "C'è gonfiore intorno a la schiena."
+    },
+    {
+      "id": "it-health-a1-a2-055",
+      "word": "C'è gonfiore intorno a il collo.",
+      "translation": "There is swelling around my neck.",
+      "example": "C'è gonfiore intorno a il collo."
+    },
+    {
+      "id": "it-health-a1-a2-056",
+      "word": "C'è gonfiore intorno a il ginocchio.",
+      "translation": "There is swelling around my knee.",
+      "example": "C'è gonfiore intorno a il ginocchio."
+    },
+    {
+      "id": "it-health-a1-a2-057",
+      "word": "C'è gonfiore intorno a il braccio.",
+      "translation": "There is swelling around my arm.",
+      "example": "C'è gonfiore intorno a il braccio."
+    },
+    {
+      "id": "it-health-a1-a2-058",
+      "word": "C'è gonfiore intorno a la gamba.",
+      "translation": "There is swelling around my leg.",
+      "example": "C'è gonfiore intorno a la gamba."
+    },
+    {
+      "id": "it-health-a1-a2-059",
+      "word": "C'è gonfiore intorno a la mano.",
+      "translation": "There is swelling around my hand.",
+      "example": "C'è gonfiore intorno a la mano."
+    },
+    {
+      "id": "it-health-a1-a2-060",
+      "word": "C'è gonfiore intorno a il piede.",
+      "translation": "There is swelling around my foot.",
+      "example": "C'è gonfiore intorno a il piede."
+    },
+    {
+      "id": "it-health-a1-a2-061",
+      "word": "Devo mettere del ghiaccio su la testa?",
+      "translation": "Should I put ice on my head?",
+      "example": "Devo mettere del ghiaccio su la testa?"
+    },
+    {
+      "id": "it-health-a1-a2-062",
+      "word": "Devo mettere del ghiaccio su la gola?",
+      "translation": "Should I put ice on my throat?",
+      "example": "Devo mettere del ghiaccio su la gola?"
+    },
+    {
+      "id": "it-health-a1-a2-063",
+      "word": "Devo mettere del ghiaccio su lo stomaco?",
+      "translation": "Should I put ice on my stomach?",
+      "example": "Devo mettere del ghiaccio su lo stomaco?"
+    },
+    {
+      "id": "it-health-a1-a2-064",
+      "word": "Devo mettere del ghiaccio su la schiena?",
+      "translation": "Should I put ice on my back?",
+      "example": "Devo mettere del ghiaccio su la schiena?"
+    },
+    {
+      "id": "it-health-a1-a2-065",
+      "word": "Devo mettere del ghiaccio su il collo?",
+      "translation": "Should I put ice on my neck?",
+      "example": "Devo mettere del ghiaccio su il collo?"
+    },
+    {
+      "id": "it-health-a1-a2-066",
+      "word": "Devo mettere del ghiaccio su il ginocchio?",
+      "translation": "Should I put ice on my knee?",
+      "example": "Devo mettere del ghiaccio su il ginocchio?"
+    },
+    {
+      "id": "it-health-a1-a2-067",
+      "word": "Devo mettere del ghiaccio su il braccio?",
+      "translation": "Should I put ice on my arm?",
+      "example": "Devo mettere del ghiaccio su il braccio?"
+    },
+    {
+      "id": "it-health-a1-a2-068",
+      "word": "Devo mettere del ghiaccio su la gamba?",
+      "translation": "Should I put ice on my leg?",
+      "example": "Devo mettere del ghiaccio su la gamba?"
+    },
+    {
+      "id": "it-health-a1-a2-069",
+      "word": "Devo mettere del ghiaccio su la mano?",
+      "translation": "Should I put ice on my hand?",
+      "example": "Devo mettere del ghiaccio su la mano?"
+    },
+    {
+      "id": "it-health-a1-a2-070",
+      "word": "Devo mettere del ghiaccio su il piede?",
+      "translation": "Should I put ice on my foot?",
+      "example": "Devo mettere del ghiaccio su il piede?"
+    },
+    {
+      "id": "it-health-a1-a2-071",
+      "word": "Ho bisogno di una benda per la testa.",
+      "translation": "I need a bandage for my head.",
+      "example": "Ho bisogno di una benda per la testa."
+    },
+    {
+      "id": "it-health-a1-a2-072",
+      "word": "Ho bisogno di una benda per la gola.",
+      "translation": "I need a bandage for my throat.",
+      "example": "Ho bisogno di una benda per la gola."
+    },
+    {
+      "id": "it-health-a1-a2-073",
+      "word": "Ho bisogno di una benda per lo stomaco.",
+      "translation": "I need a bandage for my stomach.",
+      "example": "Ho bisogno di una benda per lo stomaco."
+    },
+    {
+      "id": "it-health-a1-a2-074",
+      "word": "Ho bisogno di una benda per la schiena.",
+      "translation": "I need a bandage for my back.",
+      "example": "Ho bisogno di una benda per la schiena."
+    },
+    {
+      "id": "it-health-a1-a2-075",
+      "word": "Ho bisogno di una benda per il collo.",
+      "translation": "I need a bandage for my neck.",
+      "example": "Ho bisogno di una benda per il collo."
+    },
+    {
+      "id": "it-health-a1-a2-076",
+      "word": "Ho bisogno di una benda per il ginocchio.",
+      "translation": "I need a bandage for my knee.",
+      "example": "Ho bisogno di una benda per il ginocchio."
+    },
+    {
+      "id": "it-health-a1-a2-077",
+      "word": "Ho bisogno di una benda per il braccio.",
+      "translation": "I need a bandage for my arm.",
+      "example": "Ho bisogno di una benda per il braccio."
+    },
+    {
+      "id": "it-health-a1-a2-078",
+      "word": "Ho bisogno di una benda per la gamba.",
+      "translation": "I need a bandage for my leg.",
+      "example": "Ho bisogno di una benda per la gamba."
+    },
+    {
+      "id": "it-health-a1-a2-079",
+      "word": "Ho bisogno di una benda per la mano.",
+      "translation": "I need a bandage for my hand.",
+      "example": "Ho bisogno di una benda per la mano."
+    },
+    {
+      "id": "it-health-a1-a2-080",
+      "word": "Ho bisogno di una benda per il piede.",
+      "translation": "I need a bandage for my foot.",
+      "example": "Ho bisogno di una benda per il piede."
+    },
+    {
+      "id": "it-health-a1-a2-081",
+      "word": "Il dolore a la testa è iniziato stamattina.",
+      "translation": "The pain in my head started this morning.",
+      "example": "Il dolore a la testa è iniziato stamattina."
+    },
+    {
+      "id": "it-health-a1-a2-082",
+      "word": "Il dolore a la gola è iniziato stamattina.",
+      "translation": "The pain in my throat started this morning.",
+      "example": "Il dolore a la gola è iniziato stamattina."
+    },
+    {
+      "id": "it-health-a1-a2-083",
+      "word": "Il dolore a lo stomaco è iniziato stamattina.",
+      "translation": "The pain in my stomach started this morning.",
+      "example": "Il dolore a lo stomaco è iniziato stamattina."
+    },
+    {
+      "id": "it-health-a1-a2-084",
+      "word": "Il dolore a la schiena è iniziato stamattina.",
+      "translation": "The pain in my back started this morning.",
+      "example": "Il dolore a la schiena è iniziato stamattina."
+    },
+    {
+      "id": "it-health-a1-a2-085",
+      "word": "Il dolore a il collo è iniziato stamattina.",
+      "translation": "The pain in my neck started this morning.",
+      "example": "Il dolore a il collo è iniziato stamattina."
+    },
+    {
+      "id": "it-health-a1-a2-086",
+      "word": "Il dolore a il ginocchio è iniziato stamattina.",
+      "translation": "The pain in my knee started this morning.",
+      "example": "Il dolore a il ginocchio è iniziato stamattina."
+    },
+    {
+      "id": "it-health-a1-a2-087",
+      "word": "Il dolore a il braccio è iniziato stamattina.",
+      "translation": "The pain in my arm started this morning.",
+      "example": "Il dolore a il braccio è iniziato stamattina."
+    },
+    {
+      "id": "it-health-a1-a2-088",
+      "word": "Il dolore a la gamba è iniziato stamattina.",
+      "translation": "The pain in my leg started this morning.",
+      "example": "Il dolore a la gamba è iniziato stamattina."
+    },
+    {
+      "id": "it-health-a1-a2-089",
+      "word": "Il dolore a la mano è iniziato stamattina.",
+      "translation": "The pain in my hand started this morning.",
+      "example": "Il dolore a la mano è iniziato stamattina."
+    },
+    {
+      "id": "it-health-a1-a2-090",
+      "word": "Il dolore a il piede è iniziato stamattina.",
+      "translation": "The pain in my foot started this morning.",
+      "example": "Il dolore a il piede è iniziato stamattina."
+    },
+    {
+      "id": "it-health-a1-a2-091",
+      "word": "Può aiutarmi con la testa?",
+      "translation": "Can you help me with my head?",
+      "example": "Può aiutarmi con la testa?"
+    },
+    {
+      "id": "it-health-a1-a2-092",
+      "word": "Può aiutarmi con la gola?",
+      "translation": "Can you help me with my throat?",
+      "example": "Può aiutarmi con la gola?"
+    },
+    {
+      "id": "it-health-a1-a2-093",
+      "word": "Può aiutarmi con lo stomaco?",
+      "translation": "Can you help me with my stomach?",
+      "example": "Può aiutarmi con lo stomaco?"
+    },
+    {
+      "id": "it-health-a1-a2-094",
+      "word": "Può aiutarmi con la schiena?",
+      "translation": "Can you help me with my back?",
+      "example": "Può aiutarmi con la schiena?"
+    },
+    {
+      "id": "it-health-a1-a2-095",
+      "word": "Può aiutarmi con il collo?",
+      "translation": "Can you help me with my neck?",
+      "example": "Può aiutarmi con il collo?"
+    },
+    {
+      "id": "it-health-a1-a2-096",
+      "word": "Può aiutarmi con il ginocchio?",
+      "translation": "Can you help me with my knee?",
+      "example": "Può aiutarmi con il ginocchio?"
+    },
+    {
+      "id": "it-health-a1-a2-097",
+      "word": "Può aiutarmi con il braccio?",
+      "translation": "Can you help me with my arm?",
+      "example": "Può aiutarmi con il braccio?"
+    },
+    {
+      "id": "it-health-a1-a2-098",
+      "word": "Può aiutarmi con la gamba?",
+      "translation": "Can you help me with my leg?",
+      "example": "Può aiutarmi con la gamba?"
+    },
+    {
+      "id": "it-health-a1-a2-099",
+      "word": "Può aiutarmi con la mano?",
+      "translation": "Can you help me with my hand?",
+      "example": "Può aiutarmi con la mano?"
+    },
+    {
+      "id": "it-health-a1-a2-100",
+      "word": "Può aiutarmi con il piede?",
+      "translation": "Can you help me with my foot?",
+      "example": "Può aiutarmi con il piede?"
+    }
+  ]
+}
