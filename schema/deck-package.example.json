@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-food-a2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "food",
+  "categoryTitle": "Food & Restaurants",
+  "title": "Food & Restaurants",
+  "level": "A2",
+  "emoji": "🍽️",
+  "description": "Talk about meals, ingredients, and restaurants.",
+  "cards": [
+    {
+      "id": "es-food-a2-001",
+      "word": "el ingrediente",
+      "translation": "ingredient",
+      "example": "¿Qué ingredientes lleva este plato?"
+    }
+  ]
+}
