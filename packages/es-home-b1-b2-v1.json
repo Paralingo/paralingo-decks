@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-home-b1-b2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "home",
+  "categoryTitle": "Home & Daily Life",
+  "title": "Home & Daily Life",
+  "level": "B1-B2",
+  "emoji": "🏠",
+  "description": "Handle renting, maintenance, bills, neighbours, household organisation, and practical problems.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-home-b1-b2-001",
+      "word": "Tenemos que hablar de el contrato de alquiler.",
+      "translation": "We need to discuss the rental agreement.",
+      "example": "Tenemos que hablar de el contrato de alquiler."
+    },
+    {
+      "id": "es-home-b1-b2-002",
+      "word": "Tenemos que hablar de el alquiler mensual.",
+      "translation": "We need to discuss the monthly rent.",
+      "example": "Tenemos que hablar de el alquiler mensual."
+    },
+    {
+      "id": "es-home-b1-b2-003",
+      "word": "Tenemos que hablar de la factura de suministros.",
+      "translation": "We need to discuss the utility bill.",
+      "example": "Tenemos que hablar de la factura de suministros."
+    },
+    {
+      "id": "es-home-b1-b2-004",
+      "word": "Tenemos que hablar de la fianza.",
+      "translation": "We need to discuss the security deposit.",
+      "example": "Tenemos que hablar de la fianza."
+    },
+    {
+      "id": "es-home-b1-b2-005",
+      "word": "Tenemos que hablar de el administrador de la propiedad.",
+      "translation": "We need to discuss the property manager.",
+      "example": "Tenemos que hablar de el administrador de la propiedad."
+    },
+    {
+      "id": "es-home-b1-b2-006",
+      "word": "Tenemos que hablar de la tubería que gotea.",
+      "translation": "We need to discuss the leaking pipe.",
+      "example": "Tenemos que hablar de la tubería que gotea."
+    },
+    {
+      "id": "es-home-b1-b2-007",
+      "word": "Tenemos que hablar de el sistema de calefacción.",
+      "translation": "We need to discuss the heating system.",
+      "example": "Tenemos que hablar de el sistema de calefacción."
+    },
+    {
+      "id": "es-home-b1-b2-008",
+      "word": "Tenemos que hablar de la entrada compartida.",
+      "translation": "We need to discuss the shared entrance.",
+      "example": "Tenemos que hablar de la entrada compartida."
+    },
+    {
+      "id": "es-home-b1-b2-009",
+      "word": "Tenemos que hablar de la queja por ruido.",
+      "translation": "We need to discuss the noise complaint.",
+      "example": "Tenemos que hablar de la queja por ruido."
+    },
+    {
+      "id": "es-home-b1-b2-010",
+      "word": "Tenemos que hablar de el presupuesto doméstico.",
+      "translation": "We need to discuss the household budget.",
+      "example": "Tenemos que hablar de el presupuesto doméstico."
+    },
+    {
+      "id": "es-home-b1-b2-011",
+      "word": "El propietario es responsable de el contrato de alquiler.",
+      "translation": "The landlord is responsible for the rental agreement.",
+      "example": "El propietario es responsable de el contrato de alquiler."
+    },
+    {
+      "id": "es-home-b1-b2-012",
+      "word": "El propietario es responsable de el alquiler mensual.",
+      "translation": "The landlord is responsible for the monthly rent.",
+      "example": "El propietario es responsable de el alquiler mensual."
+    },
+    {
+      "id": "es-home-b1-b2-013",
+      "word": "El propietario es responsable de la factura de suministros.",
+      "translation": "The landlord is responsible for the utility bill.",
+      "example": "El propietario es responsable de la factura de suministros."
+    },
+    {
+      "id": "es-home-b1-b2-014",
+      "word": "El propietario es responsable de la fianza.",
+      "translation": "The landlord is responsible for the security deposit.",
+      "example": "El propietario es responsable de la fianza."
+    },
+    {
+      "id": "es-home-b1-b2-015",
+      "word": "El propietario es responsable de el administrador de la propiedad.",
+      "translation": "The landlord is responsible for the property manager.",
+      "example": "El propietario es responsable de el administrador de la propiedad."
+    },
+    {
+      "id": "es-home-b1-b2-016",
+      "word": "El propietario es responsable de la tubería que gotea.",
+      "translation": "The landlord is responsible for the leaking pipe.",
+      "example": "El propietario es responsable de la tubería que gotea."
+    },
+    {
+      "id": "es-home-b1-b2-017",
+      "word": "El propietario es responsable de el sistema de calefacción.",
+      "translation": "The landlord is responsible for the heating system.",
+      "example": "El propietario es responsable de el sistema de calefacción."
+    },
+    {
+      "id": "es-home-b1-b2-018",
+      "word": "El propietario es responsable de la entrada compartida.",
+      "translation": "The landlord is responsible for the shared entrance.",
+      "example": "El propietario es responsable de la entrada compartida."
+    },
+    {
+      "id": "es-home-b1-b2-019",
+      "word": "El propietario es responsable de la queja por ruido.",
+      "translation": "The landlord is responsible for the noise complaint.",
+      "example": "El propietario es responsable de la queja por ruido."
+    },
+    {
+      "id": "es-home-b1-b2-020",
+      "word": "El propietario es responsable de el presupuesto doméstico.",
+      "translation": "The landlord is responsible for the household budget.",
+      "example": "El propietario es responsable de el presupuesto doméstico."
+    },
+    {
+      "id": "es-home-b1-b2-021",
+      "word": "Tengo una pregunta sobre el contrato de alquiler.",
+      "translation": "I have a question about the rental agreement.",
+      "example": "Tengo una pregunta sobre el contrato de alquiler."
+    },
+    {
+      "id": "es-home-b1-b2-022",
+      "word": "Tengo una pregunta sobre el alquiler mensual.",
+      "translation": "I have a question about the monthly rent.",
+      "example": "Tengo una pregunta sobre el alquiler mensual."
+    },
+    {
+      "id": "es-home-b1-b2-023",
+      "word": "Tengo una pregunta sobre la factura de suministros.",
+      "translation": "I have a question about the utility bill.",
+      "example": "Tengo una pregunta sobre la factura de suministros."
+    },
+    {
+      "id": "es-home-b1-b2-024",
+      "word": "Tengo una pregunta sobre la fianza.",
+      "translation": "I have a question about the security deposit.",
+      "example": "Tengo una pregunta sobre la fianza."
+    },
+    {
+      "id": "es-home-b1-b2-025",
+      "word": "Tengo una pregunta sobre el administrador de la propiedad.",
+      "translation": "I have a question about the property manager.",
+      "example": "Tengo una pregunta sobre el administrador de la propiedad."
+    },
+    {
+      "id": "es-home-b1-b2-026",
+      "word": "Tengo una pregunta sobre la tubería que gotea.",
+      "translation": "I have a question about the leaking pipe.",
+      "example": "Tengo una pregunta sobre la tubería que gotea."
+    },
+    {
+      "id": "es-home-b1-b2-027",
+      "word": "Tengo una pregunta sobre el sistema de calefacción.",
+      "translation": "I have a question about the heating system.",
+      "example": "Tengo una pregunta sobre el sistema de calefacción."
+    },
+    {
+      "id": "es-home-b1-b2-028",
+      "word": "Tengo una pregunta sobre la entrada compartida.",
+      "translation": "I have a question about the shared entrance.",
+      "example": "Tengo una pregunta sobre la entrada compartida."
+    },
+    {
+      "id": "es-home-b1-b2-029",
+      "word": "Tengo una pregunta sobre la queja por ruido.",
+      "translation": "I have a question about the noise complaint.",
+      "example": "Tengo una pregunta sobre la queja por ruido."
+    },
+    {
+      "id": "es-home-b1-b2-030",
+      "word": "Tengo una pregunta sobre el presupuesto doméstico.",
+      "translation": "I have a question about the household budget.",
+      "example": "Tengo una pregunta sobre el presupuesto doméstico."
+    },
+    {
+      "id": "es-home-b1-b2-031",
+      "word": "¿Podría enviarme información sobre el contrato de alquiler?",
+      "translation": "Could you send me details about the rental agreement?",
+      "example": "¿Podría enviarme información sobre el contrato de alquiler?"
+    },
+    {
+      "id": "es-home-b1-b2-032",
+      "word": "¿Podría enviarme información sobre el alquiler mensual?",
+      "translation": "Could you send me details about the monthly rent?",
+      "example": "¿Podría enviarme información sobre el alquiler mensual?"
+    },
+    {
+      "id": "es-home-b1-b2-033",
+      "word": "¿Podría enviarme información sobre la factura de suministros?",
+      "translation": "Could you send me details about the utility bill?",
+      "example": "¿Podría enviarme información sobre la factura de suministros?"
+    },
+    {
+      "id": "es-home-b1-b2-034",
+      "word": "¿Podría enviarme información sobre la fianza?",
+      "translation": "Could you send me details about the security deposit?",
+      "example": "¿Podría enviarme información sobre la fianza?"
+    },
+    {
+      "id": "es-home-b1-b2-035",
+      "word": "¿Podría enviarme información sobre el administrador de la propiedad?",
+      "translation": "Could you send me details about the property manager?",
+      "example": "¿Podría enviarme información sobre el administrador de la propiedad?"
+    },
+    {
+      "id": "es-home-b1-b2-036",
+      "word": "¿Podría enviarme información sobre la tubería que gotea?",
+      "translation": "Could you send me details about the leaking pipe?",
+      "example": "¿Podría enviarme información sobre la tubería que gotea?"
+    },
+    {
+      "id": "es-home-b1-b2-037",
+      "word": "¿Podría enviarme información sobre el sistema de calefacción?",
+      "translation": "Could you send me details about the heating system?",
+      "example": "¿Podría enviarme información sobre el sistema de calefacción?"
+    },
+    {
+      "id": "es-home-b1-b2-038",
+      "word": "¿Podría enviarme información sobre la entrada compartida?",
+      "translation": "Could you send me details about the shared entrance?",
+      "example": "¿Podría enviarme información sobre la entrada compartida?"
+    },
+    {
+      "id": "es-home-b1-b2-039",
+      "word": "¿Podría enviarme información sobre la queja por ruido?",
+      "translation": "Could you send me details about the noise complaint?",
+      "example": "¿Podría enviarme información sobre la queja por ruido?"
+    },
+    {
+      "id": "es-home-b1-b2-040",
+      "word": "¿Podría enviarme información sobre el presupuesto doméstico?",
+      "translation": "Could you send me details about the household budget?",
+      "example": "¿Podría enviarme información sobre el presupuesto doméstico?"
+    },
+    {
+      "id": "es-home-b1-b2-041",
+      "word": "Encontramos un problema inesperado con el contrato de alquiler.",
+      "translation": "We found an unexpected problem with the rental agreement.",
+      "example": "Encontramos un problema inesperado con el contrato de alquiler."
+    },
+    {
+      "id": "es-home-b1-b2-042",
+      "word": "Encontramos un problema inesperado con el alquiler mensual.",
+      "translation": "We found an unexpected problem with the monthly rent.",
+      "example": "Encontramos un problema inesperado con el alquiler mensual."
+    },
+    {
+      "id": "es-home-b1-b2-043",
+      "word": "Encontramos un problema inesperado con la factura de suministros.",
+      "translation": "We found an unexpected problem with the utility bill.",
+      "example": "Encontramos un problema inesperado con la factura de suministros."
+    },
+    {
+      "id": "es-home-b1-b2-044",
+      "word": "Encontramos un problema inesperado con la fianza.",
+      "translation": "We found an unexpected problem with the security deposit.",
+      "example": "Encontramos un problema inesperado con la fianza."
+    },
+    {
+      "id": "es-home-b1-b2-045",
+      "word": "Encontramos un problema inesperado con el administrador de la propiedad.",
+      "translation": "We found an unexpected problem with the property manager.",
+      "example": "Encontramos un problema inesperado con el administrador de la propiedad."
+    },
+    {
+      "id": "es-home-b1-b2-046",
+      "word": "Encontramos un problema inesperado con la tubería que gotea.",
+      "translation": "We found an unexpected problem with the leaking pipe.",
+      "example": "Encontramos un problema inesperado con la tubería que gotea."
+    },
+    {
+      "id": "es-home-b1-b2-047",
+      "word": "Encontramos un problema inesperado con el sistema de calefacción.",
+      "translation": "We found an unexpected problem with the heating system.",
+      "example": "Encontramos un problema inesperado con el sistema de calefacción."
+    },
+    {
+      "id": "es-home-b1-b2-048",
+      "word": "Encontramos un problema inesperado con la entrada compartida.",
+      "translation": "We found an unexpected problem with the shared entrance.",
+      "example": "Encontramos un problema inesperado con la entrada compartida."
+    },
+    {
+      "id": "es-home-b1-b2-049",
+      "word": "Encontramos un problema inesperado con la queja por ruido.",
+      "translation": "We found an unexpected problem with the noise complaint.",
+      "example": "Encontramos un problema inesperado con la queja por ruido."
+    },
+    {
+      "id": "es-home-b1-b2-050",
+      "word": "Encontramos un problema inesperado con el presupuesto doméstico.",
+      "translation": "We found an unexpected problem with the household budget.",
+      "example": "Encontramos un problema inesperado con el presupuesto doméstico."
+    },
+    {
+      "id": "es-home-b1-b2-051",
+      "word": "El coste de el contrato de alquiler ha aumentado.",
+      "translation": "The cost of the rental agreement has increased.",
+      "example": "El coste de el contrato de alquiler ha aumentado."
+    },
+    {
+      "id": "es-home-b1-b2-052",
+      "word": "El coste de el alquiler mensual ha aumentado.",
+      "translation": "The cost of the monthly rent has increased.",
+      "example": "El coste de el alquiler mensual ha aumentado."
+    },
+    {
+      "id": "es-home-b1-b2-053",
+      "word": "El coste de la factura de suministros ha aumentado.",
+      "translation": "The cost of the utility bill has increased.",
+      "example": "El coste de la factura de suministros ha aumentado."
+    },
+    {
+      "id": "es-home-b1-b2-054",
+      "word": "El coste de la fianza ha aumentado.",
+      "translation": "The cost of the security deposit has increased.",
+      "example": "El coste de la fianza ha aumentado."
+    },
+    {
+      "id": "es-home-b1-b2-055",
+      "word": "El coste de el administrador de la propiedad ha aumentado.",
+      "translation": "The cost of the property manager has increased.",
+      "example": "El coste de el administrador de la propiedad ha aumentado."
+    },
+    {
+      "id": "es-home-b1-b2-056",
+      "word": "El coste de la tubería que gotea ha aumentado.",
+      "translation": "The cost of the leaking pipe has increased.",
+      "example": "El coste de la tubería que gotea ha aumentado."
+    },
+    {
+      "id": "es-home-b1-b2-057",
+      "word": "El coste de el sistema de calefacción ha aumentado.",
+      "translation": "The cost of the heating system has increased.",
+      "example": "El coste de el sistema de calefacción ha aumentado."
+    },
+    {
+      "id": "es-home-b1-b2-058",
+      "word": "El coste de la entrada compartida ha aumentado.",
+      "translation": "The cost of the shared entrance has increased.",
+      "example": "El coste de la entrada compartida ha aumentado."
+    },
+    {
+      "id": "es-home-b1-b2-059",
+      "word": "El coste de la queja por ruido ha aumentado.",
+      "translation": "The cost of the noise complaint has increased.",
+      "example": "El coste de la queja por ruido ha aumentado."
+    },
+    {
+      "id": "es-home-b1-b2-060",
+      "word": "El coste de el presupuesto doméstico ha aumentado.",
+      "translation": "The cost of the household budget has increased.",
+      "example": "El coste de el presupuesto doméstico ha aumentado."
+    },
+    {
+      "id": "es-home-b1-b2-061",
+      "word": "Es importante guardar registros de el contrato de alquiler.",
+      "translation": "It is important to keep records of the rental agreement.",
+      "example": "Es importante guardar registros de el contrato de alquiler."
+    },
+    {
+      "id": "es-home-b1-b2-062",
+      "word": "Es importante guardar registros de el alquiler mensual.",
+      "translation": "It is important to keep records of the monthly rent.",
+      "example": "Es importante guardar registros de el alquiler mensual."
+    },
+    {
+      "id": "es-home-b1-b2-063",
+      "word": "Es importante guardar registros de la factura de suministros.",
+      "translation": "It is important to keep records of the utility bill.",
+      "example": "Es importante guardar registros de la factura de suministros."
+    },
+    {
+      "id": "es-home-b1-b2-064",
+      "word": "Es importante guardar registros de la fianza.",
+      "translation": "It is important to keep records of the security deposit.",
+      "example": "Es importante guardar registros de la fianza."
+    },
+    {
+      "id": "es-home-b1-b2-065",
+      "word": "Es importante guardar registros de el administrador de la propiedad.",
+      "translation": "It is important to keep records of the property manager.",
+      "example": "Es importante guardar registros de el administrador de la propiedad."
+    },
+    {
+      "id": "es-home-b1-b2-066",
+      "word": "Es importante guardar registros de la tubería que gotea.",
+      "translation": "It is important to keep records of the leaking pipe.",
+      "example": "Es importante guardar registros de la tubería que gotea."
+    },
+    {
+      "id": "es-home-b1-b2-067",
+      "word": "Es importante guardar registros de el sistema de calefacción.",
+      "translation": "It is important to keep records of the heating system.",
+      "example": "Es importante guardar registros de el sistema de calefacción."
+    },
+    {
+      "id": "es-home-b1-b2-068",
+      "word": "Es importante guardar registros de la entrada compartida.",
+      "translation": "It is important to keep records of the shared entrance.",
+      "example": "Es importante guardar registros de la entrada compartida."
+    },
+    {
+      "id": "es-home-b1-b2-069",
+      "word": "Es importante guardar registros de la queja por ruido.",
+      "translation": "It is important to keep records of the noise complaint.",
+      "example": "Es importante guardar registros de la queja por ruido."
+    },
+    {
+      "id": "es-home-b1-b2-070",
+      "word": "Es importante guardar registros de el presupuesto doméstico.",
+      "translation": "It is important to keep records of the household budget.",
+      "example": "Es importante guardar registros de el presupuesto doméstico."
+    },
+    {
+      "id": "es-home-b1-b2-071",
+      "word": "Llegaron a un acuerdo sobre el contrato de alquiler.",
+      "translation": "They reached an agreement about the rental agreement.",
+      "example": "Llegaron a un acuerdo sobre el contrato de alquiler."
+    },
+    {
+      "id": "es-home-b1-b2-072",
+      "word": "Llegaron a un acuerdo sobre el alquiler mensual.",
+      "translation": "They reached an agreement about the monthly rent.",
+      "example": "Llegaron a un acuerdo sobre el alquiler mensual."
+    },
+    {
+      "id": "es-home-b1-b2-073",
+      "word": "Llegaron a un acuerdo sobre la factura de suministros.",
+      "translation": "They reached an agreement about the utility bill.",
+      "example": "Llegaron a un acuerdo sobre la factura de suministros."
+    },
+    {
+      "id": "es-home-b1-b2-074",
+      "word": "Llegaron a un acuerdo sobre la fianza.",
+      "translation": "They reached an agreement about the security deposit.",
+      "example": "Llegaron a un acuerdo sobre la fianza."
+    },
+    {
+      "id": "es-home-b1-b2-075",
+      "word": "Llegaron a un acuerdo sobre el administrador de la propiedad.",
+      "translation": "They reached an agreement about the property manager.",
+      "example": "Llegaron a un acuerdo sobre el administrador de la propiedad."
+    },
+    {
+      "id": "es-home-b1-b2-076",
+      "word": "Llegaron a un acuerdo sobre la tubería que gotea.",
+      "translation": "They reached an agreement about the leaking pipe.",
+      "example": "Llegaron a un acuerdo sobre la tubería que gotea."
+    },
+    {
+      "id": "es-home-b1-b2-077",
+      "word": "Llegaron a un acuerdo sobre el sistema de calefacción.",
+      "translation": "They reached an agreement about the heating system.",
+      "example": "Llegaron a un acuerdo sobre el sistema de calefacción."
+    },
+    {
+      "id": "es-home-b1-b2-078",
+      "word": "Llegaron a un acuerdo sobre la entrada compartida.",
+      "translation": "They reached an agreement about the shared entrance.",
+      "example": "Llegaron a un acuerdo sobre la entrada compartida."
+    },
+    {
+      "id": "es-home-b1-b2-079",
+      "word": "Llegaron a un acuerdo sobre la queja por ruido.",
+      "translation": "They reached an agreement about the noise complaint.",
+      "example": "Llegaron a un acuerdo sobre la queja por ruido."
+    },
+    {
+      "id": "es-home-b1-b2-080",
+      "word": "Llegaron a un acuerdo sobre el presupuesto doméstico.",
+      "translation": "They reached an agreement about the household budget.",
+      "example": "Llegaron a un acuerdo sobre el presupuesto doméstico."
+    },
+    {
+      "id": "es-home-b1-b2-081",
+      "word": "¿Quién debería encargarse de el contrato de alquiler?",
+      "translation": "Who should deal with the rental agreement?",
+      "example": "¿Quién debería encargarse de el contrato de alquiler?"
+    },
+    {
+      "id": "es-home-b1-b2-082",
+      "word": "¿Quién debería encargarse de el alquiler mensual?",
+      "translation": "Who should deal with the monthly rent?",
+      "example": "¿Quién debería encargarse de el alquiler mensual?"
+    },
+    {
+      "id": "es-home-b1-b2-083",
+      "word": "¿Quién debería encargarse de la factura de suministros?",
+      "translation": "Who should deal with the utility bill?",
+      "example": "¿Quién debería encargarse de la factura de suministros?"
+    },
+    {
+      "id": "es-home-b1-b2-084",
+      "word": "¿Quién debería encargarse de la fianza?",
+      "translation": "Who should deal with the security deposit?",
+      "example": "¿Quién debería encargarse de la fianza?"
+    },
+    {
+      "id": "es-home-b1-b2-085",
+      "word": "¿Quién debería encargarse de el administrador de la propiedad?",
+      "translation": "Who should deal with the property manager?",
+      "example": "¿Quién debería encargarse de el administrador de la propiedad?"
+    },
+    {
+      "id": "es-home-b1-b2-086",
+      "word": "¿Quién debería encargarse de la tubería que gotea?",
+      "translation": "Who should deal with the leaking pipe?",
+      "example": "¿Quién debería encargarse de la tubería que gotea?"
+    },
+    {
+      "id": "es-home-b1-b2-087",
+      "word": "¿Quién debería encargarse de el sistema de calefacción?",
+      "translation": "Who should deal with the heating system?",
+      "example": "¿Quién debería encargarse de el sistema de calefacción?"
+    },
+    {
+      "id": "es-home-b1-b2-088",
+      "word": "¿Quién debería encargarse de la entrada compartida?",
+      "translation": "Who should deal with the shared entrance?",
+      "example": "¿Quién debería encargarse de la entrada compartida?"
+    },
+    {
+      "id": "es-home-b1-b2-089",
+      "word": "¿Quién debería encargarse de la queja por ruido?",
+      "translation": "Who should deal with the noise complaint?",
+      "example": "¿Quién debería encargarse de la queja por ruido?"
+    },
+    {
+      "id": "es-home-b1-b2-090",
+      "word": "¿Quién debería encargarse de el presupuesto doméstico?",
+      "translation": "Who should deal with the household budget?",
+      "example": "¿Quién debería encargarse de el presupuesto doméstico?"
+    },
+    {
+      "id": "es-home-b1-b2-091",
+      "word": "Buscamos una solución práctica para el contrato de alquiler.",
+      "translation": "We are looking for a practical solution to the rental agreement.",
+      "example": "Buscamos una solución práctica para el contrato de alquiler."
+    },
+    {
+      "id": "es-home-b1-b2-092",
+      "word": "Buscamos una solución práctica para el alquiler mensual.",
+      "translation": "We are looking for a practical solution to the monthly rent.",
+      "example": "Buscamos una solución práctica para el alquiler mensual."
+    },
+    {
+      "id": "es-home-b1-b2-093",
+      "word": "Buscamos una solución práctica para la factura de suministros.",
+      "translation": "We are looking for a practical solution to the utility bill.",
+      "example": "Buscamos una solución práctica para la factura de suministros."
+    },
+    {
+      "id": "es-home-b1-b2-094",
+      "word": "Buscamos una solución práctica para la fianza.",
+      "translation": "We are looking for a practical solution to the security deposit.",
+      "example": "Buscamos una solución práctica para la fianza."
+    },
+    {
+      "id": "es-home-b1-b2-095",
+      "word": "Buscamos una solución práctica para el administrador de la propiedad.",
+      "translation": "We are looking for a practical solution to the property manager.",
+      "example": "Buscamos una solución práctica para el administrador de la propiedad."
+    },
+    {
+      "id": "es-home-b1-b2-096",
+      "word": "Buscamos una solución práctica para la tubería que gotea.",
+      "translation": "We are looking for a practical solution to the leaking pipe.",
+      "example": "Buscamos una solución práctica para la tubería que gotea."
+    },
+    {
+      "id": "es-home-b1-b2-097",
+      "word": "Buscamos una solución práctica para el sistema de calefacción.",
+      "translation": "We are looking for a practical solution to the heating system.",
+      "example": "Buscamos una solución práctica para el sistema de calefacción."
+    },
+    {
+      "id": "es-home-b1-b2-098",
+      "word": "Buscamos una solución práctica para la entrada compartida.",
+      "translation": "We are looking for a practical solution to the shared entrance.",
+      "example": "Buscamos una solución práctica para la entrada compartida."
+    },
+    {
+      "id": "es-home-b1-b2-099",
+      "word": "Buscamos una solución práctica para la queja por ruido.",
+      "translation": "We are looking for a practical solution to the noise complaint.",
+      "example": "Buscamos una solución práctica para la queja por ruido."
+    },
+    {
+      "id": "es-home-b1-b2-100",
+      "word": "Buscamos una solución práctica para el presupuesto doméstico.",
+      "translation": "We are looking for a practical solution to the household budget.",
+      "example": "Buscamos una solución práctica para el presupuesto doméstico."
+    }
+  ]
+}
