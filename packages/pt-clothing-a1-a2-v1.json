@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-pt-clothing-a1-a2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "clothing",
+  "categoryTitle": "Appearance & Clothing",
+  "title": "Appearance & Clothing",
+  "level": "A1-A2",
+  "emoji": "👗",
+  "description": "Describe clothes, colours, physical features, sizes, and simple personal style.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-clothing-a1-a2-001",
+      "word": "Hoje estou a usar o casaco preto.",
+      "translation": "I am wearing the black jacket today.",
+      "example": "Hoje estou a usar o casaco preto."
+    },
+    {
+      "id": "pt-clothing-a1-a2-002",
+      "word": "Hoje estou a usar os sapatos confortáveis.",
+      "translation": "I am wearing the comfortable shoes today.",
+      "example": "Hoje estou a usar os sapatos confortáveis."
+    },
+    {
+      "id": "pt-clothing-a1-a2-003",
+      "word": "Hoje estou a usar a camisa às riscas.",
+      "translation": "I am wearing the striped shirt today.",
+      "example": "Hoje estou a usar a camisa às riscas."
+    },
+    {
+      "id": "pt-clothing-a1-a2-004",
+      "word": "Hoje estou a usar o cabelo comprido.",
+      "translation": "I am wearing the long hair today.",
+      "example": "Hoje estou a usar o cabelo comprido."
+    },
+    {
+      "id": "pt-clothing-a1-a2-005",
+      "word": "Hoje estou a usar os olhos castanhos.",
+      "translation": "I am wearing the brown eyes today.",
+      "example": "Hoje estou a usar os olhos castanhos."
+    },
+    {
+      "id": "pt-clothing-a1-a2-006",
+      "word": "Hoje estou a usar a camisola quente.",
+      "translation": "I am wearing the warm sweater today.",
+      "example": "Hoje estou a usar a camisola quente."
+    },
+    {
+      "id": "pt-clothing-a1-a2-007",
+      "word": "Hoje estou a usar o vestido de verão.",
+      "translation": "I am wearing the summer dress today.",
+      "example": "Hoje estou a usar o vestido de verão."
+    },
+    {
+      "id": "pt-clothing-a1-a2-008",
+      "word": "Hoje estou a usar o tamanho certo.",
+      "translation": "I am wearing the right size today.",
+      "example": "Hoje estou a usar o tamanho certo."
+    },
+    {
+      "id": "pt-clothing-a1-a2-009",
+      "word": "Hoje estou a usar o colar prateado.",
+      "translation": "I am wearing the silver necklace today.",
+      "example": "Hoje estou a usar o colar prateado."
+    },
+    {
+      "id": "pt-clothing-a1-a2-010",
+      "word": "Hoje estou a usar o corte de cabelo curto.",
+      "translation": "I am wearing the short haircut today.",
+      "example": "Hoje estou a usar o corte de cabelo curto."
+    },
+    {
+      "id": "pt-clothing-a1-a2-011",
+      "word": "Estou à procura de o casaco preto.",
+      "translation": "I am looking for the black jacket.",
+      "example": "Estou à procura de o casaco preto."
+    },
+    {
+      "id": "pt-clothing-a1-a2-012",
+      "word": "Estou à procura de os sapatos confortáveis.",
+      "translation": "I am looking for the comfortable shoes.",
+      "example": "Estou à procura de os sapatos confortáveis."
+    },
+    {
+      "id": "pt-clothing-a1-a2-013",
+      "word": "Estou à procura de a camisa às riscas.",
+      "translation": "I am looking for the striped shirt.",
+      "example": "Estou à procura de a camisa às riscas."
+    },
+    {
+      "id": "pt-clothing-a1-a2-014",
+      "word": "Estou à procura de o cabelo comprido.",
+      "translation": "I am looking for the long hair.",
+      "example": "Estou à procura de o cabelo comprido."
+    },
+    {
+      "id": "pt-clothing-a1-a2-015",
+      "word": "Estou à procura de os olhos castanhos.",
+      "translation": "I am looking for the brown eyes.",
+      "example": "Estou à procura de os olhos castanhos."
+    },
+    {
+      "id": "pt-clothing-a1-a2-016",
+      "word": "Estou à procura de a camisola quente.",
+      "translation": "I am looking for the warm sweater.",
+      "example": "Estou à procura de a camisola quente."
+    },
+    {
+      "id": "pt-clothing-a1-a2-017",
+      "word": "Estou à procura de o vestido de verão.",
+      "translation": "I am looking for the summer dress.",
+      "example": "Estou à procura de o vestido de verão."
+    },
+    {
+      "id": "pt-clothing-a1-a2-018",
+      "word": "Estou à procura de o tamanho certo.",
+      "translation": "I am looking for the right size.",
+      "example": "Estou à procura de o tamanho certo."
+    },
+    {
+      "id": "pt-clothing-a1-a2-019",
+      "word": "Estou à procura de o colar prateado.",
+      "translation": "I am looking for the silver necklace.",
+      "example": "Estou à procura de o colar prateado."
+    },
+    {
+      "id": "pt-clothing-a1-a2-020",
+      "word": "Estou à procura de o corte de cabelo curto.",
+      "translation": "I am looking for the short haircut.",
+      "example": "Estou à procura de o corte de cabelo curto."
+    },
+    {
+      "id": "pt-clothing-a1-a2-021",
+      "word": "Gostas de o casaco preto?",
+      "translation": "Do you like the black jacket?",
+      "example": "Gostas de o casaco preto?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-022",
+      "word": "Gostas de os sapatos confortáveis?",
+      "translation": "Do you like the comfortable shoes?",
+      "example": "Gostas de os sapatos confortáveis?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-023",
+      "word": "Gostas de a camisa às riscas?",
+      "translation": "Do you like the striped shirt?",
+      "example": "Gostas de a camisa às riscas?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-024",
+      "word": "Gostas de o cabelo comprido?",
+      "translation": "Do you like the long hair?",
+      "example": "Gostas de o cabelo comprido?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-025",
+      "word": "Gostas de os olhos castanhos?",
+      "translation": "Do you like the brown eyes?",
+      "example": "Gostas de os olhos castanhos?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-026",
+      "word": "Gostas de a camisola quente?",
+      "translation": "Do you like the warm sweater?",
+      "example": "Gostas de a camisola quente?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-027",
+      "word": "Gostas de o vestido de verão?",
+      "translation": "Do you like the summer dress?",
+      "example": "Gostas de o vestido de verão?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-028",
+      "word": "Gostas de o tamanho certo?",
+      "translation": "Do you like the right size?",
+      "example": "Gostas de o tamanho certo?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-029",
+      "word": "Gostas de o colar prateado?",
+      "translation": "Do you like the silver necklace?",
+      "example": "Gostas de o colar prateado?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-030",
+      "word": "Gostas de o corte de cabelo curto?",
+      "translation": "Do you like the short haircut?",
+      "example": "Gostas de o corte de cabelo curto?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-031",
+      "word": "Onde compraste o casaco preto?",
+      "translation": "Where did you buy the black jacket?",
+      "example": "Onde compraste o casaco preto?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-032",
+      "word": "Onde compraste os sapatos confortáveis?",
+      "translation": "Where did you buy the comfortable shoes?",
+      "example": "Onde compraste os sapatos confortáveis?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-033",
+      "word": "Onde compraste a camisa às riscas?",
+      "translation": "Where did you buy the striped shirt?",
+      "example": "Onde compraste a camisa às riscas?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-034",
+      "word": "Onde compraste o cabelo comprido?",
+      "translation": "Where did you buy the long hair?",
+      "example": "Onde compraste o cabelo comprido?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-035",
+      "word": "Onde compraste os olhos castanhos?",
+      "translation": "Where did you buy the brown eyes?",
+      "example": "Onde compraste os olhos castanhos?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-036",
+      "word": "Onde compraste a camisola quente?",
+      "translation": "Where did you buy the warm sweater?",
+      "example": "Onde compraste a camisola quente?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-037",
+      "word": "Onde compraste o vestido de verão?",
+      "translation": "Where did you buy the summer dress?",
+      "example": "Onde compraste o vestido de verão?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-038",
+      "word": "Onde compraste o tamanho certo?",
+      "translation": "Where did you buy the right size?",
+      "example": "Onde compraste o tamanho certo?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-039",
+      "word": "Onde compraste o colar prateado?",
+      "translation": "Where did you buy the silver necklace?",
+      "example": "Onde compraste o colar prateado?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-040",
+      "word": "Onde compraste o corte de cabelo curto?",
+      "translation": "Where did you buy the short haircut?",
+      "example": "Onde compraste o corte de cabelo curto?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-041",
+      "word": "Gostaria de experimentar o casaco preto.",
+      "translation": "I would like to try the black jacket.",
+      "example": "Gostaria de experimentar o casaco preto."
+    },
+    {
+      "id": "pt-clothing-a1-a2-042",
+      "word": "Gostaria de experimentar os sapatos confortáveis.",
+      "translation": "I would like to try the comfortable shoes.",
+      "example": "Gostaria de experimentar os sapatos confortáveis."
+    },
+    {
+      "id": "pt-clothing-a1-a2-043",
+      "word": "Gostaria de experimentar a camisa às riscas.",
+      "translation": "I would like to try the striped shirt.",
+      "example": "Gostaria de experimentar a camisa às riscas."
+    },
+    {
+      "id": "pt-clothing-a1-a2-044",
+      "word": "Gostaria de experimentar o cabelo comprido.",
+      "translation": "I would like to try the long hair.",
+      "example": "Gostaria de experimentar o cabelo comprido."
+    },
+    {
+      "id": "pt-clothing-a1-a2-045",
+      "word": "Gostaria de experimentar os olhos castanhos.",
+      "translation": "I would like to try the brown eyes.",
+      "example": "Gostaria de experimentar os olhos castanhos."
+    },
+    {
+      "id": "pt-clothing-a1-a2-046",
+      "word": "Gostaria de experimentar a camisola quente.",
+      "translation": "I would like to try the warm sweater.",
+      "example": "Gostaria de experimentar a camisola quente."
+    },
+    {
+      "id": "pt-clothing-a1-a2-047",
+      "word": "Gostaria de experimentar o vestido de verão.",
+      "translation": "I would like to try the summer dress.",
+      "example": "Gostaria de experimentar o vestido de verão."
+    },
+    {
+      "id": "pt-clothing-a1-a2-048",
+      "word": "Gostaria de experimentar o tamanho certo.",
+      "translation": "I would like to try the right size.",
+      "example": "Gostaria de experimentar o tamanho certo."
+    },
+    {
+      "id": "pt-clothing-a1-a2-049",
+      "word": "Gostaria de experimentar o colar prateado.",
+      "translation": "I would like to try the silver necklace.",
+      "example": "Gostaria de experimentar o colar prateado."
+    },
+    {
+      "id": "pt-clothing-a1-a2-050",
+      "word": "Gostaria de experimentar o corte de cabelo curto.",
+      "translation": "I would like to try the short haircut.",
+      "example": "Gostaria de experimentar o corte de cabelo curto."
+    },
+    {
+      "id": "pt-clothing-a1-a2-051",
+      "word": "Esta pessoa tem o casaco preto.",
+      "translation": "This person has the black jacket.",
+      "example": "Esta pessoa tem o casaco preto."
+    },
+    {
+      "id": "pt-clothing-a1-a2-052",
+      "word": "Esta pessoa tem os sapatos confortáveis.",
+      "translation": "This person has the comfortable shoes.",
+      "example": "Esta pessoa tem os sapatos confortáveis."
+    },
+    {
+      "id": "pt-clothing-a1-a2-053",
+      "word": "Esta pessoa tem a camisa às riscas.",
+      "translation": "This person has the striped shirt.",
+      "example": "Esta pessoa tem a camisa às riscas."
+    },
+    {
+      "id": "pt-clothing-a1-a2-054",
+      "word": "Esta pessoa tem o cabelo comprido.",
+      "translation": "This person has the long hair.",
+      "example": "Esta pessoa tem o cabelo comprido."
+    },
+    {
+      "id": "pt-clothing-a1-a2-055",
+      "word": "Esta pessoa tem os olhos castanhos.",
+      "translation": "This person has the brown eyes.",
+      "example": "Esta pessoa tem os olhos castanhos."
+    },
+    {
+      "id": "pt-clothing-a1-a2-056",
+      "word": "Esta pessoa tem a camisola quente.",
+      "translation": "This person has the warm sweater.",
+      "example": "Esta pessoa tem a camisola quente."
+    },
+    {
+      "id": "pt-clothing-a1-a2-057",
+      "word": "Esta pessoa tem o vestido de verão.",
+      "translation": "This person has the summer dress.",
+      "example": "Esta pessoa tem o vestido de verão."
+    },
+    {
+      "id": "pt-clothing-a1-a2-058",
+      "word": "Esta pessoa tem o tamanho certo.",
+      "translation": "This person has the right size.",
+      "example": "Esta pessoa tem o tamanho certo."
+    },
+    {
+      "id": "pt-clothing-a1-a2-059",
+      "word": "Esta pessoa tem o colar prateado.",
+      "translation": "This person has the silver necklace.",
+      "example": "Esta pessoa tem o colar prateado."
+    },
+    {
+      "id": "pt-clothing-a1-a2-060",
+      "word": "Esta pessoa tem o corte de cabelo curto.",
+      "translation": "This person has the short haircut.",
+      "example": "Esta pessoa tem o corte de cabelo curto."
+    },
+    {
+      "id": "pt-clothing-a1-a2-061",
+      "word": "Preciso de o casaco preto para o fim de semana.",
+      "translation": "I need the black jacket for the weekend.",
+      "example": "Preciso de o casaco preto para o fim de semana."
+    },
+    {
+      "id": "pt-clothing-a1-a2-062",
+      "word": "Preciso de os sapatos confortáveis para o fim de semana.",
+      "translation": "I need the comfortable shoes for the weekend.",
+      "example": "Preciso de os sapatos confortáveis para o fim de semana."
+    },
+    {
+      "id": "pt-clothing-a1-a2-063",
+      "word": "Preciso de a camisa às riscas para o fim de semana.",
+      "translation": "I need the striped shirt for the weekend.",
+      "example": "Preciso de a camisa às riscas para o fim de semana."
+    },
+    {
+      "id": "pt-clothing-a1-a2-064",
+      "word": "Preciso de o cabelo comprido para o fim de semana.",
+      "translation": "I need the long hair for the weekend.",
+      "example": "Preciso de o cabelo comprido para o fim de semana."
+    },
+    {
+      "id": "pt-clothing-a1-a2-065",
+      "word": "Preciso de os olhos castanhos para o fim de semana.",
+      "translation": "I need the brown eyes for the weekend.",
+      "example": "Preciso de os olhos castanhos para o fim de semana."
+    },
+    {
+      "id": "pt-clothing-a1-a2-066",
+      "word": "Preciso de a camisola quente para o fim de semana.",
+      "translation": "I need the warm sweater for the weekend.",
+      "example": "Preciso de a camisola quente para o fim de semana."
+    },
+    {
+      "id": "pt-clothing-a1-a2-067",
+      "word": "Preciso de o vestido de verão para o fim de semana.",
+      "translation": "I need the summer dress for the weekend.",
+      "example": "Preciso de o vestido de verão para o fim de semana."
+    },
+    {
+      "id": "pt-clothing-a1-a2-068",
+      "word": "Preciso de o tamanho certo para o fim de semana.",
+      "translation": "I need the right size for the weekend.",
+      "example": "Preciso de o tamanho certo para o fim de semana."
+    },
+    {
+      "id": "pt-clothing-a1-a2-069",
+      "word": "Preciso de o colar prateado para o fim de semana.",
+      "translation": "I need the silver necklace for the weekend.",
+      "example": "Preciso de o colar prateado para o fim de semana."
+    },
+    {
+      "id": "pt-clothing-a1-a2-070",
+      "word": "Preciso de o corte de cabelo curto para o fim de semana.",
+      "translation": "I need the short haircut for the weekend.",
+      "example": "Preciso de o corte de cabelo curto para o fim de semana."
+    },
+    {
+      "id": "pt-clothing-a1-a2-071",
+      "word": "Podes mostrar-me o casaco preto?",
+      "translation": "Can you show me the black jacket?",
+      "example": "Podes mostrar-me o casaco preto?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-072",
+      "word": "Podes mostrar-me os sapatos confortáveis?",
+      "translation": "Can you show me the comfortable shoes?",
+      "example": "Podes mostrar-me os sapatos confortáveis?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-073",
+      "word": "Podes mostrar-me a camisa às riscas?",
+      "translation": "Can you show me the striped shirt?",
+      "example": "Podes mostrar-me a camisa às riscas?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-074",
+      "word": "Podes mostrar-me o cabelo comprido?",
+      "translation": "Can you show me the long hair?",
+      "example": "Podes mostrar-me o cabelo comprido?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-075",
+      "word": "Podes mostrar-me os olhos castanhos?",
+      "translation": "Can you show me the brown eyes?",
+      "example": "Podes mostrar-me os olhos castanhos?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-076",
+      "word": "Podes mostrar-me a camisola quente?",
+      "translation": "Can you show me the warm sweater?",
+      "example": "Podes mostrar-me a camisola quente?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-077",
+      "word": "Podes mostrar-me o vestido de verão?",
+      "translation": "Can you show me the summer dress?",
+      "example": "Podes mostrar-me o vestido de verão?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-078",
+      "word": "Podes mostrar-me o tamanho certo?",
+      "translation": "Can you show me the right size?",
+      "example": "Podes mostrar-me o tamanho certo?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-079",
+      "word": "Podes mostrar-me o colar prateado?",
+      "translation": "Can you show me the silver necklace?",
+      "example": "Podes mostrar-me o colar prateado?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-080",
+      "word": "Podes mostrar-me o corte de cabelo curto?",
+      "translation": "Can you show me the short haircut?",
+      "example": "Podes mostrar-me o corte de cabelo curto?"
+    },
+    {
+      "id": "pt-clothing-a1-a2-081",
+      "word": "Acho que o casaco preto fica bem.",
+      "translation": "I think the black jacket looks nice.",
+      "example": "Acho que o casaco preto fica bem."
+    },
+    {
+      "id": "pt-clothing-a1-a2-082",
+      "word": "Acho que os sapatos confortáveis fica bem.",
+      "translation": "I think the comfortable shoes looks nice.",
+      "example": "Acho que os sapatos confortáveis fica bem."
+    },
+    {
+      "id": "pt-clothing-a1-a2-083",
+      "word": "Acho que a camisa às riscas fica bem.",
+      "translation": "I think the striped shirt looks nice.",
+      "example": "Acho que a camisa às riscas fica bem."
+    },
+    {
+      "id": "pt-clothing-a1-a2-084",
+      "word": "Acho que o cabelo comprido fica bem.",
+      "translation": "I think the long hair looks nice.",
+      "example": "Acho que o cabelo comprido fica bem."
+    },
+    {
+      "id": "pt-clothing-a1-a2-085",
+      "word": "Acho que os olhos castanhos fica bem.",
+      "translation": "I think the brown eyes looks nice.",
+      "example": "Acho que os olhos castanhos fica bem."
+    },
+    {
+      "id": "pt-clothing-a1-a2-086",
+      "word": "Acho que a camisola quente fica bem.",
+      "translation": "I think the warm sweater looks nice.",
+      "example": "Acho que a camisola quente fica bem."
+    },
+    {
+      "id": "pt-clothing-a1-a2-087",
+      "word": "Acho que o vestido de verão fica bem.",
+      "translation": "I think the summer dress looks nice.",
+      "example": "Acho que o vestido de verão fica bem."
+    },
+    {
+      "id": "pt-clothing-a1-a2-088",
+      "word": "Acho que o tamanho certo fica bem.",
+      "translation": "I think the right size looks nice.",
+      "example": "Acho que o tamanho certo fica bem."
+    },
+    {
+      "id": "pt-clothing-a1-a2-089",
+      "word": "Acho que o colar prateado fica bem.",
+      "translation": "I think the silver necklace looks nice.",
+      "example": "Acho que o colar prateado fica bem."
+    },
+    {
+      "id": "pt-clothing-a1-a2-090",
+      "word": "Acho que o corte de cabelo curto fica bem.",
+      "translation": "I think the short haircut looks nice.",
+      "example": "Acho que o corte de cabelo curto fica bem."
+    },
+    {
+      "id": "pt-clothing-a1-a2-091",
+      "word": "Falámos sobre o casaco preto.",
+      "translation": "We talked about the black jacket.",
+      "example": "Falámos sobre o casaco preto."
+    },
+    {
+      "id": "pt-clothing-a1-a2-092",
+      "word": "Falámos sobre os sapatos confortáveis.",
+      "translation": "We talked about the comfortable shoes.",
+      "example": "Falámos sobre os sapatos confortáveis."
+    },
+    {
+      "id": "pt-clothing-a1-a2-093",
+      "word": "Falámos sobre a camisa às riscas.",
+      "translation": "We talked about the striped shirt.",
+      "example": "Falámos sobre a camisa às riscas."
+    },
+    {
+      "id": "pt-clothing-a1-a2-094",
+      "word": "Falámos sobre o cabelo comprido.",
+      "translation": "We talked about the long hair.",
+      "example": "Falámos sobre o cabelo comprido."
+    },
+    {
+      "id": "pt-clothing-a1-a2-095",
+      "word": "Falámos sobre os olhos castanhos.",
+      "translation": "We talked about the brown eyes.",
+      "example": "Falámos sobre os olhos castanhos."
+    },
+    {
+      "id": "pt-clothing-a1-a2-096",
+      "word": "Falámos sobre a camisola quente.",
+      "translation": "We talked about the warm sweater.",
+      "example": "Falámos sobre a camisola quente."
+    },
+    {
+      "id": "pt-clothing-a1-a2-097",
+      "word": "Falámos sobre o vestido de verão.",
+      "translation": "We talked about the summer dress.",
+      "example": "Falámos sobre o vestido de verão."
+    },
+    {
+      "id": "pt-clothing-a1-a2-098",
+      "word": "Falámos sobre o tamanho certo.",
+      "translation": "We talked about the right size.",
+      "example": "Falámos sobre o tamanho certo."
+    },
+    {
+      "id": "pt-clothing-a1-a2-099",
+      "word": "Falámos sobre o colar prateado.",
+      "translation": "We talked about the silver necklace.",
+      "example": "Falámos sobre o colar prateado."
+    },
+    {
+      "id": "pt-clothing-a1-a2-100",
+      "word": "Falámos sobre o corte de cabelo curto.",
+      "translation": "We talked about the short haircut.",
+      "example": "Falámos sobre o corte de cabelo curto."
+    }
+  ]
+}
