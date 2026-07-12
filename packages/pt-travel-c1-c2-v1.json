@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-pt-travel-c1-c2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "travel",
+  "categoryTitle": "Travel & Transport",
+  "title": "Travel & Transport",
+  "level": "C1-C2",
+  "emoji": "🧳",
+  "description": "Discuss tourism policy, mobility, sustainability, and complex travel issues.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-travel-c1-c2-001",
+      "word": "As políticas públicas deveriam dar prioridade a o turismo sustentável.",
+      "translation": "Public policy should prioritize sustainable tourism.",
+      "example": "As políticas públicas deveriam dar prioridade a o turismo sustentável."
+    },
+    {
+      "id": "pt-travel-c1-c2-002",
+      "word": "As políticas públicas deveriam dar prioridade a o excesso de turismo.",
+      "translation": "Public policy should prioritize overtourism.",
+      "example": "As políticas públicas deveriam dar prioridade a o excesso de turismo."
+    },
+    {
+      "id": "pt-travel-c1-c2-003",
+      "word": "As políticas públicas deveriam dar prioridade a o património cultural.",
+      "translation": "Public policy should prioritize cultural heritage.",
+      "example": "As políticas públicas deveriam dar prioridade a o património cultural."
+    },
+    {
+      "id": "pt-travel-c1-c2-004",
+      "word": "As políticas públicas deveriam dar prioridade a a mobilidade de baixo carbono.",
+      "translation": "Public policy should prioritize low-carbon mobility.",
+      "example": "As políticas públicas deveriam dar prioridade a a mobilidade de baixo carbono."
+    },
+    {
+      "id": "pt-travel-c1-c2-005",
+      "word": "As políticas públicas deveriam dar prioridade a o turismo acessível.",
+      "translation": "Public policy should prioritize accessible travel.",
+      "example": "As políticas públicas deveriam dar prioridade a o turismo acessível."
+    },
+    {
+      "id": "pt-travel-c1-c2-006",
+      "word": "As políticas públicas deveriam dar prioridade a a gestão de destinos.",
+      "translation": "Public policy should prioritize destination management.",
+      "example": "As políticas públicas deveriam dar prioridade a a gestão de destinos."
+    },
+    {
+      "id": "pt-travel-c1-c2-007",
+      "word": "As políticas públicas deveriam dar prioridade a a capacidade de acolhimento.",
+      "translation": "Public policy should prioritize visitor capacity.",
+      "example": "As políticas públicas deveriam dar prioridade a a capacidade de acolhimento."
+    },
+    {
+      "id": "pt-travel-c1-c2-008",
+      "word": "As políticas públicas deveriam dar prioridade a as comunidades locais.",
+      "translation": "Public policy should prioritize local communities.",
+      "example": "As políticas públicas deveriam dar prioridade a as comunidades locais."
+    },
+    {
+      "id": "pt-travel-c1-c2-009",
+      "word": "As políticas públicas deveriam dar prioridade a a infraestrutura de transportes.",
+      "translation": "Public policy should prioritize transport infrastructure.",
+      "example": "As políticas públicas deveriam dar prioridade a a infraestrutura de transportes."
+    },
+    {
+      "id": "pt-travel-c1-c2-010",
+      "word": "As políticas públicas deveriam dar prioridade a a aviação responsável.",
+      "translation": "Public policy should prioritize responsible aviation.",
+      "example": "As políticas públicas deveriam dar prioridade a a aviação responsável."
+    },
+    {
+      "id": "pt-travel-c1-c2-011",
+      "word": "O impacto a longo prazo de o turismo sustentável é frequentemente subestimado.",
+      "translation": "The long-term impact of sustainable tourism is often underestimated.",
+      "example": "O impacto a longo prazo de o turismo sustentável é frequentemente subestimado."
+    },
+    {
+      "id": "pt-travel-c1-c2-012",
+      "word": "O impacto a longo prazo de o excesso de turismo é frequentemente subestimado.",
+      "translation": "The long-term impact of overtourism is often underestimated.",
+      "example": "O impacto a longo prazo de o excesso de turismo é frequentemente subestimado."
+    },
+    {
+      "id": "pt-travel-c1-c2-013",
+      "word": "O impacto a longo prazo de o património cultural é frequentemente subestimado.",
+      "translation": "The long-term impact of cultural heritage is often underestimated.",
+      "example": "O impacto a longo prazo de o património cultural é frequentemente subestimado."
+    },
+    {
+      "id": "pt-travel-c1-c2-014",
+      "word": "O impacto a longo prazo de a mobilidade de baixo carbono é frequentemente subestimado.",
+      "translation": "The long-term impact of low-carbon mobility is often underestimated.",
+      "example": "O impacto a longo prazo de a mobilidade de baixo carbono é frequentemente subestimado."
+    },
+    {
+      "id": "pt-travel-c1-c2-015",
+      "word": "O impacto a longo prazo de o turismo acessível é frequentemente subestimado.",
+      "translation": "The long-term impact of accessible travel is often underestimated.",
+      "example": "O impacto a longo prazo de o turismo acessível é frequentemente subestimado."
+    },
+    {
+      "id": "pt-travel-c1-c2-016",
+      "word": "O impacto a longo prazo de a gestão de destinos é frequentemente subestimado.",
+      "translation": "The long-term impact of destination management is often underestimated.",
+      "example": "O impacto a longo prazo de a gestão de destinos é frequentemente subestimado."
+    },
+    {
+      "id": "pt-travel-c1-c2-017",
+      "word": "O impacto a longo prazo de a capacidade de acolhimento é frequentemente subestimado.",
+      "translation": "The long-term impact of visitor capacity is often underestimated.",
+      "example": "O impacto a longo prazo de a capacidade de acolhimento é frequentemente subestimado."
+    },
+    {
+      "id": "pt-travel-c1-c2-018",
+      "word": "O impacto a longo prazo de as comunidades locais é frequentemente subestimado.",
+      "translation": "The long-term impact of local communities is often underestimated.",
+      "example": "O impacto a longo prazo de as comunidades locais é frequentemente subestimado."
+    },
+    {
+      "id": "pt-travel-c1-c2-019",
+      "word": "O impacto a longo prazo de a infraestrutura de transportes é frequentemente subestimado.",
+      "translation": "The long-term impact of transport infrastructure is often underestimated.",
+      "example": "O impacto a longo prazo de a infraestrutura de transportes é frequentemente subestimado."
+    },
+    {
+      "id": "pt-travel-c1-c2-020",
+      "word": "O impacto a longo prazo de a aviação responsável é frequentemente subestimado.",
+      "translation": "The long-term impact of responsible aviation is often underestimated.",
+      "example": "O impacto a longo prazo de a aviação responsável é frequentemente subestimado."
+    },
+    {
+      "id": "pt-travel-c1-c2-021",
+      "word": "As partes interessadas discordam sobre como regulamentar o turismo sustentável.",
+      "translation": "Stakeholders disagree about how to regulate sustainable tourism.",
+      "example": "As partes interessadas discordam sobre como regulamentar o turismo sustentável."
+    },
+    {
+      "id": "pt-travel-c1-c2-022",
+      "word": "As partes interessadas discordam sobre como regulamentar o excesso de turismo.",
+      "translation": "Stakeholders disagree about how to regulate overtourism.",
+      "example": "As partes interessadas discordam sobre como regulamentar o excesso de turismo."
+    },
+    {
+      "id": "pt-travel-c1-c2-023",
+      "word": "As partes interessadas discordam sobre como regulamentar o património cultural.",
+      "translation": "Stakeholders disagree about how to regulate cultural heritage.",
+      "example": "As partes interessadas discordam sobre como regulamentar o património cultural."
+    },
+    {
+      "id": "pt-travel-c1-c2-024",
+      "word": "As partes interessadas discordam sobre como regulamentar a mobilidade de baixo carbono.",
+      "translation": "Stakeholders disagree about how to regulate low-carbon mobility.",
+      "example": "As partes interessadas discordam sobre como regulamentar a mobilidade de baixo carbono."
+    },
+    {
+      "id": "pt-travel-c1-c2-025",
+      "word": "As partes interessadas discordam sobre como regulamentar o turismo acessível.",
+      "translation": "Stakeholders disagree about how to regulate accessible travel.",
+      "example": "As partes interessadas discordam sobre como regulamentar o turismo acessível."
+    },
+    {
+      "id": "pt-travel-c1-c2-026",
+      "word": "As partes interessadas discordam sobre como regulamentar a gestão de destinos.",
+      "translation": "Stakeholders disagree about how to regulate destination management.",
+      "example": "As partes interessadas discordam sobre como regulamentar a gestão de destinos."
+    },
+    {
+      "id": "pt-travel-c1-c2-027",
+      "word": "As partes interessadas discordam sobre como regulamentar a capacidade de acolhimento.",
+      "translation": "Stakeholders disagree about how to regulate visitor capacity.",
+      "example": "As partes interessadas discordam sobre como regulamentar a capacidade de acolhimento."
+    },
+    {
+      "id": "pt-travel-c1-c2-028",
+      "word": "As partes interessadas discordam sobre como regulamentar as comunidades locais.",
+      "translation": "Stakeholders disagree about how to regulate local communities.",
+      "example": "As partes interessadas discordam sobre como regulamentar as comunidades locais."
+    },
+    {
+      "id": "pt-travel-c1-c2-029",
+      "word": "As partes interessadas discordam sobre como regulamentar a infraestrutura de transportes.",
+      "translation": "Stakeholders disagree about how to regulate transport infrastructure.",
+      "example": "As partes interessadas discordam sobre como regulamentar a infraestrutura de transportes."
+    },
+    {
+      "id": "pt-travel-c1-c2-030",
+      "word": "As partes interessadas discordam sobre como regulamentar a aviação responsável.",
+      "translation": "Stakeholders disagree about how to regulate responsible aviation.",
+      "example": "As partes interessadas discordam sobre como regulamentar a aviação responsável."
+    },
+    {
+      "id": "pt-travel-c1-c2-031",
+      "word": "O investimento em o turismo sustentável pode reforçar a resiliência regional.",
+      "translation": "Investment in sustainable tourism can strengthen regional resilience.",
+      "example": "O investimento em o turismo sustentável pode reforçar a resiliência regional."
+    },
+    {
+      "id": "pt-travel-c1-c2-032",
+      "word": "O investimento em o excesso de turismo pode reforçar a resiliência regional.",
+      "translation": "Investment in overtourism can strengthen regional resilience.",
+      "example": "O investimento em o excesso de turismo pode reforçar a resiliência regional."
+    },
+    {
+      "id": "pt-travel-c1-c2-033",
+      "word": "O investimento em o património cultural pode reforçar a resiliência regional.",
+      "translation": "Investment in cultural heritage can strengthen regional resilience.",
+      "example": "O investimento em o património cultural pode reforçar a resiliência regional."
+    },
+    {
+      "id": "pt-travel-c1-c2-034",
+      "word": "O investimento em a mobilidade de baixo carbono pode reforçar a resiliência regional.",
+      "translation": "Investment in low-carbon mobility can strengthen regional resilience.",
+      "example": "O investimento em a mobilidade de baixo carbono pode reforçar a resiliência regional."
+    },
+    {
+      "id": "pt-travel-c1-c2-035",
+      "word": "O investimento em o turismo acessível pode reforçar a resiliência regional.",
+      "translation": "Investment in accessible travel can strengthen regional resilience.",
+      "example": "O investimento em o turismo acessível pode reforçar a resiliência regional."
+    },
+    {
+      "id": "pt-travel-c1-c2-036",
+      "word": "O investimento em a gestão de destinos pode reforçar a resiliência regional.",
+      "translation": "Investment in destination management can strengthen regional resilience.",
+      "example": "O investimento em a gestão de destinos pode reforçar a resiliência regional."
+    },
+    {
+      "id": "pt-travel-c1-c2-037",
+      "word": "O investimento em a capacidade de acolhimento pode reforçar a resiliência regional.",
+      "translation": "Investment in visitor capacity can strengthen regional resilience.",
+      "example": "O investimento em a capacidade de acolhimento pode reforçar a resiliência regional."
+    },
+    {
+      "id": "pt-travel-c1-c2-038",
+      "word": "O investimento em as comunidades locais pode reforçar a resiliência regional.",
+      "translation": "Investment in local communities can strengthen regional resilience.",
+      "example": "O investimento em as comunidades locais pode reforçar a resiliência regional."
+    },
+    {
+      "id": "pt-travel-c1-c2-039",
+      "word": "O investimento em a infraestrutura de transportes pode reforçar a resiliência regional.",
+      "translation": "Investment in transport infrastructure can strengthen regional resilience.",
+      "example": "O investimento em a infraestrutura de transportes pode reforçar a resiliência regional."
+    },
+    {
+      "id": "pt-travel-c1-c2-040",
+      "word": "O investimento em a aviação responsável pode reforçar a resiliência regional.",
+      "translation": "Investment in responsible aviation can strengthen regional resilience.",
+      "example": "O investimento em a aviação responsável pode reforçar a resiliência regional."
+    },
+    {
+      "id": "pt-travel-c1-c2-041",
+      "word": "Uma estratégia coerente para o turismo sustentável exige dados fiáveis.",
+      "translation": "A coherent strategy for sustainable tourism requires reliable data.",
+      "example": "Uma estratégia coerente para o turismo sustentável exige dados fiáveis."
+    },
+    {
+      "id": "pt-travel-c1-c2-042",
+      "word": "Uma estratégia coerente para o excesso de turismo exige dados fiáveis.",
+      "translation": "A coherent strategy for overtourism requires reliable data.",
+      "example": "Uma estratégia coerente para o excesso de turismo exige dados fiáveis."
+    },
+    {
+      "id": "pt-travel-c1-c2-043",
+      "word": "Uma estratégia coerente para o património cultural exige dados fiáveis.",
+      "translation": "A coherent strategy for cultural heritage requires reliable data.",
+      "example": "Uma estratégia coerente para o património cultural exige dados fiáveis."
+    },
+    {
+      "id": "pt-travel-c1-c2-044",
+      "word": "Uma estratégia coerente para a mobilidade de baixo carbono exige dados fiáveis.",
+      "translation": "A coherent strategy for low-carbon mobility requires reliable data.",
+      "example": "Uma estratégia coerente para a mobilidade de baixo carbono exige dados fiáveis."
+    },
+    {
+      "id": "pt-travel-c1-c2-045",
+      "word": "Uma estratégia coerente para o turismo acessível exige dados fiáveis.",
+      "translation": "A coherent strategy for accessible travel requires reliable data.",
+      "example": "Uma estratégia coerente para o turismo acessível exige dados fiáveis."
+    },
+    {
+      "id": "pt-travel-c1-c2-046",
+      "word": "Uma estratégia coerente para a gestão de destinos exige dados fiáveis.",
+      "translation": "A coherent strategy for destination management requires reliable data.",
+      "example": "Uma estratégia coerente para a gestão de destinos exige dados fiáveis."
+    },
+    {
+      "id": "pt-travel-c1-c2-047",
+      "word": "Uma estratégia coerente para a capacidade de acolhimento exige dados fiáveis.",
+      "translation": "A coherent strategy for visitor capacity requires reliable data.",
+      "example": "Uma estratégia coerente para a capacidade de acolhimento exige dados fiáveis."
+    },
+    {
+      "id": "pt-travel-c1-c2-048",
+      "word": "Uma estratégia coerente para as comunidades locais exige dados fiáveis.",
+      "translation": "A coherent strategy for local communities requires reliable data.",
+      "example": "Uma estratégia coerente para as comunidades locais exige dados fiáveis."
+    },
+    {
+      "id": "pt-travel-c1-c2-049",
+      "word": "Uma estratégia coerente para a infraestrutura de transportes exige dados fiáveis.",
+      "translation": "A coherent strategy for transport infrastructure requires reliable data.",
+      "example": "Uma estratégia coerente para a infraestrutura de transportes exige dados fiáveis."
+    },
+    {
+      "id": "pt-travel-c1-c2-050",
+      "word": "Uma estratégia coerente para a aviação responsável exige dados fiáveis.",
+      "translation": "A coherent strategy for responsible aviation requires reliable data.",
+      "example": "Uma estratégia coerente para a aviação responsável exige dados fiáveis."
+    },
+    {
+      "id": "pt-travel-c1-c2-051",
+      "word": "O debate em torno de o turismo sustentável tornou-se cada vez mais polarizado.",
+      "translation": "The debate surrounding sustainable tourism has become increasingly polarized.",
+      "example": "O debate em torno de o turismo sustentável tornou-se cada vez mais polarizado."
+    },
+    {
+      "id": "pt-travel-c1-c2-052",
+      "word": "O debate em torno de o excesso de turismo tornou-se cada vez mais polarizado.",
+      "translation": "The debate surrounding overtourism has become increasingly polarized.",
+      "example": "O debate em torno de o excesso de turismo tornou-se cada vez mais polarizado."
+    },
+    {
+      "id": "pt-travel-c1-c2-053",
+      "word": "O debate em torno de o património cultural tornou-se cada vez mais polarizado.",
+      "translation": "The debate surrounding cultural heritage has become increasingly polarized.",
+      "example": "O debate em torno de o património cultural tornou-se cada vez mais polarizado."
+    },
+    {
+      "id": "pt-travel-c1-c2-054",
+      "word": "O debate em torno de a mobilidade de baixo carbono tornou-se cada vez mais polarizado.",
+      "translation": "The debate surrounding low-carbon mobility has become increasingly polarized.",
+      "example": "O debate em torno de a mobilidade de baixo carbono tornou-se cada vez mais polarizado."
+    },
+    {
+      "id": "pt-travel-c1-c2-055",
+      "word": "O debate em torno de o turismo acessível tornou-se cada vez mais polarizado.",
+      "translation": "The debate surrounding accessible travel has become increasingly polarized.",
+      "example": "O debate em torno de o turismo acessível tornou-se cada vez mais polarizado."
+    },
+    {
+      "id": "pt-travel-c1-c2-056",
+      "word": "O debate em torno de a gestão de destinos tornou-se cada vez mais polarizado.",
+      "translation": "The debate surrounding destination management has become increasingly polarized.",
+      "example": "O debate em torno de a gestão de destinos tornou-se cada vez mais polarizado."
+    },
+    {
+      "id": "pt-travel-c1-c2-057",
+      "word": "O debate em torno de a capacidade de acolhimento tornou-se cada vez mais polarizado.",
+      "translation": "The debate surrounding visitor capacity has become increasingly polarized.",
+      "example": "O debate em torno de a capacidade de acolhimento tornou-se cada vez mais polarizado."
+    },
+    {
+      "id": "pt-travel-c1-c2-058",
+      "word": "O debate em torno de as comunidades locais tornou-se cada vez mais polarizado.",
+      "translation": "The debate surrounding local communities has become increasingly polarized.",
+      "example": "O debate em torno de as comunidades locais tornou-se cada vez mais polarizado."
+    },
+    {
+      "id": "pt-travel-c1-c2-059",
+      "word": "O debate em torno de a infraestrutura de transportes tornou-se cada vez mais polarizado.",
+      "translation": "The debate surrounding transport infrastructure has become increasingly polarized.",
+      "example": "O debate em torno de a infraestrutura de transportes tornou-se cada vez mais polarizado."
+    },
+    {
+      "id": "pt-travel-c1-c2-060",
+      "word": "O debate em torno de a aviação responsável tornou-se cada vez mais polarizado.",
+      "translation": "The debate surrounding responsible aviation has become increasingly polarized.",
+      "example": "O debate em torno de a aviação responsável tornou-se cada vez mais polarizado."
+    },
+    {
+      "id": "pt-travel-c1-c2-061",
+      "word": "Os incentivos económicos poderiam acelerar os progressos em o turismo sustentável.",
+      "translation": "Economic incentives could accelerate progress on sustainable tourism.",
+      "example": "Os incentivos económicos poderiam acelerar os progressos em o turismo sustentável."
+    },
+    {
+      "id": "pt-travel-c1-c2-062",
+      "word": "Os incentivos económicos poderiam acelerar os progressos em o excesso de turismo.",
+      "translation": "Economic incentives could accelerate progress on overtourism.",
+      "example": "Os incentivos económicos poderiam acelerar os progressos em o excesso de turismo."
+    },
+    {
+      "id": "pt-travel-c1-c2-063",
+      "word": "Os incentivos económicos poderiam acelerar os progressos em o património cultural.",
+      "translation": "Economic incentives could accelerate progress on cultural heritage.",
+      "example": "Os incentivos económicos poderiam acelerar os progressos em o património cultural."
+    },
+    {
+      "id": "pt-travel-c1-c2-064",
+      "word": "Os incentivos económicos poderiam acelerar os progressos em a mobilidade de baixo carbono.",
+      "translation": "Economic incentives could accelerate progress on low-carbon mobility.",
+      "example": "Os incentivos económicos poderiam acelerar os progressos em a mobilidade de baixo carbono."
+    },
+    {
+      "id": "pt-travel-c1-c2-065",
+      "word": "Os incentivos económicos poderiam acelerar os progressos em o turismo acessível.",
+      "translation": "Economic incentives could accelerate progress on accessible travel.",
+      "example": "Os incentivos económicos poderiam acelerar os progressos em o turismo acessível."
+    },
+    {
+      "id": "pt-travel-c1-c2-066",
+      "word": "Os incentivos económicos poderiam acelerar os progressos em a gestão de destinos.",
+      "translation": "Economic incentives could accelerate progress on destination management.",
+      "example": "Os incentivos económicos poderiam acelerar os progressos em a gestão de destinos."
+    },
+    {
+      "id": "pt-travel-c1-c2-067",
+      "word": "Os incentivos económicos poderiam acelerar os progressos em a capacidade de acolhimento.",
+      "translation": "Economic incentives could accelerate progress on visitor capacity.",
+      "example": "Os incentivos económicos poderiam acelerar os progressos em a capacidade de acolhimento."
+    },
+    {
+      "id": "pt-travel-c1-c2-068",
+      "word": "Os incentivos económicos poderiam acelerar os progressos em as comunidades locais.",
+      "translation": "Economic incentives could accelerate progress on local communities.",
+      "example": "Os incentivos económicos poderiam acelerar os progressos em as comunidades locais."
+    },
+    {
+      "id": "pt-travel-c1-c2-069",
+      "word": "Os incentivos económicos poderiam acelerar os progressos em a infraestrutura de transportes.",
+      "translation": "Economic incentives could accelerate progress on transport infrastructure.",
+      "example": "Os incentivos económicos poderiam acelerar os progressos em a infraestrutura de transportes."
+    },
+    {
+      "id": "pt-travel-c1-c2-070",
+      "word": "Os incentivos económicos poderiam acelerar os progressos em a aviação responsável.",
+      "translation": "Economic incentives could accelerate progress on responsible aviation.",
+      "example": "Os incentivos económicos poderiam acelerar os progressos em a aviação responsável."
+    },
+    {
+      "id": "pt-travel-c1-c2-071",
+      "word": "Qualquer avaliação de o turismo sustentável deve incluir as consequências sociais.",
+      "translation": "Any assessment of sustainable tourism must include social consequences.",
+      "example": "Qualquer avaliação de o turismo sustentável deve incluir as consequências sociais."
+    },
+    {
+      "id": "pt-travel-c1-c2-072",
+      "word": "Qualquer avaliação de o excesso de turismo deve incluir as consequências sociais.",
+      "translation": "Any assessment of overtourism must include social consequences.",
+      "example": "Qualquer avaliação de o excesso de turismo deve incluir as consequências sociais."
+    },
+    {
+      "id": "pt-travel-c1-c2-073",
+      "word": "Qualquer avaliação de o património cultural deve incluir as consequências sociais.",
+      "translation": "Any assessment of cultural heritage must include social consequences.",
+      "example": "Qualquer avaliação de o património cultural deve incluir as consequências sociais."
+    },
+    {
+      "id": "pt-travel-c1-c2-074",
+      "word": "Qualquer avaliação de a mobilidade de baixo carbono deve incluir as consequências sociais.",
+      "translation": "Any assessment of low-carbon mobility must include social consequences.",
+      "example": "Qualquer avaliação de a mobilidade de baixo carbono deve incluir as consequências sociais."
+    },
+    {
+      "id": "pt-travel-c1-c2-075",
+      "word": "Qualquer avaliação de o turismo acessível deve incluir as consequências sociais.",
+      "translation": "Any assessment of accessible travel must include social consequences.",
+      "example": "Qualquer avaliação de o turismo acessível deve incluir as consequências sociais."
+    },
+    {
+      "id": "pt-travel-c1-c2-076",
+      "word": "Qualquer avaliação de a gestão de destinos deve incluir as consequências sociais.",
+      "translation": "Any assessment of destination management must include social consequences.",
+      "example": "Qualquer avaliação de a gestão de destinos deve incluir as consequências sociais."
+    },
+    {
+      "id": "pt-travel-c1-c2-077",
+      "word": "Qualquer avaliação de a capacidade de acolhimento deve incluir as consequências sociais.",
+      "translation": "Any assessment of visitor capacity must include social consequences.",
+      "example": "Qualquer avaliação de a capacidade de acolhimento deve incluir as consequências sociais."
+    },
+    {
+      "id": "pt-travel-c1-c2-078",
+      "word": "Qualquer avaliação de as comunidades locais deve incluir as consequências sociais.",
+      "translation": "Any assessment of local communities must include social consequences.",
+      "example": "Qualquer avaliação de as comunidades locais deve incluir as consequências sociais."
+    },
+    {
+      "id": "pt-travel-c1-c2-079",
+      "word": "Qualquer avaliação de a infraestrutura de transportes deve incluir as consequências sociais.",
+      "translation": "Any assessment of transport infrastructure must include social consequences.",
+      "example": "Qualquer avaliação de a infraestrutura de transportes deve incluir as consequências sociais."
+    },
+    {
+      "id": "pt-travel-c1-c2-080",
+      "word": "Qualquer avaliação de a aviação responsável deve incluir as consequências sociais.",
+      "translation": "Any assessment of responsible aviation must include social consequences.",
+      "example": "Qualquer avaliação de a aviação responsável deve incluir as consequências sociais."
+    },
+    {
+      "id": "pt-travel-c1-c2-081",
+      "word": "A cooperação internacional é essencial para melhorar o turismo sustentável.",
+      "translation": "International cooperation is essential to improve sustainable tourism.",
+      "example": "A cooperação internacional é essencial para melhorar o turismo sustentável."
+    },
+    {
+      "id": "pt-travel-c1-c2-082",
+      "word": "A cooperação internacional é essencial para melhorar o excesso de turismo.",
+      "translation": "International cooperation is essential to improve overtourism.",
+      "example": "A cooperação internacional é essencial para melhorar o excesso de turismo."
+    },
+    {
+      "id": "pt-travel-c1-c2-083",
+      "word": "A cooperação internacional é essencial para melhorar o património cultural.",
+      "translation": "International cooperation is essential to improve cultural heritage.",
+      "example": "A cooperação internacional é essencial para melhorar o património cultural."
+    },
+    {
+      "id": "pt-travel-c1-c2-084",
+      "word": "A cooperação internacional é essencial para melhorar a mobilidade de baixo carbono.",
+      "translation": "International cooperation is essential to improve low-carbon mobility.",
+      "example": "A cooperação internacional é essencial para melhorar a mobilidade de baixo carbono."
+    },
+    {
+      "id": "pt-travel-c1-c2-085",
+      "word": "A cooperação internacional é essencial para melhorar o turismo acessível.",
+      "translation": "International cooperation is essential to improve accessible travel.",
+      "example": "A cooperação internacional é essencial para melhorar o turismo acessível."
+    },
+    {
+      "id": "pt-travel-c1-c2-086",
+      "word": "A cooperação internacional é essencial para melhorar a gestão de destinos.",
+      "translation": "International cooperation is essential to improve destination management.",
+      "example": "A cooperação internacional é essencial para melhorar a gestão de destinos."
+    },
+    {
+      "id": "pt-travel-c1-c2-087",
+      "word": "A cooperação internacional é essencial para melhorar a capacidade de acolhimento.",
+      "translation": "International cooperation is essential to improve visitor capacity.",
+      "example": "A cooperação internacional é essencial para melhorar a capacidade de acolhimento."
+    },
+    {
+      "id": "pt-travel-c1-c2-088",
+      "word": "A cooperação internacional é essencial para melhorar as comunidades locais.",
+      "translation": "International cooperation is essential to improve local communities.",
+      "example": "A cooperação internacional é essencial para melhorar as comunidades locais."
+    },
+    {
+      "id": "pt-travel-c1-c2-089",
+      "word": "A cooperação internacional é essencial para melhorar a infraestrutura de transportes.",
+      "translation": "International cooperation is essential to improve transport infrastructure.",
+      "example": "A cooperação internacional é essencial para melhorar a infraestrutura de transportes."
+    },
+    {
+      "id": "pt-travel-c1-c2-090",
+      "word": "A cooperação internacional é essencial para melhorar a aviação responsável.",
+      "translation": "International cooperation is essential to improve responsible aviation.",
+      "example": "A cooperação internacional é essencial para melhorar a aviação responsável."
+    },
+    {
+      "id": "pt-travel-c1-c2-091",
+      "word": "O quadro proposto oferece uma abordagem ponderada a o turismo sustentável.",
+      "translation": "The proposed framework offers a nuanced approach to sustainable tourism.",
+      "example": "O quadro proposto oferece uma abordagem ponderada a o turismo sustentável."
+    },
+    {
+      "id": "pt-travel-c1-c2-092",
+      "word": "O quadro proposto oferece uma abordagem ponderada a o excesso de turismo.",
+      "translation": "The proposed framework offers a nuanced approach to overtourism.",
+      "example": "O quadro proposto oferece uma abordagem ponderada a o excesso de turismo."
+    },
+    {
+      "id": "pt-travel-c1-c2-093",
+      "word": "O quadro proposto oferece uma abordagem ponderada a o património cultural.",
+      "translation": "The proposed framework offers a nuanced approach to cultural heritage.",
+      "example": "O quadro proposto oferece uma abordagem ponderada a o património cultural."
+    },
+    {
+      "id": "pt-travel-c1-c2-094",
+      "word": "O quadro proposto oferece uma abordagem ponderada a a mobilidade de baixo carbono.",
+      "translation": "The proposed framework offers a nuanced approach to low-carbon mobility.",
+      "example": "O quadro proposto oferece uma abordagem ponderada a a mobilidade de baixo carbono."
+    },
+    {
+      "id": "pt-travel-c1-c2-095",
+      "word": "O quadro proposto oferece uma abordagem ponderada a o turismo acessível.",
+      "translation": "The proposed framework offers a nuanced approach to accessible travel.",
+      "example": "O quadro proposto oferece uma abordagem ponderada a o turismo acessível."
+    },
+    {
+      "id": "pt-travel-c1-c2-096",
+      "word": "O quadro proposto oferece uma abordagem ponderada a a gestão de destinos.",
+      "translation": "The proposed framework offers a nuanced approach to destination management.",
+      "example": "O quadro proposto oferece uma abordagem ponderada a a gestão de destinos."
+    },
+    {
+      "id": "pt-travel-c1-c2-097",
+      "word": "O quadro proposto oferece uma abordagem ponderada a a capacidade de acolhimento.",
+      "translation": "The proposed framework offers a nuanced approach to visitor capacity.",
+      "example": "O quadro proposto oferece uma abordagem ponderada a a capacidade de acolhimento."
+    },
+    {
+      "id": "pt-travel-c1-c2-098",
+      "word": "O quadro proposto oferece uma abordagem ponderada a as comunidades locais.",
+      "translation": "The proposed framework offers a nuanced approach to local communities.",
+      "example": "O quadro proposto oferece uma abordagem ponderada a as comunidades locais."
+    },
+    {
+      "id": "pt-travel-c1-c2-099",
+      "word": "O quadro proposto oferece uma abordagem ponderada a a infraestrutura de transportes.",
+      "translation": "The proposed framework offers a nuanced approach to transport infrastructure.",
+      "example": "O quadro proposto oferece uma abordagem ponderada a a infraestrutura de transportes."
+    },
+    {
+      "id": "pt-travel-c1-c2-100",
+      "word": "O quadro proposto oferece uma abordagem ponderada a a aviação responsável.",
+      "translation": "The proposed framework offers a nuanced approach to responsible aviation.",
+      "example": "O quadro proposto oferece uma abordagem ponderada a a aviação responsável."
+    }
+  ]
+}
