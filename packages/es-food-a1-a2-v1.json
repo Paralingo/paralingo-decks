@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-food-a1-a2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "food",
+  "categoryTitle": "Food & Restaurants",
+  "title": "Food & Restaurants",
+  "level": "A1-A2",
+  "emoji": "🍽️",
+  "description": "Build practical vocabulary for meals, ingredients, and restaurants.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-food-a1-a2-001",
+      "word": "el agua",
+      "translation": "water",
+      "example": "En este contexto se usa «el agua»."
+    },
+    {
+      "id": "es-food-a1-a2-002",
+      "word": "el pan",
+      "translation": "bread",
+      "example": "En este contexto se usa «el pan»."
+    },
+    {
+      "id": "es-food-a1-a2-003",
+      "word": "la leche",
+      "translation": "milk",
+      "example": "En este contexto se usa «la leche»."
+    },
+    {
+      "id": "es-food-a1-a2-004",
+      "word": "el café",
+      "translation": "coffee",
+      "example": "En este contexto se usa «el café»."
+    },
+    {
+      "id": "es-food-a1-a2-005",
+      "word": "el té",
+      "translation": "tea",
+      "example": "En este contexto se usa «el té»."
+    },
+    {
+      "id": "es-food-a1-a2-006",
+      "word": "el zumo",
+      "translation": "juice",
+      "example": "En este contexto se usa «el zumo»."
+    },
+    {
+      "id": "es-food-a1-a2-007",
+      "word": "el queso",
+      "translation": "cheese",
+      "example": "En este contexto se usa «el queso»."
+    },
+    {
+      "id": "es-food-a1-a2-008",
+      "word": "la mantequilla",
+      "translation": "butter",
+      "example": "En este contexto se usa «la mantequilla»."
+    },
+    {
+      "id": "es-food-a1-a2-009",
+      "word": "el huevo",
+      "translation": "egg",
+      "example": "En este contexto se usa «el huevo»."
+    },
+    {
+      "id": "es-food-a1-a2-010",
+      "word": "el arroz",
+      "translation": "rice",
+      "example": "En este contexto se usa «el arroz»."
+    },
+    {
+      "id": "es-food-a1-a2-011",
+      "word": "la pasta",
+      "translation": "pasta",
+      "example": "En este contexto se usa «la pasta»."
+    },
+    {
+      "id": "es-food-a1-a2-012",
+      "word": "la sopa",
+      "translation": "soup",
+      "example": "En este contexto se usa «la sopa»."
+    },
+    {
+      "id": "es-food-a1-a2-013",
+      "word": "la ensalada",
+      "translation": "salad",
+      "example": "En este contexto se usa «la ensalada»."
+    },
+    {
+      "id": "es-food-a1-a2-014",
+      "word": "la carne",
+      "translation": "meat",
+      "example": "En este contexto se usa «la carne»."
+    },
+    {
+      "id": "es-food-a1-a2-015",
+      "word": "el pollo",
+      "translation": "chicken",
+      "example": "En este contexto se usa «el pollo»."
+    },
+    {
+      "id": "es-food-a1-a2-016",
+      "word": "el pescado",
+      "translation": "fish",
+      "example": "En este contexto se usa «el pescado»."
+    },
+    {
+      "id": "es-food-a1-a2-017",
+      "word": "la fruta",
+      "translation": "fruit",
+      "example": "En este contexto se usa «la fruta»."
+    },
+    {
+      "id": "es-food-a1-a2-018",
+      "word": "la verdura",
+      "translation": "vegetable",
+      "example": "En este contexto se usa «la verdura»."
+    },
+    {
+      "id": "es-food-a1-a2-019",
+      "word": "la manzana",
+      "translation": "apple",
+      "example": "En este contexto se usa «la manzana»."
+    },
+    {
+      "id": "es-food-a1-a2-020",
+      "word": "el plátano",
+      "translation": "banana",
+      "example": "En este contexto se usa «el plátano»."
+    },
+    {
+      "id": "es-food-a1-a2-021",
+      "word": "la naranja",
+      "translation": "orange",
+      "example": "En este contexto se usa «la naranja»."
+    },
+    {
+      "id": "es-food-a1-a2-022",
+      "word": "el limón",
+      "translation": "lemon",
+      "example": "En este contexto se usa «el limón»."
+    },
+    {
+      "id": "es-food-a1-a2-023",
+      "word": "la fresa",
+      "translation": "strawberry",
+      "example": "En este contexto se usa «la fresa»."
+    },
+    {
+      "id": "es-food-a1-a2-024",
+      "word": "la uva",
+      "translation": "grape",
+      "example": "En este contexto se usa «la uva»."
+    },
+    {
+      "id": "es-food-a1-a2-025",
+      "word": "el tomate",
+      "translation": "tomato",
+      "example": "En este contexto se usa «el tomate»."
+    },
+    {
+      "id": "es-food-a1-a2-026",
+      "word": "la patata",
+      "translation": "potato",
+      "example": "En este contexto se usa «la patata»."
+    },
+    {
+      "id": "es-food-a1-a2-027",
+      "word": "la cebolla",
+      "translation": "onion",
+      "example": "En este contexto se usa «la cebolla»."
+    },
+    {
+      "id": "es-food-a1-a2-028",
+      "word": "la zanahoria",
+      "translation": "carrot",
+      "example": "En este contexto se usa «la zanahoria»."
+    },
+    {
+      "id": "es-food-a1-a2-029",
+      "word": "el pimiento",
+      "translation": "pepper",
+      "example": "En este contexto se usa «el pimiento»."
+    },
+    {
+      "id": "es-food-a1-a2-030",
+      "word": "el champiñón",
+      "translation": "mushroom",
+      "example": "En este contexto se usa «el champiñón»."
+    },
+    {
+      "id": "es-food-a1-a2-031",
+      "word": "el desayuno",
+      "translation": "breakfast",
+      "example": "En este contexto se usa «el desayuno»."
+    },
+    {
+      "id": "es-food-a1-a2-032",
+      "word": "el almuerzo",
+      "translation": "lunch",
+      "example": "En este contexto se usa «el almuerzo»."
+    },
+    {
+      "id": "es-food-a1-a2-033",
+      "word": "la cena",
+      "translation": "dinner",
+      "example": "En este contexto se usa «la cena»."
+    },
+    {
+      "id": "es-food-a1-a2-034",
+      "word": "el tentempié",
+      "translation": "snack",
+      "example": "En este contexto se usa «el tentempié»."
+    },
+    {
+      "id": "es-food-a1-a2-035",
+      "word": "la comida",
+      "translation": "meal",
+      "example": "En este contexto se usa «la comida»."
+    },
+    {
+      "id": "es-food-a1-a2-036",
+      "word": "el restaurante",
+      "translation": "restaurant",
+      "example": "En este contexto se usa «el restaurante»."
+    },
+    {
+      "id": "es-food-a1-a2-037",
+      "word": "la cafetería",
+      "translation": "café",
+      "example": "En este contexto se usa «la cafetería»."
+    },
+    {
+      "id": "es-food-a1-a2-038",
+      "word": "el menú",
+      "translation": "menu",
+      "example": "En este contexto se usa «el menú»."
+    },
+    {
+      "id": "es-food-a1-a2-039",
+      "word": "la mesa",
+      "translation": "table",
+      "example": "En este contexto se usa «la mesa»."
+    },
+    {
+      "id": "es-food-a1-a2-040",
+      "word": "el plato",
+      "translation": "plate",
+      "example": "En este contexto se usa «el plato»."
+    },
+    {
+      "id": "es-food-a1-a2-041",
+      "word": "el cuenco",
+      "translation": "bowl",
+      "example": "En este contexto se usa «el cuenco»."
+    },
+    {
+      "id": "es-food-a1-a2-042",
+      "word": "el vaso",
+      "translation": "glass",
+      "example": "En este contexto se usa «el vaso»."
+    },
+    {
+      "id": "es-food-a1-a2-043",
+      "word": "la taza",
+      "translation": "cup",
+      "example": "En este contexto se usa «la taza»."
+    },
+    {
+      "id": "es-food-a1-a2-044",
+      "word": "el tenedor",
+      "translation": "fork",
+      "example": "En este contexto se usa «el tenedor»."
+    },
+    {
+      "id": "es-food-a1-a2-045",
+      "word": "el cuchillo",
+      "translation": "knife",
+      "example": "En este contexto se usa «el cuchillo»."
+    },
+    {
+      "id": "es-food-a1-a2-046",
+      "word": "la cuchara",
+      "translation": "spoon",
+      "example": "En este contexto se usa «la cuchara»."
+    },
+    {
+      "id": "es-food-a1-a2-047",
+      "word": "la servilleta",
+      "translation": "napkin",
+      "example": "En este contexto se usa «la servilleta»."
+    },
+    {
+      "id": "es-food-a1-a2-048",
+      "word": "la botella",
+      "translation": "bottle",
+      "example": "En este contexto se usa «la botella»."
+    },
+    {
+      "id": "es-food-a1-a2-049",
+      "word": "la cuenta",
+      "translation": "bill",
+      "example": "En este contexto se usa «la cuenta»."
+    },
+    {
+      "id": "es-food-a1-a2-050",
+      "word": "el camarero",
+      "translation": "waiter",
+      "example": "En este contexto se usa «el camarero»."
+    },
+    {
+      "id": "es-food-a1-a2-051",
+      "word": "el cliente",
+      "translation": "customer",
+      "example": "En este contexto se usa «el cliente»."
+    },
+    {
+      "id": "es-food-a1-a2-052",
+      "word": "la cocina",
+      "translation": "kitchen",
+      "example": "En este contexto se usa «la cocina»."
+    },
+    {
+      "id": "es-food-a1-a2-053",
+      "word": "el horno",
+      "translation": "oven",
+      "example": "En este contexto se usa «el horno»."
+    },
+    {
+      "id": "es-food-a1-a2-054",
+      "word": "la nevera",
+      "translation": "fridge",
+      "example": "En este contexto se usa «la nevera»."
+    },
+    {
+      "id": "es-food-a1-a2-055",
+      "word": "la receta",
+      "translation": "recipe",
+      "example": "En este contexto se usa «la receta»."
+    },
+    {
+      "id": "es-food-a1-a2-056",
+      "word": "el ingrediente",
+      "translation": "ingredient",
+      "example": "En este contexto se usa «el ingrediente»."
+    },
+    {
+      "id": "es-food-a1-a2-057",
+      "word": "el entrante",
+      "translation": "starter",
+      "example": "En este contexto se usa «el entrante»."
+    },
+    {
+      "id": "es-food-a1-a2-058",
+      "word": "el plato principal",
+      "translation": "main course",
+      "example": "En este contexto se usa «el plato principal»."
+    },
+    {
+      "id": "es-food-a1-a2-059",
+      "word": "el postre",
+      "translation": "dessert",
+      "example": "En este contexto se usa «el postre»."
+    },
+    {
+      "id": "es-food-a1-a2-060",
+      "word": "la porción",
+      "translation": "portion",
+      "example": "En este contexto se usa «la porción»."
+    },
+    {
+      "id": "es-food-a1-a2-061",
+      "word": "la sal",
+      "translation": "salt",
+      "example": "En este contexto se usa «la sal»."
+    },
+    {
+      "id": "es-food-a1-a2-062",
+      "word": "el azúcar",
+      "translation": "sugar",
+      "example": "En este contexto se usa «el azúcar»."
+    },
+    {
+      "id": "es-food-a1-a2-063",
+      "word": "el aceite",
+      "translation": "oil",
+      "example": "En este contexto se usa «el aceite»."
+    },
+    {
+      "id": "es-food-a1-a2-064",
+      "word": "el vinagre",
+      "translation": "vinegar",
+      "example": "En este contexto se usa «el vinagre»."
+    },
+    {
+      "id": "es-food-a1-a2-065",
+      "word": "la harina",
+      "translation": "flour",
+      "example": "En este contexto se usa «la harina»."
+    },
+    {
+      "id": "es-food-a1-a2-066",
+      "word": "la salsa",
+      "translation": "sauce",
+      "example": "En este contexto se usa «la salsa»."
+    },
+    {
+      "id": "es-food-a1-a2-067",
+      "word": "dulce",
+      "translation": "sweet",
+      "example": "En este contexto se usa «dulce»."
+    },
+    {
+      "id": "es-food-a1-a2-068",
+      "word": "salado",
+      "translation": "salty",
+      "example": "En este contexto se usa «salado»."
+    },
+    {
+      "id": "es-food-a1-a2-069",
+      "word": "picante",
+      "translation": "spicy",
+      "example": "En este contexto se usa «picante»."
+    },
+    {
+      "id": "es-food-a1-a2-070",
+      "word": "caliente",
+      "translation": "hot",
+      "example": "En este contexto se usa «caliente»."
+    },
+    {
+      "id": "es-food-a1-a2-071",
+      "word": "frío",
+      "translation": "cold",
+      "example": "En este contexto se usa «frío»."
+    },
+    {
+      "id": "es-food-a1-a2-072",
+      "word": "fresco",
+      "translation": "fresh",
+      "example": "En este contexto se usa «fresco»."
+    },
+    {
+      "id": "es-food-a1-a2-073",
+      "word": "delicioso",
+      "translation": "delicious",
+      "example": "En este contexto se usa «delicioso»."
+    },
+    {
+      "id": "es-food-a1-a2-074",
+      "word": "tener hambre",
+      "translation": "hungry",
+      "example": "En este contexto se usa «tener hambre»."
+    },
+    {
+      "id": "es-food-a1-a2-075",
+      "word": "tener sed",
+      "translation": "thirsty",
+      "example": "En este contexto se usa «tener sed»."
+    },
+    {
+      "id": "es-food-a1-a2-076",
+      "word": "estar lleno",
+      "translation": "full",
+      "example": "En este contexto se usa «estar lleno»."
+    },
+    {
+      "id": "es-food-a1-a2-077",
+      "word": "comer",
+      "translation": "to eat",
+      "example": "En este contexto se usa «comer»."
+    },
+    {
+      "id": "es-food-a1-a2-078",
+      "word": "beber",
+      "translation": "to drink",
+      "example": "En este contexto se usa «beber»."
+    },
+    {
+      "id": "es-food-a1-a2-079",
+      "word": "cocinar",
+      "translation": "to cook",
+      "example": "En este contexto se usa «cocinar»."
+    },
+    {
+      "id": "es-food-a1-a2-080",
+      "word": "cortar",
+      "translation": "to cut",
+      "example": "En este contexto se usa «cortar»."
+    },
+    {
+      "id": "es-food-a1-a2-081",
+      "word": "lavar",
+      "translation": "to wash",
+      "example": "En este contexto se usa «lavar»."
+    },
+    {
+      "id": "es-food-a1-a2-082",
+      "word": "mezclar",
+      "translation": "to mix",
+      "example": "En este contexto se usa «mezclar»."
+    },
+    {
+      "id": "es-food-a1-a2-083",
+      "word": "añadir",
+      "translation": "to add",
+      "example": "En este contexto se usa «añadir»."
+    },
+    {
+      "id": "es-food-a1-a2-084",
+      "word": "hervir",
+      "translation": "to boil",
+      "example": "En este contexto se usa «hervir»."
+    },
+    {
+      "id": "es-food-a1-a2-085",
+      "word": "freír",
+      "translation": "to fry",
+      "example": "En este contexto se usa «freír»."
+    },
+    {
+      "id": "es-food-a1-a2-086",
+      "word": "hornear",
+      "translation": "to bake",
+      "example": "En este contexto se usa «hornear»."
+    },
+    {
+      "id": "es-food-a1-a2-087",
+      "word": "pedir",
+      "translation": "to order",
+      "example": "En este contexto se usa «pedir»."
+    },
+    {
+      "id": "es-food-a1-a2-088",
+      "word": "servir",
+      "translation": "to serve",
+      "example": "En este contexto se usa «servir»."
+    },
+    {
+      "id": "es-food-a1-a2-089",
+      "word": "reservar",
+      "translation": "to reserve",
+      "example": "En este contexto se usa «reservar»."
+    },
+    {
+      "id": "es-food-a1-a2-090",
+      "word": "probar",
+      "translation": "to taste",
+      "example": "En este contexto se usa «probar»."
+    },
+    {
+      "id": "es-food-a1-a2-091",
+      "word": "elegir",
+      "translation": "to choose",
+      "example": "En este contexto se usa «elegir»."
+    },
+    {
+      "id": "es-food-a1-a2-092",
+      "word": "pagar",
+      "translation": "to pay",
+      "example": "En este contexto se usa «pagar»."
+    },
+    {
+      "id": "es-food-a1-a2-093",
+      "word": "vegetariano",
+      "translation": "vegetarian",
+      "example": "En este contexto se usa «vegetariano»."
+    },
+    {
+      "id": "es-food-a1-a2-094",
+      "word": "vegano",
+      "translation": "vegan",
+      "example": "En este contexto se usa «vegano»."
+    },
+    {
+      "id": "es-food-a1-a2-095",
+      "word": "sin gluten",
+      "translation": "gluten-free",
+      "example": "En este contexto se usa «sin gluten»."
+    },
+    {
+      "id": "es-food-a1-a2-096",
+      "word": "la alergia",
+      "translation": "allergy",
+      "example": "En este contexto se usa «la alergia»."
+    },
+    {
+      "id": "es-food-a1-a2-097",
+      "word": "la propina",
+      "translation": "tip",
+      "example": "En este contexto se usa «la propina»."
+    },
+    {
+      "id": "es-food-a1-a2-098",
+      "word": "la especialidad",
+      "translation": "speciality",
+      "example": "En este contexto se usa «la especialidad»."
+    },
+    {
+      "id": "es-food-a1-a2-099",
+      "word": "la reserva",
+      "translation": "reservation",
+      "example": "En este contexto se usa «la reserva»."
+    },
+    {
+      "id": "es-food-a1-a2-100",
+      "word": "para llevar",
+      "translation": "takeaway",
+      "example": "En este contexto se usa «para llevar»."
+    }
+  ]
+}
