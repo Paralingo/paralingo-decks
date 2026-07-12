@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-it-clothing-a1-a2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "clothing",
+  "categoryTitle": "Appearance & Clothing",
+  "title": "Appearance & Clothing",
+  "level": "A1-A2",
+  "emoji": "👗",
+  "description": "Describe clothes, colours, physical features, sizes, and simple personal style.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-clothing-a1-a2-001",
+      "word": "Oggi indosso la giacca nera.",
+      "translation": "I am wearing the black jacket today.",
+      "example": "Oggi indosso la giacca nera."
+    },
+    {
+      "id": "it-clothing-a1-a2-002",
+      "word": "Oggi indosso le scarpe comode.",
+      "translation": "I am wearing the comfortable shoes today.",
+      "example": "Oggi indosso le scarpe comode."
+    },
+    {
+      "id": "it-clothing-a1-a2-003",
+      "word": "Oggi indosso la camicia a righe.",
+      "translation": "I am wearing the striped shirt today.",
+      "example": "Oggi indosso la camicia a righe."
+    },
+    {
+      "id": "it-clothing-a1-a2-004",
+      "word": "Oggi indosso i capelli lunghi.",
+      "translation": "I am wearing the long hair today.",
+      "example": "Oggi indosso i capelli lunghi."
+    },
+    {
+      "id": "it-clothing-a1-a2-005",
+      "word": "Oggi indosso gli occhi castani.",
+      "translation": "I am wearing the brown eyes today.",
+      "example": "Oggi indosso gli occhi castani."
+    },
+    {
+      "id": "it-clothing-a1-a2-006",
+      "word": "Oggi indosso il maglione caldo.",
+      "translation": "I am wearing the warm sweater today.",
+      "example": "Oggi indosso il maglione caldo."
+    },
+    {
+      "id": "it-clothing-a1-a2-007",
+      "word": "Oggi indosso il vestito estivo.",
+      "translation": "I am wearing the summer dress today.",
+      "example": "Oggi indosso il vestito estivo."
+    },
+    {
+      "id": "it-clothing-a1-a2-008",
+      "word": "Oggi indosso la taglia giusta.",
+      "translation": "I am wearing the right size today.",
+      "example": "Oggi indosso la taglia giusta."
+    },
+    {
+      "id": "it-clothing-a1-a2-009",
+      "word": "Oggi indosso la collana d'argento.",
+      "translation": "I am wearing the silver necklace today.",
+      "example": "Oggi indosso la collana d'argento."
+    },
+    {
+      "id": "it-clothing-a1-a2-010",
+      "word": "Oggi indosso il taglio corto.",
+      "translation": "I am wearing the short haircut today.",
+      "example": "Oggi indosso il taglio corto."
+    },
+    {
+      "id": "it-clothing-a1-a2-011",
+      "word": "Sto cercando la giacca nera.",
+      "translation": "I am looking for the black jacket.",
+      "example": "Sto cercando la giacca nera."
+    },
+    {
+      "id": "it-clothing-a1-a2-012",
+      "word": "Sto cercando le scarpe comode.",
+      "translation": "I am looking for the comfortable shoes.",
+      "example": "Sto cercando le scarpe comode."
+    },
+    {
+      "id": "it-clothing-a1-a2-013",
+      "word": "Sto cercando la camicia a righe.",
+      "translation": "I am looking for the striped shirt.",
+      "example": "Sto cercando la camicia a righe."
+    },
+    {
+      "id": "it-clothing-a1-a2-014",
+      "word": "Sto cercando i capelli lunghi.",
+      "translation": "I am looking for the long hair.",
+      "example": "Sto cercando i capelli lunghi."
+    },
+    {
+      "id": "it-clothing-a1-a2-015",
+      "word": "Sto cercando gli occhi castani.",
+      "translation": "I am looking for the brown eyes.",
+      "example": "Sto cercando gli occhi castani."
+    },
+    {
+      "id": "it-clothing-a1-a2-016",
+      "word": "Sto cercando il maglione caldo.",
+      "translation": "I am looking for the warm sweater.",
+      "example": "Sto cercando il maglione caldo."
+    },
+    {
+      "id": "it-clothing-a1-a2-017",
+      "word": "Sto cercando il vestito estivo.",
+      "translation": "I am looking for the summer dress.",
+      "example": "Sto cercando il vestito estivo."
+    },
+    {
+      "id": "it-clothing-a1-a2-018",
+      "word": "Sto cercando la taglia giusta.",
+      "translation": "I am looking for the right size.",
+      "example": "Sto cercando la taglia giusta."
+    },
+    {
+      "id": "it-clothing-a1-a2-019",
+      "word": "Sto cercando la collana d'argento.",
+      "translation": "I am looking for the silver necklace.",
+      "example": "Sto cercando la collana d'argento."
+    },
+    {
+      "id": "it-clothing-a1-a2-020",
+      "word": "Sto cercando il taglio corto.",
+      "translation": "I am looking for the short haircut.",
+      "example": "Sto cercando il taglio corto."
+    },
+    {
+      "id": "it-clothing-a1-a2-021",
+      "word": "Ti piace la giacca nera?",
+      "translation": "Do you like the black jacket?",
+      "example": "Ti piace la giacca nera?"
+    },
+    {
+      "id": "it-clothing-a1-a2-022",
+      "word": "Ti piace le scarpe comode?",
+      "translation": "Do you like the comfortable shoes?",
+      "example": "Ti piace le scarpe comode?"
+    },
+    {
+      "id": "it-clothing-a1-a2-023",
+      "word": "Ti piace la camicia a righe?",
+      "translation": "Do you like the striped shirt?",
+      "example": "Ti piace la camicia a righe?"
+    },
+    {
+      "id": "it-clothing-a1-a2-024",
+      "word": "Ti piace i capelli lunghi?",
+      "translation": "Do you like the long hair?",
+      "example": "Ti piace i capelli lunghi?"
+    },
+    {
+      "id": "it-clothing-a1-a2-025",
+      "word": "Ti piace gli occhi castani?",
+      "translation": "Do you like the brown eyes?",
+      "example": "Ti piace gli occhi castani?"
+    },
+    {
+      "id": "it-clothing-a1-a2-026",
+      "word": "Ti piace il maglione caldo?",
+      "translation": "Do you like the warm sweater?",
+      "example": "Ti piace il maglione caldo?"
+    },
+    {
+      "id": "it-clothing-a1-a2-027",
+      "word": "Ti piace il vestito estivo?",
+      "translation": "Do you like the summer dress?",
+      "example": "Ti piace il vestito estivo?"
+    },
+    {
+      "id": "it-clothing-a1-a2-028",
+      "word": "Ti piace la taglia giusta?",
+      "translation": "Do you like the right size?",
+      "example": "Ti piace la taglia giusta?"
+    },
+    {
+      "id": "it-clothing-a1-a2-029",
+      "word": "Ti piace la collana d'argento?",
+      "translation": "Do you like the silver necklace?",
+      "example": "Ti piace la collana d'argento?"
+    },
+    {
+      "id": "it-clothing-a1-a2-030",
+      "word": "Ti piace il taglio corto?",
+      "translation": "Do you like the short haircut?",
+      "example": "Ti piace il taglio corto?"
+    },
+    {
+      "id": "it-clothing-a1-a2-031",
+      "word": "Dove hai comprato la giacca nera?",
+      "translation": "Where did you buy the black jacket?",
+      "example": "Dove hai comprato la giacca nera?"
+    },
+    {
+      "id": "it-clothing-a1-a2-032",
+      "word": "Dove hai comprato le scarpe comode?",
+      "translation": "Where did you buy the comfortable shoes?",
+      "example": "Dove hai comprato le scarpe comode?"
+    },
+    {
+      "id": "it-clothing-a1-a2-033",
+      "word": "Dove hai comprato la camicia a righe?",
+      "translation": "Where did you buy the striped shirt?",
+      "example": "Dove hai comprato la camicia a righe?"
+    },
+    {
+      "id": "it-clothing-a1-a2-034",
+      "word": "Dove hai comprato i capelli lunghi?",
+      "translation": "Where did you buy the long hair?",
+      "example": "Dove hai comprato i capelli lunghi?"
+    },
+    {
+      "id": "it-clothing-a1-a2-035",
+      "word": "Dove hai comprato gli occhi castani?",
+      "translation": "Where did you buy the brown eyes?",
+      "example": "Dove hai comprato gli occhi castani?"
+    },
+    {
+      "id": "it-clothing-a1-a2-036",
+      "word": "Dove hai comprato il maglione caldo?",
+      "translation": "Where did you buy the warm sweater?",
+      "example": "Dove hai comprato il maglione caldo?"
+    },
+    {
+      "id": "it-clothing-a1-a2-037",
+      "word": "Dove hai comprato il vestito estivo?",
+      "translation": "Where did you buy the summer dress?",
+      "example": "Dove hai comprato il vestito estivo?"
+    },
+    {
+      "id": "it-clothing-a1-a2-038",
+      "word": "Dove hai comprato la taglia giusta?",
+      "translation": "Where did you buy the right size?",
+      "example": "Dove hai comprato la taglia giusta?"
+    },
+    {
+      "id": "it-clothing-a1-a2-039",
+      "word": "Dove hai comprato la collana d'argento?",
+      "translation": "Where did you buy the silver necklace?",
+      "example": "Dove hai comprato la collana d'argento?"
+    },
+    {
+      "id": "it-clothing-a1-a2-040",
+      "word": "Dove hai comprato il taglio corto?",
+      "translation": "Where did you buy the short haircut?",
+      "example": "Dove hai comprato il taglio corto?"
+    },
+    {
+      "id": "it-clothing-a1-a2-041",
+      "word": "Vorrei provare la giacca nera.",
+      "translation": "I would like to try the black jacket.",
+      "example": "Vorrei provare la giacca nera."
+    },
+    {
+      "id": "it-clothing-a1-a2-042",
+      "word": "Vorrei provare le scarpe comode.",
+      "translation": "I would like to try the comfortable shoes.",
+      "example": "Vorrei provare le scarpe comode."
+    },
+    {
+      "id": "it-clothing-a1-a2-043",
+      "word": "Vorrei provare la camicia a righe.",
+      "translation": "I would like to try the striped shirt.",
+      "example": "Vorrei provare la camicia a righe."
+    },
+    {
+      "id": "it-clothing-a1-a2-044",
+      "word": "Vorrei provare i capelli lunghi.",
+      "translation": "I would like to try the long hair.",
+      "example": "Vorrei provare i capelli lunghi."
+    },
+    {
+      "id": "it-clothing-a1-a2-045",
+      "word": "Vorrei provare gli occhi castani.",
+      "translation": "I would like to try the brown eyes.",
+      "example": "Vorrei provare gli occhi castani."
+    },
+    {
+      "id": "it-clothing-a1-a2-046",
+      "word": "Vorrei provare il maglione caldo.",
+      "translation": "I would like to try the warm sweater.",
+      "example": "Vorrei provare il maglione caldo."
+    },
+    {
+      "id": "it-clothing-a1-a2-047",
+      "word": "Vorrei provare il vestito estivo.",
+      "translation": "I would like to try the summer dress.",
+      "example": "Vorrei provare il vestito estivo."
+    },
+    {
+      "id": "it-clothing-a1-a2-048",
+      "word": "Vorrei provare la taglia giusta.",
+      "translation": "I would like to try the right size.",
+      "example": "Vorrei provare la taglia giusta."
+    },
+    {
+      "id": "it-clothing-a1-a2-049",
+      "word": "Vorrei provare la collana d'argento.",
+      "translation": "I would like to try the silver necklace.",
+      "example": "Vorrei provare la collana d'argento."
+    },
+    {
+      "id": "it-clothing-a1-a2-050",
+      "word": "Vorrei provare il taglio corto.",
+      "translation": "I would like to try the short haircut.",
+      "example": "Vorrei provare il taglio corto."
+    },
+    {
+      "id": "it-clothing-a1-a2-051",
+      "word": "Questa persona ha la giacca nera.",
+      "translation": "This person has the black jacket.",
+      "example": "Questa persona ha la giacca nera."
+    },
+    {
+      "id": "it-clothing-a1-a2-052",
+      "word": "Questa persona ha le scarpe comode.",
+      "translation": "This person has the comfortable shoes.",
+      "example": "Questa persona ha le scarpe comode."
+    },
+    {
+      "id": "it-clothing-a1-a2-053",
+      "word": "Questa persona ha la camicia a righe.",
+      "translation": "This person has the striped shirt.",
+      "example": "Questa persona ha la camicia a righe."
+    },
+    {
+      "id": "it-clothing-a1-a2-054",
+      "word": "Questa persona ha i capelli lunghi.",
+      "translation": "This person has the long hair.",
+      "example": "Questa persona ha i capelli lunghi."
+    },
+    {
+      "id": "it-clothing-a1-a2-055",
+      "word": "Questa persona ha gli occhi castani.",
+      "translation": "This person has the brown eyes.",
+      "example": "Questa persona ha gli occhi castani."
+    },
+    {
+      "id": "it-clothing-a1-a2-056",
+      "word": "Questa persona ha il maglione caldo.",
+      "translation": "This person has the warm sweater.",
+      "example": "Questa persona ha il maglione caldo."
+    },
+    {
+      "id": "it-clothing-a1-a2-057",
+      "word": "Questa persona ha il vestito estivo.",
+      "translation": "This person has the summer dress.",
+      "example": "Questa persona ha il vestito estivo."
+    },
+    {
+      "id": "it-clothing-a1-a2-058",
+      "word": "Questa persona ha la taglia giusta.",
+      "translation": "This person has the right size.",
+      "example": "Questa persona ha la taglia giusta."
+    },
+    {
+      "id": "it-clothing-a1-a2-059",
+      "word": "Questa persona ha la collana d'argento.",
+      "translation": "This person has the silver necklace.",
+      "example": "Questa persona ha la collana d'argento."
+    },
+    {
+      "id": "it-clothing-a1-a2-060",
+      "word": "Questa persona ha il taglio corto.",
+      "translation": "This person has the short haircut.",
+      "example": "Questa persona ha il taglio corto."
+    },
+    {
+      "id": "it-clothing-a1-a2-061",
+      "word": "Mi serve la giacca nera per il fine settimana.",
+      "translation": "I need the black jacket for the weekend.",
+      "example": "Mi serve la giacca nera per il fine settimana."
+    },
+    {
+      "id": "it-clothing-a1-a2-062",
+      "word": "Mi serve le scarpe comode per il fine settimana.",
+      "translation": "I need the comfortable shoes for the weekend.",
+      "example": "Mi serve le scarpe comode per il fine settimana."
+    },
+    {
+      "id": "it-clothing-a1-a2-063",
+      "word": "Mi serve la camicia a righe per il fine settimana.",
+      "translation": "I need the striped shirt for the weekend.",
+      "example": "Mi serve la camicia a righe per il fine settimana."
+    },
+    {
+      "id": "it-clothing-a1-a2-064",
+      "word": "Mi serve i capelli lunghi per il fine settimana.",
+      "translation": "I need the long hair for the weekend.",
+      "example": "Mi serve i capelli lunghi per il fine settimana."
+    },
+    {
+      "id": "it-clothing-a1-a2-065",
+      "word": "Mi serve gli occhi castani per il fine settimana.",
+      "translation": "I need the brown eyes for the weekend.",
+      "example": "Mi serve gli occhi castani per il fine settimana."
+    },
+    {
+      "id": "it-clothing-a1-a2-066",
+      "word": "Mi serve il maglione caldo per il fine settimana.",
+      "translation": "I need the warm sweater for the weekend.",
+      "example": "Mi serve il maglione caldo per il fine settimana."
+    },
+    {
+      "id": "it-clothing-a1-a2-067",
+      "word": "Mi serve il vestito estivo per il fine settimana.",
+      "translation": "I need the summer dress for the weekend.",
+      "example": "Mi serve il vestito estivo per il fine settimana."
+    },
+    {
+      "id": "it-clothing-a1-a2-068",
+      "word": "Mi serve la taglia giusta per il fine settimana.",
+      "translation": "I need the right size for the weekend.",
+      "example": "Mi serve la taglia giusta per il fine settimana."
+    },
+    {
+      "id": "it-clothing-a1-a2-069",
+      "word": "Mi serve la collana d'argento per il fine settimana.",
+      "translation": "I need the silver necklace for the weekend.",
+      "example": "Mi serve la collana d'argento per il fine settimana."
+    },
+    {
+      "id": "it-clothing-a1-a2-070",
+      "word": "Mi serve il taglio corto per il fine settimana.",
+      "translation": "I need the short haircut for the weekend.",
+      "example": "Mi serve il taglio corto per il fine settimana."
+    },
+    {
+      "id": "it-clothing-a1-a2-071",
+      "word": "Puoi mostrarmi la giacca nera?",
+      "translation": "Can you show me the black jacket?",
+      "example": "Puoi mostrarmi la giacca nera?"
+    },
+    {
+      "id": "it-clothing-a1-a2-072",
+      "word": "Puoi mostrarmi le scarpe comode?",
+      "translation": "Can you show me the comfortable shoes?",
+      "example": "Puoi mostrarmi le scarpe comode?"
+    },
+    {
+      "id": "it-clothing-a1-a2-073",
+      "word": "Puoi mostrarmi la camicia a righe?",
+      "translation": "Can you show me the striped shirt?",
+      "example": "Puoi mostrarmi la camicia a righe?"
+    },
+    {
+      "id": "it-clothing-a1-a2-074",
+      "word": "Puoi mostrarmi i capelli lunghi?",
+      "translation": "Can you show me the long hair?",
+      "example": "Puoi mostrarmi i capelli lunghi?"
+    },
+    {
+      "id": "it-clothing-a1-a2-075",
+      "word": "Puoi mostrarmi gli occhi castani?",
+      "translation": "Can you show me the brown eyes?",
+      "example": "Puoi mostrarmi gli occhi castani?"
+    },
+    {
+      "id": "it-clothing-a1-a2-076",
+      "word": "Puoi mostrarmi il maglione caldo?",
+      "translation": "Can you show me the warm sweater?",
+      "example": "Puoi mostrarmi il maglione caldo?"
+    },
+    {
+      "id": "it-clothing-a1-a2-077",
+      "word": "Puoi mostrarmi il vestito estivo?",
+      "translation": "Can you show me the summer dress?",
+      "example": "Puoi mostrarmi il vestito estivo?"
+    },
+    {
+      "id": "it-clothing-a1-a2-078",
+      "word": "Puoi mostrarmi la taglia giusta?",
+      "translation": "Can you show me the right size?",
+      "example": "Puoi mostrarmi la taglia giusta?"
+    },
+    {
+      "id": "it-clothing-a1-a2-079",
+      "word": "Puoi mostrarmi la collana d'argento?",
+      "translation": "Can you show me the silver necklace?",
+      "example": "Puoi mostrarmi la collana d'argento?"
+    },
+    {
+      "id": "it-clothing-a1-a2-080",
+      "word": "Puoi mostrarmi il taglio corto?",
+      "translation": "Can you show me the short haircut?",
+      "example": "Puoi mostrarmi il taglio corto?"
+    },
+    {
+      "id": "it-clothing-a1-a2-081",
+      "word": "Penso che la giacca nera stia bene.",
+      "translation": "I think the black jacket looks nice.",
+      "example": "Penso che la giacca nera stia bene."
+    },
+    {
+      "id": "it-clothing-a1-a2-082",
+      "word": "Penso che le scarpe comode stia bene.",
+      "translation": "I think the comfortable shoes looks nice.",
+      "example": "Penso che le scarpe comode stia bene."
+    },
+    {
+      "id": "it-clothing-a1-a2-083",
+      "word": "Penso che la camicia a righe stia bene.",
+      "translation": "I think the striped shirt looks nice.",
+      "example": "Penso che la camicia a righe stia bene."
+    },
+    {
+      "id": "it-clothing-a1-a2-084",
+      "word": "Penso che i capelli lunghi stia bene.",
+      "translation": "I think the long hair looks nice.",
+      "example": "Penso che i capelli lunghi stia bene."
+    },
+    {
+      "id": "it-clothing-a1-a2-085",
+      "word": "Penso che gli occhi castani stia bene.",
+      "translation": "I think the brown eyes looks nice.",
+      "example": "Penso che gli occhi castani stia bene."
+    },
+    {
+      "id": "it-clothing-a1-a2-086",
+      "word": "Penso che il maglione caldo stia bene.",
+      "translation": "I think the warm sweater looks nice.",
+      "example": "Penso che il maglione caldo stia bene."
+    },
+    {
+      "id": "it-clothing-a1-a2-087",
+      "word": "Penso che il vestito estivo stia bene.",
+      "translation": "I think the summer dress looks nice.",
+      "example": "Penso che il vestito estivo stia bene."
+    },
+    {
+      "id": "it-clothing-a1-a2-088",
+      "word": "Penso che la taglia giusta stia bene.",
+      "translation": "I think the right size looks nice.",
+      "example": "Penso che la taglia giusta stia bene."
+    },
+    {
+      "id": "it-clothing-a1-a2-089",
+      "word": "Penso che la collana d'argento stia bene.",
+      "translation": "I think the silver necklace looks nice.",
+      "example": "Penso che la collana d'argento stia bene."
+    },
+    {
+      "id": "it-clothing-a1-a2-090",
+      "word": "Penso che il taglio corto stia bene.",
+      "translation": "I think the short haircut looks nice.",
+      "example": "Penso che il taglio corto stia bene."
+    },
+    {
+      "id": "it-clothing-a1-a2-091",
+      "word": "Abbiamo parlato di la giacca nera.",
+      "translation": "We talked about the black jacket.",
+      "example": "Abbiamo parlato di la giacca nera."
+    },
+    {
+      "id": "it-clothing-a1-a2-092",
+      "word": "Abbiamo parlato di le scarpe comode.",
+      "translation": "We talked about the comfortable shoes.",
+      "example": "Abbiamo parlato di le scarpe comode."
+    },
+    {
+      "id": "it-clothing-a1-a2-093",
+      "word": "Abbiamo parlato di la camicia a righe.",
+      "translation": "We talked about the striped shirt.",
+      "example": "Abbiamo parlato di la camicia a righe."
+    },
+    {
+      "id": "it-clothing-a1-a2-094",
+      "word": "Abbiamo parlato di i capelli lunghi.",
+      "translation": "We talked about the long hair.",
+      "example": "Abbiamo parlato di i capelli lunghi."
+    },
+    {
+      "id": "it-clothing-a1-a2-095",
+      "word": "Abbiamo parlato di gli occhi castani.",
+      "translation": "We talked about the brown eyes.",
+      "example": "Abbiamo parlato di gli occhi castani."
+    },
+    {
+      "id": "it-clothing-a1-a2-096",
+      "word": "Abbiamo parlato di il maglione caldo.",
+      "translation": "We talked about the warm sweater.",
+      "example": "Abbiamo parlato di il maglione caldo."
+    },
+    {
+      "id": "it-clothing-a1-a2-097",
+      "word": "Abbiamo parlato di il vestito estivo.",
+      "translation": "We talked about the summer dress.",
+      "example": "Abbiamo parlato di il vestito estivo."
+    },
+    {
+      "id": "it-clothing-a1-a2-098",
+      "word": "Abbiamo parlato di la taglia giusta.",
+      "translation": "We talked about the right size.",
+      "example": "Abbiamo parlato di la taglia giusta."
+    },
+    {
+      "id": "it-clothing-a1-a2-099",
+      "word": "Abbiamo parlato di la collana d'argento.",
+      "translation": "We talked about the silver necklace.",
+      "example": "Abbiamo parlato di la collana d'argento."
+    },
+    {
+      "id": "it-clothing-a1-a2-100",
+      "word": "Abbiamo parlato di il taglio corto.",
+      "translation": "We talked about the short haircut.",
+      "example": "Abbiamo parlato di il taglio corto."
+    }
+  ]
+}
