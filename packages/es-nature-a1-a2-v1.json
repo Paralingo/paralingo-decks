@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-nature-a1-a2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "nature",
+  "categoryTitle": "Nature & Environment",
+  "title": "Nature & Environment",
+  "level": "A1-A2",
+  "emoji": "🌿",
+  "description": "Explore landscapes, plants, animals, weather, and simple outdoor experiences.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-nature-a1-a2-001",
+      "word": "Estamos caminando por el bosque.",
+      "translation": "We are walking through the forest.",
+      "example": "Estamos caminando por el bosque."
+    },
+    {
+      "id": "es-nature-a1-a2-002",
+      "word": "Estamos caminando por la montaña.",
+      "translation": "We are walking through the mountain.",
+      "example": "Estamos caminando por la montaña."
+    },
+    {
+      "id": "es-nature-a1-a2-003",
+      "word": "Estamos caminando por el río.",
+      "translation": "We are walking through the river.",
+      "example": "Estamos caminando por el río."
+    },
+    {
+      "id": "es-nature-a1-a2-004",
+      "word": "Estamos caminando por el lago.",
+      "translation": "We are walking through the lake.",
+      "example": "Estamos caminando por el lago."
+    },
+    {
+      "id": "es-nature-a1-a2-005",
+      "word": "Estamos caminando por el océano.",
+      "translation": "We are walking through the ocean.",
+      "example": "Estamos caminando por el océano."
+    },
+    {
+      "id": "es-nature-a1-a2-006",
+      "word": "Estamos caminando por el campo.",
+      "translation": "We are walking through the countryside.",
+      "example": "Estamos caminando por el campo."
+    },
+    {
+      "id": "es-nature-a1-a2-007",
+      "word": "Estamos caminando por el jardín.",
+      "translation": "We are walking through the garden.",
+      "example": "Estamos caminando por el jardín."
+    },
+    {
+      "id": "es-nature-a1-a2-008",
+      "word": "Estamos caminando por la cascada.",
+      "translation": "We are walking through the waterfall.",
+      "example": "Estamos caminando por la cascada."
+    },
+    {
+      "id": "es-nature-a1-a2-009",
+      "word": "Estamos caminando por la isla.",
+      "translation": "We are walking through the island.",
+      "example": "Estamos caminando por la isla."
+    },
+    {
+      "id": "es-nature-a1-a2-010",
+      "word": "Estamos caminando por el valle.",
+      "translation": "We are walking through the valley.",
+      "example": "Estamos caminando por el valle."
+    },
+    {
+      "id": "es-nature-a1-a2-011",
+      "word": "Hay muchos animales cerca de el bosque.",
+      "translation": "There are many animals near the forest.",
+      "example": "Hay muchos animales cerca de el bosque."
+    },
+    {
+      "id": "es-nature-a1-a2-012",
+      "word": "Hay muchos animales cerca de la montaña.",
+      "translation": "There are many animals near the mountain.",
+      "example": "Hay muchos animales cerca de la montaña."
+    },
+    {
+      "id": "es-nature-a1-a2-013",
+      "word": "Hay muchos animales cerca de el río.",
+      "translation": "There are many animals near the river.",
+      "example": "Hay muchos animales cerca de el río."
+    },
+    {
+      "id": "es-nature-a1-a2-014",
+      "word": "Hay muchos animales cerca de el lago.",
+      "translation": "There are many animals near the lake.",
+      "example": "Hay muchos animales cerca de el lago."
+    },
+    {
+      "id": "es-nature-a1-a2-015",
+      "word": "Hay muchos animales cerca de el océano.",
+      "translation": "There are many animals near the ocean.",
+      "example": "Hay muchos animales cerca de el océano."
+    },
+    {
+      "id": "es-nature-a1-a2-016",
+      "word": "Hay muchos animales cerca de el campo.",
+      "translation": "There are many animals near the countryside.",
+      "example": "Hay muchos animales cerca de el campo."
+    },
+    {
+      "id": "es-nature-a1-a2-017",
+      "word": "Hay muchos animales cerca de el jardín.",
+      "translation": "There are many animals near the garden.",
+      "example": "Hay muchos animales cerca de el jardín."
+    },
+    {
+      "id": "es-nature-a1-a2-018",
+      "word": "Hay muchos animales cerca de la cascada.",
+      "translation": "There are many animals near the waterfall.",
+      "example": "Hay muchos animales cerca de la cascada."
+    },
+    {
+      "id": "es-nature-a1-a2-019",
+      "word": "Hay muchos animales cerca de la isla.",
+      "translation": "There are many animals near the island.",
+      "example": "Hay muchos animales cerca de la isla."
+    },
+    {
+      "id": "es-nature-a1-a2-020",
+      "word": "Hay muchos animales cerca de el valle.",
+      "translation": "There are many animals near the valley.",
+      "example": "Hay muchos animales cerca de el valle."
+    },
+    {
+      "id": "es-nature-a1-a2-021",
+      "word": "La vista de el bosque es preciosa.",
+      "translation": "The view of the forest is beautiful.",
+      "example": "La vista de el bosque es preciosa."
+    },
+    {
+      "id": "es-nature-a1-a2-022",
+      "word": "La vista de la montaña es preciosa.",
+      "translation": "The view of the mountain is beautiful.",
+      "example": "La vista de la montaña es preciosa."
+    },
+    {
+      "id": "es-nature-a1-a2-023",
+      "word": "La vista de el río es preciosa.",
+      "translation": "The view of the river is beautiful.",
+      "example": "La vista de el río es preciosa."
+    },
+    {
+      "id": "es-nature-a1-a2-024",
+      "word": "La vista de el lago es preciosa.",
+      "translation": "The view of the lake is beautiful.",
+      "example": "La vista de el lago es preciosa."
+    },
+    {
+      "id": "es-nature-a1-a2-025",
+      "word": "La vista de el océano es preciosa.",
+      "translation": "The view of the ocean is beautiful.",
+      "example": "La vista de el océano es preciosa."
+    },
+    {
+      "id": "es-nature-a1-a2-026",
+      "word": "La vista de el campo es preciosa.",
+      "translation": "The view of the countryside is beautiful.",
+      "example": "La vista de el campo es preciosa."
+    },
+    {
+      "id": "es-nature-a1-a2-027",
+      "word": "La vista de el jardín es preciosa.",
+      "translation": "The view of the garden is beautiful.",
+      "example": "La vista de el jardín es preciosa."
+    },
+    {
+      "id": "es-nature-a1-a2-028",
+      "word": "La vista de la cascada es preciosa.",
+      "translation": "The view of the waterfall is beautiful.",
+      "example": "La vista de la cascada es preciosa."
+    },
+    {
+      "id": "es-nature-a1-a2-029",
+      "word": "La vista de la isla es preciosa.",
+      "translation": "The view of the island is beautiful.",
+      "example": "La vista de la isla es preciosa."
+    },
+    {
+      "id": "es-nature-a1-a2-030",
+      "word": "La vista de el valle es preciosa.",
+      "translation": "The view of the valley is beautiful.",
+      "example": "La vista de el valle es preciosa."
+    },
+    {
+      "id": "es-nature-a1-a2-031",
+      "word": "Debemos mantener limpio el bosque.",
+      "translation": "We should keep the forest clean.",
+      "example": "Debemos mantener limpio el bosque."
+    },
+    {
+      "id": "es-nature-a1-a2-032",
+      "word": "Debemos mantener limpio la montaña.",
+      "translation": "We should keep the mountain clean.",
+      "example": "Debemos mantener limpio la montaña."
+    },
+    {
+      "id": "es-nature-a1-a2-033",
+      "word": "Debemos mantener limpio el río.",
+      "translation": "We should keep the river clean.",
+      "example": "Debemos mantener limpio el río."
+    },
+    {
+      "id": "es-nature-a1-a2-034",
+      "word": "Debemos mantener limpio el lago.",
+      "translation": "We should keep the lake clean.",
+      "example": "Debemos mantener limpio el lago."
+    },
+    {
+      "id": "es-nature-a1-a2-035",
+      "word": "Debemos mantener limpio el océano.",
+      "translation": "We should keep the ocean clean.",
+      "example": "Debemos mantener limpio el océano."
+    },
+    {
+      "id": "es-nature-a1-a2-036",
+      "word": "Debemos mantener limpio el campo.",
+      "translation": "We should keep the countryside clean.",
+      "example": "Debemos mantener limpio el campo."
+    },
+    {
+      "id": "es-nature-a1-a2-037",
+      "word": "Debemos mantener limpio el jardín.",
+      "translation": "We should keep the garden clean.",
+      "example": "Debemos mantener limpio el jardín."
+    },
+    {
+      "id": "es-nature-a1-a2-038",
+      "word": "Debemos mantener limpio la cascada.",
+      "translation": "We should keep the waterfall clean.",
+      "example": "Debemos mantener limpio la cascada."
+    },
+    {
+      "id": "es-nature-a1-a2-039",
+      "word": "Debemos mantener limpio la isla.",
+      "translation": "We should keep the island clean.",
+      "example": "Debemos mantener limpio la isla."
+    },
+    {
+      "id": "es-nature-a1-a2-040",
+      "word": "Debemos mantener limpio el valle.",
+      "translation": "We should keep the valley clean.",
+      "example": "Debemos mantener limpio el valle."
+    },
+    {
+      "id": "es-nature-a1-a2-041",
+      "word": "Se está tranquilo junto a el bosque.",
+      "translation": "It is peaceful beside the forest.",
+      "example": "Se está tranquilo junto a el bosque."
+    },
+    {
+      "id": "es-nature-a1-a2-042",
+      "word": "Se está tranquilo junto a la montaña.",
+      "translation": "It is peaceful beside the mountain.",
+      "example": "Se está tranquilo junto a la montaña."
+    },
+    {
+      "id": "es-nature-a1-a2-043",
+      "word": "Se está tranquilo junto a el río.",
+      "translation": "It is peaceful beside the river.",
+      "example": "Se está tranquilo junto a el río."
+    },
+    {
+      "id": "es-nature-a1-a2-044",
+      "word": "Se está tranquilo junto a el lago.",
+      "translation": "It is peaceful beside the lake.",
+      "example": "Se está tranquilo junto a el lago."
+    },
+    {
+      "id": "es-nature-a1-a2-045",
+      "word": "Se está tranquilo junto a el océano.",
+      "translation": "It is peaceful beside the ocean.",
+      "example": "Se está tranquilo junto a el océano."
+    },
+    {
+      "id": "es-nature-a1-a2-046",
+      "word": "Se está tranquilo junto a el campo.",
+      "translation": "It is peaceful beside the countryside.",
+      "example": "Se está tranquilo junto a el campo."
+    },
+    {
+      "id": "es-nature-a1-a2-047",
+      "word": "Se está tranquilo junto a el jardín.",
+      "translation": "It is peaceful beside the garden.",
+      "example": "Se está tranquilo junto a el jardín."
+    },
+    {
+      "id": "es-nature-a1-a2-048",
+      "word": "Se está tranquilo junto a la cascada.",
+      "translation": "It is peaceful beside the waterfall.",
+      "example": "Se está tranquilo junto a la cascada."
+    },
+    {
+      "id": "es-nature-a1-a2-049",
+      "word": "Se está tranquilo junto a la isla.",
+      "translation": "It is peaceful beside the island.",
+      "example": "Se está tranquilo junto a la isla."
+    },
+    {
+      "id": "es-nature-a1-a2-050",
+      "word": "Se está tranquilo junto a el valle.",
+      "translation": "It is peaceful beside the valley.",
+      "example": "Se está tranquilo junto a el valle."
+    },
+    {
+      "id": "es-nature-a1-a2-051",
+      "word": "¿Podemos visitar el bosque mañana?",
+      "translation": "Can we visit the forest tomorrow?",
+      "example": "¿Podemos visitar el bosque mañana?"
+    },
+    {
+      "id": "es-nature-a1-a2-052",
+      "word": "¿Podemos visitar la montaña mañana?",
+      "translation": "Can we visit the mountain tomorrow?",
+      "example": "¿Podemos visitar la montaña mañana?"
+    },
+    {
+      "id": "es-nature-a1-a2-053",
+      "word": "¿Podemos visitar el río mañana?",
+      "translation": "Can we visit the river tomorrow?",
+      "example": "¿Podemos visitar el río mañana?"
+    },
+    {
+      "id": "es-nature-a1-a2-054",
+      "word": "¿Podemos visitar el lago mañana?",
+      "translation": "Can we visit the lake tomorrow?",
+      "example": "¿Podemos visitar el lago mañana?"
+    },
+    {
+      "id": "es-nature-a1-a2-055",
+      "word": "¿Podemos visitar el océano mañana?",
+      "translation": "Can we visit the ocean tomorrow?",
+      "example": "¿Podemos visitar el océano mañana?"
+    },
+    {
+      "id": "es-nature-a1-a2-056",
+      "word": "¿Podemos visitar el campo mañana?",
+      "translation": "Can we visit the countryside tomorrow?",
+      "example": "¿Podemos visitar el campo mañana?"
+    },
+    {
+      "id": "es-nature-a1-a2-057",
+      "word": "¿Podemos visitar el jardín mañana?",
+      "translation": "Can we visit the garden tomorrow?",
+      "example": "¿Podemos visitar el jardín mañana?"
+    },
+    {
+      "id": "es-nature-a1-a2-058",
+      "word": "¿Podemos visitar la cascada mañana?",
+      "translation": "Can we visit the waterfall tomorrow?",
+      "example": "¿Podemos visitar la cascada mañana?"
+    },
+    {
+      "id": "es-nature-a1-a2-059",
+      "word": "¿Podemos visitar la isla mañana?",
+      "translation": "Can we visit the island tomorrow?",
+      "example": "¿Podemos visitar la isla mañana?"
+    },
+    {
+      "id": "es-nature-a1-a2-060",
+      "word": "¿Podemos visitar el valle mañana?",
+      "translation": "Can we visit the valley tomorrow?",
+      "example": "¿Podemos visitar el valle mañana?"
+    },
+    {
+      "id": "es-nature-a1-a2-061",
+      "word": "El sendero lleva hacia el bosque.",
+      "translation": "The path leads toward the forest.",
+      "example": "El sendero lleva hacia el bosque."
+    },
+    {
+      "id": "es-nature-a1-a2-062",
+      "word": "El sendero lleva hacia la montaña.",
+      "translation": "The path leads toward the mountain.",
+      "example": "El sendero lleva hacia la montaña."
+    },
+    {
+      "id": "es-nature-a1-a2-063",
+      "word": "El sendero lleva hacia el río.",
+      "translation": "The path leads toward the river.",
+      "example": "El sendero lleva hacia el río."
+    },
+    {
+      "id": "es-nature-a1-a2-064",
+      "word": "El sendero lleva hacia el lago.",
+      "translation": "The path leads toward the lake.",
+      "example": "El sendero lleva hacia el lago."
+    },
+    {
+      "id": "es-nature-a1-a2-065",
+      "word": "El sendero lleva hacia el océano.",
+      "translation": "The path leads toward the ocean.",
+      "example": "El sendero lleva hacia el océano."
+    },
+    {
+      "id": "es-nature-a1-a2-066",
+      "word": "El sendero lleva hacia el campo.",
+      "translation": "The path leads toward the countryside.",
+      "example": "El sendero lleva hacia el campo."
+    },
+    {
+      "id": "es-nature-a1-a2-067",
+      "word": "El sendero lleva hacia el jardín.",
+      "translation": "The path leads toward the garden.",
+      "example": "El sendero lleva hacia el jardín."
+    },
+    {
+      "id": "es-nature-a1-a2-068",
+      "word": "El sendero lleva hacia la cascada.",
+      "translation": "The path leads toward the waterfall.",
+      "example": "El sendero lleva hacia la cascada."
+    },
+    {
+      "id": "es-nature-a1-a2-069",
+      "word": "El sendero lleva hacia la isla.",
+      "translation": "The path leads toward the island.",
+      "example": "El sendero lleva hacia la isla."
+    },
+    {
+      "id": "es-nature-a1-a2-070",
+      "word": "El sendero lleva hacia el valle.",
+      "translation": "The path leads toward the valley.",
+      "example": "El sendero lleva hacia el valle."
+    },
+    {
+      "id": "es-nature-a1-a2-071",
+      "word": "Hicimos fotos de el bosque.",
+      "translation": "We took photographs of the forest.",
+      "example": "Hicimos fotos de el bosque."
+    },
+    {
+      "id": "es-nature-a1-a2-072",
+      "word": "Hicimos fotos de la montaña.",
+      "translation": "We took photographs of the mountain.",
+      "example": "Hicimos fotos de la montaña."
+    },
+    {
+      "id": "es-nature-a1-a2-073",
+      "word": "Hicimos fotos de el río.",
+      "translation": "We took photographs of the river.",
+      "example": "Hicimos fotos de el río."
+    },
+    {
+      "id": "es-nature-a1-a2-074",
+      "word": "Hicimos fotos de el lago.",
+      "translation": "We took photographs of the lake.",
+      "example": "Hicimos fotos de el lago."
+    },
+    {
+      "id": "es-nature-a1-a2-075",
+      "word": "Hicimos fotos de el océano.",
+      "translation": "We took photographs of the ocean.",
+      "example": "Hicimos fotos de el océano."
+    },
+    {
+      "id": "es-nature-a1-a2-076",
+      "word": "Hicimos fotos de el campo.",
+      "translation": "We took photographs of the countryside.",
+      "example": "Hicimos fotos de el campo."
+    },
+    {
+      "id": "es-nature-a1-a2-077",
+      "word": "Hicimos fotos de el jardín.",
+      "translation": "We took photographs of the garden.",
+      "example": "Hicimos fotos de el jardín."
+    },
+    {
+      "id": "es-nature-a1-a2-078",
+      "word": "Hicimos fotos de la cascada.",
+      "translation": "We took photographs of the waterfall.",
+      "example": "Hicimos fotos de la cascada."
+    },
+    {
+      "id": "es-nature-a1-a2-079",
+      "word": "Hicimos fotos de la isla.",
+      "translation": "We took photographs of the island.",
+      "example": "Hicimos fotos de la isla."
+    },
+    {
+      "id": "es-nature-a1-a2-080",
+      "word": "Hicimos fotos de el valle.",
+      "translation": "We took photographs of the valley.",
+      "example": "Hicimos fotos de el valle."
+    },
+    {
+      "id": "es-nature-a1-a2-081",
+      "word": "El tiempo cambió cerca de el bosque.",
+      "translation": "The weather changed near the forest.",
+      "example": "El tiempo cambió cerca de el bosque."
+    },
+    {
+      "id": "es-nature-a1-a2-082",
+      "word": "El tiempo cambió cerca de la montaña.",
+      "translation": "The weather changed near the mountain.",
+      "example": "El tiempo cambió cerca de la montaña."
+    },
+    {
+      "id": "es-nature-a1-a2-083",
+      "word": "El tiempo cambió cerca de el río.",
+      "translation": "The weather changed near the river.",
+      "example": "El tiempo cambió cerca de el río."
+    },
+    {
+      "id": "es-nature-a1-a2-084",
+      "word": "El tiempo cambió cerca de el lago.",
+      "translation": "The weather changed near the lake.",
+      "example": "El tiempo cambió cerca de el lago."
+    },
+    {
+      "id": "es-nature-a1-a2-085",
+      "word": "El tiempo cambió cerca de el océano.",
+      "translation": "The weather changed near the ocean.",
+      "example": "El tiempo cambió cerca de el océano."
+    },
+    {
+      "id": "es-nature-a1-a2-086",
+      "word": "El tiempo cambió cerca de el campo.",
+      "translation": "The weather changed near the countryside.",
+      "example": "El tiempo cambió cerca de el campo."
+    },
+    {
+      "id": "es-nature-a1-a2-087",
+      "word": "El tiempo cambió cerca de el jardín.",
+      "translation": "The weather changed near the garden.",
+      "example": "El tiempo cambió cerca de el jardín."
+    },
+    {
+      "id": "es-nature-a1-a2-088",
+      "word": "El tiempo cambió cerca de la cascada.",
+      "translation": "The weather changed near the waterfall.",
+      "example": "El tiempo cambió cerca de la cascada."
+    },
+    {
+      "id": "es-nature-a1-a2-089",
+      "word": "El tiempo cambió cerca de la isla.",
+      "translation": "The weather changed near the island.",
+      "example": "El tiempo cambió cerca de la isla."
+    },
+    {
+      "id": "es-nature-a1-a2-090",
+      "word": "El tiempo cambió cerca de el valle.",
+      "translation": "The weather changed near the valley.",
+      "example": "El tiempo cambió cerca de el valle."
+    },
+    {
+      "id": "es-nature-a1-a2-091",
+      "word": "La gente viene aquí para disfrutar de el bosque.",
+      "translation": "People come here to enjoy the forest.",
+      "example": "La gente viene aquí para disfrutar de el bosque."
+    },
+    {
+      "id": "es-nature-a1-a2-092",
+      "word": "La gente viene aquí para disfrutar de la montaña.",
+      "translation": "People come here to enjoy the mountain.",
+      "example": "La gente viene aquí para disfrutar de la montaña."
+    },
+    {
+      "id": "es-nature-a1-a2-093",
+      "word": "La gente viene aquí para disfrutar de el río.",
+      "translation": "People come here to enjoy the river.",
+      "example": "La gente viene aquí para disfrutar de el río."
+    },
+    {
+      "id": "es-nature-a1-a2-094",
+      "word": "La gente viene aquí para disfrutar de el lago.",
+      "translation": "People come here to enjoy the lake.",
+      "example": "La gente viene aquí para disfrutar de el lago."
+    },
+    {
+      "id": "es-nature-a1-a2-095",
+      "word": "La gente viene aquí para disfrutar de el océano.",
+      "translation": "People come here to enjoy the ocean.",
+      "example": "La gente viene aquí para disfrutar de el océano."
+    },
+    {
+      "id": "es-nature-a1-a2-096",
+      "word": "La gente viene aquí para disfrutar de el campo.",
+      "translation": "People come here to enjoy the countryside.",
+      "example": "La gente viene aquí para disfrutar de el campo."
+    },
+    {
+      "id": "es-nature-a1-a2-097",
+      "word": "La gente viene aquí para disfrutar de el jardín.",
+      "translation": "People come here to enjoy the garden.",
+      "example": "La gente viene aquí para disfrutar de el jardín."
+    },
+    {
+      "id": "es-nature-a1-a2-098",
+      "word": "La gente viene aquí para disfrutar de la cascada.",
+      "translation": "People come here to enjoy the waterfall.",
+      "example": "La gente viene aquí para disfrutar de la cascada."
+    },
+    {
+      "id": "es-nature-a1-a2-099",
+      "word": "La gente viene aquí para disfrutar de la isla.",
+      "translation": "People come here to enjoy the island.",
+      "example": "La gente viene aquí para disfrutar de la isla."
+    },
+    {
+      "id": "es-nature-a1-a2-100",
+      "word": "La gente viene aquí para disfrutar de el valle.",
+      "translation": "People come here to enjoy the valley.",
+      "example": "La gente viene aquí para disfrutar de el valle."
+    }
+  ]
+}
