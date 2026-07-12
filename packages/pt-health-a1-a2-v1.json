@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-pt-health-a1-a2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "health",
+  "categoryTitle": "Body & Health",
+  "title": "Body & Health",
+  "level": "A1-A2",
+  "emoji": "🩺",
+  "description": "Learn body parts, describe pain and common symptoms, and ask for basic medical help.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-health-a1-a2-001",
+      "word": "Dói-me a cabeça.",
+      "translation": "My head hurts.",
+      "example": "Dói-me a cabeça."
+    },
+    {
+      "id": "pt-health-a1-a2-002",
+      "word": "Dói-me a garganta.",
+      "translation": "My throat hurts.",
+      "example": "Dói-me a garganta."
+    },
+    {
+      "id": "pt-health-a1-a2-003",
+      "word": "Dói-me o estômago.",
+      "translation": "My stomach hurts.",
+      "example": "Dói-me o estômago."
+    },
+    {
+      "id": "pt-health-a1-a2-004",
+      "word": "Dói-me as costas.",
+      "translation": "My back hurts.",
+      "example": "Dói-me as costas."
+    },
+    {
+      "id": "pt-health-a1-a2-005",
+      "word": "Dói-me o pescoço.",
+      "translation": "My neck hurts.",
+      "example": "Dói-me o pescoço."
+    },
+    {
+      "id": "pt-health-a1-a2-006",
+      "word": "Dói-me o joelho.",
+      "translation": "My knee hurts.",
+      "example": "Dói-me o joelho."
+    },
+    {
+      "id": "pt-health-a1-a2-007",
+      "word": "Dói-me o braço.",
+      "translation": "My arm hurts.",
+      "example": "Dói-me o braço."
+    },
+    {
+      "id": "pt-health-a1-a2-008",
+      "word": "Dói-me a perna.",
+      "translation": "My leg hurts.",
+      "example": "Dói-me a perna."
+    },
+    {
+      "id": "pt-health-a1-a2-009",
+      "word": "Dói-me a mão.",
+      "translation": "My hand hurts.",
+      "example": "Dói-me a mão."
+    },
+    {
+      "id": "pt-health-a1-a2-010",
+      "word": "Dói-me o pé.",
+      "translation": "My foot hurts.",
+      "example": "Dói-me o pé."
+    },
+    {
+      "id": "pt-health-a1-a2-011",
+      "word": "Ontem magoei a cabeça.",
+      "translation": "I injured my head yesterday.",
+      "example": "Ontem magoei a cabeça."
+    },
+    {
+      "id": "pt-health-a1-a2-012",
+      "word": "Ontem magoei a garganta.",
+      "translation": "I injured my throat yesterday.",
+      "example": "Ontem magoei a garganta."
+    },
+    {
+      "id": "pt-health-a1-a2-013",
+      "word": "Ontem magoei o estômago.",
+      "translation": "I injured my stomach yesterday.",
+      "example": "Ontem magoei o estômago."
+    },
+    {
+      "id": "pt-health-a1-a2-014",
+      "word": "Ontem magoei as costas.",
+      "translation": "I injured my back yesterday.",
+      "example": "Ontem magoei as costas."
+    },
+    {
+      "id": "pt-health-a1-a2-015",
+      "word": "Ontem magoei o pescoço.",
+      "translation": "I injured my neck yesterday.",
+      "example": "Ontem magoei o pescoço."
+    },
+    {
+      "id": "pt-health-a1-a2-016",
+      "word": "Ontem magoei o joelho.",
+      "translation": "I injured my knee yesterday.",
+      "example": "Ontem magoei o joelho."
+    },
+    {
+      "id": "pt-health-a1-a2-017",
+      "word": "Ontem magoei o braço.",
+      "translation": "I injured my arm yesterday.",
+      "example": "Ontem magoei o braço."
+    },
+    {
+      "id": "pt-health-a1-a2-018",
+      "word": "Ontem magoei a perna.",
+      "translation": "I injured my leg yesterday.",
+      "example": "Ontem magoei a perna."
+    },
+    {
+      "id": "pt-health-a1-a2-019",
+      "word": "Ontem magoei a mão.",
+      "translation": "I injured my hand yesterday.",
+      "example": "Ontem magoei a mão."
+    },
+    {
+      "id": "pt-health-a1-a2-020",
+      "word": "Ontem magoei o pé.",
+      "translation": "I injured my foot yesterday.",
+      "example": "Ontem magoei o pé."
+    },
+    {
+      "id": "pt-health-a1-a2-021",
+      "word": "O médico examinou a cabeça.",
+      "translation": "The doctor examined my head.",
+      "example": "O médico examinou a cabeça."
+    },
+    {
+      "id": "pt-health-a1-a2-022",
+      "word": "O médico examinou a garganta.",
+      "translation": "The doctor examined my throat.",
+      "example": "O médico examinou a garganta."
+    },
+    {
+      "id": "pt-health-a1-a2-023",
+      "word": "O médico examinou o estômago.",
+      "translation": "The doctor examined my stomach.",
+      "example": "O médico examinou o estômago."
+    },
+    {
+      "id": "pt-health-a1-a2-024",
+      "word": "O médico examinou as costas.",
+      "translation": "The doctor examined my back.",
+      "example": "O médico examinou as costas."
+    },
+    {
+      "id": "pt-health-a1-a2-025",
+      "word": "O médico examinou o pescoço.",
+      "translation": "The doctor examined my neck.",
+      "example": "O médico examinou o pescoço."
+    },
+    {
+      "id": "pt-health-a1-a2-026",
+      "word": "O médico examinou o joelho.",
+      "translation": "The doctor examined my knee.",
+      "example": "O médico examinou o joelho."
+    },
+    {
+      "id": "pt-health-a1-a2-027",
+      "word": "O médico examinou o braço.",
+      "translation": "The doctor examined my arm.",
+      "example": "O médico examinou o braço."
+    },
+    {
+      "id": "pt-health-a1-a2-028",
+      "word": "O médico examinou a perna.",
+      "translation": "The doctor examined my leg.",
+      "example": "O médico examinou a perna."
+    },
+    {
+      "id": "pt-health-a1-a2-029",
+      "word": "O médico examinou a mão.",
+      "translation": "The doctor examined my hand.",
+      "example": "O médico examinou a mão."
+    },
+    {
+      "id": "pt-health-a1-a2-030",
+      "word": "O médico examinou o pé.",
+      "translation": "The doctor examined my foot.",
+      "example": "O médico examinou o pé."
+    },
+    {
+      "id": "pt-health-a1-a2-031",
+      "word": "Não consigo mexer bem a cabeça.",
+      "translation": "I cannot move my head properly.",
+      "example": "Não consigo mexer bem a cabeça."
+    },
+    {
+      "id": "pt-health-a1-a2-032",
+      "word": "Não consigo mexer bem a garganta.",
+      "translation": "I cannot move my throat properly.",
+      "example": "Não consigo mexer bem a garganta."
+    },
+    {
+      "id": "pt-health-a1-a2-033",
+      "word": "Não consigo mexer bem o estômago.",
+      "translation": "I cannot move my stomach properly.",
+      "example": "Não consigo mexer bem o estômago."
+    },
+    {
+      "id": "pt-health-a1-a2-034",
+      "word": "Não consigo mexer bem as costas.",
+      "translation": "I cannot move my back properly.",
+      "example": "Não consigo mexer bem as costas."
+    },
+    {
+      "id": "pt-health-a1-a2-035",
+      "word": "Não consigo mexer bem o pescoço.",
+      "translation": "I cannot move my neck properly.",
+      "example": "Não consigo mexer bem o pescoço."
+    },
+    {
+      "id": "pt-health-a1-a2-036",
+      "word": "Não consigo mexer bem o joelho.",
+      "translation": "I cannot move my knee properly.",
+      "example": "Não consigo mexer bem o joelho."
+    },
+    {
+      "id": "pt-health-a1-a2-037",
+      "word": "Não consigo mexer bem o braço.",
+      "translation": "I cannot move my arm properly.",
+      "example": "Não consigo mexer bem o braço."
+    },
+    {
+      "id": "pt-health-a1-a2-038",
+      "word": "Não consigo mexer bem a perna.",
+      "translation": "I cannot move my leg properly.",
+      "example": "Não consigo mexer bem a perna."
+    },
+    {
+      "id": "pt-health-a1-a2-039",
+      "word": "Não consigo mexer bem a mão.",
+      "translation": "I cannot move my hand properly.",
+      "example": "Não consigo mexer bem a mão."
+    },
+    {
+      "id": "pt-health-a1-a2-040",
+      "word": "Não consigo mexer bem o pé.",
+      "translation": "I cannot move my foot properly.",
+      "example": "Não consigo mexer bem o pé."
+    },
+    {
+      "id": "pt-health-a1-a2-041",
+      "word": "Hoje a cabeça está melhor.",
+      "translation": "My head feels better today.",
+      "example": "Hoje a cabeça está melhor."
+    },
+    {
+      "id": "pt-health-a1-a2-042",
+      "word": "Hoje a garganta está melhor.",
+      "translation": "My throat feels better today.",
+      "example": "Hoje a garganta está melhor."
+    },
+    {
+      "id": "pt-health-a1-a2-043",
+      "word": "Hoje o estômago está melhor.",
+      "translation": "My stomach feels better today.",
+      "example": "Hoje o estômago está melhor."
+    },
+    {
+      "id": "pt-health-a1-a2-044",
+      "word": "Hoje as costas está melhor.",
+      "translation": "My back feels better today.",
+      "example": "Hoje as costas está melhor."
+    },
+    {
+      "id": "pt-health-a1-a2-045",
+      "word": "Hoje o pescoço está melhor.",
+      "translation": "My neck feels better today.",
+      "example": "Hoje o pescoço está melhor."
+    },
+    {
+      "id": "pt-health-a1-a2-046",
+      "word": "Hoje o joelho está melhor.",
+      "translation": "My knee feels better today.",
+      "example": "Hoje o joelho está melhor."
+    },
+    {
+      "id": "pt-health-a1-a2-047",
+      "word": "Hoje o braço está melhor.",
+      "translation": "My arm feels better today.",
+      "example": "Hoje o braço está melhor."
+    },
+    {
+      "id": "pt-health-a1-a2-048",
+      "word": "Hoje a perna está melhor.",
+      "translation": "My leg feels better today.",
+      "example": "Hoje a perna está melhor."
+    },
+    {
+      "id": "pt-health-a1-a2-049",
+      "word": "Hoje a mão está melhor.",
+      "translation": "My hand feels better today.",
+      "example": "Hoje a mão está melhor."
+    },
+    {
+      "id": "pt-health-a1-a2-050",
+      "word": "Hoje o pé está melhor.",
+      "translation": "My foot feels better today.",
+      "example": "Hoje o pé está melhor."
+    },
+    {
+      "id": "pt-health-a1-a2-051",
+      "word": "Tenho inchaço à volta de a cabeça.",
+      "translation": "There is swelling around my head.",
+      "example": "Tenho inchaço à volta de a cabeça."
+    },
+    {
+      "id": "pt-health-a1-a2-052",
+      "word": "Tenho inchaço à volta de a garganta.",
+      "translation": "There is swelling around my throat.",
+      "example": "Tenho inchaço à volta de a garganta."
+    },
+    {
+      "id": "pt-health-a1-a2-053",
+      "word": "Tenho inchaço à volta de o estômago.",
+      "translation": "There is swelling around my stomach.",
+      "example": "Tenho inchaço à volta de o estômago."
+    },
+    {
+      "id": "pt-health-a1-a2-054",
+      "word": "Tenho inchaço à volta de as costas.",
+      "translation": "There is swelling around my back.",
+      "example": "Tenho inchaço à volta de as costas."
+    },
+    {
+      "id": "pt-health-a1-a2-055",
+      "word": "Tenho inchaço à volta de o pescoço.",
+      "translation": "There is swelling around my neck.",
+      "example": "Tenho inchaço à volta de o pescoço."
+    },
+    {
+      "id": "pt-health-a1-a2-056",
+      "word": "Tenho inchaço à volta de o joelho.",
+      "translation": "There is swelling around my knee.",
+      "example": "Tenho inchaço à volta de o joelho."
+    },
+    {
+      "id": "pt-health-a1-a2-057",
+      "word": "Tenho inchaço à volta de o braço.",
+      "translation": "There is swelling around my arm.",
+      "example": "Tenho inchaço à volta de o braço."
+    },
+    {
+      "id": "pt-health-a1-a2-058",
+      "word": "Tenho inchaço à volta de a perna.",
+      "translation": "There is swelling around my leg.",
+      "example": "Tenho inchaço à volta de a perna."
+    },
+    {
+      "id": "pt-health-a1-a2-059",
+      "word": "Tenho inchaço à volta de a mão.",
+      "translation": "There is swelling around my hand.",
+      "example": "Tenho inchaço à volta de a mão."
+    },
+    {
+      "id": "pt-health-a1-a2-060",
+      "word": "Tenho inchaço à volta de o pé.",
+      "translation": "There is swelling around my foot.",
+      "example": "Tenho inchaço à volta de o pé."
+    },
+    {
+      "id": "pt-health-a1-a2-061",
+      "word": "Devo pôr gelo em a cabeça?",
+      "translation": "Should I put ice on my head?",
+      "example": "Devo pôr gelo em a cabeça?"
+    },
+    {
+      "id": "pt-health-a1-a2-062",
+      "word": "Devo pôr gelo em a garganta?",
+      "translation": "Should I put ice on my throat?",
+      "example": "Devo pôr gelo em a garganta?"
+    },
+    {
+      "id": "pt-health-a1-a2-063",
+      "word": "Devo pôr gelo em o estômago?",
+      "translation": "Should I put ice on my stomach?",
+      "example": "Devo pôr gelo em o estômago?"
+    },
+    {
+      "id": "pt-health-a1-a2-064",
+      "word": "Devo pôr gelo em as costas?",
+      "translation": "Should I put ice on my back?",
+      "example": "Devo pôr gelo em as costas?"
+    },
+    {
+      "id": "pt-health-a1-a2-065",
+      "word": "Devo pôr gelo em o pescoço?",
+      "translation": "Should I put ice on my neck?",
+      "example": "Devo pôr gelo em o pescoço?"
+    },
+    {
+      "id": "pt-health-a1-a2-066",
+      "word": "Devo pôr gelo em o joelho?",
+      "translation": "Should I put ice on my knee?",
+      "example": "Devo pôr gelo em o joelho?"
+    },
+    {
+      "id": "pt-health-a1-a2-067",
+      "word": "Devo pôr gelo em o braço?",
+      "translation": "Should I put ice on my arm?",
+      "example": "Devo pôr gelo em o braço?"
+    },
+    {
+      "id": "pt-health-a1-a2-068",
+      "word": "Devo pôr gelo em a perna?",
+      "translation": "Should I put ice on my leg?",
+      "example": "Devo pôr gelo em a perna?"
+    },
+    {
+      "id": "pt-health-a1-a2-069",
+      "word": "Devo pôr gelo em a mão?",
+      "translation": "Should I put ice on my hand?",
+      "example": "Devo pôr gelo em a mão?"
+    },
+    {
+      "id": "pt-health-a1-a2-070",
+      "word": "Devo pôr gelo em o pé?",
+      "translation": "Should I put ice on my foot?",
+      "example": "Devo pôr gelo em o pé?"
+    },
+    {
+      "id": "pt-health-a1-a2-071",
+      "word": "Preciso de uma ligadura para a cabeça.",
+      "translation": "I need a bandage for my head.",
+      "example": "Preciso de uma ligadura para a cabeça."
+    },
+    {
+      "id": "pt-health-a1-a2-072",
+      "word": "Preciso de uma ligadura para a garganta.",
+      "translation": "I need a bandage for my throat.",
+      "example": "Preciso de uma ligadura para a garganta."
+    },
+    {
+      "id": "pt-health-a1-a2-073",
+      "word": "Preciso de uma ligadura para o estômago.",
+      "translation": "I need a bandage for my stomach.",
+      "example": "Preciso de uma ligadura para o estômago."
+    },
+    {
+      "id": "pt-health-a1-a2-074",
+      "word": "Preciso de uma ligadura para as costas.",
+      "translation": "I need a bandage for my back.",
+      "example": "Preciso de uma ligadura para as costas."
+    },
+    {
+      "id": "pt-health-a1-a2-075",
+      "word": "Preciso de uma ligadura para o pescoço.",
+      "translation": "I need a bandage for my neck.",
+      "example": "Preciso de uma ligadura para o pescoço."
+    },
+    {
+      "id": "pt-health-a1-a2-076",
+      "word": "Preciso de uma ligadura para o joelho.",
+      "translation": "I need a bandage for my knee.",
+      "example": "Preciso de uma ligadura para o joelho."
+    },
+    {
+      "id": "pt-health-a1-a2-077",
+      "word": "Preciso de uma ligadura para o braço.",
+      "translation": "I need a bandage for my arm.",
+      "example": "Preciso de uma ligadura para o braço."
+    },
+    {
+      "id": "pt-health-a1-a2-078",
+      "word": "Preciso de uma ligadura para a perna.",
+      "translation": "I need a bandage for my leg.",
+      "example": "Preciso de uma ligadura para a perna."
+    },
+    {
+      "id": "pt-health-a1-a2-079",
+      "word": "Preciso de uma ligadura para a mão.",
+      "translation": "I need a bandage for my hand.",
+      "example": "Preciso de uma ligadura para a mão."
+    },
+    {
+      "id": "pt-health-a1-a2-080",
+      "word": "Preciso de uma ligadura para o pé.",
+      "translation": "I need a bandage for my foot.",
+      "example": "Preciso de uma ligadura para o pé."
+    },
+    {
+      "id": "pt-health-a1-a2-081",
+      "word": "A dor em a cabeça começou esta manhã.",
+      "translation": "The pain in my head started this morning.",
+      "example": "A dor em a cabeça começou esta manhã."
+    },
+    {
+      "id": "pt-health-a1-a2-082",
+      "word": "A dor em a garganta começou esta manhã.",
+      "translation": "The pain in my throat started this morning.",
+      "example": "A dor em a garganta começou esta manhã."
+    },
+    {
+      "id": "pt-health-a1-a2-083",
+      "word": "A dor em o estômago começou esta manhã.",
+      "translation": "The pain in my stomach started this morning.",
+      "example": "A dor em o estômago começou esta manhã."
+    },
+    {
+      "id": "pt-health-a1-a2-084",
+      "word": "A dor em as costas começou esta manhã.",
+      "translation": "The pain in my back started this morning.",
+      "example": "A dor em as costas começou esta manhã."
+    },
+    {
+      "id": "pt-health-a1-a2-085",
+      "word": "A dor em o pescoço começou esta manhã.",
+      "translation": "The pain in my neck started this morning.",
+      "example": "A dor em o pescoço começou esta manhã."
+    },
+    {
+      "id": "pt-health-a1-a2-086",
+      "word": "A dor em o joelho começou esta manhã.",
+      "translation": "The pain in my knee started this morning.",
+      "example": "A dor em o joelho começou esta manhã."
+    },
+    {
+      "id": "pt-health-a1-a2-087",
+      "word": "A dor em o braço começou esta manhã.",
+      "translation": "The pain in my arm started this morning.",
+      "example": "A dor em o braço começou esta manhã."
+    },
+    {
+      "id": "pt-health-a1-a2-088",
+      "word": "A dor em a perna começou esta manhã.",
+      "translation": "The pain in my leg started this morning.",
+      "example": "A dor em a perna começou esta manhã."
+    },
+    {
+      "id": "pt-health-a1-a2-089",
+      "word": "A dor em a mão começou esta manhã.",
+      "translation": "The pain in my hand started this morning.",
+      "example": "A dor em a mão começou esta manhã."
+    },
+    {
+      "id": "pt-health-a1-a2-090",
+      "word": "A dor em o pé começou esta manhã.",
+      "translation": "The pain in my foot started this morning.",
+      "example": "A dor em o pé começou esta manhã."
+    },
+    {
+      "id": "pt-health-a1-a2-091",
+      "word": "Pode ajudar-me com a cabeça?",
+      "translation": "Can you help me with my head?",
+      "example": "Pode ajudar-me com a cabeça?"
+    },
+    {
+      "id": "pt-health-a1-a2-092",
+      "word": "Pode ajudar-me com a garganta?",
+      "translation": "Can you help me with my throat?",
+      "example": "Pode ajudar-me com a garganta?"
+    },
+    {
+      "id": "pt-health-a1-a2-093",
+      "word": "Pode ajudar-me com o estômago?",
+      "translation": "Can you help me with my stomach?",
+      "example": "Pode ajudar-me com o estômago?"
+    },
+    {
+      "id": "pt-health-a1-a2-094",
+      "word": "Pode ajudar-me com as costas?",
+      "translation": "Can you help me with my back?",
+      "example": "Pode ajudar-me com as costas?"
+    },
+    {
+      "id": "pt-health-a1-a2-095",
+      "word": "Pode ajudar-me com o pescoço?",
+      "translation": "Can you help me with my neck?",
+      "example": "Pode ajudar-me com o pescoço?"
+    },
+    {
+      "id": "pt-health-a1-a2-096",
+      "word": "Pode ajudar-me com o joelho?",
+      "translation": "Can you help me with my knee?",
+      "example": "Pode ajudar-me com o joelho?"
+    },
+    {
+      "id": "pt-health-a1-a2-097",
+      "word": "Pode ajudar-me com o braço?",
+      "translation": "Can you help me with my arm?",
+      "example": "Pode ajudar-me com o braço?"
+    },
+    {
+      "id": "pt-health-a1-a2-098",
+      "word": "Pode ajudar-me com a perna?",
+      "translation": "Can you help me with my leg?",
+      "example": "Pode ajudar-me com a perna?"
+    },
+    {
+      "id": "pt-health-a1-a2-099",
+      "word": "Pode ajudar-me com a mão?",
+      "translation": "Can you help me with my hand?",
+      "example": "Pode ajudar-me com a mão?"
+    },
+    {
+      "id": "pt-health-a1-a2-100",
+      "word": "Pode ajudar-me com o pé?",
+      "translation": "Can you help me with my foot?",
+      "example": "Pode ajudar-me com o pé?"
+    }
+  ]
+}
