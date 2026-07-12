@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-it-shopping-c1-c2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "shopping",
+  "categoryTitle": "Shopping & Services",
+  "title": "Shopping & Services",
+  "level": "C1-C2",
+  "emoji": "🛍️",
+  "description": "Discuss consumer behaviour, retail systems, regulation, ethical trade, and the changing service economy.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-shopping-c1-c2-001",
+      "word": "Ricerche recenti hanno messo in discussione le idee su la tutela dei consumatori.",
+      "translation": "Recent research has challenged assumptions about consumer protection.",
+      "example": "Ricerche recenti hanno messo in discussione le idee su la tutela dei consumatori."
+    },
+    {
+      "id": "it-shopping-c1-c2-002",
+      "word": "Ricerche recenti hanno messo in discussione le idee su il consumo etico.",
+      "translation": "Recent research has challenged assumptions about ethical consumption.",
+      "example": "Ricerche recenti hanno messo in discussione le idee su il consumo etico."
+    },
+    {
+      "id": "it-shopping-c1-c2-003",
+      "word": "Ricerche recenti hanno messo in discussione le idee su la tariffazione dinamica.",
+      "translation": "Recent research has challenged assumptions about dynamic pricing.",
+      "example": "Ricerche recenti hanno messo in discussione le idee su la tariffazione dinamica."
+    },
+    {
+      "id": "it-shopping-c1-c2-004",
+      "word": "Ricerche recenti hanno messo in discussione le idee su la trasparenza della catena di approvvigionamento.",
+      "translation": "Recent research has challenged assumptions about supply-chain transparency.",
+      "example": "Ricerche recenti hanno messo in discussione le idee su la trasparenza della catena di approvvigionamento."
+    },
+    {
+      "id": "it-shopping-c1-c2-005",
+      "word": "Ricerche recenti hanno messo in discussione le idee su l'obsolescenza programmata.",
+      "translation": "Recent research has challenged assumptions about planned obsolescence.",
+      "example": "Ricerche recenti hanno messo in discussione le idee su l'obsolescenza programmata."
+    },
+    {
+      "id": "it-shopping-c1-c2-006",
+      "word": "Ricerche recenti hanno messo in discussione le idee su l'economia delle piattaforme.",
+      "translation": "Recent research has challenged assumptions about the platform economy.",
+      "example": "Ricerche recenti hanno messo in discussione le idee su l'economia delle piattaforme."
+    },
+    {
+      "id": "it-shopping-c1-c2-007",
+      "word": "Ricerche recenti hanno messo in discussione le idee su la pubblicità personalizzata.",
+      "translation": "Recent research has challenged assumptions about personalised advertising.",
+      "example": "Ricerche recenti hanno messo in discussione le idee su la pubblicità personalizzata."
+    },
+    {
+      "id": "it-shopping-c1-c2-008",
+      "word": "Ricerche recenti hanno messo in discussione le idee su il commercio indipendente.",
+      "translation": "Recent research has challenged assumptions about independent retail.",
+      "example": "Ricerche recenti hanno messo in discussione le idee su il commercio indipendente."
+    },
+    {
+      "id": "it-shopping-c1-c2-009",
+      "word": "Ricerche recenti hanno messo in discussione le idee su l'accessibilità dei servizi.",
+      "translation": "Recent research has challenged assumptions about service accessibility.",
+      "example": "Ricerche recenti hanno messo in discussione le idee su l'accessibilità dei servizi."
+    },
+    {
+      "id": "it-shopping-c1-c2-010",
+      "word": "Ricerche recenti hanno messo in discussione le idee su la fiducia dei consumatori.",
+      "translation": "Recent research has challenged assumptions about consumer confidence.",
+      "example": "Ricerche recenti hanno messo in discussione le idee su la fiducia dei consumatori."
+    },
+    {
+      "id": "it-shopping-c1-c2-011",
+      "word": "Le autorità di regolamentazione sono sotto pressione per affrontare la tutela dei consumatori.",
+      "translation": "Regulators are under pressure to address consumer protection.",
+      "example": "Le autorità di regolamentazione sono sotto pressione per affrontare la tutela dei consumatori."
+    },
+    {
+      "id": "it-shopping-c1-c2-012",
+      "word": "Le autorità di regolamentazione sono sotto pressione per affrontare il consumo etico.",
+      "translation": "Regulators are under pressure to address ethical consumption.",
+      "example": "Le autorità di regolamentazione sono sotto pressione per affrontare il consumo etico."
+    },
+    {
+      "id": "it-shopping-c1-c2-013",
+      "word": "Le autorità di regolamentazione sono sotto pressione per affrontare la tariffazione dinamica.",
+      "translation": "Regulators are under pressure to address dynamic pricing.",
+      "example": "Le autorità di regolamentazione sono sotto pressione per affrontare la tariffazione dinamica."
+    },
+    {
+      "id": "it-shopping-c1-c2-014",
+      "word": "Le autorità di regolamentazione sono sotto pressione per affrontare la trasparenza della catena di approvvigionamento.",
+      "translation": "Regulators are under pressure to address supply-chain transparency.",
+      "example": "Le autorità di regolamentazione sono sotto pressione per affrontare la trasparenza della catena di approvvigionamento."
+    },
+    {
+      "id": "it-shopping-c1-c2-015",
+      "word": "Le autorità di regolamentazione sono sotto pressione per affrontare l'obsolescenza programmata.",
+      "translation": "Regulators are under pressure to address planned obsolescence.",
+      "example": "Le autorità di regolamentazione sono sotto pressione per affrontare l'obsolescenza programmata."
+    },
+    {
+      "id": "it-shopping-c1-c2-016",
+      "word": "Le autorità di regolamentazione sono sotto pressione per affrontare l'economia delle piattaforme.",
+      "translation": "Regulators are under pressure to address the platform economy.",
+      "example": "Le autorità di regolamentazione sono sotto pressione per affrontare l'economia delle piattaforme."
+    },
+    {
+      "id": "it-shopping-c1-c2-017",
+      "word": "Le autorità di regolamentazione sono sotto pressione per affrontare la pubblicità personalizzata.",
+      "translation": "Regulators are under pressure to address personalised advertising.",
+      "example": "Le autorità di regolamentazione sono sotto pressione per affrontare la pubblicità personalizzata."
+    },
+    {
+      "id": "it-shopping-c1-c2-018",
+      "word": "Le autorità di regolamentazione sono sotto pressione per affrontare il commercio indipendente.",
+      "translation": "Regulators are under pressure to address independent retail.",
+      "example": "Le autorità di regolamentazione sono sotto pressione per affrontare il commercio indipendente."
+    },
+    {
+      "id": "it-shopping-c1-c2-019",
+      "word": "Le autorità di regolamentazione sono sotto pressione per affrontare l'accessibilità dei servizi.",
+      "translation": "Regulators are under pressure to address service accessibility.",
+      "example": "Le autorità di regolamentazione sono sotto pressione per affrontare l'accessibilità dei servizi."
+    },
+    {
+      "id": "it-shopping-c1-c2-020",
+      "word": "Le autorità di regolamentazione sono sotto pressione per affrontare la fiducia dei consumatori.",
+      "translation": "Regulators are under pressure to address consumer confidence.",
+      "example": "Le autorità di regolamentazione sono sotto pressione per affrontare la fiducia dei consumatori."
+    },
+    {
+      "id": "it-shopping-c1-c2-021",
+      "word": "Gli effetti a lungo termine di la tutela dei consumatori restano incerti.",
+      "translation": "The long-term effects of consumer protection remain uncertain.",
+      "example": "Gli effetti a lungo termine di la tutela dei consumatori restano incerti."
+    },
+    {
+      "id": "it-shopping-c1-c2-022",
+      "word": "Gli effetti a lungo termine di il consumo etico restano incerti.",
+      "translation": "The long-term effects of ethical consumption remain uncertain.",
+      "example": "Gli effetti a lungo termine di il consumo etico restano incerti."
+    },
+    {
+      "id": "it-shopping-c1-c2-023",
+      "word": "Gli effetti a lungo termine di la tariffazione dinamica restano incerti.",
+      "translation": "The long-term effects of dynamic pricing remain uncertain.",
+      "example": "Gli effetti a lungo termine di la tariffazione dinamica restano incerti."
+    },
+    {
+      "id": "it-shopping-c1-c2-024",
+      "word": "Gli effetti a lungo termine di la trasparenza della catena di approvvigionamento restano incerti.",
+      "translation": "The long-term effects of supply-chain transparency remain uncertain.",
+      "example": "Gli effetti a lungo termine di la trasparenza della catena di approvvigionamento restano incerti."
+    },
+    {
+      "id": "it-shopping-c1-c2-025",
+      "word": "Gli effetti a lungo termine di l'obsolescenza programmata restano incerti.",
+      "translation": "The long-term effects of planned obsolescence remain uncertain.",
+      "example": "Gli effetti a lungo termine di l'obsolescenza programmata restano incerti."
+    },
+    {
+      "id": "it-shopping-c1-c2-026",
+      "word": "Gli effetti a lungo termine di l'economia delle piattaforme restano incerti.",
+      "translation": "The long-term effects of the platform economy remain uncertain.",
+      "example": "Gli effetti a lungo termine di l'economia delle piattaforme restano incerti."
+    },
+    {
+      "id": "it-shopping-c1-c2-027",
+      "word": "Gli effetti a lungo termine di la pubblicità personalizzata restano incerti.",
+      "translation": "The long-term effects of personalised advertising remain uncertain.",
+      "example": "Gli effetti a lungo termine di la pubblicità personalizzata restano incerti."
+    },
+    {
+      "id": "it-shopping-c1-c2-028",
+      "word": "Gli effetti a lungo termine di il commercio indipendente restano incerti.",
+      "translation": "The long-term effects of independent retail remain uncertain.",
+      "example": "Gli effetti a lungo termine di il commercio indipendente restano incerti."
+    },
+    {
+      "id": "it-shopping-c1-c2-029",
+      "word": "Gli effetti a lungo termine di l'accessibilità dei servizi restano incerti.",
+      "translation": "The long-term effects of service accessibility remain uncertain.",
+      "example": "Gli effetti a lungo termine di l'accessibilità dei servizi restano incerti."
+    },
+    {
+      "id": "it-shopping-c1-c2-030",
+      "word": "Gli effetti a lungo termine di la fiducia dei consumatori restano incerti.",
+      "translation": "The long-term effects of consumer confidence remain uncertain.",
+      "example": "Gli effetti a lungo termine di la fiducia dei consumatori restano incerti."
+    },
+    {
+      "id": "it-shopping-c1-c2-031",
+      "word": "Il rapporto offre un'analisi articolata di la tutela dei consumatori.",
+      "translation": "The report provides a nuanced analysis of consumer protection.",
+      "example": "Il rapporto offre un'analisi articolata di la tutela dei consumatori."
+    },
+    {
+      "id": "it-shopping-c1-c2-032",
+      "word": "Il rapporto offre un'analisi articolata di il consumo etico.",
+      "translation": "The report provides a nuanced analysis of ethical consumption.",
+      "example": "Il rapporto offre un'analisi articolata di il consumo etico."
+    },
+    {
+      "id": "it-shopping-c1-c2-033",
+      "word": "Il rapporto offre un'analisi articolata di la tariffazione dinamica.",
+      "translation": "The report provides a nuanced analysis of dynamic pricing.",
+      "example": "Il rapporto offre un'analisi articolata di la tariffazione dinamica."
+    },
+    {
+      "id": "it-shopping-c1-c2-034",
+      "word": "Il rapporto offre un'analisi articolata di la trasparenza della catena di approvvigionamento.",
+      "translation": "The report provides a nuanced analysis of supply-chain transparency.",
+      "example": "Il rapporto offre un'analisi articolata di la trasparenza della catena di approvvigionamento."
+    },
+    {
+      "id": "it-shopping-c1-c2-035",
+      "word": "Il rapporto offre un'analisi articolata di l'obsolescenza programmata.",
+      "translation": "The report provides a nuanced analysis of planned obsolescence.",
+      "example": "Il rapporto offre un'analisi articolata di l'obsolescenza programmata."
+    },
+    {
+      "id": "it-shopping-c1-c2-036",
+      "word": "Il rapporto offre un'analisi articolata di l'economia delle piattaforme.",
+      "translation": "The report provides a nuanced analysis of the platform economy.",
+      "example": "Il rapporto offre un'analisi articolata di l'economia delle piattaforme."
+    },
+    {
+      "id": "it-shopping-c1-c2-037",
+      "word": "Il rapporto offre un'analisi articolata di la pubblicità personalizzata.",
+      "translation": "The report provides a nuanced analysis of personalised advertising.",
+      "example": "Il rapporto offre un'analisi articolata di la pubblicità personalizzata."
+    },
+    {
+      "id": "it-shopping-c1-c2-038",
+      "word": "Il rapporto offre un'analisi articolata di il commercio indipendente.",
+      "translation": "The report provides a nuanced analysis of independent retail.",
+      "example": "Il rapporto offre un'analisi articolata di il commercio indipendente."
+    },
+    {
+      "id": "it-shopping-c1-c2-039",
+      "word": "Il rapporto offre un'analisi articolata di l'accessibilità dei servizi.",
+      "translation": "The report provides a nuanced analysis of service accessibility.",
+      "example": "Il rapporto offre un'analisi articolata di l'accessibilità dei servizi."
+    },
+    {
+      "id": "it-shopping-c1-c2-040",
+      "word": "Il rapporto offre un'analisi articolata di la fiducia dei consumatori.",
+      "translation": "The report provides a nuanced analysis of consumer confidence.",
+      "example": "Il rapporto offre un'analisi articolata di la fiducia dei consumatori."
+    },
+    {
+      "id": "it-shopping-c1-c2-041",
+      "word": "La tecnologia digitale ha trasformato radicalmente la tutela dei consumatori.",
+      "translation": "Digital technology has fundamentally transformed consumer protection.",
+      "example": "La tecnologia digitale ha trasformato radicalmente la tutela dei consumatori."
+    },
+    {
+      "id": "it-shopping-c1-c2-042",
+      "word": "La tecnologia digitale ha trasformato radicalmente il consumo etico.",
+      "translation": "Digital technology has fundamentally transformed ethical consumption.",
+      "example": "La tecnologia digitale ha trasformato radicalmente il consumo etico."
+    },
+    {
+      "id": "it-shopping-c1-c2-043",
+      "word": "La tecnologia digitale ha trasformato radicalmente la tariffazione dinamica.",
+      "translation": "Digital technology has fundamentally transformed dynamic pricing.",
+      "example": "La tecnologia digitale ha trasformato radicalmente la tariffazione dinamica."
+    },
+    {
+      "id": "it-shopping-c1-c2-044",
+      "word": "La tecnologia digitale ha trasformato radicalmente la trasparenza della catena di approvvigionamento.",
+      "translation": "Digital technology has fundamentally transformed supply-chain transparency.",
+      "example": "La tecnologia digitale ha trasformato radicalmente la trasparenza della catena di approvvigionamento."
+    },
+    {
+      "id": "it-shopping-c1-c2-045",
+      "word": "La tecnologia digitale ha trasformato radicalmente l'obsolescenza programmata.",
+      "translation": "Digital technology has fundamentally transformed planned obsolescence.",
+      "example": "La tecnologia digitale ha trasformato radicalmente l'obsolescenza programmata."
+    },
+    {
+      "id": "it-shopping-c1-c2-046",
+      "word": "La tecnologia digitale ha trasformato radicalmente l'economia delle piattaforme.",
+      "translation": "Digital technology has fundamentally transformed the platform economy.",
+      "example": "La tecnologia digitale ha trasformato radicalmente l'economia delle piattaforme."
+    },
+    {
+      "id": "it-shopping-c1-c2-047",
+      "word": "La tecnologia digitale ha trasformato radicalmente la pubblicità personalizzata.",
+      "translation": "Digital technology has fundamentally transformed personalised advertising.",
+      "example": "La tecnologia digitale ha trasformato radicalmente la pubblicità personalizzata."
+    },
+    {
+      "id": "it-shopping-c1-c2-048",
+      "word": "La tecnologia digitale ha trasformato radicalmente il commercio indipendente.",
+      "translation": "Digital technology has fundamentally transformed independent retail.",
+      "example": "La tecnologia digitale ha trasformato radicalmente il commercio indipendente."
+    },
+    {
+      "id": "it-shopping-c1-c2-049",
+      "word": "La tecnologia digitale ha trasformato radicalmente l'accessibilità dei servizi.",
+      "translation": "Digital technology has fundamentally transformed service accessibility.",
+      "example": "La tecnologia digitale ha trasformato radicalmente l'accessibilità dei servizi."
+    },
+    {
+      "id": "it-shopping-c1-c2-050",
+      "word": "La tecnologia digitale ha trasformato radicalmente la fiducia dei consumatori.",
+      "translation": "Digital technology has fundamentally transformed consumer confidence.",
+      "example": "La tecnologia digitale ha trasformato radicalmente la fiducia dei consumatori."
+    },
+    {
+      "id": "it-shopping-c1-c2-051",
+      "word": "La consapevolezza pubblica di la tutela dei consumatori è aumentata notevolmente.",
+      "translation": "Public awareness of consumer protection has increased substantially.",
+      "example": "La consapevolezza pubblica di la tutela dei consumatori è aumentata notevolmente."
+    },
+    {
+      "id": "it-shopping-c1-c2-052",
+      "word": "La consapevolezza pubblica di il consumo etico è aumentata notevolmente.",
+      "translation": "Public awareness of ethical consumption has increased substantially.",
+      "example": "La consapevolezza pubblica di il consumo etico è aumentata notevolmente."
+    },
+    {
+      "id": "it-shopping-c1-c2-053",
+      "word": "La consapevolezza pubblica di la tariffazione dinamica è aumentata notevolmente.",
+      "translation": "Public awareness of dynamic pricing has increased substantially.",
+      "example": "La consapevolezza pubblica di la tariffazione dinamica è aumentata notevolmente."
+    },
+    {
+      "id": "it-shopping-c1-c2-054",
+      "word": "La consapevolezza pubblica di la trasparenza della catena di approvvigionamento è aumentata notevolmente.",
+      "translation": "Public awareness of supply-chain transparency has increased substantially.",
+      "example": "La consapevolezza pubblica di la trasparenza della catena di approvvigionamento è aumentata notevolmente."
+    },
+    {
+      "id": "it-shopping-c1-c2-055",
+      "word": "La consapevolezza pubblica di l'obsolescenza programmata è aumentata notevolmente.",
+      "translation": "Public awareness of planned obsolescence has increased substantially.",
+      "example": "La consapevolezza pubblica di l'obsolescenza programmata è aumentata notevolmente."
+    },
+    {
+      "id": "it-shopping-c1-c2-056",
+      "word": "La consapevolezza pubblica di l'economia delle piattaforme è aumentata notevolmente.",
+      "translation": "Public awareness of the platform economy has increased substantially.",
+      "example": "La consapevolezza pubblica di l'economia delle piattaforme è aumentata notevolmente."
+    },
+    {
+      "id": "it-shopping-c1-c2-057",
+      "word": "La consapevolezza pubblica di la pubblicità personalizzata è aumentata notevolmente.",
+      "translation": "Public awareness of personalised advertising has increased substantially.",
+      "example": "La consapevolezza pubblica di la pubblicità personalizzata è aumentata notevolmente."
+    },
+    {
+      "id": "it-shopping-c1-c2-058",
+      "word": "La consapevolezza pubblica di il commercio indipendente è aumentata notevolmente.",
+      "translation": "Public awareness of independent retail has increased substantially.",
+      "example": "La consapevolezza pubblica di il commercio indipendente è aumentata notevolmente."
+    },
+    {
+      "id": "it-shopping-c1-c2-059",
+      "word": "La consapevolezza pubblica di l'accessibilità dei servizi è aumentata notevolmente.",
+      "translation": "Public awareness of service accessibility has increased substantially.",
+      "example": "La consapevolezza pubblica di l'accessibilità dei servizi è aumentata notevolmente."
+    },
+    {
+      "id": "it-shopping-c1-c2-060",
+      "word": "La consapevolezza pubblica di la fiducia dei consumatori è aumentata notevolmente.",
+      "translation": "Public awareness of consumer confidence has increased substantially.",
+      "example": "La consapevolezza pubblica di la fiducia dei consumatori è aumentata notevolmente."
+    },
+    {
+      "id": "it-shopping-c1-c2-061",
+      "word": "Qualsiasi valutazione di la tutela dei consumatori deve considerare le differenze regionali.",
+      "translation": "Any assessment of consumer protection must consider regional differences.",
+      "example": "Qualsiasi valutazione di la tutela dei consumatori deve considerare le differenze regionali."
+    },
+    {
+      "id": "it-shopping-c1-c2-062",
+      "word": "Qualsiasi valutazione di il consumo etico deve considerare le differenze regionali.",
+      "translation": "Any assessment of ethical consumption must consider regional differences.",
+      "example": "Qualsiasi valutazione di il consumo etico deve considerare le differenze regionali."
+    },
+    {
+      "id": "it-shopping-c1-c2-063",
+      "word": "Qualsiasi valutazione di la tariffazione dinamica deve considerare le differenze regionali.",
+      "translation": "Any assessment of dynamic pricing must consider regional differences.",
+      "example": "Qualsiasi valutazione di la tariffazione dinamica deve considerare le differenze regionali."
+    },
+    {
+      "id": "it-shopping-c1-c2-064",
+      "word": "Qualsiasi valutazione di la trasparenza della catena di approvvigionamento deve considerare le differenze regionali.",
+      "translation": "Any assessment of supply-chain transparency must consider regional differences.",
+      "example": "Qualsiasi valutazione di la trasparenza della catena di approvvigionamento deve considerare le differenze regionali."
+    },
+    {
+      "id": "it-shopping-c1-c2-065",
+      "word": "Qualsiasi valutazione di l'obsolescenza programmata deve considerare le differenze regionali.",
+      "translation": "Any assessment of planned obsolescence must consider regional differences.",
+      "example": "Qualsiasi valutazione di l'obsolescenza programmata deve considerare le differenze regionali."
+    },
+    {
+      "id": "it-shopping-c1-c2-066",
+      "word": "Qualsiasi valutazione di l'economia delle piattaforme deve considerare le differenze regionali.",
+      "translation": "Any assessment of the platform economy must consider regional differences.",
+      "example": "Qualsiasi valutazione di l'economia delle piattaforme deve considerare le differenze regionali."
+    },
+    {
+      "id": "it-shopping-c1-c2-067",
+      "word": "Qualsiasi valutazione di la pubblicità personalizzata deve considerare le differenze regionali.",
+      "translation": "Any assessment of personalised advertising must consider regional differences.",
+      "example": "Qualsiasi valutazione di la pubblicità personalizzata deve considerare le differenze regionali."
+    },
+    {
+      "id": "it-shopping-c1-c2-068",
+      "word": "Qualsiasi valutazione di il commercio indipendente deve considerare le differenze regionali.",
+      "translation": "Any assessment of independent retail must consider regional differences.",
+      "example": "Qualsiasi valutazione di il commercio indipendente deve considerare le differenze regionali."
+    },
+    {
+      "id": "it-shopping-c1-c2-069",
+      "word": "Qualsiasi valutazione di l'accessibilità dei servizi deve considerare le differenze regionali.",
+      "translation": "Any assessment of service accessibility must consider regional differences.",
+      "example": "Qualsiasi valutazione di l'accessibilità dei servizi deve considerare le differenze regionali."
+    },
+    {
+      "id": "it-shopping-c1-c2-070",
+      "word": "Qualsiasi valutazione di la fiducia dei consumatori deve considerare le differenze regionali.",
+      "translation": "Any assessment of consumer confidence must consider regional differences.",
+      "example": "Qualsiasi valutazione di la fiducia dei consumatori deve considerare le differenze regionali."
+    },
+    {
+      "id": "it-shopping-c1-c2-071",
+      "word": "Le imprese stanno rivedendo il loro approccio a la tutela dei consumatori.",
+      "translation": "Businesses are reconsidering their approach to consumer protection.",
+      "example": "Le imprese stanno rivedendo il loro approccio a la tutela dei consumatori."
+    },
+    {
+      "id": "it-shopping-c1-c2-072",
+      "word": "Le imprese stanno rivedendo il loro approccio a il consumo etico.",
+      "translation": "Businesses are reconsidering their approach to ethical consumption.",
+      "example": "Le imprese stanno rivedendo il loro approccio a il consumo etico."
+    },
+    {
+      "id": "it-shopping-c1-c2-073",
+      "word": "Le imprese stanno rivedendo il loro approccio a la tariffazione dinamica.",
+      "translation": "Businesses are reconsidering their approach to dynamic pricing.",
+      "example": "Le imprese stanno rivedendo il loro approccio a la tariffazione dinamica."
+    },
+    {
+      "id": "it-shopping-c1-c2-074",
+      "word": "Le imprese stanno rivedendo il loro approccio a la trasparenza della catena di approvvigionamento.",
+      "translation": "Businesses are reconsidering their approach to supply-chain transparency.",
+      "example": "Le imprese stanno rivedendo il loro approccio a la trasparenza della catena di approvvigionamento."
+    },
+    {
+      "id": "it-shopping-c1-c2-075",
+      "word": "Le imprese stanno rivedendo il loro approccio a l'obsolescenza programmata.",
+      "translation": "Businesses are reconsidering their approach to planned obsolescence.",
+      "example": "Le imprese stanno rivedendo il loro approccio a l'obsolescenza programmata."
+    },
+    {
+      "id": "it-shopping-c1-c2-076",
+      "word": "Le imprese stanno rivedendo il loro approccio a l'economia delle piattaforme.",
+      "translation": "Businesses are reconsidering their approach to the platform economy.",
+      "example": "Le imprese stanno rivedendo il loro approccio a l'economia delle piattaforme."
+    },
+    {
+      "id": "it-shopping-c1-c2-077",
+      "word": "Le imprese stanno rivedendo il loro approccio a la pubblicità personalizzata.",
+      "translation": "Businesses are reconsidering their approach to personalised advertising.",
+      "example": "Le imprese stanno rivedendo il loro approccio a la pubblicità personalizzata."
+    },
+    {
+      "id": "it-shopping-c1-c2-078",
+      "word": "Le imprese stanno rivedendo il loro approccio a il commercio indipendente.",
+      "translation": "Businesses are reconsidering their approach to independent retail.",
+      "example": "Le imprese stanno rivedendo il loro approccio a il commercio indipendente."
+    },
+    {
+      "id": "it-shopping-c1-c2-079",
+      "word": "Le imprese stanno rivedendo il loro approccio a l'accessibilità dei servizi.",
+      "translation": "Businesses are reconsidering their approach to service accessibility.",
+      "example": "Le imprese stanno rivedendo il loro approccio a l'accessibilità dei servizi."
+    },
+    {
+      "id": "it-shopping-c1-c2-080",
+      "word": "Le imprese stanno rivedendo il loro approccio a la fiducia dei consumatori.",
+      "translation": "Businesses are reconsidering their approach to consumer confidence.",
+      "example": "Le imprese stanno rivedendo il loro approccio a la fiducia dei consumatori."
+    },
+    {
+      "id": "it-shopping-c1-c2-081",
+      "word": "Una politica efficace potrebbe migliorare la tutela dei consumatori senza limitare la scelta.",
+      "translation": "Effective policy could improve consumer protection without restricting choice.",
+      "example": "Una politica efficace potrebbe migliorare la tutela dei consumatori senza limitare la scelta."
+    },
+    {
+      "id": "it-shopping-c1-c2-082",
+      "word": "Una politica efficace potrebbe migliorare il consumo etico senza limitare la scelta.",
+      "translation": "Effective policy could improve ethical consumption without restricting choice.",
+      "example": "Una politica efficace potrebbe migliorare il consumo etico senza limitare la scelta."
+    },
+    {
+      "id": "it-shopping-c1-c2-083",
+      "word": "Una politica efficace potrebbe migliorare la tariffazione dinamica senza limitare la scelta.",
+      "translation": "Effective policy could improve dynamic pricing without restricting choice.",
+      "example": "Una politica efficace potrebbe migliorare la tariffazione dinamica senza limitare la scelta."
+    },
+    {
+      "id": "it-shopping-c1-c2-084",
+      "word": "Una politica efficace potrebbe migliorare la trasparenza della catena di approvvigionamento senza limitare la scelta.",
+      "translation": "Effective policy could improve supply-chain transparency without restricting choice.",
+      "example": "Una politica efficace potrebbe migliorare la trasparenza della catena di approvvigionamento senza limitare la scelta."
+    },
+    {
+      "id": "it-shopping-c1-c2-085",
+      "word": "Una politica efficace potrebbe migliorare l'obsolescenza programmata senza limitare la scelta.",
+      "translation": "Effective policy could improve planned obsolescence without restricting choice.",
+      "example": "Una politica efficace potrebbe migliorare l'obsolescenza programmata senza limitare la scelta."
+    },
+    {
+      "id": "it-shopping-c1-c2-086",
+      "word": "Una politica efficace potrebbe migliorare l'economia delle piattaforme senza limitare la scelta.",
+      "translation": "Effective policy could improve the platform economy without restricting choice.",
+      "example": "Una politica efficace potrebbe migliorare l'economia delle piattaforme senza limitare la scelta."
+    },
+    {
+      "id": "it-shopping-c1-c2-087",
+      "word": "Una politica efficace potrebbe migliorare la pubblicità personalizzata senza limitare la scelta.",
+      "translation": "Effective policy could improve personalised advertising without restricting choice.",
+      "example": "Una politica efficace potrebbe migliorare la pubblicità personalizzata senza limitare la scelta."
+    },
+    {
+      "id": "it-shopping-c1-c2-088",
+      "word": "Una politica efficace potrebbe migliorare il commercio indipendente senza limitare la scelta.",
+      "translation": "Effective policy could improve independent retail without restricting choice.",
+      "example": "Una politica efficace potrebbe migliorare il commercio indipendente senza limitare la scelta."
+    },
+    {
+      "id": "it-shopping-c1-c2-089",
+      "word": "Una politica efficace potrebbe migliorare l'accessibilità dei servizi senza limitare la scelta.",
+      "translation": "Effective policy could improve service accessibility without restricting choice.",
+      "example": "Una politica efficace potrebbe migliorare l'accessibilità dei servizi senza limitare la scelta."
+    },
+    {
+      "id": "it-shopping-c1-c2-090",
+      "word": "Una politica efficace potrebbe migliorare la fiducia dei consumatori senza limitare la scelta.",
+      "translation": "Effective policy could improve consumer confidence without restricting choice.",
+      "example": "Una politica efficace potrebbe migliorare la fiducia dei consumatori senza limitare la scelta."
+    },
+    {
+      "id": "it-shopping-c1-c2-091",
+      "word": "Il dibattito su la tutela dei consumatori riflette cambiamenti economici più ampi.",
+      "translation": "The debate about consumer protection reflects broader economic changes.",
+      "example": "Il dibattito su la tutela dei consumatori riflette cambiamenti economici più ampi."
+    },
+    {
+      "id": "it-shopping-c1-c2-092",
+      "word": "Il dibattito su il consumo etico riflette cambiamenti economici più ampi.",
+      "translation": "The debate about ethical consumption reflects broader economic changes.",
+      "example": "Il dibattito su il consumo etico riflette cambiamenti economici più ampi."
+    },
+    {
+      "id": "it-shopping-c1-c2-093",
+      "word": "Il dibattito su la tariffazione dinamica riflette cambiamenti economici più ampi.",
+      "translation": "The debate about dynamic pricing reflects broader economic changes.",
+      "example": "Il dibattito su la tariffazione dinamica riflette cambiamenti economici più ampi."
+    },
+    {
+      "id": "it-shopping-c1-c2-094",
+      "word": "Il dibattito su la trasparenza della catena di approvvigionamento riflette cambiamenti economici più ampi.",
+      "translation": "The debate about supply-chain transparency reflects broader economic changes.",
+      "example": "Il dibattito su la trasparenza della catena di approvvigionamento riflette cambiamenti economici più ampi."
+    },
+    {
+      "id": "it-shopping-c1-c2-095",
+      "word": "Il dibattito su l'obsolescenza programmata riflette cambiamenti economici più ampi.",
+      "translation": "The debate about planned obsolescence reflects broader economic changes.",
+      "example": "Il dibattito su l'obsolescenza programmata riflette cambiamenti economici più ampi."
+    },
+    {
+      "id": "it-shopping-c1-c2-096",
+      "word": "Il dibattito su l'economia delle piattaforme riflette cambiamenti economici più ampi.",
+      "translation": "The debate about the platform economy reflects broader economic changes.",
+      "example": "Il dibattito su l'economia delle piattaforme riflette cambiamenti economici più ampi."
+    },
+    {
+      "id": "it-shopping-c1-c2-097",
+      "word": "Il dibattito su la pubblicità personalizzata riflette cambiamenti economici più ampi.",
+      "translation": "The debate about personalised advertising reflects broader economic changes.",
+      "example": "Il dibattito su la pubblicità personalizzata riflette cambiamenti economici più ampi."
+    },
+    {
+      "id": "it-shopping-c1-c2-098",
+      "word": "Il dibattito su il commercio indipendente riflette cambiamenti economici più ampi.",
+      "translation": "The debate about independent retail reflects broader economic changes.",
+      "example": "Il dibattito su il commercio indipendente riflette cambiamenti economici più ampi."
+    },
+    {
+      "id": "it-shopping-c1-c2-099",
+      "word": "Il dibattito su l'accessibilità dei servizi riflette cambiamenti economici più ampi.",
+      "translation": "The debate about service accessibility reflects broader economic changes.",
+      "example": "Il dibattito su l'accessibilità dei servizi riflette cambiamenti economici più ampi."
+    },
+    {
+      "id": "it-shopping-c1-c2-100",
+      "word": "Il dibattito su la fiducia dei consumatori riflette cambiamenti economici più ampi.",
+      "translation": "The debate about consumer confidence reflects broader economic changes.",
+      "example": "Il dibattito su la fiducia dei consumatori riflette cambiamenti economici più ampi."
+    }
+  ]
+}
