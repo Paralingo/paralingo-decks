@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-relationships-b1-b2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "relationships",
+  "categoryTitle": "Relationships & Emotions",
+  "title": "Relationships & Emotions",
+  "level": "B1-B2",
+  "emoji": "💞",
+  "description": "Communicate needs, set boundaries, repair trust, and handle conflict with empathy.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-relationships-b1-b2-001",
+      "word": "Quiero ser sincero sobre mis límites.",
+      "translation": "I want to be honest about my boundaries.",
+      "example": "Quiero ser sincero sobre mis límites."
+    },
+    {
+      "id": "es-relationships-b1-b2-002",
+      "word": "Quiero ser sincero sobre tus sentimientos.",
+      "translation": "I want to be honest about your feelings.",
+      "example": "Quiero ser sincero sobre tus sentimientos."
+    },
+    {
+      "id": "es-relationships-b1-b2-003",
+      "word": "Quiero ser sincero sobre el desacuerdo.",
+      "translation": "I want to be honest about the disagreement.",
+      "example": "Quiero ser sincero sobre el desacuerdo."
+    },
+    {
+      "id": "es-relationships-b1-b2-004",
+      "word": "Quiero ser sincero sobre nuestra amistad.",
+      "translation": "I want to be honest about our friendship.",
+      "example": "Quiero ser sincero sobre nuestra amistad."
+    },
+    {
+      "id": "es-relationships-b1-b2-005",
+      "word": "Quiero ser sincero sobre la promesa incumplida.",
+      "translation": "I want to be honest about the broken promise.",
+      "example": "Quiero ser sincero sobre la promesa incumplida."
+    },
+    {
+      "id": "es-relationships-b1-b2-006",
+      "word": "Quiero ser sincero sobre la falta de confianza.",
+      "translation": "I want to be honest about the lack of trust.",
+      "example": "Quiero ser sincero sobre la falta de confianza."
+    },
+    {
+      "id": "es-relationships-b1-b2-007",
+      "word": "Quiero ser sincero sobre el malentendido.",
+      "translation": "I want to be honest about the misunderstanding.",
+      "example": "Quiero ser sincero sobre el malentendido."
+    },
+    {
+      "id": "es-relationships-b1-b2-008",
+      "word": "Quiero ser sincero sobre mi necesidad de espacio.",
+      "translation": "I want to be honest about my need for space.",
+      "example": "Quiero ser sincero sobre mi necesidad de espacio."
+    },
+    {
+      "id": "es-relationships-b1-b2-009",
+      "word": "Quiero ser sincero sobre la disculpa.",
+      "translation": "I want to be honest about the apology.",
+      "example": "Quiero ser sincero sobre la disculpa."
+    },
+    {
+      "id": "es-relationships-b1-b2-010",
+      "word": "Quiero ser sincero sobre nuestras expectativas.",
+      "translation": "I want to be honest about our expectations.",
+      "example": "Quiero ser sincero sobre nuestras expectativas."
+    },
+    {
+      "id": "es-relationships-b1-b2-011",
+      "word": "Tenemos que hablar con calma de mis límites.",
+      "translation": "We need to talk calmly about my boundaries.",
+      "example": "Tenemos que hablar con calma de mis límites."
+    },
+    {
+      "id": "es-relationships-b1-b2-012",
+      "word": "Tenemos que hablar con calma de tus sentimientos.",
+      "translation": "We need to talk calmly about your feelings.",
+      "example": "Tenemos que hablar con calma de tus sentimientos."
+    },
+    {
+      "id": "es-relationships-b1-b2-013",
+      "word": "Tenemos que hablar con calma de el desacuerdo.",
+      "translation": "We need to talk calmly about the disagreement.",
+      "example": "Tenemos que hablar con calma de el desacuerdo."
+    },
+    {
+      "id": "es-relationships-b1-b2-014",
+      "word": "Tenemos que hablar con calma de nuestra amistad.",
+      "translation": "We need to talk calmly about our friendship.",
+      "example": "Tenemos que hablar con calma de nuestra amistad."
+    },
+    {
+      "id": "es-relationships-b1-b2-015",
+      "word": "Tenemos que hablar con calma de la promesa incumplida.",
+      "translation": "We need to talk calmly about the broken promise.",
+      "example": "Tenemos que hablar con calma de la promesa incumplida."
+    },
+    {
+      "id": "es-relationships-b1-b2-016",
+      "word": "Tenemos que hablar con calma de la falta de confianza.",
+      "translation": "We need to talk calmly about the lack of trust.",
+      "example": "Tenemos que hablar con calma de la falta de confianza."
+    },
+    {
+      "id": "es-relationships-b1-b2-017",
+      "word": "Tenemos que hablar con calma de el malentendido.",
+      "translation": "We need to talk calmly about the misunderstanding.",
+      "example": "Tenemos que hablar con calma de el malentendido."
+    },
+    {
+      "id": "es-relationships-b1-b2-018",
+      "word": "Tenemos que hablar con calma de mi necesidad de espacio.",
+      "translation": "We need to talk calmly about my need for space.",
+      "example": "Tenemos que hablar con calma de mi necesidad de espacio."
+    },
+    {
+      "id": "es-relationships-b1-b2-019",
+      "word": "Tenemos que hablar con calma de la disculpa.",
+      "translation": "We need to talk calmly about the apology.",
+      "example": "Tenemos que hablar con calma de la disculpa."
+    },
+    {
+      "id": "es-relationships-b1-b2-020",
+      "word": "Tenemos que hablar con calma de nuestras expectativas.",
+      "translation": "We need to talk calmly about our expectations.",
+      "example": "Tenemos que hablar con calma de nuestras expectativas."
+    },
+    {
+      "id": "es-relationships-b1-b2-021",
+      "word": "Entiendo por qué importa mis límites.",
+      "translation": "I understand why my boundaries matters.",
+      "example": "Entiendo por qué importa mis límites."
+    },
+    {
+      "id": "es-relationships-b1-b2-022",
+      "word": "Entiendo por qué importa tus sentimientos.",
+      "translation": "I understand why your feelings matters.",
+      "example": "Entiendo por qué importa tus sentimientos."
+    },
+    {
+      "id": "es-relationships-b1-b2-023",
+      "word": "Entiendo por qué importa el desacuerdo.",
+      "translation": "I understand why the disagreement matters.",
+      "example": "Entiendo por qué importa el desacuerdo."
+    },
+    {
+      "id": "es-relationships-b1-b2-024",
+      "word": "Entiendo por qué importa nuestra amistad.",
+      "translation": "I understand why our friendship matters.",
+      "example": "Entiendo por qué importa nuestra amistad."
+    },
+    {
+      "id": "es-relationships-b1-b2-025",
+      "word": "Entiendo por qué importa la promesa incumplida.",
+      "translation": "I understand why the broken promise matters.",
+      "example": "Entiendo por qué importa la promesa incumplida."
+    },
+    {
+      "id": "es-relationships-b1-b2-026",
+      "word": "Entiendo por qué importa la falta de confianza.",
+      "translation": "I understand why the lack of trust matters.",
+      "example": "Entiendo por qué importa la falta de confianza."
+    },
+    {
+      "id": "es-relationships-b1-b2-027",
+      "word": "Entiendo por qué importa el malentendido.",
+      "translation": "I understand why the misunderstanding matters.",
+      "example": "Entiendo por qué importa el malentendido."
+    },
+    {
+      "id": "es-relationships-b1-b2-028",
+      "word": "Entiendo por qué importa mi necesidad de espacio.",
+      "translation": "I understand why my need for space matters.",
+      "example": "Entiendo por qué importa mi necesidad de espacio."
+    },
+    {
+      "id": "es-relationships-b1-b2-029",
+      "word": "Entiendo por qué importa la disculpa.",
+      "translation": "I understand why the apology matters.",
+      "example": "Entiendo por qué importa la disculpa."
+    },
+    {
+      "id": "es-relationships-b1-b2-030",
+      "word": "Entiendo por qué importa nuestras expectativas.",
+      "translation": "I understand why our expectations matters.",
+      "example": "Entiendo por qué importa nuestras expectativas."
+    },
+    {
+      "id": "es-relationships-b1-b2-031",
+      "word": "Por favor, respeta mis límites.",
+      "translation": "Please respect my boundaries.",
+      "example": "Por favor, respeta mis límites."
+    },
+    {
+      "id": "es-relationships-b1-b2-032",
+      "word": "Por favor, respeta tus sentimientos.",
+      "translation": "Please respect your feelings.",
+      "example": "Por favor, respeta tus sentimientos."
+    },
+    {
+      "id": "es-relationships-b1-b2-033",
+      "word": "Por favor, respeta el desacuerdo.",
+      "translation": "Please respect the disagreement.",
+      "example": "Por favor, respeta el desacuerdo."
+    },
+    {
+      "id": "es-relationships-b1-b2-034",
+      "word": "Por favor, respeta nuestra amistad.",
+      "translation": "Please respect our friendship.",
+      "example": "Por favor, respeta nuestra amistad."
+    },
+    {
+      "id": "es-relationships-b1-b2-035",
+      "word": "Por favor, respeta la promesa incumplida.",
+      "translation": "Please respect the broken promise.",
+      "example": "Por favor, respeta la promesa incumplida."
+    },
+    {
+      "id": "es-relationships-b1-b2-036",
+      "word": "Por favor, respeta la falta de confianza.",
+      "translation": "Please respect the lack of trust.",
+      "example": "Por favor, respeta la falta de confianza."
+    },
+    {
+      "id": "es-relationships-b1-b2-037",
+      "word": "Por favor, respeta el malentendido.",
+      "translation": "Please respect the misunderstanding.",
+      "example": "Por favor, respeta el malentendido."
+    },
+    {
+      "id": "es-relationships-b1-b2-038",
+      "word": "Por favor, respeta mi necesidad de espacio.",
+      "translation": "Please respect my need for space.",
+      "example": "Por favor, respeta mi necesidad de espacio."
+    },
+    {
+      "id": "es-relationships-b1-b2-039",
+      "word": "Por favor, respeta la disculpa.",
+      "translation": "Please respect the apology.",
+      "example": "Por favor, respeta la disculpa."
+    },
+    {
+      "id": "es-relationships-b1-b2-040",
+      "word": "Por favor, respeta nuestras expectativas.",
+      "translation": "Please respect our expectations.",
+      "example": "Por favor, respeta nuestras expectativas."
+    },
+    {
+      "id": "es-relationships-b1-b2-041",
+      "word": "Asumo la responsabilidad de mis límites.",
+      "translation": "I take responsibility for my boundaries.",
+      "example": "Asumo la responsabilidad de mis límites."
+    },
+    {
+      "id": "es-relationships-b1-b2-042",
+      "word": "Asumo la responsabilidad de tus sentimientos.",
+      "translation": "I take responsibility for your feelings.",
+      "example": "Asumo la responsabilidad de tus sentimientos."
+    },
+    {
+      "id": "es-relationships-b1-b2-043",
+      "word": "Asumo la responsabilidad de el desacuerdo.",
+      "translation": "I take responsibility for the disagreement.",
+      "example": "Asumo la responsabilidad de el desacuerdo."
+    },
+    {
+      "id": "es-relationships-b1-b2-044",
+      "word": "Asumo la responsabilidad de nuestra amistad.",
+      "translation": "I take responsibility for our friendship.",
+      "example": "Asumo la responsabilidad de nuestra amistad."
+    },
+    {
+      "id": "es-relationships-b1-b2-045",
+      "word": "Asumo la responsabilidad de la promesa incumplida.",
+      "translation": "I take responsibility for the broken promise.",
+      "example": "Asumo la responsabilidad de la promesa incumplida."
+    },
+    {
+      "id": "es-relationships-b1-b2-046",
+      "word": "Asumo la responsabilidad de la falta de confianza.",
+      "translation": "I take responsibility for the lack of trust.",
+      "example": "Asumo la responsabilidad de la falta de confianza."
+    },
+    {
+      "id": "es-relationships-b1-b2-047",
+      "word": "Asumo la responsabilidad de el malentendido.",
+      "translation": "I take responsibility for the misunderstanding.",
+      "example": "Asumo la responsabilidad de el malentendido."
+    },
+    {
+      "id": "es-relationships-b1-b2-048",
+      "word": "Asumo la responsabilidad de mi necesidad de espacio.",
+      "translation": "I take responsibility for my need for space.",
+      "example": "Asumo la responsabilidad de mi necesidad de espacio."
+    },
+    {
+      "id": "es-relationships-b1-b2-049",
+      "word": "Asumo la responsabilidad de la disculpa.",
+      "translation": "I take responsibility for the apology.",
+      "example": "Asumo la responsabilidad de la disculpa."
+    },
+    {
+      "id": "es-relationships-b1-b2-050",
+      "word": "Asumo la responsabilidad de nuestras expectativas.",
+      "translation": "I take responsibility for our expectations.",
+      "example": "Asumo la responsabilidad de nuestras expectativas."
+    },
+    {
+      "id": "es-relationships-b1-b2-051",
+      "word": "¿Podemos encontrar una solución para mis límites?",
+      "translation": "Can we find a solution to my boundaries?",
+      "example": "¿Podemos encontrar una solución para mis límites?"
+    },
+    {
+      "id": "es-relationships-b1-b2-052",
+      "word": "¿Podemos encontrar una solución para tus sentimientos?",
+      "translation": "Can we find a solution to your feelings?",
+      "example": "¿Podemos encontrar una solución para tus sentimientos?"
+    },
+    {
+      "id": "es-relationships-b1-b2-053",
+      "word": "¿Podemos encontrar una solución para el desacuerdo?",
+      "translation": "Can we find a solution to the disagreement?",
+      "example": "¿Podemos encontrar una solución para el desacuerdo?"
+    },
+    {
+      "id": "es-relationships-b1-b2-054",
+      "word": "¿Podemos encontrar una solución para nuestra amistad?",
+      "translation": "Can we find a solution to our friendship?",
+      "example": "¿Podemos encontrar una solución para nuestra amistad?"
+    },
+    {
+      "id": "es-relationships-b1-b2-055",
+      "word": "¿Podemos encontrar una solución para la promesa incumplida?",
+      "translation": "Can we find a solution to the broken promise?",
+      "example": "¿Podemos encontrar una solución para la promesa incumplida?"
+    },
+    {
+      "id": "es-relationships-b1-b2-056",
+      "word": "¿Podemos encontrar una solución para la falta de confianza?",
+      "translation": "Can we find a solution to the lack of trust?",
+      "example": "¿Podemos encontrar una solución para la falta de confianza?"
+    },
+    {
+      "id": "es-relationships-b1-b2-057",
+      "word": "¿Podemos encontrar una solución para el malentendido?",
+      "translation": "Can we find a solution to the misunderstanding?",
+      "example": "¿Podemos encontrar una solución para el malentendido?"
+    },
+    {
+      "id": "es-relationships-b1-b2-058",
+      "word": "¿Podemos encontrar una solución para mi necesidad de espacio?",
+      "translation": "Can we find a solution to my need for space?",
+      "example": "¿Podemos encontrar una solución para mi necesidad de espacio?"
+    },
+    {
+      "id": "es-relationships-b1-b2-059",
+      "word": "¿Podemos encontrar una solución para la disculpa?",
+      "translation": "Can we find a solution to the apology?",
+      "example": "¿Podemos encontrar una solución para la disculpa?"
+    },
+    {
+      "id": "es-relationships-b1-b2-060",
+      "word": "¿Podemos encontrar una solución para nuestras expectativas?",
+      "translation": "Can we find a solution to our expectations?",
+      "example": "¿Podemos encontrar una solución para nuestras expectativas?"
+    },
+    {
+      "id": "es-relationships-b1-b2-061",
+      "word": "Necesito tiempo para pensar en mis límites.",
+      "translation": "I need time to think about my boundaries.",
+      "example": "Necesito tiempo para pensar en mis límites."
+    },
+    {
+      "id": "es-relationships-b1-b2-062",
+      "word": "Necesito tiempo para pensar en tus sentimientos.",
+      "translation": "I need time to think about your feelings.",
+      "example": "Necesito tiempo para pensar en tus sentimientos."
+    },
+    {
+      "id": "es-relationships-b1-b2-063",
+      "word": "Necesito tiempo para pensar en el desacuerdo.",
+      "translation": "I need time to think about the disagreement.",
+      "example": "Necesito tiempo para pensar en el desacuerdo."
+    },
+    {
+      "id": "es-relationships-b1-b2-064",
+      "word": "Necesito tiempo para pensar en nuestra amistad.",
+      "translation": "I need time to think about our friendship.",
+      "example": "Necesito tiempo para pensar en nuestra amistad."
+    },
+    {
+      "id": "es-relationships-b1-b2-065",
+      "word": "Necesito tiempo para pensar en la promesa incumplida.",
+      "translation": "I need time to think about the broken promise.",
+      "example": "Necesito tiempo para pensar en la promesa incumplida."
+    },
+    {
+      "id": "es-relationships-b1-b2-066",
+      "word": "Necesito tiempo para pensar en la falta de confianza.",
+      "translation": "I need time to think about the lack of trust.",
+      "example": "Necesito tiempo para pensar en la falta de confianza."
+    },
+    {
+      "id": "es-relationships-b1-b2-067",
+      "word": "Necesito tiempo para pensar en el malentendido.",
+      "translation": "I need time to think about the misunderstanding.",
+      "example": "Necesito tiempo para pensar en el malentendido."
+    },
+    {
+      "id": "es-relationships-b1-b2-068",
+      "word": "Necesito tiempo para pensar en mi necesidad de espacio.",
+      "translation": "I need time to think about my need for space.",
+      "example": "Necesito tiempo para pensar en mi necesidad de espacio."
+    },
+    {
+      "id": "es-relationships-b1-b2-069",
+      "word": "Necesito tiempo para pensar en la disculpa.",
+      "translation": "I need time to think about the apology.",
+      "example": "Necesito tiempo para pensar en la disculpa."
+    },
+    {
+      "id": "es-relationships-b1-b2-070",
+      "word": "Necesito tiempo para pensar en nuestras expectativas.",
+      "translation": "I need time to think about our expectations.",
+      "example": "Necesito tiempo para pensar en nuestras expectativas."
+    },
+    {
+      "id": "es-relationships-b1-b2-071",
+      "word": "Ignorar mis límites empeorará las cosas.",
+      "translation": "Ignoring my boundaries will make things worse.",
+      "example": "Ignorar mis límites empeorará las cosas."
+    },
+    {
+      "id": "es-relationships-b1-b2-072",
+      "word": "Ignorar tus sentimientos empeorará las cosas.",
+      "translation": "Ignoring your feelings will make things worse.",
+      "example": "Ignorar tus sentimientos empeorará las cosas."
+    },
+    {
+      "id": "es-relationships-b1-b2-073",
+      "word": "Ignorar el desacuerdo empeorará las cosas.",
+      "translation": "Ignoring the disagreement will make things worse.",
+      "example": "Ignorar el desacuerdo empeorará las cosas."
+    },
+    {
+      "id": "es-relationships-b1-b2-074",
+      "word": "Ignorar nuestra amistad empeorará las cosas.",
+      "translation": "Ignoring our friendship will make things worse.",
+      "example": "Ignorar nuestra amistad empeorará las cosas."
+    },
+    {
+      "id": "es-relationships-b1-b2-075",
+      "word": "Ignorar la promesa incumplida empeorará las cosas.",
+      "translation": "Ignoring the broken promise will make things worse.",
+      "example": "Ignorar la promesa incumplida empeorará las cosas."
+    },
+    {
+      "id": "es-relationships-b1-b2-076",
+      "word": "Ignorar la falta de confianza empeorará las cosas.",
+      "translation": "Ignoring the lack of trust will make things worse.",
+      "example": "Ignorar la falta de confianza empeorará las cosas."
+    },
+    {
+      "id": "es-relationships-b1-b2-077",
+      "word": "Ignorar el malentendido empeorará las cosas.",
+      "translation": "Ignoring the misunderstanding will make things worse.",
+      "example": "Ignorar el malentendido empeorará las cosas."
+    },
+    {
+      "id": "es-relationships-b1-b2-078",
+      "word": "Ignorar mi necesidad de espacio empeorará las cosas.",
+      "translation": "Ignoring my need for space will make things worse.",
+      "example": "Ignorar mi necesidad de espacio empeorará las cosas."
+    },
+    {
+      "id": "es-relationships-b1-b2-079",
+      "word": "Ignorar la disculpa empeorará las cosas.",
+      "translation": "Ignoring the apology will make things worse.",
+      "example": "Ignorar la disculpa empeorará las cosas."
+    },
+    {
+      "id": "es-relationships-b1-b2-080",
+      "word": "Ignorar nuestras expectativas empeorará las cosas.",
+      "translation": "Ignoring our expectations will make things worse.",
+      "example": "Ignorar nuestras expectativas empeorará las cosas."
+    },
+    {
+      "id": "es-relationships-b1-b2-081",
+      "word": "Agradezco tu franqueza sobre mis límites.",
+      "translation": "I appreciate your openness about my boundaries.",
+      "example": "Agradezco tu franqueza sobre mis límites."
+    },
+    {
+      "id": "es-relationships-b1-b2-082",
+      "word": "Agradezco tu franqueza sobre tus sentimientos.",
+      "translation": "I appreciate your openness about your feelings.",
+      "example": "Agradezco tu franqueza sobre tus sentimientos."
+    },
+    {
+      "id": "es-relationships-b1-b2-083",
+      "word": "Agradezco tu franqueza sobre el desacuerdo.",
+      "translation": "I appreciate your openness about the disagreement.",
+      "example": "Agradezco tu franqueza sobre el desacuerdo."
+    },
+    {
+      "id": "es-relationships-b1-b2-084",
+      "word": "Agradezco tu franqueza sobre nuestra amistad.",
+      "translation": "I appreciate your openness about our friendship.",
+      "example": "Agradezco tu franqueza sobre nuestra amistad."
+    },
+    {
+      "id": "es-relationships-b1-b2-085",
+      "word": "Agradezco tu franqueza sobre la promesa incumplida.",
+      "translation": "I appreciate your openness about the broken promise.",
+      "example": "Agradezco tu franqueza sobre la promesa incumplida."
+    },
+    {
+      "id": "es-relationships-b1-b2-086",
+      "word": "Agradezco tu franqueza sobre la falta de confianza.",
+      "translation": "I appreciate your openness about the lack of trust.",
+      "example": "Agradezco tu franqueza sobre la falta de confianza."
+    },
+    {
+      "id": "es-relationships-b1-b2-087",
+      "word": "Agradezco tu franqueza sobre el malentendido.",
+      "translation": "I appreciate your openness about the misunderstanding.",
+      "example": "Agradezco tu franqueza sobre el malentendido."
+    },
+    {
+      "id": "es-relationships-b1-b2-088",
+      "word": "Agradezco tu franqueza sobre mi necesidad de espacio.",
+      "translation": "I appreciate your openness about my need for space.",
+      "example": "Agradezco tu franqueza sobre mi necesidad de espacio."
+    },
+    {
+      "id": "es-relationships-b1-b2-089",
+      "word": "Agradezco tu franqueza sobre la disculpa.",
+      "translation": "I appreciate your openness about the apology.",
+      "example": "Agradezco tu franqueza sobre la disculpa."
+    },
+    {
+      "id": "es-relationships-b1-b2-090",
+      "word": "Agradezco tu franqueza sobre nuestras expectativas.",
+      "translation": "I appreciate your openness about our expectations.",
+      "example": "Agradezco tu franqueza sobre nuestras expectativas."
+    },
+    {
+      "id": "es-relationships-b1-b2-091",
+      "word": "Podemos reconstruir nuestra relación abordando mis límites.",
+      "translation": "We can rebuild our relationship by addressing my boundaries.",
+      "example": "Podemos reconstruir nuestra relación abordando mis límites."
+    },
+    {
+      "id": "es-relationships-b1-b2-092",
+      "word": "Podemos reconstruir nuestra relación abordando tus sentimientos.",
+      "translation": "We can rebuild our relationship by addressing your feelings.",
+      "example": "Podemos reconstruir nuestra relación abordando tus sentimientos."
+    },
+    {
+      "id": "es-relationships-b1-b2-093",
+      "word": "Podemos reconstruir nuestra relación abordando el desacuerdo.",
+      "translation": "We can rebuild our relationship by addressing the disagreement.",
+      "example": "Podemos reconstruir nuestra relación abordando el desacuerdo."
+    },
+    {
+      "id": "es-relationships-b1-b2-094",
+      "word": "Podemos reconstruir nuestra relación abordando nuestra amistad.",
+      "translation": "We can rebuild our relationship by addressing our friendship.",
+      "example": "Podemos reconstruir nuestra relación abordando nuestra amistad."
+    },
+    {
+      "id": "es-relationships-b1-b2-095",
+      "word": "Podemos reconstruir nuestra relación abordando la promesa incumplida.",
+      "translation": "We can rebuild our relationship by addressing the broken promise.",
+      "example": "Podemos reconstruir nuestra relación abordando la promesa incumplida."
+    },
+    {
+      "id": "es-relationships-b1-b2-096",
+      "word": "Podemos reconstruir nuestra relación abordando la falta de confianza.",
+      "translation": "We can rebuild our relationship by addressing the lack of trust.",
+      "example": "Podemos reconstruir nuestra relación abordando la falta de confianza."
+    },
+    {
+      "id": "es-relationships-b1-b2-097",
+      "word": "Podemos reconstruir nuestra relación abordando el malentendido.",
+      "translation": "We can rebuild our relationship by addressing the misunderstanding.",
+      "example": "Podemos reconstruir nuestra relación abordando el malentendido."
+    },
+    {
+      "id": "es-relationships-b1-b2-098",
+      "word": "Podemos reconstruir nuestra relación abordando mi necesidad de espacio.",
+      "translation": "We can rebuild our relationship by addressing my need for space.",
+      "example": "Podemos reconstruir nuestra relación abordando mi necesidad de espacio."
+    },
+    {
+      "id": "es-relationships-b1-b2-099",
+      "word": "Podemos reconstruir nuestra relación abordando la disculpa.",
+      "translation": "We can rebuild our relationship by addressing the apology.",
+      "example": "Podemos reconstruir nuestra relación abordando la disculpa."
+    },
+    {
+      "id": "es-relationships-b1-b2-100",
+      "word": "Podemos reconstruir nuestra relación abordando nuestras expectativas.",
+      "translation": "We can rebuild our relationship by addressing our expectations.",
+      "example": "Podemos reconstruir nuestra relación abordando nuestras expectativas."
+    }
+  ]
+}
