@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1, "packageVersion": 1, "id": "paralingo-pt-food-a1", "languageCode": "pt", "locale": "pt-PT",
+  "categoryId": "food", "categoryTitle": "Food & Restaurants", "title": "Food & Restaurants", "level": "A1", "emoji": "🍽️",
+  "description": "Order food and talk about simple meals.", "license": "CC BY 4.0", "attribution": "Paralingo",
+  "cards": [
+    { "id": "pt-food-a1-001", "word": "a água", "translation": "water", "example": "Queria um copo de água." },
+    { "id": "pt-food-a1-002", "word": "o pão", "translation": "bread", "example": "O pão está fresco." },
+    { "id": "pt-food-a1-003", "word": "o pequeno-almoço", "translation": "breakfast", "example": "O pequeno-almoço está pronto." },
+    { "id": "pt-food-a1-004", "word": "a comida", "translation": "food", "example": "A comida está deliciosa." },
+    { "id": "pt-food-a1-005", "word": "a conta", "translation": "bill", "example": "A conta, por favor." },
+    { "id": "pt-food-a1-006", "word": "a mesa", "translation": "table", "example": "Temos uma mesa para dois." },
+    { "id": "pt-food-a1-007", "word": "o menu", "translation": "menu", "example": "Posso ver o menu?" },
+    { "id": "pt-food-a1-008", "word": "o café", "translation": "coffee", "example": "Um café, por favor." },
+    { "id": "pt-food-a1-009", "word": "o leite", "translation": "milk", "example": "Bebo leite de manhã." },
+    { "id": "pt-food-a1-010", "word": "o arroz", "translation": "rice", "example": "O arroz está quente." },
+    { "id": "pt-food-a1-011", "word": "a carne", "translation": "meat", "example": "Não como carne." },
+    { "id": "pt-food-a1-012", "word": "o peixe", "translation": "fish", "example": "Hoje temos peixe." },
+    { "id": "pt-food-a1-013", "word": "a fruta", "translation": "fruit", "example": "A fruta é boa." },
+    { "id": "pt-food-a1-014", "word": "a maçã", "translation": "apple", "example": "Quero uma maçã." },
+    { "id": "pt-food-a1-015", "word": "comer", "translation": "to eat", "example": "Vamos comer agora." },
+    { "id": "pt-food-a1-016", "word": "beber", "translation": "to drink", "example": "Quero beber algo fresco." },
+    { "id": "pt-food-a1-017", "word": "ter fome", "translation": "to be hungry", "example": "Tenho muita fome." },
+    { "id": "pt-food-a1-018", "word": "saboroso", "translation": "tasty", "example": "Este prato é muito saboroso." },
+    { "id": "pt-food-a1-019", "word": "o empregado", "translation": "waiter", "example": "O empregado traz o menu." },
+    { "id": "pt-food-a1-020", "word": "por favor", "translation": "please", "example": "Uma mesa para dois, por favor." }
+  ]
+}
