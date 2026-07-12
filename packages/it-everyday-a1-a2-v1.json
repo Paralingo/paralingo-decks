@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-it-everyday-a1-a2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "everyday",
+  "categoryTitle": "Everyday Essentials",
+  "title": "Everyday Essentials",
+  "level": "A1-A2",
+  "emoji": "🗓️",
+  "description": "Build everyday foundations for time, weather, home, routines, and essential services.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-everyday-a1-a2-001",
+      "word": "lunedì",
+      "translation": "Monday",
+      "example": "lunedì"
+    },
+    {
+      "id": "it-everyday-a1-a2-002",
+      "word": "martedì",
+      "translation": "Tuesday",
+      "example": "martedì"
+    },
+    {
+      "id": "it-everyday-a1-a2-003",
+      "word": "mercoledì",
+      "translation": "Wednesday",
+      "example": "mercoledì"
+    },
+    {
+      "id": "it-everyday-a1-a2-004",
+      "word": "giovedì",
+      "translation": "Thursday",
+      "example": "giovedì"
+    },
+    {
+      "id": "it-everyday-a1-a2-005",
+      "word": "venerdì",
+      "translation": "Friday",
+      "example": "venerdì"
+    },
+    {
+      "id": "it-everyday-a1-a2-006",
+      "word": "sabato",
+      "translation": "Saturday",
+      "example": "sabato"
+    },
+    {
+      "id": "it-everyday-a1-a2-007",
+      "word": "domenica",
+      "translation": "Sunday",
+      "example": "domenica"
+    },
+    {
+      "id": "it-everyday-a1-a2-008",
+      "word": "gennaio",
+      "translation": "January",
+      "example": "gennaio"
+    },
+    {
+      "id": "it-everyday-a1-a2-009",
+      "word": "febbraio",
+      "translation": "February",
+      "example": "febbraio"
+    },
+    {
+      "id": "it-everyday-a1-a2-010",
+      "word": "marzo",
+      "translation": "March",
+      "example": "marzo"
+    },
+    {
+      "id": "it-everyday-a1-a2-011",
+      "word": "aprile",
+      "translation": "April",
+      "example": "aprile"
+    },
+    {
+      "id": "it-everyday-a1-a2-012",
+      "word": "maggio",
+      "translation": "May",
+      "example": "maggio"
+    },
+    {
+      "id": "it-everyday-a1-a2-013",
+      "word": "giugno",
+      "translation": "June",
+      "example": "giugno"
+    },
+    {
+      "id": "it-everyday-a1-a2-014",
+      "word": "luglio",
+      "translation": "July",
+      "example": "luglio"
+    },
+    {
+      "id": "it-everyday-a1-a2-015",
+      "word": "agosto",
+      "translation": "August",
+      "example": "agosto"
+    },
+    {
+      "id": "it-everyday-a1-a2-016",
+      "word": "settembre",
+      "translation": "September",
+      "example": "settembre"
+    },
+    {
+      "id": "it-everyday-a1-a2-017",
+      "word": "ottobre",
+      "translation": "October",
+      "example": "ottobre"
+    },
+    {
+      "id": "it-everyday-a1-a2-018",
+      "word": "novembre",
+      "translation": "November",
+      "example": "novembre"
+    },
+    {
+      "id": "it-everyday-a1-a2-019",
+      "word": "dicembre",
+      "translation": "December",
+      "example": "dicembre"
+    },
+    {
+      "id": "it-everyday-a1-a2-020",
+      "word": "oggi",
+      "translation": "today",
+      "example": "oggi"
+    },
+    {
+      "id": "it-everyday-a1-a2-021",
+      "word": "ieri",
+      "translation": "yesterday",
+      "example": "ieri"
+    },
+    {
+      "id": "it-everyday-a1-a2-022",
+      "word": "domani",
+      "translation": "tomorrow",
+      "example": "domani"
+    },
+    {
+      "id": "it-everyday-a1-a2-023",
+      "word": "la mattina",
+      "translation": "morning",
+      "example": "la mattina"
+    },
+    {
+      "id": "it-everyday-a1-a2-024",
+      "word": "il pomeriggio",
+      "translation": "afternoon",
+      "example": "il pomeriggio"
+    },
+    {
+      "id": "it-everyday-a1-a2-025",
+      "word": "la sera",
+      "translation": "evening",
+      "example": "la sera"
+    },
+    {
+      "id": "it-everyday-a1-a2-026",
+      "word": "la settimana",
+      "translation": "week",
+      "example": "la settimana"
+    },
+    {
+      "id": "it-everyday-a1-a2-027",
+      "word": "il mese",
+      "translation": "month",
+      "example": "il mese"
+    },
+    {
+      "id": "it-everyday-a1-a2-028",
+      "word": "l'anno",
+      "translation": "year",
+      "example": "l'anno"
+    },
+    {
+      "id": "it-everyday-a1-a2-029",
+      "word": "il fine settimana",
+      "translation": "weekend",
+      "example": "il fine settimana"
+    },
+    {
+      "id": "it-everyday-a1-a2-030",
+      "word": "la data",
+      "translation": "date",
+      "example": "la data"
+    },
+    {
+      "id": "it-everyday-a1-a2-031",
+      "word": "l'ora",
+      "translation": "hour",
+      "example": "l'ora"
+    },
+    {
+      "id": "it-everyday-a1-a2-032",
+      "word": "il minuto",
+      "translation": "minute",
+      "example": "il minuto"
+    },
+    {
+      "id": "it-everyday-a1-a2-033",
+      "word": "presto",
+      "translation": "early",
+      "example": "presto"
+    },
+    {
+      "id": "it-everyday-a1-a2-034",
+      "word": "tardi",
+      "translation": "late",
+      "example": "tardi"
+    },
+    {
+      "id": "it-everyday-a1-a2-035",
+      "word": "adesso",
+      "translation": "now",
+      "example": "adesso"
+    },
+    {
+      "id": "it-everyday-a1-a2-036",
+      "word": "fra poco",
+      "translation": "soon",
+      "example": "fra poco"
+    },
+    {
+      "id": "it-everyday-a1-a2-037",
+      "word": "sempre",
+      "translation": "always",
+      "example": "sempre"
+    },
+    {
+      "id": "it-everyday-a1-a2-038",
+      "word": "spesso",
+      "translation": "often",
+      "example": "spesso"
+    },
+    {
+      "id": "it-everyday-a1-a2-039",
+      "word": "a volte",
+      "translation": "sometimes",
+      "example": "a volte"
+    },
+    {
+      "id": "it-everyday-a1-a2-040",
+      "word": "mai",
+      "translation": "never",
+      "example": "mai"
+    },
+    {
+      "id": "it-everyday-a1-a2-041",
+      "word": "la primavera",
+      "translation": "spring",
+      "example": "la primavera"
+    },
+    {
+      "id": "it-everyday-a1-a2-042",
+      "word": "l'estate",
+      "translation": "summer",
+      "example": "l'estate"
+    },
+    {
+      "id": "it-everyday-a1-a2-043",
+      "word": "l'autunno",
+      "translation": "autumn",
+      "example": "l'autunno"
+    },
+    {
+      "id": "it-everyday-a1-a2-044",
+      "word": "l'inverno",
+      "translation": "winter",
+      "example": "l'inverno"
+    },
+    {
+      "id": "it-everyday-a1-a2-045",
+      "word": "soleggiato",
+      "translation": "sunny",
+      "example": "soleggiato"
+    },
+    {
+      "id": "it-everyday-a1-a2-046",
+      "word": "nuvoloso",
+      "translation": "cloudy",
+      "example": "nuvoloso"
+    },
+    {
+      "id": "it-everyday-a1-a2-047",
+      "word": "piovoso",
+      "translation": "rainy",
+      "example": "piovoso"
+    },
+    {
+      "id": "it-everyday-a1-a2-048",
+      "word": "ventoso",
+      "translation": "windy",
+      "example": "ventoso"
+    },
+    {
+      "id": "it-everyday-a1-a2-049",
+      "word": "mite",
+      "translation": "warm",
+      "example": "mite"
+    },
+    {
+      "id": "it-everyday-a1-a2-050",
+      "word": "gelido",
+      "translation": "freezing",
+      "example": "gelido"
+    },
+    {
+      "id": "it-everyday-a1-a2-051",
+      "word": "la famiglia",
+      "translation": "family",
+      "example": "la famiglia"
+    },
+    {
+      "id": "it-everyday-a1-a2-052",
+      "word": "la madre",
+      "translation": "mother",
+      "example": "la madre"
+    },
+    {
+      "id": "it-everyday-a1-a2-053",
+      "word": "il padre",
+      "translation": "father",
+      "example": "il padre"
+    },
+    {
+      "id": "it-everyday-a1-a2-054",
+      "word": "la sorella",
+      "translation": "sister",
+      "example": "la sorella"
+    },
+    {
+      "id": "it-everyday-a1-a2-055",
+      "word": "il fratello",
+      "translation": "brother",
+      "example": "il fratello"
+    },
+    {
+      "id": "it-everyday-a1-a2-056",
+      "word": "il bambino",
+      "translation": "child",
+      "example": "il bambino"
+    },
+    {
+      "id": "it-everyday-a1-a2-057",
+      "word": "il partner",
+      "translation": "partner",
+      "example": "il partner"
+    },
+    {
+      "id": "it-everyday-a1-a2-058",
+      "word": "il vicino",
+      "translation": "neighbor",
+      "example": "il vicino"
+    },
+    {
+      "id": "it-everyday-a1-a2-059",
+      "word": "l'amico",
+      "translation": "friend",
+      "example": "l'amico"
+    },
+    {
+      "id": "it-everyday-a1-a2-060",
+      "word": "il collega",
+      "translation": "colleague",
+      "example": "il collega"
+    },
+    {
+      "id": "it-everyday-a1-a2-061",
+      "word": "la casa",
+      "translation": "home",
+      "example": "la casa"
+    },
+    {
+      "id": "it-everyday-a1-a2-062",
+      "word": "la camera da letto",
+      "translation": "bedroom",
+      "example": "la camera da letto"
+    },
+    {
+      "id": "it-everyday-a1-a2-063",
+      "word": "il bagno",
+      "translation": "bathroom",
+      "example": "il bagno"
+    },
+    {
+      "id": "it-everyday-a1-a2-064",
+      "word": "il soggiorno",
+      "translation": "living room",
+      "example": "il soggiorno"
+    },
+    {
+      "id": "it-everyday-a1-a2-065",
+      "word": "la porta",
+      "translation": "door",
+      "example": "la porta"
+    },
+    {
+      "id": "it-everyday-a1-a2-066",
+      "word": "la finestra",
+      "translation": "window",
+      "example": "la finestra"
+    },
+    {
+      "id": "it-everyday-a1-a2-067",
+      "word": "la chiave",
+      "translation": "key",
+      "example": "la chiave"
+    },
+    {
+      "id": "it-everyday-a1-a2-068",
+      "word": "la luce",
+      "translation": "light",
+      "example": "la luce"
+    },
+    {
+      "id": "it-everyday-a1-a2-069",
+      "word": "pulito",
+      "translation": "clean",
+      "example": "pulito"
+    },
+    {
+      "id": "it-everyday-a1-a2-070",
+      "word": "sporco",
+      "translation": "dirty",
+      "example": "sporco"
+    },
+    {
+      "id": "it-everyday-a1-a2-071",
+      "word": "svegliarsi",
+      "translation": "to wake up",
+      "example": "svegliarsi"
+    },
+    {
+      "id": "it-everyday-a1-a2-072",
+      "word": "vestirsi",
+      "translation": "to get dressed",
+      "example": "vestirsi"
+    },
+    {
+      "id": "it-everyday-a1-a2-073",
+      "word": "uscire di casa",
+      "translation": "to leave home",
+      "example": "uscire di casa"
+    },
+    {
+      "id": "it-everyday-a1-a2-074",
+      "word": "iniziare a lavorare",
+      "translation": "to start work",
+      "example": "iniziare a lavorare"
+    },
+    {
+      "id": "it-everyday-a1-a2-075",
+      "word": "fare una pausa",
+      "translation": "to take a break",
+      "example": "fare una pausa"
+    },
+    {
+      "id": "it-everyday-a1-a2-076",
+      "word": "finire",
+      "translation": "to finish",
+      "example": "finire"
+    },
+    {
+      "id": "it-everyday-a1-a2-077",
+      "word": "fare la spesa",
+      "translation": "to go shopping",
+      "example": "fare la spesa"
+    },
+    {
+      "id": "it-everyday-a1-a2-078",
+      "word": "riordinare",
+      "translation": "to tidy up",
+      "example": "riordinare"
+    },
+    {
+      "id": "it-everyday-a1-a2-079",
+      "word": "riposare",
+      "translation": "to rest",
+      "example": "riposare"
+    },
+    {
+      "id": "it-everyday-a1-a2-080",
+      "word": "andare a letto",
+      "translation": "to go to bed",
+      "example": "andare a letto"
+    },
+    {
+      "id": "it-everyday-a1-a2-081",
+      "word": "l'appuntamento",
+      "translation": "appointment",
+      "example": "l'appuntamento"
+    },
+    {
+      "id": "it-everyday-a1-a2-082",
+      "word": "l'indirizzo",
+      "translation": "address",
+      "example": "l'indirizzo"
+    },
+    {
+      "id": "it-everyday-a1-a2-083",
+      "word": "il numero di telefono",
+      "translation": "phone number",
+      "example": "il numero di telefono"
+    },
+    {
+      "id": "it-everyday-a1-a2-084",
+      "word": "l'email",
+      "translation": "email",
+      "example": "l'email"
+    },
+    {
+      "id": "it-everyday-a1-a2-085",
+      "word": "il negozio",
+      "translation": "shop",
+      "example": "il negozio"
+    },
+    {
+      "id": "it-everyday-a1-a2-086",
+      "word": "la banca",
+      "translation": "bank",
+      "example": "la banca"
+    },
+    {
+      "id": "it-everyday-a1-a2-087",
+      "word": "l'ufficio postale",
+      "translation": "post office",
+      "example": "l'ufficio postale"
+    },
+    {
+      "id": "it-everyday-a1-a2-088",
+      "word": "la farmacia",
+      "translation": "pharmacy",
+      "example": "la farmacia"
+    },
+    {
+      "id": "it-everyday-a1-a2-089",
+      "word": "il medico",
+      "translation": "doctor",
+      "example": "il medico"
+    },
+    {
+      "id": "it-everyday-a1-a2-090",
+      "word": "la scuola",
+      "translation": "school",
+      "example": "la scuola"
+    },
+    {
+      "id": "it-everyday-a1-a2-091",
+      "word": "a sinistra",
+      "translation": "left",
+      "example": "a sinistra"
+    },
+    {
+      "id": "it-everyday-a1-a2-092",
+      "word": "a destra",
+      "translation": "right",
+      "example": "a destra"
+    },
+    {
+      "id": "it-everyday-a1-a2-093",
+      "word": "vicino",
+      "translation": "near",
+      "example": "vicino"
+    },
+    {
+      "id": "it-everyday-a1-a2-094",
+      "word": "lontano",
+      "translation": "far",
+      "example": "lontano"
+    },
+    {
+      "id": "it-everyday-a1-a2-095",
+      "word": "aperto",
+      "translation": "open",
+      "example": "aperto"
+    },
+    {
+      "id": "it-everyday-a1-a2-096",
+      "word": "chiuso",
+      "translation": "closed",
+      "example": "chiuso"
+    },
+    {
+      "id": "it-everyday-a1-a2-097",
+      "word": "disponibile",
+      "translation": "available",
+      "example": "disponibile"
+    },
+    {
+      "id": "it-everyday-a1-a2-098",
+      "word": "impegnato",
+      "translation": "busy",
+      "example": "impegnato"
+    },
+    {
+      "id": "it-everyday-a1-a2-099",
+      "word": "importante",
+      "translation": "important",
+      "example": "importante"
+    },
+    {
+      "id": "it-everyday-a1-a2-100",
+      "word": "possibile",
+      "translation": "possible",
+      "example": "possibile"
+    }
+  ]
+}
