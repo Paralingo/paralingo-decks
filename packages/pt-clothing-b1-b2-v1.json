@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-pt-clothing-b1-b2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "clothing",
+  "categoryTitle": "Appearance & Clothing",
+  "title": "Appearance & Clothing",
+  "level": "B1-B2",
+  "emoji": "👗",
+  "description": "Discuss fit, fabrics, dress codes, garment care, personal presentation, and changing style.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-clothing-b1-b2-001",
+      "word": "Preciso de aconselhamento sobre o código de vestuário formal.",
+      "translation": "I need some advice about the formal dress code.",
+      "example": "Preciso de aconselhamento sobre o código de vestuário formal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-002",
+      "word": "Preciso de aconselhamento sobre as calças feitas à medida.",
+      "translation": "I need some advice about the tailored trousers.",
+      "example": "Preciso de aconselhamento sobre as calças feitas à medida."
+    },
+    {
+      "id": "pt-clothing-b1-b2-003",
+      "word": "Preciso de aconselhamento sobre o tecido respirável.",
+      "translation": "I need some advice about the breathable fabric.",
+      "example": "Preciso de aconselhamento sobre o tecido respirável."
+    },
+    {
+      "id": "pt-clothing-b1-b2-004",
+      "word": "Preciso de aconselhamento sobre o corte favorecedor.",
+      "translation": "I need some advice about the flattering cut.",
+      "example": "Preciso de aconselhamento sobre o corte favorecedor."
+    },
+    {
+      "id": "pt-clothing-b1-b2-005",
+      "word": "Preciso de aconselhamento sobre as instruções de conservação.",
+      "translation": "I need some advice about the care instructions.",
+      "example": "Preciso de aconselhamento sobre as instruções de conservação."
+    },
+    {
+      "id": "pt-clothing-b1-b2-006",
+      "word": "Preciso de aconselhamento sobre o casaco em segunda mão.",
+      "translation": "I need some advice about the second-hand coat.",
+      "example": "Preciso de aconselhamento sobre o casaco em segunda mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-007",
+      "word": "Preciso de aconselhamento sobre a aparência profissional.",
+      "translation": "I need some advice about the professional appearance.",
+      "example": "Preciso de aconselhamento sobre a aparência profissional."
+    },
+    {
+      "id": "pt-clothing-b1-b2-008",
+      "word": "Preciso de aconselhamento sobre o guarda-roupa sazonal.",
+      "translation": "I need some advice about the seasonal wardrobe.",
+      "example": "Preciso de aconselhamento sobre o guarda-roupa sazonal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-009",
+      "word": "Preciso de aconselhamento sobre o acessório feito à mão.",
+      "translation": "I need some advice about the handmade accessory.",
+      "example": "Preciso de aconselhamento sobre o acessório feito à mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-010",
+      "word": "Preciso de aconselhamento sobre a última tendência da moda.",
+      "translation": "I need some advice about the latest fashion trend.",
+      "example": "Preciso de aconselhamento sobre a última tendência da moda."
+    },
+    {
+      "id": "pt-clothing-b1-b2-011",
+      "word": "O evento exige o código de vestuário formal.",
+      "translation": "The event requires the formal dress code.",
+      "example": "O evento exige o código de vestuário formal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-012",
+      "word": "O evento exige as calças feitas à medida.",
+      "translation": "The event requires the tailored trousers.",
+      "example": "O evento exige as calças feitas à medida."
+    },
+    {
+      "id": "pt-clothing-b1-b2-013",
+      "word": "O evento exige o tecido respirável.",
+      "translation": "The event requires the breathable fabric.",
+      "example": "O evento exige o tecido respirável."
+    },
+    {
+      "id": "pt-clothing-b1-b2-014",
+      "word": "O evento exige o corte favorecedor.",
+      "translation": "The event requires the flattering cut.",
+      "example": "O evento exige o corte favorecedor."
+    },
+    {
+      "id": "pt-clothing-b1-b2-015",
+      "word": "O evento exige as instruções de conservação.",
+      "translation": "The event requires the care instructions.",
+      "example": "O evento exige as instruções de conservação."
+    },
+    {
+      "id": "pt-clothing-b1-b2-016",
+      "word": "O evento exige o casaco em segunda mão.",
+      "translation": "The event requires the second-hand coat.",
+      "example": "O evento exige o casaco em segunda mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-017",
+      "word": "O evento exige a aparência profissional.",
+      "translation": "The event requires the professional appearance.",
+      "example": "O evento exige a aparência profissional."
+    },
+    {
+      "id": "pt-clothing-b1-b2-018",
+      "word": "O evento exige o guarda-roupa sazonal.",
+      "translation": "The event requires the seasonal wardrobe.",
+      "example": "O evento exige o guarda-roupa sazonal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-019",
+      "word": "O evento exige o acessório feito à mão.",
+      "translation": "The event requires the handmade accessory.",
+      "example": "O evento exige o acessório feito à mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-020",
+      "word": "O evento exige a última tendência da moda.",
+      "translation": "The event requires the latest fashion trend.",
+      "example": "O evento exige a última tendência da moda."
+    },
+    {
+      "id": "pt-clothing-b1-b2-021",
+      "word": "Considerámos várias alternativas a o código de vestuário formal.",
+      "translation": "We considered several alternatives to the formal dress code.",
+      "example": "Considerámos várias alternativas a o código de vestuário formal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-022",
+      "word": "Considerámos várias alternativas a as calças feitas à medida.",
+      "translation": "We considered several alternatives to the tailored trousers.",
+      "example": "Considerámos várias alternativas a as calças feitas à medida."
+    },
+    {
+      "id": "pt-clothing-b1-b2-023",
+      "word": "Considerámos várias alternativas a o tecido respirável.",
+      "translation": "We considered several alternatives to the breathable fabric.",
+      "example": "Considerámos várias alternativas a o tecido respirável."
+    },
+    {
+      "id": "pt-clothing-b1-b2-024",
+      "word": "Considerámos várias alternativas a o corte favorecedor.",
+      "translation": "We considered several alternatives to the flattering cut.",
+      "example": "Considerámos várias alternativas a o corte favorecedor."
+    },
+    {
+      "id": "pt-clothing-b1-b2-025",
+      "word": "Considerámos várias alternativas a as instruções de conservação.",
+      "translation": "We considered several alternatives to the care instructions.",
+      "example": "Considerámos várias alternativas a as instruções de conservação."
+    },
+    {
+      "id": "pt-clothing-b1-b2-026",
+      "word": "Considerámos várias alternativas a o casaco em segunda mão.",
+      "translation": "We considered several alternatives to the second-hand coat.",
+      "example": "Considerámos várias alternativas a o casaco em segunda mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-027",
+      "word": "Considerámos várias alternativas a a aparência profissional.",
+      "translation": "We considered several alternatives to the professional appearance.",
+      "example": "Considerámos várias alternativas a a aparência profissional."
+    },
+    {
+      "id": "pt-clothing-b1-b2-028",
+      "word": "Considerámos várias alternativas a o guarda-roupa sazonal.",
+      "translation": "We considered several alternatives to the seasonal wardrobe.",
+      "example": "Considerámos várias alternativas a o guarda-roupa sazonal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-029",
+      "word": "Considerámos várias alternativas a o acessório feito à mão.",
+      "translation": "We considered several alternatives to the handmade accessory.",
+      "example": "Considerámos várias alternativas a o acessório feito à mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-030",
+      "word": "Considerámos várias alternativas a a última tendência da moda.",
+      "translation": "We considered several alternatives to the latest fashion trend.",
+      "example": "Considerámos várias alternativas a a última tendência da moda."
+    },
+    {
+      "id": "pt-clothing-b1-b2-031",
+      "word": "O estilista explicou a função de o código de vestuário formal.",
+      "translation": "The designer explained the purpose of the formal dress code.",
+      "example": "O estilista explicou a função de o código de vestuário formal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-032",
+      "word": "O estilista explicou a função de as calças feitas à medida.",
+      "translation": "The designer explained the purpose of the tailored trousers.",
+      "example": "O estilista explicou a função de as calças feitas à medida."
+    },
+    {
+      "id": "pt-clothing-b1-b2-033",
+      "word": "O estilista explicou a função de o tecido respirável.",
+      "translation": "The designer explained the purpose of the breathable fabric.",
+      "example": "O estilista explicou a função de o tecido respirável."
+    },
+    {
+      "id": "pt-clothing-b1-b2-034",
+      "word": "O estilista explicou a função de o corte favorecedor.",
+      "translation": "The designer explained the purpose of the flattering cut.",
+      "example": "O estilista explicou a função de o corte favorecedor."
+    },
+    {
+      "id": "pt-clothing-b1-b2-035",
+      "word": "O estilista explicou a função de as instruções de conservação.",
+      "translation": "The designer explained the purpose of the care instructions.",
+      "example": "O estilista explicou a função de as instruções de conservação."
+    },
+    {
+      "id": "pt-clothing-b1-b2-036",
+      "word": "O estilista explicou a função de o casaco em segunda mão.",
+      "translation": "The designer explained the purpose of the second-hand coat.",
+      "example": "O estilista explicou a função de o casaco em segunda mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-037",
+      "word": "O estilista explicou a função de a aparência profissional.",
+      "translation": "The designer explained the purpose of the professional appearance.",
+      "example": "O estilista explicou a função de a aparência profissional."
+    },
+    {
+      "id": "pt-clothing-b1-b2-038",
+      "word": "O estilista explicou a função de o guarda-roupa sazonal.",
+      "translation": "The designer explained the purpose of the seasonal wardrobe.",
+      "example": "O estilista explicou a função de o guarda-roupa sazonal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-039",
+      "word": "O estilista explicou a função de o acessório feito à mão.",
+      "translation": "The designer explained the purpose of the handmade accessory.",
+      "example": "O estilista explicou a função de o acessório feito à mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-040",
+      "word": "O estilista explicou a função de a última tendência da moda.",
+      "translation": "The designer explained the purpose of the latest fashion trend.",
+      "example": "O estilista explicou a função de a última tendência da moda."
+    },
+    {
+      "id": "pt-clothing-b1-b2-041",
+      "word": "Pode ser difícil encontrar o código de vestuário formal.",
+      "translation": "It can be difficult to find the formal dress code.",
+      "example": "Pode ser difícil encontrar o código de vestuário formal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-042",
+      "word": "Pode ser difícil encontrar as calças feitas à medida.",
+      "translation": "It can be difficult to find the tailored trousers.",
+      "example": "Pode ser difícil encontrar as calças feitas à medida."
+    },
+    {
+      "id": "pt-clothing-b1-b2-043",
+      "word": "Pode ser difícil encontrar o tecido respirável.",
+      "translation": "It can be difficult to find the breathable fabric.",
+      "example": "Pode ser difícil encontrar o tecido respirável."
+    },
+    {
+      "id": "pt-clothing-b1-b2-044",
+      "word": "Pode ser difícil encontrar o corte favorecedor.",
+      "translation": "It can be difficult to find the flattering cut.",
+      "example": "Pode ser difícil encontrar o corte favorecedor."
+    },
+    {
+      "id": "pt-clothing-b1-b2-045",
+      "word": "Pode ser difícil encontrar as instruções de conservação.",
+      "translation": "It can be difficult to find the care instructions.",
+      "example": "Pode ser difícil encontrar as instruções de conservação."
+    },
+    {
+      "id": "pt-clothing-b1-b2-046",
+      "word": "Pode ser difícil encontrar o casaco em segunda mão.",
+      "translation": "It can be difficult to find the second-hand coat.",
+      "example": "Pode ser difícil encontrar o casaco em segunda mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-047",
+      "word": "Pode ser difícil encontrar a aparência profissional.",
+      "translation": "It can be difficult to find the professional appearance.",
+      "example": "Pode ser difícil encontrar a aparência profissional."
+    },
+    {
+      "id": "pt-clothing-b1-b2-048",
+      "word": "Pode ser difícil encontrar o guarda-roupa sazonal.",
+      "translation": "It can be difficult to find the seasonal wardrobe.",
+      "example": "Pode ser difícil encontrar o guarda-roupa sazonal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-049",
+      "word": "Pode ser difícil encontrar o acessório feito à mão.",
+      "translation": "It can be difficult to find the handmade accessory.",
+      "example": "Pode ser difícil encontrar o acessório feito à mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-050",
+      "word": "Pode ser difícil encontrar a última tendência da moda.",
+      "translation": "It can be difficult to find the latest fashion trend.",
+      "example": "Pode ser difícil encontrar a última tendência da moda."
+    },
+    {
+      "id": "pt-clothing-b1-b2-051",
+      "word": "O artigo oferece orientações úteis sobre o código de vestuário formal.",
+      "translation": "The article offers useful guidance on the formal dress code.",
+      "example": "O artigo oferece orientações úteis sobre o código de vestuário formal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-052",
+      "word": "O artigo oferece orientações úteis sobre as calças feitas à medida.",
+      "translation": "The article offers useful guidance on the tailored trousers.",
+      "example": "O artigo oferece orientações úteis sobre as calças feitas à medida."
+    },
+    {
+      "id": "pt-clothing-b1-b2-053",
+      "word": "O artigo oferece orientações úteis sobre o tecido respirável.",
+      "translation": "The article offers useful guidance on the breathable fabric.",
+      "example": "O artigo oferece orientações úteis sobre o tecido respirável."
+    },
+    {
+      "id": "pt-clothing-b1-b2-054",
+      "word": "O artigo oferece orientações úteis sobre o corte favorecedor.",
+      "translation": "The article offers useful guidance on the flattering cut.",
+      "example": "O artigo oferece orientações úteis sobre o corte favorecedor."
+    },
+    {
+      "id": "pt-clothing-b1-b2-055",
+      "word": "O artigo oferece orientações úteis sobre as instruções de conservação.",
+      "translation": "The article offers useful guidance on the care instructions.",
+      "example": "O artigo oferece orientações úteis sobre as instruções de conservação."
+    },
+    {
+      "id": "pt-clothing-b1-b2-056",
+      "word": "O artigo oferece orientações úteis sobre o casaco em segunda mão.",
+      "translation": "The article offers useful guidance on the second-hand coat.",
+      "example": "O artigo oferece orientações úteis sobre o casaco em segunda mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-057",
+      "word": "O artigo oferece orientações úteis sobre a aparência profissional.",
+      "translation": "The article offers useful guidance on the professional appearance.",
+      "example": "O artigo oferece orientações úteis sobre a aparência profissional."
+    },
+    {
+      "id": "pt-clothing-b1-b2-058",
+      "word": "O artigo oferece orientações úteis sobre o guarda-roupa sazonal.",
+      "translation": "The article offers useful guidance on the seasonal wardrobe.",
+      "example": "O artigo oferece orientações úteis sobre o guarda-roupa sazonal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-059",
+      "word": "O artigo oferece orientações úteis sobre o acessório feito à mão.",
+      "translation": "The article offers useful guidance on the handmade accessory.",
+      "example": "O artigo oferece orientações úteis sobre o acessório feito à mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-060",
+      "word": "O artigo oferece orientações úteis sobre a última tendência da moda.",
+      "translation": "The article offers useful guidance on the latest fashion trend.",
+      "example": "O artigo oferece orientações úteis sobre a última tendência da moda."
+    },
+    {
+      "id": "pt-clothing-b1-b2-061",
+      "word": "O preço reflete a qualidade de o código de vestuário formal.",
+      "translation": "The price reflects the quality of the formal dress code.",
+      "example": "O preço reflete a qualidade de o código de vestuário formal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-062",
+      "word": "O preço reflete a qualidade de as calças feitas à medida.",
+      "translation": "The price reflects the quality of the tailored trousers.",
+      "example": "O preço reflete a qualidade de as calças feitas à medida."
+    },
+    {
+      "id": "pt-clothing-b1-b2-063",
+      "word": "O preço reflete a qualidade de o tecido respirável.",
+      "translation": "The price reflects the quality of the breathable fabric.",
+      "example": "O preço reflete a qualidade de o tecido respirável."
+    },
+    {
+      "id": "pt-clothing-b1-b2-064",
+      "word": "O preço reflete a qualidade de o corte favorecedor.",
+      "translation": "The price reflects the quality of the flattering cut.",
+      "example": "O preço reflete a qualidade de o corte favorecedor."
+    },
+    {
+      "id": "pt-clothing-b1-b2-065",
+      "word": "O preço reflete a qualidade de as instruções de conservação.",
+      "translation": "The price reflects the quality of the care instructions.",
+      "example": "O preço reflete a qualidade de as instruções de conservação."
+    },
+    {
+      "id": "pt-clothing-b1-b2-066",
+      "word": "O preço reflete a qualidade de o casaco em segunda mão.",
+      "translation": "The price reflects the quality of the second-hand coat.",
+      "example": "O preço reflete a qualidade de o casaco em segunda mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-067",
+      "word": "O preço reflete a qualidade de a aparência profissional.",
+      "translation": "The price reflects the quality of the professional appearance.",
+      "example": "O preço reflete a qualidade de a aparência profissional."
+    },
+    {
+      "id": "pt-clothing-b1-b2-068",
+      "word": "O preço reflete a qualidade de o guarda-roupa sazonal.",
+      "translation": "The price reflects the quality of the seasonal wardrobe.",
+      "example": "O preço reflete a qualidade de o guarda-roupa sazonal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-069",
+      "word": "O preço reflete a qualidade de o acessório feito à mão.",
+      "translation": "The price reflects the quality of the handmade accessory.",
+      "example": "O preço reflete a qualidade de o acessório feito à mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-070",
+      "word": "O preço reflete a qualidade de a última tendência da moda.",
+      "translation": "The price reflects the quality of the latest fashion trend.",
+      "example": "O preço reflete a qualidade de a última tendência da moda."
+    },
+    {
+      "id": "pt-clothing-b1-b2-071",
+      "word": "O seu estilo é conhecido por o código de vestuário formal.",
+      "translation": "Her style is known for the formal dress code.",
+      "example": "O seu estilo é conhecido por o código de vestuário formal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-072",
+      "word": "O seu estilo é conhecido por as calças feitas à medida.",
+      "translation": "Her style is known for the tailored trousers.",
+      "example": "O seu estilo é conhecido por as calças feitas à medida."
+    },
+    {
+      "id": "pt-clothing-b1-b2-073",
+      "word": "O seu estilo é conhecido por o tecido respirável.",
+      "translation": "Her style is known for the breathable fabric.",
+      "example": "O seu estilo é conhecido por o tecido respirável."
+    },
+    {
+      "id": "pt-clothing-b1-b2-074",
+      "word": "O seu estilo é conhecido por o corte favorecedor.",
+      "translation": "Her style is known for the flattering cut.",
+      "example": "O seu estilo é conhecido por o corte favorecedor."
+    },
+    {
+      "id": "pt-clothing-b1-b2-075",
+      "word": "O seu estilo é conhecido por as instruções de conservação.",
+      "translation": "Her style is known for the care instructions.",
+      "example": "O seu estilo é conhecido por as instruções de conservação."
+    },
+    {
+      "id": "pt-clothing-b1-b2-076",
+      "word": "O seu estilo é conhecido por o casaco em segunda mão.",
+      "translation": "Her style is known for the second-hand coat.",
+      "example": "O seu estilo é conhecido por o casaco em segunda mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-077",
+      "word": "O seu estilo é conhecido por a aparência profissional.",
+      "translation": "Her style is known for the professional appearance.",
+      "example": "O seu estilo é conhecido por a aparência profissional."
+    },
+    {
+      "id": "pt-clothing-b1-b2-078",
+      "word": "O seu estilo é conhecido por o guarda-roupa sazonal.",
+      "translation": "Her style is known for the seasonal wardrobe.",
+      "example": "O seu estilo é conhecido por o guarda-roupa sazonal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-079",
+      "word": "O seu estilo é conhecido por o acessório feito à mão.",
+      "translation": "Her style is known for the handmade accessory.",
+      "example": "O seu estilo é conhecido por o acessório feito à mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-080",
+      "word": "O seu estilo é conhecido por a última tendência da moda.",
+      "translation": "Her style is known for the latest fashion trend.",
+      "example": "O seu estilo é conhecido por a última tendência da moda."
+    },
+    {
+      "id": "pt-clothing-b1-b2-081",
+      "word": "Mudei de opinião sobre o código de vestuário formal.",
+      "translation": "I changed my mind about the formal dress code.",
+      "example": "Mudei de opinião sobre o código de vestuário formal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-082",
+      "word": "Mudei de opinião sobre as calças feitas à medida.",
+      "translation": "I changed my mind about the tailored trousers.",
+      "example": "Mudei de opinião sobre as calças feitas à medida."
+    },
+    {
+      "id": "pt-clothing-b1-b2-083",
+      "word": "Mudei de opinião sobre o tecido respirável.",
+      "translation": "I changed my mind about the breathable fabric.",
+      "example": "Mudei de opinião sobre o tecido respirável."
+    },
+    {
+      "id": "pt-clothing-b1-b2-084",
+      "word": "Mudei de opinião sobre o corte favorecedor.",
+      "translation": "I changed my mind about the flattering cut.",
+      "example": "Mudei de opinião sobre o corte favorecedor."
+    },
+    {
+      "id": "pt-clothing-b1-b2-085",
+      "word": "Mudei de opinião sobre as instruções de conservação.",
+      "translation": "I changed my mind about the care instructions.",
+      "example": "Mudei de opinião sobre as instruções de conservação."
+    },
+    {
+      "id": "pt-clothing-b1-b2-086",
+      "word": "Mudei de opinião sobre o casaco em segunda mão.",
+      "translation": "I changed my mind about the second-hand coat.",
+      "example": "Mudei de opinião sobre o casaco em segunda mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-087",
+      "word": "Mudei de opinião sobre a aparência profissional.",
+      "translation": "I changed my mind about the professional appearance.",
+      "example": "Mudei de opinião sobre a aparência profissional."
+    },
+    {
+      "id": "pt-clothing-b1-b2-088",
+      "word": "Mudei de opinião sobre o guarda-roupa sazonal.",
+      "translation": "I changed my mind about the seasonal wardrobe.",
+      "example": "Mudei de opinião sobre o guarda-roupa sazonal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-089",
+      "word": "Mudei de opinião sobre o acessório feito à mão.",
+      "translation": "I changed my mind about the handmade accessory.",
+      "example": "Mudei de opinião sobre o acessório feito à mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-090",
+      "word": "Mudei de opinião sobre a última tendência da moda.",
+      "translation": "I changed my mind about the latest fashion trend.",
+      "example": "Mudei de opinião sobre a última tendência da moda."
+    },
+    {
+      "id": "pt-clothing-b1-b2-091",
+      "word": "Prestaram muita atenção a o código de vestuário formal.",
+      "translation": "They paid careful attention to the formal dress code.",
+      "example": "Prestaram muita atenção a o código de vestuário formal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-092",
+      "word": "Prestaram muita atenção a as calças feitas à medida.",
+      "translation": "They paid careful attention to the tailored trousers.",
+      "example": "Prestaram muita atenção a as calças feitas à medida."
+    },
+    {
+      "id": "pt-clothing-b1-b2-093",
+      "word": "Prestaram muita atenção a o tecido respirável.",
+      "translation": "They paid careful attention to the breathable fabric.",
+      "example": "Prestaram muita atenção a o tecido respirável."
+    },
+    {
+      "id": "pt-clothing-b1-b2-094",
+      "word": "Prestaram muita atenção a o corte favorecedor.",
+      "translation": "They paid careful attention to the flattering cut.",
+      "example": "Prestaram muita atenção a o corte favorecedor."
+    },
+    {
+      "id": "pt-clothing-b1-b2-095",
+      "word": "Prestaram muita atenção a as instruções de conservação.",
+      "translation": "They paid careful attention to the care instructions.",
+      "example": "Prestaram muita atenção a as instruções de conservação."
+    },
+    {
+      "id": "pt-clothing-b1-b2-096",
+      "word": "Prestaram muita atenção a o casaco em segunda mão.",
+      "translation": "They paid careful attention to the second-hand coat.",
+      "example": "Prestaram muita atenção a o casaco em segunda mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-097",
+      "word": "Prestaram muita atenção a a aparência profissional.",
+      "translation": "They paid careful attention to the professional appearance.",
+      "example": "Prestaram muita atenção a a aparência profissional."
+    },
+    {
+      "id": "pt-clothing-b1-b2-098",
+      "word": "Prestaram muita atenção a o guarda-roupa sazonal.",
+      "translation": "They paid careful attention to the seasonal wardrobe.",
+      "example": "Prestaram muita atenção a o guarda-roupa sazonal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-099",
+      "word": "Prestaram muita atenção a o acessório feito à mão.",
+      "translation": "They paid careful attention to the handmade accessory.",
+      "example": "Prestaram muita atenção a o acessório feito à mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-100",
+      "word": "Prestaram muita atenção a a última tendência da moda.",
+      "translation": "They paid careful attention to the latest fashion trend.",
+      "example": "Prestaram muita atenção a a última tendência da moda."
+    }
+  ]
+}
