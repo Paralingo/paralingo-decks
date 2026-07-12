@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-conversation-b1-b2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "conversation",
+  "categoryTitle": "Social & Conversation",
+  "title": "Social & Conversation",
+  "level": "B1-B2",
+  "emoji": "💬",
+  "description": "Express opinions, tell stories, give advice, disagree tactfully, and resolve misunderstandings.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-conversation-b1-b2-001",
+      "word": "Déjame explicar la situación con más claridad.",
+      "translation": "Let me explain the situation more clearly.",
+      "example": "Déjame explicar la situación con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-002",
+      "word": "Déjame explicar lo que ocurrió con más claridad.",
+      "translation": "Let me explain what happened more clearly.",
+      "example": "Déjame explicar lo que ocurrió con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-003",
+      "word": "Déjame explicar tu punto de vista con más claridad.",
+      "translation": "Let me explain your point of view more clearly.",
+      "example": "Déjame explicar tu punto de vista con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-004",
+      "word": "Déjame explicar el malentendido con más claridad.",
+      "translation": "Let me explain the misunderstanding more clearly.",
+      "example": "Déjame explicar el malentendido con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-005",
+      "word": "Déjame explicar la decisión con más claridad.",
+      "translation": "Let me explain the decision more clearly.",
+      "example": "Déjame explicar la decisión con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-006",
+      "word": "Déjame explicar el problema con más claridad.",
+      "translation": "Let me explain the problem more clearly.",
+      "example": "Déjame explicar el problema con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-007",
+      "word": "Déjame explicar el consejo con más claridad.",
+      "translation": "Let me explain the advice more clearly.",
+      "example": "Déjame explicar el consejo con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-008",
+      "word": "Déjame explicar el cambio de planes con más claridad.",
+      "translation": "Let me explain the change of plan more clearly.",
+      "example": "Déjame explicar el cambio de planes con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-009",
+      "word": "Déjame explicar la conversación con más claridad.",
+      "translation": "Let me explain the conversation more clearly.",
+      "example": "Déjame explicar la conversación con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-010",
+      "word": "Déjame explicar la posible solución con más claridad.",
+      "translation": "Let me explain the possible solution more clearly.",
+      "example": "Déjame explicar la posible solución con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-011",
+      "word": "Entiendo la situación, pero lo veo de otra manera.",
+      "translation": "I understand the situation, but I see it differently.",
+      "example": "Entiendo la situación, pero lo veo de otra manera."
+    },
+    {
+      "id": "es-conversation-b1-b2-012",
+      "word": "Entiendo lo que ocurrió, pero lo veo de otra manera.",
+      "translation": "I understand what happened, but I see it differently.",
+      "example": "Entiendo lo que ocurrió, pero lo veo de otra manera."
+    },
+    {
+      "id": "es-conversation-b1-b2-013",
+      "word": "Entiendo tu punto de vista, pero lo veo de otra manera.",
+      "translation": "I understand your point of view, but I see it differently.",
+      "example": "Entiendo tu punto de vista, pero lo veo de otra manera."
+    },
+    {
+      "id": "es-conversation-b1-b2-014",
+      "word": "Entiendo el malentendido, pero lo veo de otra manera.",
+      "translation": "I understand the misunderstanding, but I see it differently.",
+      "example": "Entiendo el malentendido, pero lo veo de otra manera."
+    },
+    {
+      "id": "es-conversation-b1-b2-015",
+      "word": "Entiendo la decisión, pero lo veo de otra manera.",
+      "translation": "I understand the decision, but I see it differently.",
+      "example": "Entiendo la decisión, pero lo veo de otra manera."
+    },
+    {
+      "id": "es-conversation-b1-b2-016",
+      "word": "Entiendo el problema, pero lo veo de otra manera.",
+      "translation": "I understand the problem, but I see it differently.",
+      "example": "Entiendo el problema, pero lo veo de otra manera."
+    },
+    {
+      "id": "es-conversation-b1-b2-017",
+      "word": "Entiendo el consejo, pero lo veo de otra manera.",
+      "translation": "I understand the advice, but I see it differently.",
+      "example": "Entiendo el consejo, pero lo veo de otra manera."
+    },
+    {
+      "id": "es-conversation-b1-b2-018",
+      "word": "Entiendo el cambio de planes, pero lo veo de otra manera.",
+      "translation": "I understand the change of plan, but I see it differently.",
+      "example": "Entiendo el cambio de planes, pero lo veo de otra manera."
+    },
+    {
+      "id": "es-conversation-b1-b2-019",
+      "word": "Entiendo la conversación, pero lo veo de otra manera.",
+      "translation": "I understand the conversation, but I see it differently.",
+      "example": "Entiendo la conversación, pero lo veo de otra manera."
+    },
+    {
+      "id": "es-conversation-b1-b2-020",
+      "word": "Entiendo la posible solución, pero lo veo de otra manera.",
+      "translation": "I understand the possible solution, but I see it differently.",
+      "example": "Entiendo la posible solución, pero lo veo de otra manera."
+    },
+    {
+      "id": "es-conversation-b1-b2-021",
+      "word": "¿Podrías aclarar la situación?",
+      "translation": "Could you clarify the situation?",
+      "example": "¿Podrías aclarar la situación?"
+    },
+    {
+      "id": "es-conversation-b1-b2-022",
+      "word": "¿Podrías aclarar lo que ocurrió?",
+      "translation": "Could you clarify what happened?",
+      "example": "¿Podrías aclarar lo que ocurrió?"
+    },
+    {
+      "id": "es-conversation-b1-b2-023",
+      "word": "¿Podrías aclarar tu punto de vista?",
+      "translation": "Could you clarify your point of view?",
+      "example": "¿Podrías aclarar tu punto de vista?"
+    },
+    {
+      "id": "es-conversation-b1-b2-024",
+      "word": "¿Podrías aclarar el malentendido?",
+      "translation": "Could you clarify the misunderstanding?",
+      "example": "¿Podrías aclarar el malentendido?"
+    },
+    {
+      "id": "es-conversation-b1-b2-025",
+      "word": "¿Podrías aclarar la decisión?",
+      "translation": "Could you clarify the decision?",
+      "example": "¿Podrías aclarar la decisión?"
+    },
+    {
+      "id": "es-conversation-b1-b2-026",
+      "word": "¿Podrías aclarar el problema?",
+      "translation": "Could you clarify the problem?",
+      "example": "¿Podrías aclarar el problema?"
+    },
+    {
+      "id": "es-conversation-b1-b2-027",
+      "word": "¿Podrías aclarar el consejo?",
+      "translation": "Could you clarify the advice?",
+      "example": "¿Podrías aclarar el consejo?"
+    },
+    {
+      "id": "es-conversation-b1-b2-028",
+      "word": "¿Podrías aclarar el cambio de planes?",
+      "translation": "Could you clarify the change of plan?",
+      "example": "¿Podrías aclarar el cambio de planes?"
+    },
+    {
+      "id": "es-conversation-b1-b2-029",
+      "word": "¿Podrías aclarar la conversación?",
+      "translation": "Could you clarify the conversation?",
+      "example": "¿Podrías aclarar la conversación?"
+    },
+    {
+      "id": "es-conversation-b1-b2-030",
+      "word": "¿Podrías aclarar la posible solución?",
+      "translation": "Could you clarify the possible solution?",
+      "example": "¿Podrías aclarar la posible solución?"
+    },
+    {
+      "id": "es-conversation-b1-b2-031",
+      "word": "Puede que haya entendido mal la situación.",
+      "translation": "I may have misunderstood the situation.",
+      "example": "Puede que haya entendido mal la situación."
+    },
+    {
+      "id": "es-conversation-b1-b2-032",
+      "word": "Puede que haya entendido mal lo que ocurrió.",
+      "translation": "I may have misunderstood what happened.",
+      "example": "Puede que haya entendido mal lo que ocurrió."
+    },
+    {
+      "id": "es-conversation-b1-b2-033",
+      "word": "Puede que haya entendido mal tu punto de vista.",
+      "translation": "I may have misunderstood your point of view.",
+      "example": "Puede que haya entendido mal tu punto de vista."
+    },
+    {
+      "id": "es-conversation-b1-b2-034",
+      "word": "Puede que haya entendido mal el malentendido.",
+      "translation": "I may have misunderstood the misunderstanding.",
+      "example": "Puede que haya entendido mal el malentendido."
+    },
+    {
+      "id": "es-conversation-b1-b2-035",
+      "word": "Puede que haya entendido mal la decisión.",
+      "translation": "I may have misunderstood the decision.",
+      "example": "Puede que haya entendido mal la decisión."
+    },
+    {
+      "id": "es-conversation-b1-b2-036",
+      "word": "Puede que haya entendido mal el problema.",
+      "translation": "I may have misunderstood the problem.",
+      "example": "Puede que haya entendido mal el problema."
+    },
+    {
+      "id": "es-conversation-b1-b2-037",
+      "word": "Puede que haya entendido mal el consejo.",
+      "translation": "I may have misunderstood the advice.",
+      "example": "Puede que haya entendido mal el consejo."
+    },
+    {
+      "id": "es-conversation-b1-b2-038",
+      "word": "Puede que haya entendido mal el cambio de planes.",
+      "translation": "I may have misunderstood the change of plan.",
+      "example": "Puede que haya entendido mal el cambio de planes."
+    },
+    {
+      "id": "es-conversation-b1-b2-039",
+      "word": "Puede que haya entendido mal la conversación.",
+      "translation": "I may have misunderstood the conversation.",
+      "example": "Puede que haya entendido mal la conversación."
+    },
+    {
+      "id": "es-conversation-b1-b2-040",
+      "word": "Puede que haya entendido mal la posible solución.",
+      "translation": "I may have misunderstood the possible solution.",
+      "example": "Puede que haya entendido mal la posible solución."
+    },
+    {
+      "id": "es-conversation-b1-b2-041",
+      "word": "¿Qué sugerirías respecto a la situación?",
+      "translation": "What would you suggest about the situation?",
+      "example": "¿Qué sugerirías respecto a la situación?"
+    },
+    {
+      "id": "es-conversation-b1-b2-042",
+      "word": "¿Qué sugerirías respecto a lo que ocurrió?",
+      "translation": "What would you suggest about what happened?",
+      "example": "¿Qué sugerirías respecto a lo que ocurrió?"
+    },
+    {
+      "id": "es-conversation-b1-b2-043",
+      "word": "¿Qué sugerirías respecto a tu punto de vista?",
+      "translation": "What would you suggest about your point of view?",
+      "example": "¿Qué sugerirías respecto a tu punto de vista?"
+    },
+    {
+      "id": "es-conversation-b1-b2-044",
+      "word": "¿Qué sugerirías respecto a el malentendido?",
+      "translation": "What would you suggest about the misunderstanding?",
+      "example": "¿Qué sugerirías respecto a el malentendido?"
+    },
+    {
+      "id": "es-conversation-b1-b2-045",
+      "word": "¿Qué sugerirías respecto a la decisión?",
+      "translation": "What would you suggest about the decision?",
+      "example": "¿Qué sugerirías respecto a la decisión?"
+    },
+    {
+      "id": "es-conversation-b1-b2-046",
+      "word": "¿Qué sugerirías respecto a el problema?",
+      "translation": "What would you suggest about the problem?",
+      "example": "¿Qué sugerirías respecto a el problema?"
+    },
+    {
+      "id": "es-conversation-b1-b2-047",
+      "word": "¿Qué sugerirías respecto a el consejo?",
+      "translation": "What would you suggest about the advice?",
+      "example": "¿Qué sugerirías respecto a el consejo?"
+    },
+    {
+      "id": "es-conversation-b1-b2-048",
+      "word": "¿Qué sugerirías respecto a el cambio de planes?",
+      "translation": "What would you suggest about the change of plan?",
+      "example": "¿Qué sugerirías respecto a el cambio de planes?"
+    },
+    {
+      "id": "es-conversation-b1-b2-049",
+      "word": "¿Qué sugerirías respecto a la conversación?",
+      "translation": "What would you suggest about the conversation?",
+      "example": "¿Qué sugerirías respecto a la conversación?"
+    },
+    {
+      "id": "es-conversation-b1-b2-050",
+      "word": "¿Qué sugerirías respecto a la posible solución?",
+      "translation": "What would you suggest about the possible solution?",
+      "example": "¿Qué sugerirías respecto a la posible solución?"
+    },
+    {
+      "id": "es-conversation-b1-b2-051",
+      "word": "Mirándolo ahora, la situación tiene más sentido.",
+      "translation": "Looking back, the situation makes more sense.",
+      "example": "Mirándolo ahora, la situación tiene más sentido."
+    },
+    {
+      "id": "es-conversation-b1-b2-052",
+      "word": "Mirándolo ahora, lo que ocurrió tiene más sentido.",
+      "translation": "Looking back, what happened makes more sense.",
+      "example": "Mirándolo ahora, lo que ocurrió tiene más sentido."
+    },
+    {
+      "id": "es-conversation-b1-b2-053",
+      "word": "Mirándolo ahora, tu punto de vista tiene más sentido.",
+      "translation": "Looking back, your point of view makes more sense.",
+      "example": "Mirándolo ahora, tu punto de vista tiene más sentido."
+    },
+    {
+      "id": "es-conversation-b1-b2-054",
+      "word": "Mirándolo ahora, el malentendido tiene más sentido.",
+      "translation": "Looking back, the misunderstanding makes more sense.",
+      "example": "Mirándolo ahora, el malentendido tiene más sentido."
+    },
+    {
+      "id": "es-conversation-b1-b2-055",
+      "word": "Mirándolo ahora, la decisión tiene más sentido.",
+      "translation": "Looking back, the decision makes more sense.",
+      "example": "Mirándolo ahora, la decisión tiene más sentido."
+    },
+    {
+      "id": "es-conversation-b1-b2-056",
+      "word": "Mirándolo ahora, el problema tiene más sentido.",
+      "translation": "Looking back, the problem makes more sense.",
+      "example": "Mirándolo ahora, el problema tiene más sentido."
+    },
+    {
+      "id": "es-conversation-b1-b2-057",
+      "word": "Mirándolo ahora, el consejo tiene más sentido.",
+      "translation": "Looking back, the advice makes more sense.",
+      "example": "Mirándolo ahora, el consejo tiene más sentido."
+    },
+    {
+      "id": "es-conversation-b1-b2-058",
+      "word": "Mirándolo ahora, el cambio de planes tiene más sentido.",
+      "translation": "Looking back, the change of plan makes more sense.",
+      "example": "Mirándolo ahora, el cambio de planes tiene más sentido."
+    },
+    {
+      "id": "es-conversation-b1-b2-059",
+      "word": "Mirándolo ahora, la conversación tiene más sentido.",
+      "translation": "Looking back, the conversation makes more sense.",
+      "example": "Mirándolo ahora, la conversación tiene más sentido."
+    },
+    {
+      "id": "es-conversation-b1-b2-060",
+      "word": "Mirándolo ahora, la posible solución tiene más sentido.",
+      "translation": "Looking back, the possible solution makes more sense.",
+      "example": "Mirándolo ahora, la posible solución tiene más sentido."
+    },
+    {
+      "id": "es-conversation-b1-b2-061",
+      "word": "Lo principal es la situación.",
+      "translation": "The main point is the situation.",
+      "example": "Lo principal es la situación."
+    },
+    {
+      "id": "es-conversation-b1-b2-062",
+      "word": "Lo principal es lo que ocurrió.",
+      "translation": "The main point is what happened.",
+      "example": "Lo principal es lo que ocurrió."
+    },
+    {
+      "id": "es-conversation-b1-b2-063",
+      "word": "Lo principal es tu punto de vista.",
+      "translation": "The main point is your point of view.",
+      "example": "Lo principal es tu punto de vista."
+    },
+    {
+      "id": "es-conversation-b1-b2-064",
+      "word": "Lo principal es el malentendido.",
+      "translation": "The main point is the misunderstanding.",
+      "example": "Lo principal es el malentendido."
+    },
+    {
+      "id": "es-conversation-b1-b2-065",
+      "word": "Lo principal es la decisión.",
+      "translation": "The main point is the decision.",
+      "example": "Lo principal es la decisión."
+    },
+    {
+      "id": "es-conversation-b1-b2-066",
+      "word": "Lo principal es el problema.",
+      "translation": "The main point is the problem.",
+      "example": "Lo principal es el problema."
+    },
+    {
+      "id": "es-conversation-b1-b2-067",
+      "word": "Lo principal es el consejo.",
+      "translation": "The main point is the advice.",
+      "example": "Lo principal es el consejo."
+    },
+    {
+      "id": "es-conversation-b1-b2-068",
+      "word": "Lo principal es el cambio de planes.",
+      "translation": "The main point is the change of plan.",
+      "example": "Lo principal es el cambio de planes."
+    },
+    {
+      "id": "es-conversation-b1-b2-069",
+      "word": "Lo principal es la conversación.",
+      "translation": "The main point is the conversation.",
+      "example": "Lo principal es la conversación."
+    },
+    {
+      "id": "es-conversation-b1-b2-070",
+      "word": "Lo principal es la posible solución.",
+      "translation": "The main point is the possible solution.",
+      "example": "Lo principal es la posible solución."
+    },
+    {
+      "id": "es-conversation-b1-b2-071",
+      "word": "Deberíamos evitar hacer suposiciones sobre la situación.",
+      "translation": "We should avoid making assumptions about the situation.",
+      "example": "Deberíamos evitar hacer suposiciones sobre la situación."
+    },
+    {
+      "id": "es-conversation-b1-b2-072",
+      "word": "Deberíamos evitar hacer suposiciones sobre lo que ocurrió.",
+      "translation": "We should avoid making assumptions about what happened.",
+      "example": "Deberíamos evitar hacer suposiciones sobre lo que ocurrió."
+    },
+    {
+      "id": "es-conversation-b1-b2-073",
+      "word": "Deberíamos evitar hacer suposiciones sobre tu punto de vista.",
+      "translation": "We should avoid making assumptions about your point of view.",
+      "example": "Deberíamos evitar hacer suposiciones sobre tu punto de vista."
+    },
+    {
+      "id": "es-conversation-b1-b2-074",
+      "word": "Deberíamos evitar hacer suposiciones sobre el malentendido.",
+      "translation": "We should avoid making assumptions about the misunderstanding.",
+      "example": "Deberíamos evitar hacer suposiciones sobre el malentendido."
+    },
+    {
+      "id": "es-conversation-b1-b2-075",
+      "word": "Deberíamos evitar hacer suposiciones sobre la decisión.",
+      "translation": "We should avoid making assumptions about the decision.",
+      "example": "Deberíamos evitar hacer suposiciones sobre la decisión."
+    },
+    {
+      "id": "es-conversation-b1-b2-076",
+      "word": "Deberíamos evitar hacer suposiciones sobre el problema.",
+      "translation": "We should avoid making assumptions about the problem.",
+      "example": "Deberíamos evitar hacer suposiciones sobre el problema."
+    },
+    {
+      "id": "es-conversation-b1-b2-077",
+      "word": "Deberíamos evitar hacer suposiciones sobre el consejo.",
+      "translation": "We should avoid making assumptions about the advice.",
+      "example": "Deberíamos evitar hacer suposiciones sobre el consejo."
+    },
+    {
+      "id": "es-conversation-b1-b2-078",
+      "word": "Deberíamos evitar hacer suposiciones sobre el cambio de planes.",
+      "translation": "We should avoid making assumptions about the change of plan.",
+      "example": "Deberíamos evitar hacer suposiciones sobre el cambio de planes."
+    },
+    {
+      "id": "es-conversation-b1-b2-079",
+      "word": "Deberíamos evitar hacer suposiciones sobre la conversación.",
+      "translation": "We should avoid making assumptions about the conversation.",
+      "example": "Deberíamos evitar hacer suposiciones sobre la conversación."
+    },
+    {
+      "id": "es-conversation-b1-b2-080",
+      "word": "Deberíamos evitar hacer suposiciones sobre la posible solución.",
+      "translation": "We should avoid making assumptions about the possible solution.",
+      "example": "Deberíamos evitar hacer suposiciones sobre la posible solución."
+    },
+    {
+      "id": "es-conversation-b1-b2-081",
+      "word": "Agradezco tu sinceridad sobre la situación.",
+      "translation": "I appreciate your honesty about the situation.",
+      "example": "Agradezco tu sinceridad sobre la situación."
+    },
+    {
+      "id": "es-conversation-b1-b2-082",
+      "word": "Agradezco tu sinceridad sobre lo que ocurrió.",
+      "translation": "I appreciate your honesty about what happened.",
+      "example": "Agradezco tu sinceridad sobre lo que ocurrió."
+    },
+    {
+      "id": "es-conversation-b1-b2-083",
+      "word": "Agradezco tu sinceridad sobre tu punto de vista.",
+      "translation": "I appreciate your honesty about your point of view.",
+      "example": "Agradezco tu sinceridad sobre tu punto de vista."
+    },
+    {
+      "id": "es-conversation-b1-b2-084",
+      "word": "Agradezco tu sinceridad sobre el malentendido.",
+      "translation": "I appreciate your honesty about the misunderstanding.",
+      "example": "Agradezco tu sinceridad sobre el malentendido."
+    },
+    {
+      "id": "es-conversation-b1-b2-085",
+      "word": "Agradezco tu sinceridad sobre la decisión.",
+      "translation": "I appreciate your honesty about the decision.",
+      "example": "Agradezco tu sinceridad sobre la decisión."
+    },
+    {
+      "id": "es-conversation-b1-b2-086",
+      "word": "Agradezco tu sinceridad sobre el problema.",
+      "translation": "I appreciate your honesty about the problem.",
+      "example": "Agradezco tu sinceridad sobre el problema."
+    },
+    {
+      "id": "es-conversation-b1-b2-087",
+      "word": "Agradezco tu sinceridad sobre el consejo.",
+      "translation": "I appreciate your honesty about the advice.",
+      "example": "Agradezco tu sinceridad sobre el consejo."
+    },
+    {
+      "id": "es-conversation-b1-b2-088",
+      "word": "Agradezco tu sinceridad sobre el cambio de planes.",
+      "translation": "I appreciate your honesty about the change of plan.",
+      "example": "Agradezco tu sinceridad sobre el cambio de planes."
+    },
+    {
+      "id": "es-conversation-b1-b2-089",
+      "word": "Agradezco tu sinceridad sobre la conversación.",
+      "translation": "I appreciate your honesty about the conversation.",
+      "example": "Agradezco tu sinceridad sobre la conversación."
+    },
+    {
+      "id": "es-conversation-b1-b2-090",
+      "word": "Agradezco tu sinceridad sobre la posible solución.",
+      "translation": "I appreciate your honesty about the possible solution.",
+      "example": "Agradezco tu sinceridad sobre la posible solución."
+    },
+    {
+      "id": "es-conversation-b1-b2-091",
+      "word": "¿Podemos ponernos de acuerdo sobre la situación por ahora?",
+      "translation": "Can we agree on the situation for now?",
+      "example": "¿Podemos ponernos de acuerdo sobre la situación por ahora?"
+    },
+    {
+      "id": "es-conversation-b1-b2-092",
+      "word": "¿Podemos ponernos de acuerdo sobre lo que ocurrió por ahora?",
+      "translation": "Can we agree on what happened for now?",
+      "example": "¿Podemos ponernos de acuerdo sobre lo que ocurrió por ahora?"
+    },
+    {
+      "id": "es-conversation-b1-b2-093",
+      "word": "¿Podemos ponernos de acuerdo sobre tu punto de vista por ahora?",
+      "translation": "Can we agree on your point of view for now?",
+      "example": "¿Podemos ponernos de acuerdo sobre tu punto de vista por ahora?"
+    },
+    {
+      "id": "es-conversation-b1-b2-094",
+      "word": "¿Podemos ponernos de acuerdo sobre el malentendido por ahora?",
+      "translation": "Can we agree on the misunderstanding for now?",
+      "example": "¿Podemos ponernos de acuerdo sobre el malentendido por ahora?"
+    },
+    {
+      "id": "es-conversation-b1-b2-095",
+      "word": "¿Podemos ponernos de acuerdo sobre la decisión por ahora?",
+      "translation": "Can we agree on the decision for now?",
+      "example": "¿Podemos ponernos de acuerdo sobre la decisión por ahora?"
+    },
+    {
+      "id": "es-conversation-b1-b2-096",
+      "word": "¿Podemos ponernos de acuerdo sobre el problema por ahora?",
+      "translation": "Can we agree on the problem for now?",
+      "example": "¿Podemos ponernos de acuerdo sobre el problema por ahora?"
+    },
+    {
+      "id": "es-conversation-b1-b2-097",
+      "word": "¿Podemos ponernos de acuerdo sobre el consejo por ahora?",
+      "translation": "Can we agree on the advice for now?",
+      "example": "¿Podemos ponernos de acuerdo sobre el consejo por ahora?"
+    },
+    {
+      "id": "es-conversation-b1-b2-098",
+      "word": "¿Podemos ponernos de acuerdo sobre el cambio de planes por ahora?",
+      "translation": "Can we agree on the change of plan for now?",
+      "example": "¿Podemos ponernos de acuerdo sobre el cambio de planes por ahora?"
+    },
+    {
+      "id": "es-conversation-b1-b2-099",
+      "word": "¿Podemos ponernos de acuerdo sobre la conversación por ahora?",
+      "translation": "Can we agree on the conversation for now?",
+      "example": "¿Podemos ponernos de acuerdo sobre la conversación por ahora?"
+    },
+    {
+      "id": "es-conversation-b1-b2-100",
+      "word": "¿Podemos ponernos de acuerdo sobre la posible solución por ahora?",
+      "translation": "Can we agree on the possible solution for now?",
+      "example": "¿Podemos ponernos de acuerdo sobre la posible solución por ahora?"
+    }
+  ]
+}
