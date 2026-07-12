@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-pt-relationships-c1-c2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "relationships",
+  "categoryTitle": "Relationships & Emotions",
+  "title": "Relationships & Emotions",
+  "level": "C1-C2",
+  "emoji": "💞",
+  "description": "Explore emotional nuance, attachment, vulnerability, identity, and complex interpersonal dynamics.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-relationships-c1-c2-001",
+      "word": "Uma discussão ponderada sobre a vulnerabilidade emocional exige empatia.",
+      "translation": "A nuanced discussion of emotional vulnerability requires empathy.",
+      "example": "Uma discussão ponderada sobre a vulnerabilidade emocional exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-002",
+      "word": "Uma discussão ponderada sobre os padrões de vinculação exige empatia.",
+      "translation": "A nuanced discussion of attachment patterns requires empathy.",
+      "example": "Uma discussão ponderada sobre os padrões de vinculação exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-003",
+      "word": "Uma discussão ponderada sobre o ressentimento não expresso exige empatia.",
+      "translation": "A nuanced discussion of unspoken resentment requires empathy.",
+      "example": "Uma discussão ponderada sobre o ressentimento não expresso exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-004",
+      "word": "Uma discussão ponderada sobre a dependência mútua exige empatia.",
+      "translation": "A nuanced discussion of mutual dependence requires empathy.",
+      "example": "Uma discussão ponderada sobre a dependência mútua exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-005",
+      "word": "Uma discussão ponderada sobre a carga emocional desigual exige empatia.",
+      "translation": "A nuanced discussion of unequal emotional labor requires empathy.",
+      "example": "Uma discussão ponderada sobre a carga emocional desigual exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-006",
+      "word": "Uma discussão ponderada sobre as necessidades contraditórias exige empatia.",
+      "translation": "A nuanced discussion of conflicting needs requires empathy.",
+      "example": "Uma discussão ponderada sobre as necessidades contraditórias exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-007",
+      "word": "Uma discussão ponderada sobre o medo da rejeição exige empatia.",
+      "translation": "A nuanced discussion of fear of rejection requires empathy.",
+      "example": "Uma discussão ponderada sobre o medo da rejeição exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-008",
+      "word": "Uma discussão ponderada sobre a ambiguidade interpessoal exige empatia.",
+      "translation": "A nuanced discussion of interpersonal ambiguity requires empathy.",
+      "example": "Uma discussão ponderada sobre a ambiguidade interpessoal exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-009",
+      "word": "Uma discussão ponderada sobre a autoconsciência emocional exige empatia.",
+      "translation": "A nuanced discussion of emotional self-awareness requires empathy.",
+      "example": "Uma discussão ponderada sobre a autoconsciência emocional exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-010",
+      "word": "Uma discussão ponderada sobre o equilíbrio entre intimidade e autonomia exige empatia.",
+      "translation": "A nuanced discussion of the balance between intimacy and autonomy requires empathy.",
+      "example": "Uma discussão ponderada sobre o equilíbrio entre intimidade e autonomia exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-011",
+      "word": "Deveríamos evitar patologizar a vulnerabilidade emocional.",
+      "translation": "We should avoid pathologizing emotional vulnerability.",
+      "example": "Deveríamos evitar patologizar a vulnerabilidade emocional."
+    },
+    {
+      "id": "pt-relationships-c1-c2-012",
+      "word": "Deveríamos evitar patologizar os padrões de vinculação.",
+      "translation": "We should avoid pathologizing attachment patterns.",
+      "example": "Deveríamos evitar patologizar os padrões de vinculação."
+    },
+    {
+      "id": "pt-relationships-c1-c2-013",
+      "word": "Deveríamos evitar patologizar o ressentimento não expresso.",
+      "translation": "We should avoid pathologizing unspoken resentment.",
+      "example": "Deveríamos evitar patologizar o ressentimento não expresso."
+    },
+    {
+      "id": "pt-relationships-c1-c2-014",
+      "word": "Deveríamos evitar patologizar a dependência mútua.",
+      "translation": "We should avoid pathologizing mutual dependence.",
+      "example": "Deveríamos evitar patologizar a dependência mútua."
+    },
+    {
+      "id": "pt-relationships-c1-c2-015",
+      "word": "Deveríamos evitar patologizar a carga emocional desigual.",
+      "translation": "We should avoid pathologizing unequal emotional labor.",
+      "example": "Deveríamos evitar patologizar a carga emocional desigual."
+    },
+    {
+      "id": "pt-relationships-c1-c2-016",
+      "word": "Deveríamos evitar patologizar as necessidades contraditórias.",
+      "translation": "We should avoid pathologizing conflicting needs.",
+      "example": "Deveríamos evitar patologizar as necessidades contraditórias."
+    },
+    {
+      "id": "pt-relationships-c1-c2-017",
+      "word": "Deveríamos evitar patologizar o medo da rejeição.",
+      "translation": "We should avoid pathologizing fear of rejection.",
+      "example": "Deveríamos evitar patologizar o medo da rejeição."
+    },
+    {
+      "id": "pt-relationships-c1-c2-018",
+      "word": "Deveríamos evitar patologizar a ambiguidade interpessoal.",
+      "translation": "We should avoid pathologizing interpersonal ambiguity.",
+      "example": "Deveríamos evitar patologizar a ambiguidade interpessoal."
+    },
+    {
+      "id": "pt-relationships-c1-c2-019",
+      "word": "Deveríamos evitar patologizar a autoconsciência emocional.",
+      "translation": "We should avoid pathologizing emotional self-awareness.",
+      "example": "Deveríamos evitar patologizar a autoconsciência emocional."
+    },
+    {
+      "id": "pt-relationships-c1-c2-020",
+      "word": "Deveríamos evitar patologizar o equilíbrio entre intimidade e autonomia.",
+      "translation": "We should avoid pathologizing the balance between intimacy and autonomy.",
+      "example": "Deveríamos evitar patologizar o equilíbrio entre intimidade e autonomia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-021",
+      "word": "A relação é moldada por a vulnerabilidade emocional.",
+      "translation": "The relationship is shaped by emotional vulnerability.",
+      "example": "A relação é moldada por a vulnerabilidade emocional."
+    },
+    {
+      "id": "pt-relationships-c1-c2-022",
+      "word": "A relação é moldada por os padrões de vinculação.",
+      "translation": "The relationship is shaped by attachment patterns.",
+      "example": "A relação é moldada por os padrões de vinculação."
+    },
+    {
+      "id": "pt-relationships-c1-c2-023",
+      "word": "A relação é moldada por o ressentimento não expresso.",
+      "translation": "The relationship is shaped by unspoken resentment.",
+      "example": "A relação é moldada por o ressentimento não expresso."
+    },
+    {
+      "id": "pt-relationships-c1-c2-024",
+      "word": "A relação é moldada por a dependência mútua.",
+      "translation": "The relationship is shaped by mutual dependence.",
+      "example": "A relação é moldada por a dependência mútua."
+    },
+    {
+      "id": "pt-relationships-c1-c2-025",
+      "word": "A relação é moldada por a carga emocional desigual.",
+      "translation": "The relationship is shaped by unequal emotional labor.",
+      "example": "A relação é moldada por a carga emocional desigual."
+    },
+    {
+      "id": "pt-relationships-c1-c2-026",
+      "word": "A relação é moldada por as necessidades contraditórias.",
+      "translation": "The relationship is shaped by conflicting needs.",
+      "example": "A relação é moldada por as necessidades contraditórias."
+    },
+    {
+      "id": "pt-relationships-c1-c2-027",
+      "word": "A relação é moldada por o medo da rejeição.",
+      "translation": "The relationship is shaped by fear of rejection.",
+      "example": "A relação é moldada por o medo da rejeição."
+    },
+    {
+      "id": "pt-relationships-c1-c2-028",
+      "word": "A relação é moldada por a ambiguidade interpessoal.",
+      "translation": "The relationship is shaped by interpersonal ambiguity.",
+      "example": "A relação é moldada por a ambiguidade interpessoal."
+    },
+    {
+      "id": "pt-relationships-c1-c2-029",
+      "word": "A relação é moldada por a autoconsciência emocional.",
+      "translation": "The relationship is shaped by emotional self-awareness.",
+      "example": "A relação é moldada por a autoconsciência emocional."
+    },
+    {
+      "id": "pt-relationships-c1-c2-030",
+      "word": "A relação é moldada por o equilíbrio entre intimidade e autonomia.",
+      "translation": "The relationship is shaped by the balance between intimacy and autonomy.",
+      "example": "A relação é moldada por o equilíbrio entre intimidade e autonomia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-031",
+      "word": "Reconhecer a vulnerabilidade emocional pode criar espaço para a mudança.",
+      "translation": "Acknowledging emotional vulnerability can create room for change.",
+      "example": "Reconhecer a vulnerabilidade emocional pode criar espaço para a mudança."
+    },
+    {
+      "id": "pt-relationships-c1-c2-032",
+      "word": "Reconhecer os padrões de vinculação pode criar espaço para a mudança.",
+      "translation": "Acknowledging attachment patterns can create room for change.",
+      "example": "Reconhecer os padrões de vinculação pode criar espaço para a mudança."
+    },
+    {
+      "id": "pt-relationships-c1-c2-033",
+      "word": "Reconhecer o ressentimento não expresso pode criar espaço para a mudança.",
+      "translation": "Acknowledging unspoken resentment can create room for change.",
+      "example": "Reconhecer o ressentimento não expresso pode criar espaço para a mudança."
+    },
+    {
+      "id": "pt-relationships-c1-c2-034",
+      "word": "Reconhecer a dependência mútua pode criar espaço para a mudança.",
+      "translation": "Acknowledging mutual dependence can create room for change.",
+      "example": "Reconhecer a dependência mútua pode criar espaço para a mudança."
+    },
+    {
+      "id": "pt-relationships-c1-c2-035",
+      "word": "Reconhecer a carga emocional desigual pode criar espaço para a mudança.",
+      "translation": "Acknowledging unequal emotional labor can create room for change.",
+      "example": "Reconhecer a carga emocional desigual pode criar espaço para a mudança."
+    },
+    {
+      "id": "pt-relationships-c1-c2-036",
+      "word": "Reconhecer as necessidades contraditórias pode criar espaço para a mudança.",
+      "translation": "Acknowledging conflicting needs can create room for change.",
+      "example": "Reconhecer as necessidades contraditórias pode criar espaço para a mudança."
+    },
+    {
+      "id": "pt-relationships-c1-c2-037",
+      "word": "Reconhecer o medo da rejeição pode criar espaço para a mudança.",
+      "translation": "Acknowledging fear of rejection can create room for change.",
+      "example": "Reconhecer o medo da rejeição pode criar espaço para a mudança."
+    },
+    {
+      "id": "pt-relationships-c1-c2-038",
+      "word": "Reconhecer a ambiguidade interpessoal pode criar espaço para a mudança.",
+      "translation": "Acknowledging interpersonal ambiguity can create room for change.",
+      "example": "Reconhecer a ambiguidade interpessoal pode criar espaço para a mudança."
+    },
+    {
+      "id": "pt-relationships-c1-c2-039",
+      "word": "Reconhecer a autoconsciência emocional pode criar espaço para a mudança.",
+      "translation": "Acknowledging emotional self-awareness can create room for change.",
+      "example": "Reconhecer a autoconsciência emocional pode criar espaço para a mudança."
+    },
+    {
+      "id": "pt-relationships-c1-c2-040",
+      "word": "Reconhecer o equilíbrio entre intimidade e autonomia pode criar espaço para a mudança.",
+      "translation": "Acknowledging the balance between intimacy and autonomy can create room for change.",
+      "example": "Reconhecer o equilíbrio entre intimidade e autonomia pode criar espaço para a mudança."
+    },
+    {
+      "id": "pt-relationships-c1-c2-041",
+      "word": "A conversa revelou a vulnerabilidade emocional.",
+      "translation": "The conversation revealed emotional vulnerability.",
+      "example": "A conversa revelou a vulnerabilidade emocional."
+    },
+    {
+      "id": "pt-relationships-c1-c2-042",
+      "word": "A conversa revelou os padrões de vinculação.",
+      "translation": "The conversation revealed attachment patterns.",
+      "example": "A conversa revelou os padrões de vinculação."
+    },
+    {
+      "id": "pt-relationships-c1-c2-043",
+      "word": "A conversa revelou o ressentimento não expresso.",
+      "translation": "The conversation revealed unspoken resentment.",
+      "example": "A conversa revelou o ressentimento não expresso."
+    },
+    {
+      "id": "pt-relationships-c1-c2-044",
+      "word": "A conversa revelou a dependência mútua.",
+      "translation": "The conversation revealed mutual dependence.",
+      "example": "A conversa revelou a dependência mútua."
+    },
+    {
+      "id": "pt-relationships-c1-c2-045",
+      "word": "A conversa revelou a carga emocional desigual.",
+      "translation": "The conversation revealed unequal emotional labor.",
+      "example": "A conversa revelou a carga emocional desigual."
+    },
+    {
+      "id": "pt-relationships-c1-c2-046",
+      "word": "A conversa revelou as necessidades contraditórias.",
+      "translation": "The conversation revealed conflicting needs.",
+      "example": "A conversa revelou as necessidades contraditórias."
+    },
+    {
+      "id": "pt-relationships-c1-c2-047",
+      "word": "A conversa revelou o medo da rejeição.",
+      "translation": "The conversation revealed fear of rejection.",
+      "example": "A conversa revelou o medo da rejeição."
+    },
+    {
+      "id": "pt-relationships-c1-c2-048",
+      "word": "A conversa revelou a ambiguidade interpessoal.",
+      "translation": "The conversation revealed interpersonal ambiguity.",
+      "example": "A conversa revelou a ambiguidade interpessoal."
+    },
+    {
+      "id": "pt-relationships-c1-c2-049",
+      "word": "A conversa revelou a autoconsciência emocional.",
+      "translation": "The conversation revealed emotional self-awareness.",
+      "example": "A conversa revelou a autoconsciência emocional."
+    },
+    {
+      "id": "pt-relationships-c1-c2-050",
+      "word": "A conversa revelou o equilíbrio entre intimidade e autonomia.",
+      "translation": "The conversation revealed the balance between intimacy and autonomy.",
+      "example": "A conversa revelou o equilíbrio entre intimidade e autonomia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-051",
+      "word": "Uma comunicação saudável não elimina a vulnerabilidade emocional.",
+      "translation": "Healthy communication does not eliminate emotional vulnerability.",
+      "example": "Uma comunicação saudável não elimina a vulnerabilidade emocional."
+    },
+    {
+      "id": "pt-relationships-c1-c2-052",
+      "word": "Uma comunicação saudável não elimina os padrões de vinculação.",
+      "translation": "Healthy communication does not eliminate attachment patterns.",
+      "example": "Uma comunicação saudável não elimina os padrões de vinculação."
+    },
+    {
+      "id": "pt-relationships-c1-c2-053",
+      "word": "Uma comunicação saudável não elimina o ressentimento não expresso.",
+      "translation": "Healthy communication does not eliminate unspoken resentment.",
+      "example": "Uma comunicação saudável não elimina o ressentimento não expresso."
+    },
+    {
+      "id": "pt-relationships-c1-c2-054",
+      "word": "Uma comunicação saudável não elimina a dependência mútua.",
+      "translation": "Healthy communication does not eliminate mutual dependence.",
+      "example": "Uma comunicação saudável não elimina a dependência mútua."
+    },
+    {
+      "id": "pt-relationships-c1-c2-055",
+      "word": "Uma comunicação saudável não elimina a carga emocional desigual.",
+      "translation": "Healthy communication does not eliminate unequal emotional labor.",
+      "example": "Uma comunicação saudável não elimina a carga emocional desigual."
+    },
+    {
+      "id": "pt-relationships-c1-c2-056",
+      "word": "Uma comunicação saudável não elimina as necessidades contraditórias.",
+      "translation": "Healthy communication does not eliminate conflicting needs.",
+      "example": "Uma comunicação saudável não elimina as necessidades contraditórias."
+    },
+    {
+      "id": "pt-relationships-c1-c2-057",
+      "word": "Uma comunicação saudável não elimina o medo da rejeição.",
+      "translation": "Healthy communication does not eliminate fear of rejection.",
+      "example": "Uma comunicação saudável não elimina o medo da rejeição."
+    },
+    {
+      "id": "pt-relationships-c1-c2-058",
+      "word": "Uma comunicação saudável não elimina a ambiguidade interpessoal.",
+      "translation": "Healthy communication does not eliminate interpersonal ambiguity.",
+      "example": "Uma comunicação saudável não elimina a ambiguidade interpessoal."
+    },
+    {
+      "id": "pt-relationships-c1-c2-059",
+      "word": "Uma comunicação saudável não elimina a autoconsciência emocional.",
+      "translation": "Healthy communication does not eliminate emotional self-awareness.",
+      "example": "Uma comunicação saudável não elimina a autoconsciência emocional."
+    },
+    {
+      "id": "pt-relationships-c1-c2-060",
+      "word": "Uma comunicação saudável não elimina o equilíbrio entre intimidade e autonomia.",
+      "translation": "Healthy communication does not eliminate the balance between intimacy and autonomy.",
+      "example": "Uma comunicação saudável não elimina o equilíbrio entre intimidade e autonomia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-061",
+      "word": "É difícil interpretar a vulnerabilidade emocional sem contexto.",
+      "translation": "It is difficult to interpret emotional vulnerability without context.",
+      "example": "É difícil interpretar a vulnerabilidade emocional sem contexto."
+    },
+    {
+      "id": "pt-relationships-c1-c2-062",
+      "word": "É difícil interpretar os padrões de vinculação sem contexto.",
+      "translation": "It is difficult to interpret attachment patterns without context.",
+      "example": "É difícil interpretar os padrões de vinculação sem contexto."
+    },
+    {
+      "id": "pt-relationships-c1-c2-063",
+      "word": "É difícil interpretar o ressentimento não expresso sem contexto.",
+      "translation": "It is difficult to interpret unspoken resentment without context.",
+      "example": "É difícil interpretar o ressentimento não expresso sem contexto."
+    },
+    {
+      "id": "pt-relationships-c1-c2-064",
+      "word": "É difícil interpretar a dependência mútua sem contexto.",
+      "translation": "It is difficult to interpret mutual dependence without context.",
+      "example": "É difícil interpretar a dependência mútua sem contexto."
+    },
+    {
+      "id": "pt-relationships-c1-c2-065",
+      "word": "É difícil interpretar a carga emocional desigual sem contexto.",
+      "translation": "It is difficult to interpret unequal emotional labor without context.",
+      "example": "É difícil interpretar a carga emocional desigual sem contexto."
+    },
+    {
+      "id": "pt-relationships-c1-c2-066",
+      "word": "É difícil interpretar as necessidades contraditórias sem contexto.",
+      "translation": "It is difficult to interpret conflicting needs without context.",
+      "example": "É difícil interpretar as necessidades contraditórias sem contexto."
+    },
+    {
+      "id": "pt-relationships-c1-c2-067",
+      "word": "É difícil interpretar o medo da rejeição sem contexto.",
+      "translation": "It is difficult to interpret fear of rejection without context.",
+      "example": "É difícil interpretar o medo da rejeição sem contexto."
+    },
+    {
+      "id": "pt-relationships-c1-c2-068",
+      "word": "É difícil interpretar a ambiguidade interpessoal sem contexto.",
+      "translation": "It is difficult to interpret interpersonal ambiguity without context.",
+      "example": "É difícil interpretar a ambiguidade interpessoal sem contexto."
+    },
+    {
+      "id": "pt-relationships-c1-c2-069",
+      "word": "É difícil interpretar a autoconsciência emocional sem contexto.",
+      "translation": "It is difficult to interpret emotional self-awareness without context.",
+      "example": "É difícil interpretar a autoconsciência emocional sem contexto."
+    },
+    {
+      "id": "pt-relationships-c1-c2-070",
+      "word": "É difícil interpretar o equilíbrio entre intimidade e autonomia sem contexto.",
+      "translation": "It is difficult to interpret the balance between intimacy and autonomy without context.",
+      "example": "É difícil interpretar o equilíbrio entre intimidade e autonomia sem contexto."
+    },
+    {
+      "id": "pt-relationships-c1-c2-071",
+      "word": "A terapia pode ajudar a compreender a vulnerabilidade emocional.",
+      "translation": "Therapy may help someone understand emotional vulnerability.",
+      "example": "A terapia pode ajudar a compreender a vulnerabilidade emocional."
+    },
+    {
+      "id": "pt-relationships-c1-c2-072",
+      "word": "A terapia pode ajudar a compreender os padrões de vinculação.",
+      "translation": "Therapy may help someone understand attachment patterns.",
+      "example": "A terapia pode ajudar a compreender os padrões de vinculação."
+    },
+    {
+      "id": "pt-relationships-c1-c2-073",
+      "word": "A terapia pode ajudar a compreender o ressentimento não expresso.",
+      "translation": "Therapy may help someone understand unspoken resentment.",
+      "example": "A terapia pode ajudar a compreender o ressentimento não expresso."
+    },
+    {
+      "id": "pt-relationships-c1-c2-074",
+      "word": "A terapia pode ajudar a compreender a dependência mútua.",
+      "translation": "Therapy may help someone understand mutual dependence.",
+      "example": "A terapia pode ajudar a compreender a dependência mútua."
+    },
+    {
+      "id": "pt-relationships-c1-c2-075",
+      "word": "A terapia pode ajudar a compreender a carga emocional desigual.",
+      "translation": "Therapy may help someone understand unequal emotional labor.",
+      "example": "A terapia pode ajudar a compreender a carga emocional desigual."
+    },
+    {
+      "id": "pt-relationships-c1-c2-076",
+      "word": "A terapia pode ajudar a compreender as necessidades contraditórias.",
+      "translation": "Therapy may help someone understand conflicting needs.",
+      "example": "A terapia pode ajudar a compreender as necessidades contraditórias."
+    },
+    {
+      "id": "pt-relationships-c1-c2-077",
+      "word": "A terapia pode ajudar a compreender o medo da rejeição.",
+      "translation": "Therapy may help someone understand fear of rejection.",
+      "example": "A terapia pode ajudar a compreender o medo da rejeição."
+    },
+    {
+      "id": "pt-relationships-c1-c2-078",
+      "word": "A terapia pode ajudar a compreender a ambiguidade interpessoal.",
+      "translation": "Therapy may help someone understand interpersonal ambiguity.",
+      "example": "A terapia pode ajudar a compreender a ambiguidade interpessoal."
+    },
+    {
+      "id": "pt-relationships-c1-c2-079",
+      "word": "A terapia pode ajudar a compreender a autoconsciência emocional.",
+      "translation": "Therapy may help someone understand emotional self-awareness.",
+      "example": "A terapia pode ajudar a compreender a autoconsciência emocional."
+    },
+    {
+      "id": "pt-relationships-c1-c2-080",
+      "word": "A terapia pode ajudar a compreender o equilíbrio entre intimidade e autonomia.",
+      "translation": "Therapy may help someone understand the balance between intimacy and autonomy.",
+      "example": "A terapia pode ajudar a compreender o equilíbrio entre intimidade e autonomia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-081",
+      "word": "As expectativas culturais influenciam a forma como percecionamos a vulnerabilidade emocional.",
+      "translation": "Cultural expectations influence how we perceive emotional vulnerability.",
+      "example": "As expectativas culturais influenciam a forma como percecionamos a vulnerabilidade emocional."
+    },
+    {
+      "id": "pt-relationships-c1-c2-082",
+      "word": "As expectativas culturais influenciam a forma como percecionamos os padrões de vinculação.",
+      "translation": "Cultural expectations influence how we perceive attachment patterns.",
+      "example": "As expectativas culturais influenciam a forma como percecionamos os padrões de vinculação."
+    },
+    {
+      "id": "pt-relationships-c1-c2-083",
+      "word": "As expectativas culturais influenciam a forma como percecionamos o ressentimento não expresso.",
+      "translation": "Cultural expectations influence how we perceive unspoken resentment.",
+      "example": "As expectativas culturais influenciam a forma como percecionamos o ressentimento não expresso."
+    },
+    {
+      "id": "pt-relationships-c1-c2-084",
+      "word": "As expectativas culturais influenciam a forma como percecionamos a dependência mútua.",
+      "translation": "Cultural expectations influence how we perceive mutual dependence.",
+      "example": "As expectativas culturais influenciam a forma como percecionamos a dependência mútua."
+    },
+    {
+      "id": "pt-relationships-c1-c2-085",
+      "word": "As expectativas culturais influenciam a forma como percecionamos a carga emocional desigual.",
+      "translation": "Cultural expectations influence how we perceive unequal emotional labor.",
+      "example": "As expectativas culturais influenciam a forma como percecionamos a carga emocional desigual."
+    },
+    {
+      "id": "pt-relationships-c1-c2-086",
+      "word": "As expectativas culturais influenciam a forma como percecionamos as necessidades contraditórias.",
+      "translation": "Cultural expectations influence how we perceive conflicting needs.",
+      "example": "As expectativas culturais influenciam a forma como percecionamos as necessidades contraditórias."
+    },
+    {
+      "id": "pt-relationships-c1-c2-087",
+      "word": "As expectativas culturais influenciam a forma como percecionamos o medo da rejeição.",
+      "translation": "Cultural expectations influence how we perceive fear of rejection.",
+      "example": "As expectativas culturais influenciam a forma como percecionamos o medo da rejeição."
+    },
+    {
+      "id": "pt-relationships-c1-c2-088",
+      "word": "As expectativas culturais influenciam a forma como percecionamos a ambiguidade interpessoal.",
+      "translation": "Cultural expectations influence how we perceive interpersonal ambiguity.",
+      "example": "As expectativas culturais influenciam a forma como percecionamos a ambiguidade interpessoal."
+    },
+    {
+      "id": "pt-relationships-c1-c2-089",
+      "word": "As expectativas culturais influenciam a forma como percecionamos a autoconsciência emocional.",
+      "translation": "Cultural expectations influence how we perceive emotional self-awareness.",
+      "example": "As expectativas culturais influenciam a forma como percecionamos a autoconsciência emocional."
+    },
+    {
+      "id": "pt-relationships-c1-c2-090",
+      "word": "As expectativas culturais influenciam a forma como percecionamos o equilíbrio entre intimidade e autonomia.",
+      "translation": "Cultural expectations influence how we perceive the balance between intimacy and autonomy.",
+      "example": "As expectativas culturais influenciam a forma como percecionamos o equilíbrio entre intimidade e autonomia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-091",
+      "word": "Uma relação sustentável deve dar espaço a a vulnerabilidade emocional.",
+      "translation": "A sustainable relationship must make space for emotional vulnerability.",
+      "example": "Uma relação sustentável deve dar espaço a a vulnerabilidade emocional."
+    },
+    {
+      "id": "pt-relationships-c1-c2-092",
+      "word": "Uma relação sustentável deve dar espaço a os padrões de vinculação.",
+      "translation": "A sustainable relationship must make space for attachment patterns.",
+      "example": "Uma relação sustentável deve dar espaço a os padrões de vinculação."
+    },
+    {
+      "id": "pt-relationships-c1-c2-093",
+      "word": "Uma relação sustentável deve dar espaço a o ressentimento não expresso.",
+      "translation": "A sustainable relationship must make space for unspoken resentment.",
+      "example": "Uma relação sustentável deve dar espaço a o ressentimento não expresso."
+    },
+    {
+      "id": "pt-relationships-c1-c2-094",
+      "word": "Uma relação sustentável deve dar espaço a a dependência mútua.",
+      "translation": "A sustainable relationship must make space for mutual dependence.",
+      "example": "Uma relação sustentável deve dar espaço a a dependência mútua."
+    },
+    {
+      "id": "pt-relationships-c1-c2-095",
+      "word": "Uma relação sustentável deve dar espaço a a carga emocional desigual.",
+      "translation": "A sustainable relationship must make space for unequal emotional labor.",
+      "example": "Uma relação sustentável deve dar espaço a a carga emocional desigual."
+    },
+    {
+      "id": "pt-relationships-c1-c2-096",
+      "word": "Uma relação sustentável deve dar espaço a as necessidades contraditórias.",
+      "translation": "A sustainable relationship must make space for conflicting needs.",
+      "example": "Uma relação sustentável deve dar espaço a as necessidades contraditórias."
+    },
+    {
+      "id": "pt-relationships-c1-c2-097",
+      "word": "Uma relação sustentável deve dar espaço a o medo da rejeição.",
+      "translation": "A sustainable relationship must make space for fear of rejection.",
+      "example": "Uma relação sustentável deve dar espaço a o medo da rejeição."
+    },
+    {
+      "id": "pt-relationships-c1-c2-098",
+      "word": "Uma relação sustentável deve dar espaço a a ambiguidade interpessoal.",
+      "translation": "A sustainable relationship must make space for interpersonal ambiguity.",
+      "example": "Uma relação sustentável deve dar espaço a a ambiguidade interpessoal."
+    },
+    {
+      "id": "pt-relationships-c1-c2-099",
+      "word": "Uma relação sustentável deve dar espaço a a autoconsciência emocional.",
+      "translation": "A sustainable relationship must make space for emotional self-awareness.",
+      "example": "Uma relação sustentável deve dar espaço a a autoconsciência emocional."
+    },
+    {
+      "id": "pt-relationships-c1-c2-100",
+      "word": "Uma relação sustentável deve dar espaço a o equilíbrio entre intimidade e autonomia.",
+      "translation": "A sustainable relationship must make space for the balance between intimacy and autonomy.",
+      "example": "Uma relação sustentável deve dar espaço a o equilíbrio entre intimidade e autonomia."
+    }
+  ]
+}
