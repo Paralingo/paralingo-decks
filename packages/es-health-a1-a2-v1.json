@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-health-a1-a2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "health",
+  "categoryTitle": "Body & Health",
+  "title": "Body & Health",
+  "level": "A1-A2",
+  "emoji": "🩺",
+  "description": "Learn body parts, describe pain and common symptoms, and ask for basic medical help.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-health-a1-a2-001",
+      "word": "Me duele la cabeza.",
+      "translation": "My head hurts.",
+      "example": "Me duele la cabeza."
+    },
+    {
+      "id": "es-health-a1-a2-002",
+      "word": "Me duele la garganta.",
+      "translation": "My throat hurts.",
+      "example": "Me duele la garganta."
+    },
+    {
+      "id": "es-health-a1-a2-003",
+      "word": "Me duele el estómago.",
+      "translation": "My stomach hurts.",
+      "example": "Me duele el estómago."
+    },
+    {
+      "id": "es-health-a1-a2-004",
+      "word": "Me duele la espalda.",
+      "translation": "My back hurts.",
+      "example": "Me duele la espalda."
+    },
+    {
+      "id": "es-health-a1-a2-005",
+      "word": "Me duele el cuello.",
+      "translation": "My neck hurts.",
+      "example": "Me duele el cuello."
+    },
+    {
+      "id": "es-health-a1-a2-006",
+      "word": "Me duele la rodilla.",
+      "translation": "My knee hurts.",
+      "example": "Me duele la rodilla."
+    },
+    {
+      "id": "es-health-a1-a2-007",
+      "word": "Me duele el brazo.",
+      "translation": "My arm hurts.",
+      "example": "Me duele el brazo."
+    },
+    {
+      "id": "es-health-a1-a2-008",
+      "word": "Me duele la pierna.",
+      "translation": "My leg hurts.",
+      "example": "Me duele la pierna."
+    },
+    {
+      "id": "es-health-a1-a2-009",
+      "word": "Me duele la mano.",
+      "translation": "My hand hurts.",
+      "example": "Me duele la mano."
+    },
+    {
+      "id": "es-health-a1-a2-010",
+      "word": "Me duele el pie.",
+      "translation": "My foot hurts.",
+      "example": "Me duele el pie."
+    },
+    {
+      "id": "es-health-a1-a2-011",
+      "word": "Ayer me lesioné la cabeza.",
+      "translation": "I injured my head yesterday.",
+      "example": "Ayer me lesioné la cabeza."
+    },
+    {
+      "id": "es-health-a1-a2-012",
+      "word": "Ayer me lesioné la garganta.",
+      "translation": "I injured my throat yesterday.",
+      "example": "Ayer me lesioné la garganta."
+    },
+    {
+      "id": "es-health-a1-a2-013",
+      "word": "Ayer me lesioné el estómago.",
+      "translation": "I injured my stomach yesterday.",
+      "example": "Ayer me lesioné el estómago."
+    },
+    {
+      "id": "es-health-a1-a2-014",
+      "word": "Ayer me lesioné la espalda.",
+      "translation": "I injured my back yesterday.",
+      "example": "Ayer me lesioné la espalda."
+    },
+    {
+      "id": "es-health-a1-a2-015",
+      "word": "Ayer me lesioné el cuello.",
+      "translation": "I injured my neck yesterday.",
+      "example": "Ayer me lesioné el cuello."
+    },
+    {
+      "id": "es-health-a1-a2-016",
+      "word": "Ayer me lesioné la rodilla.",
+      "translation": "I injured my knee yesterday.",
+      "example": "Ayer me lesioné la rodilla."
+    },
+    {
+      "id": "es-health-a1-a2-017",
+      "word": "Ayer me lesioné el brazo.",
+      "translation": "I injured my arm yesterday.",
+      "example": "Ayer me lesioné el brazo."
+    },
+    {
+      "id": "es-health-a1-a2-018",
+      "word": "Ayer me lesioné la pierna.",
+      "translation": "I injured my leg yesterday.",
+      "example": "Ayer me lesioné la pierna."
+    },
+    {
+      "id": "es-health-a1-a2-019",
+      "word": "Ayer me lesioné la mano.",
+      "translation": "I injured my hand yesterday.",
+      "example": "Ayer me lesioné la mano."
+    },
+    {
+      "id": "es-health-a1-a2-020",
+      "word": "Ayer me lesioné el pie.",
+      "translation": "I injured my foot yesterday.",
+      "example": "Ayer me lesioné el pie."
+    },
+    {
+      "id": "es-health-a1-a2-021",
+      "word": "El médico me examinó la cabeza.",
+      "translation": "The doctor examined my head.",
+      "example": "El médico me examinó la cabeza."
+    },
+    {
+      "id": "es-health-a1-a2-022",
+      "word": "El médico me examinó la garganta.",
+      "translation": "The doctor examined my throat.",
+      "example": "El médico me examinó la garganta."
+    },
+    {
+      "id": "es-health-a1-a2-023",
+      "word": "El médico me examinó el estómago.",
+      "translation": "The doctor examined my stomach.",
+      "example": "El médico me examinó el estómago."
+    },
+    {
+      "id": "es-health-a1-a2-024",
+      "word": "El médico me examinó la espalda.",
+      "translation": "The doctor examined my back.",
+      "example": "El médico me examinó la espalda."
+    },
+    {
+      "id": "es-health-a1-a2-025",
+      "word": "El médico me examinó el cuello.",
+      "translation": "The doctor examined my neck.",
+      "example": "El médico me examinó el cuello."
+    },
+    {
+      "id": "es-health-a1-a2-026",
+      "word": "El médico me examinó la rodilla.",
+      "translation": "The doctor examined my knee.",
+      "example": "El médico me examinó la rodilla."
+    },
+    {
+      "id": "es-health-a1-a2-027",
+      "word": "El médico me examinó el brazo.",
+      "translation": "The doctor examined my arm.",
+      "example": "El médico me examinó el brazo."
+    },
+    {
+      "id": "es-health-a1-a2-028",
+      "word": "El médico me examinó la pierna.",
+      "translation": "The doctor examined my leg.",
+      "example": "El médico me examinó la pierna."
+    },
+    {
+      "id": "es-health-a1-a2-029",
+      "word": "El médico me examinó la mano.",
+      "translation": "The doctor examined my hand.",
+      "example": "El médico me examinó la mano."
+    },
+    {
+      "id": "es-health-a1-a2-030",
+      "word": "El médico me examinó el pie.",
+      "translation": "The doctor examined my foot.",
+      "example": "El médico me examinó el pie."
+    },
+    {
+      "id": "es-health-a1-a2-031",
+      "word": "No puedo mover bien la cabeza.",
+      "translation": "I cannot move my head properly.",
+      "example": "No puedo mover bien la cabeza."
+    },
+    {
+      "id": "es-health-a1-a2-032",
+      "word": "No puedo mover bien la garganta.",
+      "translation": "I cannot move my throat properly.",
+      "example": "No puedo mover bien la garganta."
+    },
+    {
+      "id": "es-health-a1-a2-033",
+      "word": "No puedo mover bien el estómago.",
+      "translation": "I cannot move my stomach properly.",
+      "example": "No puedo mover bien el estómago."
+    },
+    {
+      "id": "es-health-a1-a2-034",
+      "word": "No puedo mover bien la espalda.",
+      "translation": "I cannot move my back properly.",
+      "example": "No puedo mover bien la espalda."
+    },
+    {
+      "id": "es-health-a1-a2-035",
+      "word": "No puedo mover bien el cuello.",
+      "translation": "I cannot move my neck properly.",
+      "example": "No puedo mover bien el cuello."
+    },
+    {
+      "id": "es-health-a1-a2-036",
+      "word": "No puedo mover bien la rodilla.",
+      "translation": "I cannot move my knee properly.",
+      "example": "No puedo mover bien la rodilla."
+    },
+    {
+      "id": "es-health-a1-a2-037",
+      "word": "No puedo mover bien el brazo.",
+      "translation": "I cannot move my arm properly.",
+      "example": "No puedo mover bien el brazo."
+    },
+    {
+      "id": "es-health-a1-a2-038",
+      "word": "No puedo mover bien la pierna.",
+      "translation": "I cannot move my leg properly.",
+      "example": "No puedo mover bien la pierna."
+    },
+    {
+      "id": "es-health-a1-a2-039",
+      "word": "No puedo mover bien la mano.",
+      "translation": "I cannot move my hand properly.",
+      "example": "No puedo mover bien la mano."
+    },
+    {
+      "id": "es-health-a1-a2-040",
+      "word": "No puedo mover bien el pie.",
+      "translation": "I cannot move my foot properly.",
+      "example": "No puedo mover bien el pie."
+    },
+    {
+      "id": "es-health-a1-a2-041",
+      "word": "Hoy tengo mejor la cabeza.",
+      "translation": "My head feels better today.",
+      "example": "Hoy tengo mejor la cabeza."
+    },
+    {
+      "id": "es-health-a1-a2-042",
+      "word": "Hoy tengo mejor la garganta.",
+      "translation": "My throat feels better today.",
+      "example": "Hoy tengo mejor la garganta."
+    },
+    {
+      "id": "es-health-a1-a2-043",
+      "word": "Hoy tengo mejor el estómago.",
+      "translation": "My stomach feels better today.",
+      "example": "Hoy tengo mejor el estómago."
+    },
+    {
+      "id": "es-health-a1-a2-044",
+      "word": "Hoy tengo mejor la espalda.",
+      "translation": "My back feels better today.",
+      "example": "Hoy tengo mejor la espalda."
+    },
+    {
+      "id": "es-health-a1-a2-045",
+      "word": "Hoy tengo mejor el cuello.",
+      "translation": "My neck feels better today.",
+      "example": "Hoy tengo mejor el cuello."
+    },
+    {
+      "id": "es-health-a1-a2-046",
+      "word": "Hoy tengo mejor la rodilla.",
+      "translation": "My knee feels better today.",
+      "example": "Hoy tengo mejor la rodilla."
+    },
+    {
+      "id": "es-health-a1-a2-047",
+      "word": "Hoy tengo mejor el brazo.",
+      "translation": "My arm feels better today.",
+      "example": "Hoy tengo mejor el brazo."
+    },
+    {
+      "id": "es-health-a1-a2-048",
+      "word": "Hoy tengo mejor la pierna.",
+      "translation": "My leg feels better today.",
+      "example": "Hoy tengo mejor la pierna."
+    },
+    {
+      "id": "es-health-a1-a2-049",
+      "word": "Hoy tengo mejor la mano.",
+      "translation": "My hand feels better today.",
+      "example": "Hoy tengo mejor la mano."
+    },
+    {
+      "id": "es-health-a1-a2-050",
+      "word": "Hoy tengo mejor el pie.",
+      "translation": "My foot feels better today.",
+      "example": "Hoy tengo mejor el pie."
+    },
+    {
+      "id": "es-health-a1-a2-051",
+      "word": "Tengo hinchazón alrededor de la cabeza.",
+      "translation": "There is swelling around my head.",
+      "example": "Tengo hinchazón alrededor de la cabeza."
+    },
+    {
+      "id": "es-health-a1-a2-052",
+      "word": "Tengo hinchazón alrededor de la garganta.",
+      "translation": "There is swelling around my throat.",
+      "example": "Tengo hinchazón alrededor de la garganta."
+    },
+    {
+      "id": "es-health-a1-a2-053",
+      "word": "Tengo hinchazón alrededor de el estómago.",
+      "translation": "There is swelling around my stomach.",
+      "example": "Tengo hinchazón alrededor de el estómago."
+    },
+    {
+      "id": "es-health-a1-a2-054",
+      "word": "Tengo hinchazón alrededor de la espalda.",
+      "translation": "There is swelling around my back.",
+      "example": "Tengo hinchazón alrededor de la espalda."
+    },
+    {
+      "id": "es-health-a1-a2-055",
+      "word": "Tengo hinchazón alrededor de el cuello.",
+      "translation": "There is swelling around my neck.",
+      "example": "Tengo hinchazón alrededor de el cuello."
+    },
+    {
+      "id": "es-health-a1-a2-056",
+      "word": "Tengo hinchazón alrededor de la rodilla.",
+      "translation": "There is swelling around my knee.",
+      "example": "Tengo hinchazón alrededor de la rodilla."
+    },
+    {
+      "id": "es-health-a1-a2-057",
+      "word": "Tengo hinchazón alrededor de el brazo.",
+      "translation": "There is swelling around my arm.",
+      "example": "Tengo hinchazón alrededor de el brazo."
+    },
+    {
+      "id": "es-health-a1-a2-058",
+      "word": "Tengo hinchazón alrededor de la pierna.",
+      "translation": "There is swelling around my leg.",
+      "example": "Tengo hinchazón alrededor de la pierna."
+    },
+    {
+      "id": "es-health-a1-a2-059",
+      "word": "Tengo hinchazón alrededor de la mano.",
+      "translation": "There is swelling around my hand.",
+      "example": "Tengo hinchazón alrededor de la mano."
+    },
+    {
+      "id": "es-health-a1-a2-060",
+      "word": "Tengo hinchazón alrededor de el pie.",
+      "translation": "There is swelling around my foot.",
+      "example": "Tengo hinchazón alrededor de el pie."
+    },
+    {
+      "id": "es-health-a1-a2-061",
+      "word": "¿Debo poner hielo en la cabeza?",
+      "translation": "Should I put ice on my head?",
+      "example": "¿Debo poner hielo en la cabeza?"
+    },
+    {
+      "id": "es-health-a1-a2-062",
+      "word": "¿Debo poner hielo en la garganta?",
+      "translation": "Should I put ice on my throat?",
+      "example": "¿Debo poner hielo en la garganta?"
+    },
+    {
+      "id": "es-health-a1-a2-063",
+      "word": "¿Debo poner hielo en el estómago?",
+      "translation": "Should I put ice on my stomach?",
+      "example": "¿Debo poner hielo en el estómago?"
+    },
+    {
+      "id": "es-health-a1-a2-064",
+      "word": "¿Debo poner hielo en la espalda?",
+      "translation": "Should I put ice on my back?",
+      "example": "¿Debo poner hielo en la espalda?"
+    },
+    {
+      "id": "es-health-a1-a2-065",
+      "word": "¿Debo poner hielo en el cuello?",
+      "translation": "Should I put ice on my neck?",
+      "example": "¿Debo poner hielo en el cuello?"
+    },
+    {
+      "id": "es-health-a1-a2-066",
+      "word": "¿Debo poner hielo en la rodilla?",
+      "translation": "Should I put ice on my knee?",
+      "example": "¿Debo poner hielo en la rodilla?"
+    },
+    {
+      "id": "es-health-a1-a2-067",
+      "word": "¿Debo poner hielo en el brazo?",
+      "translation": "Should I put ice on my arm?",
+      "example": "¿Debo poner hielo en el brazo?"
+    },
+    {
+      "id": "es-health-a1-a2-068",
+      "word": "¿Debo poner hielo en la pierna?",
+      "translation": "Should I put ice on my leg?",
+      "example": "¿Debo poner hielo en la pierna?"
+    },
+    {
+      "id": "es-health-a1-a2-069",
+      "word": "¿Debo poner hielo en la mano?",
+      "translation": "Should I put ice on my hand?",
+      "example": "¿Debo poner hielo en la mano?"
+    },
+    {
+      "id": "es-health-a1-a2-070",
+      "word": "¿Debo poner hielo en el pie?",
+      "translation": "Should I put ice on my foot?",
+      "example": "¿Debo poner hielo en el pie?"
+    },
+    {
+      "id": "es-health-a1-a2-071",
+      "word": "Necesito una venda para la cabeza.",
+      "translation": "I need a bandage for my head.",
+      "example": "Necesito una venda para la cabeza."
+    },
+    {
+      "id": "es-health-a1-a2-072",
+      "word": "Necesito una venda para la garganta.",
+      "translation": "I need a bandage for my throat.",
+      "example": "Necesito una venda para la garganta."
+    },
+    {
+      "id": "es-health-a1-a2-073",
+      "word": "Necesito una venda para el estómago.",
+      "translation": "I need a bandage for my stomach.",
+      "example": "Necesito una venda para el estómago."
+    },
+    {
+      "id": "es-health-a1-a2-074",
+      "word": "Necesito una venda para la espalda.",
+      "translation": "I need a bandage for my back.",
+      "example": "Necesito una venda para la espalda."
+    },
+    {
+      "id": "es-health-a1-a2-075",
+      "word": "Necesito una venda para el cuello.",
+      "translation": "I need a bandage for my neck.",
+      "example": "Necesito una venda para el cuello."
+    },
+    {
+      "id": "es-health-a1-a2-076",
+      "word": "Necesito una venda para la rodilla.",
+      "translation": "I need a bandage for my knee.",
+      "example": "Necesito una venda para la rodilla."
+    },
+    {
+      "id": "es-health-a1-a2-077",
+      "word": "Necesito una venda para el brazo.",
+      "translation": "I need a bandage for my arm.",
+      "example": "Necesito una venda para el brazo."
+    },
+    {
+      "id": "es-health-a1-a2-078",
+      "word": "Necesito una venda para la pierna.",
+      "translation": "I need a bandage for my leg.",
+      "example": "Necesito una venda para la pierna."
+    },
+    {
+      "id": "es-health-a1-a2-079",
+      "word": "Necesito una venda para la mano.",
+      "translation": "I need a bandage for my hand.",
+      "example": "Necesito una venda para la mano."
+    },
+    {
+      "id": "es-health-a1-a2-080",
+      "word": "Necesito una venda para el pie.",
+      "translation": "I need a bandage for my foot.",
+      "example": "Necesito una venda para el pie."
+    },
+    {
+      "id": "es-health-a1-a2-081",
+      "word": "El dolor en la cabeza empezó esta mañana.",
+      "translation": "The pain in my head started this morning.",
+      "example": "El dolor en la cabeza empezó esta mañana."
+    },
+    {
+      "id": "es-health-a1-a2-082",
+      "word": "El dolor en la garganta empezó esta mañana.",
+      "translation": "The pain in my throat started this morning.",
+      "example": "El dolor en la garganta empezó esta mañana."
+    },
+    {
+      "id": "es-health-a1-a2-083",
+      "word": "El dolor en el estómago empezó esta mañana.",
+      "translation": "The pain in my stomach started this morning.",
+      "example": "El dolor en el estómago empezó esta mañana."
+    },
+    {
+      "id": "es-health-a1-a2-084",
+      "word": "El dolor en la espalda empezó esta mañana.",
+      "translation": "The pain in my back started this morning.",
+      "example": "El dolor en la espalda empezó esta mañana."
+    },
+    {
+      "id": "es-health-a1-a2-085",
+      "word": "El dolor en el cuello empezó esta mañana.",
+      "translation": "The pain in my neck started this morning.",
+      "example": "El dolor en el cuello empezó esta mañana."
+    },
+    {
+      "id": "es-health-a1-a2-086",
+      "word": "El dolor en la rodilla empezó esta mañana.",
+      "translation": "The pain in my knee started this morning.",
+      "example": "El dolor en la rodilla empezó esta mañana."
+    },
+    {
+      "id": "es-health-a1-a2-087",
+      "word": "El dolor en el brazo empezó esta mañana.",
+      "translation": "The pain in my arm started this morning.",
+      "example": "El dolor en el brazo empezó esta mañana."
+    },
+    {
+      "id": "es-health-a1-a2-088",
+      "word": "El dolor en la pierna empezó esta mañana.",
+      "translation": "The pain in my leg started this morning.",
+      "example": "El dolor en la pierna empezó esta mañana."
+    },
+    {
+      "id": "es-health-a1-a2-089",
+      "word": "El dolor en la mano empezó esta mañana.",
+      "translation": "The pain in my hand started this morning.",
+      "example": "El dolor en la mano empezó esta mañana."
+    },
+    {
+      "id": "es-health-a1-a2-090",
+      "word": "El dolor en el pie empezó esta mañana.",
+      "translation": "The pain in my foot started this morning.",
+      "example": "El dolor en el pie empezó esta mañana."
+    },
+    {
+      "id": "es-health-a1-a2-091",
+      "word": "¿Puede ayudarme con la cabeza?",
+      "translation": "Can you help me with my head?",
+      "example": "¿Puede ayudarme con la cabeza?"
+    },
+    {
+      "id": "es-health-a1-a2-092",
+      "word": "¿Puede ayudarme con la garganta?",
+      "translation": "Can you help me with my throat?",
+      "example": "¿Puede ayudarme con la garganta?"
+    },
+    {
+      "id": "es-health-a1-a2-093",
+      "word": "¿Puede ayudarme con el estómago?",
+      "translation": "Can you help me with my stomach?",
+      "example": "¿Puede ayudarme con el estómago?"
+    },
+    {
+      "id": "es-health-a1-a2-094",
+      "word": "¿Puede ayudarme con la espalda?",
+      "translation": "Can you help me with my back?",
+      "example": "¿Puede ayudarme con la espalda?"
+    },
+    {
+      "id": "es-health-a1-a2-095",
+      "word": "¿Puede ayudarme con el cuello?",
+      "translation": "Can you help me with my neck?",
+      "example": "¿Puede ayudarme con el cuello?"
+    },
+    {
+      "id": "es-health-a1-a2-096",
+      "word": "¿Puede ayudarme con la rodilla?",
+      "translation": "Can you help me with my knee?",
+      "example": "¿Puede ayudarme con la rodilla?"
+    },
+    {
+      "id": "es-health-a1-a2-097",
+      "word": "¿Puede ayudarme con el brazo?",
+      "translation": "Can you help me with my arm?",
+      "example": "¿Puede ayudarme con el brazo?"
+    },
+    {
+      "id": "es-health-a1-a2-098",
+      "word": "¿Puede ayudarme con la pierna?",
+      "translation": "Can you help me with my leg?",
+      "example": "¿Puede ayudarme con la pierna?"
+    },
+    {
+      "id": "es-health-a1-a2-099",
+      "word": "¿Puede ayudarme con la mano?",
+      "translation": "Can you help me with my hand?",
+      "example": "¿Puede ayudarme con la mano?"
+    },
+    {
+      "id": "es-health-a1-a2-100",
+      "word": "¿Puede ayudarme con el pie?",
+      "translation": "Can you help me with my foot?",
+      "example": "¿Puede ayudarme con el pie?"
+    }
+  ]
+}
