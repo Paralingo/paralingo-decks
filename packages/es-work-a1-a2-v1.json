@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-work-a1-a2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "work",
+  "categoryTitle": "Work & Careers",
+  "title": "Work & Careers",
+  "level": "A1-A2",
+  "emoji": "💼",
+  "description": "Talk about jobs, workplaces, schedules, colleagues, everyday duties, and basic career plans.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-work-a1-a2-001",
+      "word": "Hoy empiezo el nuevo trabajo.",
+      "translation": "I am starting the new job today.",
+      "example": "Hoy empiezo el nuevo trabajo."
+    },
+    {
+      "id": "es-work-a1-a2-002",
+      "word": "Hoy empiezo el gerente de la oficina.",
+      "translation": "I am starting the office manager today.",
+      "example": "Hoy empiezo el gerente de la oficina."
+    },
+    {
+      "id": "es-work-a1-a2-003",
+      "word": "Hoy empiezo el turno de mañana.",
+      "translation": "I am starting the morning shift today.",
+      "example": "Hoy empiezo el turno de mañana."
+    },
+    {
+      "id": "es-work-a1-a2-004",
+      "word": "Hoy empiezo la pausa para comer.",
+      "translation": "I am starting the lunch break today.",
+      "example": "Hoy empiezo la pausa para comer."
+    },
+    {
+      "id": "es-work-a1-a2-005",
+      "word": "Hoy empiezo el horario semanal.",
+      "translation": "I am starting the weekly schedule today.",
+      "example": "Hoy empiezo el horario semanal."
+    },
+    {
+      "id": "es-work-a1-a2-006",
+      "word": "Hoy empiezo el compañero amable.",
+      "translation": "I am starting the friendly colleague today.",
+      "example": "Hoy empiezo el compañero amable."
+    },
+    {
+      "id": "es-work-a1-a2-007",
+      "word": "Hoy empiezo la reunión de personal.",
+      "translation": "I am starting the staff meeting today.",
+      "example": "Hoy empiezo la reunión de personal."
+    },
+    {
+      "id": "es-work-a1-a2-008",
+      "word": "Hoy empiezo el uniforme de trabajo.",
+      "translation": "I am starting the work uniform today.",
+      "example": "Hoy empiezo el uniforme de trabajo."
+    },
+    {
+      "id": "es-work-a1-a2-009",
+      "word": "Hoy empiezo el puesto a tiempo parcial.",
+      "translation": "I am starting the part-time position today.",
+      "example": "Hoy empiezo el puesto a tiempo parcial."
+    },
+    {
+      "id": "es-work-a1-a2-010",
+      "word": "Hoy empiezo la tarea diaria.",
+      "translation": "I am starting the daily task today.",
+      "example": "Hoy empiezo la tarea diaria."
+    },
+    {
+      "id": "es-work-a1-a2-011",
+      "word": "¿Puedes hablarme de el nuevo trabajo?",
+      "translation": "Can you tell me about the new job?",
+      "example": "¿Puedes hablarme de el nuevo trabajo?"
+    },
+    {
+      "id": "es-work-a1-a2-012",
+      "word": "¿Puedes hablarme de el gerente de la oficina?",
+      "translation": "Can you tell me about the office manager?",
+      "example": "¿Puedes hablarme de el gerente de la oficina?"
+    },
+    {
+      "id": "es-work-a1-a2-013",
+      "word": "¿Puedes hablarme de el turno de mañana?",
+      "translation": "Can you tell me about the morning shift?",
+      "example": "¿Puedes hablarme de el turno de mañana?"
+    },
+    {
+      "id": "es-work-a1-a2-014",
+      "word": "¿Puedes hablarme de la pausa para comer?",
+      "translation": "Can you tell me about the lunch break?",
+      "example": "¿Puedes hablarme de la pausa para comer?"
+    },
+    {
+      "id": "es-work-a1-a2-015",
+      "word": "¿Puedes hablarme de el horario semanal?",
+      "translation": "Can you tell me about the weekly schedule?",
+      "example": "¿Puedes hablarme de el horario semanal?"
+    },
+    {
+      "id": "es-work-a1-a2-016",
+      "word": "¿Puedes hablarme de el compañero amable?",
+      "translation": "Can you tell me about the friendly colleague?",
+      "example": "¿Puedes hablarme de el compañero amable?"
+    },
+    {
+      "id": "es-work-a1-a2-017",
+      "word": "¿Puedes hablarme de la reunión de personal?",
+      "translation": "Can you tell me about the staff meeting?",
+      "example": "¿Puedes hablarme de la reunión de personal?"
+    },
+    {
+      "id": "es-work-a1-a2-018",
+      "word": "¿Puedes hablarme de el uniforme de trabajo?",
+      "translation": "Can you tell me about the work uniform?",
+      "example": "¿Puedes hablarme de el uniforme de trabajo?"
+    },
+    {
+      "id": "es-work-a1-a2-019",
+      "word": "¿Puedes hablarme de el puesto a tiempo parcial?",
+      "translation": "Can you tell me about the part-time position?",
+      "example": "¿Puedes hablarme de el puesto a tiempo parcial?"
+    },
+    {
+      "id": "es-work-a1-a2-020",
+      "word": "¿Puedes hablarme de la tarea diaria?",
+      "translation": "Can you tell me about the daily task?",
+      "example": "¿Puedes hablarme de la tarea diaria?"
+    },
+    {
+      "id": "es-work-a1-a2-021",
+      "word": "Tengo una pregunta sobre el nuevo trabajo.",
+      "translation": "I have a question about the new job.",
+      "example": "Tengo una pregunta sobre el nuevo trabajo."
+    },
+    {
+      "id": "es-work-a1-a2-022",
+      "word": "Tengo una pregunta sobre el gerente de la oficina.",
+      "translation": "I have a question about the office manager.",
+      "example": "Tengo una pregunta sobre el gerente de la oficina."
+    },
+    {
+      "id": "es-work-a1-a2-023",
+      "word": "Tengo una pregunta sobre el turno de mañana.",
+      "translation": "I have a question about the morning shift.",
+      "example": "Tengo una pregunta sobre el turno de mañana."
+    },
+    {
+      "id": "es-work-a1-a2-024",
+      "word": "Tengo una pregunta sobre la pausa para comer.",
+      "translation": "I have a question about the lunch break.",
+      "example": "Tengo una pregunta sobre la pausa para comer."
+    },
+    {
+      "id": "es-work-a1-a2-025",
+      "word": "Tengo una pregunta sobre el horario semanal.",
+      "translation": "I have a question about the weekly schedule.",
+      "example": "Tengo una pregunta sobre el horario semanal."
+    },
+    {
+      "id": "es-work-a1-a2-026",
+      "word": "Tengo una pregunta sobre el compañero amable.",
+      "translation": "I have a question about the friendly colleague.",
+      "example": "Tengo una pregunta sobre el compañero amable."
+    },
+    {
+      "id": "es-work-a1-a2-027",
+      "word": "Tengo una pregunta sobre la reunión de personal.",
+      "translation": "I have a question about the staff meeting.",
+      "example": "Tengo una pregunta sobre la reunión de personal."
+    },
+    {
+      "id": "es-work-a1-a2-028",
+      "word": "Tengo una pregunta sobre el uniforme de trabajo.",
+      "translation": "I have a question about the work uniform.",
+      "example": "Tengo una pregunta sobre el uniforme de trabajo."
+    },
+    {
+      "id": "es-work-a1-a2-029",
+      "word": "Tengo una pregunta sobre el puesto a tiempo parcial.",
+      "translation": "I have a question about the part-time position.",
+      "example": "Tengo una pregunta sobre el puesto a tiempo parcial."
+    },
+    {
+      "id": "es-work-a1-a2-030",
+      "word": "Tengo una pregunta sobre la tarea diaria.",
+      "translation": "I have a question about the daily task.",
+      "example": "Tengo una pregunta sobre la tarea diaria."
+    },
+    {
+      "id": "es-work-a1-a2-031",
+      "word": "¿Dónde puedo encontrar el nuevo trabajo?",
+      "translation": "Where can I find the new job?",
+      "example": "¿Dónde puedo encontrar el nuevo trabajo?"
+    },
+    {
+      "id": "es-work-a1-a2-032",
+      "word": "¿Dónde puedo encontrar el gerente de la oficina?",
+      "translation": "Where can I find the office manager?",
+      "example": "¿Dónde puedo encontrar el gerente de la oficina?"
+    },
+    {
+      "id": "es-work-a1-a2-033",
+      "word": "¿Dónde puedo encontrar el turno de mañana?",
+      "translation": "Where can I find the morning shift?",
+      "example": "¿Dónde puedo encontrar el turno de mañana?"
+    },
+    {
+      "id": "es-work-a1-a2-034",
+      "word": "¿Dónde puedo encontrar la pausa para comer?",
+      "translation": "Where can I find the lunch break?",
+      "example": "¿Dónde puedo encontrar la pausa para comer?"
+    },
+    {
+      "id": "es-work-a1-a2-035",
+      "word": "¿Dónde puedo encontrar el horario semanal?",
+      "translation": "Where can I find the weekly schedule?",
+      "example": "¿Dónde puedo encontrar el horario semanal?"
+    },
+    {
+      "id": "es-work-a1-a2-036",
+      "word": "¿Dónde puedo encontrar el compañero amable?",
+      "translation": "Where can I find the friendly colleague?",
+      "example": "¿Dónde puedo encontrar el compañero amable?"
+    },
+    {
+      "id": "es-work-a1-a2-037",
+      "word": "¿Dónde puedo encontrar la reunión de personal?",
+      "translation": "Where can I find the staff meeting?",
+      "example": "¿Dónde puedo encontrar la reunión de personal?"
+    },
+    {
+      "id": "es-work-a1-a2-038",
+      "word": "¿Dónde puedo encontrar el uniforme de trabajo?",
+      "translation": "Where can I find the work uniform?",
+      "example": "¿Dónde puedo encontrar el uniforme de trabajo?"
+    },
+    {
+      "id": "es-work-a1-a2-039",
+      "word": "¿Dónde puedo encontrar el puesto a tiempo parcial?",
+      "translation": "Where can I find the part-time position?",
+      "example": "¿Dónde puedo encontrar el puesto a tiempo parcial?"
+    },
+    {
+      "id": "es-work-a1-a2-040",
+      "word": "¿Dónde puedo encontrar la tarea diaria?",
+      "translation": "Where can I find the daily task?",
+      "example": "¿Dónde puedo encontrar la tarea diaria?"
+    },
+    {
+      "id": "es-work-a1-a2-041",
+      "word": "Tenemos que organizar el nuevo trabajo.",
+      "translation": "We need to organise the new job.",
+      "example": "Tenemos que organizar el nuevo trabajo."
+    },
+    {
+      "id": "es-work-a1-a2-042",
+      "word": "Tenemos que organizar el gerente de la oficina.",
+      "translation": "We need to organise the office manager.",
+      "example": "Tenemos que organizar el gerente de la oficina."
+    },
+    {
+      "id": "es-work-a1-a2-043",
+      "word": "Tenemos que organizar el turno de mañana.",
+      "translation": "We need to organise the morning shift.",
+      "example": "Tenemos que organizar el turno de mañana."
+    },
+    {
+      "id": "es-work-a1-a2-044",
+      "word": "Tenemos que organizar la pausa para comer.",
+      "translation": "We need to organise the lunch break.",
+      "example": "Tenemos que organizar la pausa para comer."
+    },
+    {
+      "id": "es-work-a1-a2-045",
+      "word": "Tenemos que organizar el horario semanal.",
+      "translation": "We need to organise the weekly schedule.",
+      "example": "Tenemos que organizar el horario semanal."
+    },
+    {
+      "id": "es-work-a1-a2-046",
+      "word": "Tenemos que organizar el compañero amable.",
+      "translation": "We need to organise the friendly colleague.",
+      "example": "Tenemos que organizar el compañero amable."
+    },
+    {
+      "id": "es-work-a1-a2-047",
+      "word": "Tenemos que organizar la reunión de personal.",
+      "translation": "We need to organise the staff meeting.",
+      "example": "Tenemos que organizar la reunión de personal."
+    },
+    {
+      "id": "es-work-a1-a2-048",
+      "word": "Tenemos que organizar el uniforme de trabajo.",
+      "translation": "We need to organise the work uniform.",
+      "example": "Tenemos que organizar el uniforme de trabajo."
+    },
+    {
+      "id": "es-work-a1-a2-049",
+      "word": "Tenemos que organizar el puesto a tiempo parcial.",
+      "translation": "We need to organise the part-time position.",
+      "example": "Tenemos que organizar el puesto a tiempo parcial."
+    },
+    {
+      "id": "es-work-a1-a2-050",
+      "word": "Tenemos que organizar la tarea diaria.",
+      "translation": "We need to organise the daily task.",
+      "example": "Tenemos que organizar la tarea diaria."
+    },
+    {
+      "id": "es-work-a1-a2-051",
+      "word": "Soy responsable de el nuevo trabajo.",
+      "translation": "I am responsible for the new job.",
+      "example": "Soy responsable de el nuevo trabajo."
+    },
+    {
+      "id": "es-work-a1-a2-052",
+      "word": "Soy responsable de el gerente de la oficina.",
+      "translation": "I am responsible for the office manager.",
+      "example": "Soy responsable de el gerente de la oficina."
+    },
+    {
+      "id": "es-work-a1-a2-053",
+      "word": "Soy responsable de el turno de mañana.",
+      "translation": "I am responsible for the morning shift.",
+      "example": "Soy responsable de el turno de mañana."
+    },
+    {
+      "id": "es-work-a1-a2-054",
+      "word": "Soy responsable de la pausa para comer.",
+      "translation": "I am responsible for the lunch break.",
+      "example": "Soy responsable de la pausa para comer."
+    },
+    {
+      "id": "es-work-a1-a2-055",
+      "word": "Soy responsable de el horario semanal.",
+      "translation": "I am responsible for the weekly schedule.",
+      "example": "Soy responsable de el horario semanal."
+    },
+    {
+      "id": "es-work-a1-a2-056",
+      "word": "Soy responsable de el compañero amable.",
+      "translation": "I am responsible for the friendly colleague.",
+      "example": "Soy responsable de el compañero amable."
+    },
+    {
+      "id": "es-work-a1-a2-057",
+      "word": "Soy responsable de la reunión de personal.",
+      "translation": "I am responsible for the staff meeting.",
+      "example": "Soy responsable de la reunión de personal."
+    },
+    {
+      "id": "es-work-a1-a2-058",
+      "word": "Soy responsable de el uniforme de trabajo.",
+      "translation": "I am responsible for the work uniform.",
+      "example": "Soy responsable de el uniforme de trabajo."
+    },
+    {
+      "id": "es-work-a1-a2-059",
+      "word": "Soy responsable de el puesto a tiempo parcial.",
+      "translation": "I am responsible for the part-time position.",
+      "example": "Soy responsable de el puesto a tiempo parcial."
+    },
+    {
+      "id": "es-work-a1-a2-060",
+      "word": "Soy responsable de la tarea diaria.",
+      "translation": "I am responsible for the daily task.",
+      "example": "Soy responsable de la tarea diaria."
+    },
+    {
+      "id": "es-work-a1-a2-061",
+      "word": "Ayúdame con el nuevo trabajo, por favor.",
+      "translation": "Please help me with the new job.",
+      "example": "Ayúdame con el nuevo trabajo, por favor."
+    },
+    {
+      "id": "es-work-a1-a2-062",
+      "word": "Ayúdame con el gerente de la oficina, por favor.",
+      "translation": "Please help me with the office manager.",
+      "example": "Ayúdame con el gerente de la oficina, por favor."
+    },
+    {
+      "id": "es-work-a1-a2-063",
+      "word": "Ayúdame con el turno de mañana, por favor.",
+      "translation": "Please help me with the morning shift.",
+      "example": "Ayúdame con el turno de mañana, por favor."
+    },
+    {
+      "id": "es-work-a1-a2-064",
+      "word": "Ayúdame con la pausa para comer, por favor.",
+      "translation": "Please help me with the lunch break.",
+      "example": "Ayúdame con la pausa para comer, por favor."
+    },
+    {
+      "id": "es-work-a1-a2-065",
+      "word": "Ayúdame con el horario semanal, por favor.",
+      "translation": "Please help me with the weekly schedule.",
+      "example": "Ayúdame con el horario semanal, por favor."
+    },
+    {
+      "id": "es-work-a1-a2-066",
+      "word": "Ayúdame con el compañero amable, por favor.",
+      "translation": "Please help me with the friendly colleague.",
+      "example": "Ayúdame con el compañero amable, por favor."
+    },
+    {
+      "id": "es-work-a1-a2-067",
+      "word": "Ayúdame con la reunión de personal, por favor.",
+      "translation": "Please help me with the staff meeting.",
+      "example": "Ayúdame con la reunión de personal, por favor."
+    },
+    {
+      "id": "es-work-a1-a2-068",
+      "word": "Ayúdame con el uniforme de trabajo, por favor.",
+      "translation": "Please help me with the work uniform.",
+      "example": "Ayúdame con el uniforme de trabajo, por favor."
+    },
+    {
+      "id": "es-work-a1-a2-069",
+      "word": "Ayúdame con el puesto a tiempo parcial, por favor.",
+      "translation": "Please help me with the part-time position.",
+      "example": "Ayúdame con el puesto a tiempo parcial, por favor."
+    },
+    {
+      "id": "es-work-a1-a2-070",
+      "word": "Ayúdame con la tarea diaria, por favor.",
+      "translation": "Please help me with the daily task.",
+      "example": "Ayúdame con la tarea diaria, por favor."
+    },
+    {
+      "id": "es-work-a1-a2-071",
+      "word": "Explicaron claramente el nuevo trabajo.",
+      "translation": "They explained the new job clearly.",
+      "example": "Explicaron claramente el nuevo trabajo."
+    },
+    {
+      "id": "es-work-a1-a2-072",
+      "word": "Explicaron claramente el gerente de la oficina.",
+      "translation": "They explained the office manager clearly.",
+      "example": "Explicaron claramente el gerente de la oficina."
+    },
+    {
+      "id": "es-work-a1-a2-073",
+      "word": "Explicaron claramente el turno de mañana.",
+      "translation": "They explained the morning shift clearly.",
+      "example": "Explicaron claramente el turno de mañana."
+    },
+    {
+      "id": "es-work-a1-a2-074",
+      "word": "Explicaron claramente la pausa para comer.",
+      "translation": "They explained the lunch break clearly.",
+      "example": "Explicaron claramente la pausa para comer."
+    },
+    {
+      "id": "es-work-a1-a2-075",
+      "word": "Explicaron claramente el horario semanal.",
+      "translation": "They explained the weekly schedule clearly.",
+      "example": "Explicaron claramente el horario semanal."
+    },
+    {
+      "id": "es-work-a1-a2-076",
+      "word": "Explicaron claramente el compañero amable.",
+      "translation": "They explained the friendly colleague clearly.",
+      "example": "Explicaron claramente el compañero amable."
+    },
+    {
+      "id": "es-work-a1-a2-077",
+      "word": "Explicaron claramente la reunión de personal.",
+      "translation": "They explained the staff meeting clearly.",
+      "example": "Explicaron claramente la reunión de personal."
+    },
+    {
+      "id": "es-work-a1-a2-078",
+      "word": "Explicaron claramente el uniforme de trabajo.",
+      "translation": "They explained the work uniform clearly.",
+      "example": "Explicaron claramente el uniforme de trabajo."
+    },
+    {
+      "id": "es-work-a1-a2-079",
+      "word": "Explicaron claramente el puesto a tiempo parcial.",
+      "translation": "They explained the part-time position clearly.",
+      "example": "Explicaron claramente el puesto a tiempo parcial."
+    },
+    {
+      "id": "es-work-a1-a2-080",
+      "word": "Explicaron claramente la tarea diaria.",
+      "translation": "They explained the daily task clearly.",
+      "example": "Explicaron claramente la tarea diaria."
+    },
+    {
+      "id": "es-work-a1-a2-081",
+      "word": "Estoy contento con el nuevo trabajo.",
+      "translation": "I am happy with the new job.",
+      "example": "Estoy contento con el nuevo trabajo."
+    },
+    {
+      "id": "es-work-a1-a2-082",
+      "word": "Estoy contento con el gerente de la oficina.",
+      "translation": "I am happy with the office manager.",
+      "example": "Estoy contento con el gerente de la oficina."
+    },
+    {
+      "id": "es-work-a1-a2-083",
+      "word": "Estoy contento con el turno de mañana.",
+      "translation": "I am happy with the morning shift.",
+      "example": "Estoy contento con el turno de mañana."
+    },
+    {
+      "id": "es-work-a1-a2-084",
+      "word": "Estoy contento con la pausa para comer.",
+      "translation": "I am happy with the lunch break.",
+      "example": "Estoy contento con la pausa para comer."
+    },
+    {
+      "id": "es-work-a1-a2-085",
+      "word": "Estoy contento con el horario semanal.",
+      "translation": "I am happy with the weekly schedule.",
+      "example": "Estoy contento con el horario semanal."
+    },
+    {
+      "id": "es-work-a1-a2-086",
+      "word": "Estoy contento con el compañero amable.",
+      "translation": "I am happy with the friendly colleague.",
+      "example": "Estoy contento con el compañero amable."
+    },
+    {
+      "id": "es-work-a1-a2-087",
+      "word": "Estoy contento con la reunión de personal.",
+      "translation": "I am happy with the staff meeting.",
+      "example": "Estoy contento con la reunión de personal."
+    },
+    {
+      "id": "es-work-a1-a2-088",
+      "word": "Estoy contento con el uniforme de trabajo.",
+      "translation": "I am happy with the work uniform.",
+      "example": "Estoy contento con el uniforme de trabajo."
+    },
+    {
+      "id": "es-work-a1-a2-089",
+      "word": "Estoy contento con el puesto a tiempo parcial.",
+      "translation": "I am happy with the part-time position.",
+      "example": "Estoy contento con el puesto a tiempo parcial."
+    },
+    {
+      "id": "es-work-a1-a2-090",
+      "word": "Estoy contento con la tarea diaria.",
+      "translation": "I am happy with the daily task.",
+      "example": "Estoy contento con la tarea diaria."
+    },
+    {
+      "id": "es-work-a1-a2-091",
+      "word": "Ayer hablamos de el nuevo trabajo.",
+      "translation": "We talked about the new job yesterday.",
+      "example": "Ayer hablamos de el nuevo trabajo."
+    },
+    {
+      "id": "es-work-a1-a2-092",
+      "word": "Ayer hablamos de el gerente de la oficina.",
+      "translation": "We talked about the office manager yesterday.",
+      "example": "Ayer hablamos de el gerente de la oficina."
+    },
+    {
+      "id": "es-work-a1-a2-093",
+      "word": "Ayer hablamos de el turno de mañana.",
+      "translation": "We talked about the morning shift yesterday.",
+      "example": "Ayer hablamos de el turno de mañana."
+    },
+    {
+      "id": "es-work-a1-a2-094",
+      "word": "Ayer hablamos de la pausa para comer.",
+      "translation": "We talked about the lunch break yesterday.",
+      "example": "Ayer hablamos de la pausa para comer."
+    },
+    {
+      "id": "es-work-a1-a2-095",
+      "word": "Ayer hablamos de el horario semanal.",
+      "translation": "We talked about the weekly schedule yesterday.",
+      "example": "Ayer hablamos de el horario semanal."
+    },
+    {
+      "id": "es-work-a1-a2-096",
+      "word": "Ayer hablamos de el compañero amable.",
+      "translation": "We talked about the friendly colleague yesterday.",
+      "example": "Ayer hablamos de el compañero amable."
+    },
+    {
+      "id": "es-work-a1-a2-097",
+      "word": "Ayer hablamos de la reunión de personal.",
+      "translation": "We talked about the staff meeting yesterday.",
+      "example": "Ayer hablamos de la reunión de personal."
+    },
+    {
+      "id": "es-work-a1-a2-098",
+      "word": "Ayer hablamos de el uniforme de trabajo.",
+      "translation": "We talked about the work uniform yesterday.",
+      "example": "Ayer hablamos de el uniforme de trabajo."
+    },
+    {
+      "id": "es-work-a1-a2-099",
+      "word": "Ayer hablamos de el puesto a tiempo parcial.",
+      "translation": "We talked about the part-time position yesterday.",
+      "example": "Ayer hablamos de el puesto a tiempo parcial."
+    },
+    {
+      "id": "es-work-a1-a2-100",
+      "word": "Ayer hablamos de la tarea diaria.",
+      "translation": "We talked about the daily task yesterday.",
+      "example": "Ayer hablamos de la tarea diaria."
+    }
+  ]
+}
