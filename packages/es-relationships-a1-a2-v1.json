@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-relationships-a1-a2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "relationships",
+  "categoryTitle": "Relationships & Emotions",
+  "title": "Relationships & Emotions",
+  "level": "A1-A2",
+  "emoji": "💞",
+  "description": "Describe feelings, friendships, family relationships, affection, and everyday emotional needs.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-relationships-a1-a2-001",
+      "word": "Hoy me siento feliz.",
+      "translation": "I feel happy today.",
+      "example": "Hoy me siento feliz."
+    },
+    {
+      "id": "es-relationships-a1-a2-002",
+      "word": "Hoy me siento triste.",
+      "translation": "I feel sad today.",
+      "example": "Hoy me siento triste."
+    },
+    {
+      "id": "es-relationships-a1-a2-003",
+      "word": "Hoy me siento preocupado.",
+      "translation": "I feel worried today.",
+      "example": "Hoy me siento preocupado."
+    },
+    {
+      "id": "es-relationships-a1-a2-004",
+      "word": "Hoy me siento emocionado.",
+      "translation": "I feel excited today.",
+      "example": "Hoy me siento emocionado."
+    },
+    {
+      "id": "es-relationships-a1-a2-005",
+      "word": "Hoy me siento cansado.",
+      "translation": "I feel tired today.",
+      "example": "Hoy me siento cansado."
+    },
+    {
+      "id": "es-relationships-a1-a2-006",
+      "word": "Hoy me siento enfadado.",
+      "translation": "I feel angry today.",
+      "example": "Hoy me siento enfadado."
+    },
+    {
+      "id": "es-relationships-a1-a2-007",
+      "word": "Hoy me siento tranquilo.",
+      "translation": "I feel calm today.",
+      "example": "Hoy me siento tranquilo."
+    },
+    {
+      "id": "es-relationships-a1-a2-008",
+      "word": "Hoy me siento solo.",
+      "translation": "I feel lonely today.",
+      "example": "Hoy me siento solo."
+    },
+    {
+      "id": "es-relationships-a1-a2-009",
+      "word": "Hoy me siento agradecido.",
+      "translation": "I feel grateful today.",
+      "example": "Hoy me siento agradecido."
+    },
+    {
+      "id": "es-relationships-a1-a2-010",
+      "word": "Hoy me siento orgulloso.",
+      "translation": "I feel proud today.",
+      "example": "Hoy me siento orgulloso."
+    },
+    {
+      "id": "es-relationships-a1-a2-011",
+      "word": "Pareces feliz.",
+      "translation": "You seem happy.",
+      "example": "Pareces feliz."
+    },
+    {
+      "id": "es-relationships-a1-a2-012",
+      "word": "Pareces triste.",
+      "translation": "You seem sad.",
+      "example": "Pareces triste."
+    },
+    {
+      "id": "es-relationships-a1-a2-013",
+      "word": "Pareces preocupado.",
+      "translation": "You seem worried.",
+      "example": "Pareces preocupado."
+    },
+    {
+      "id": "es-relationships-a1-a2-014",
+      "word": "Pareces emocionado.",
+      "translation": "You seem excited.",
+      "example": "Pareces emocionado."
+    },
+    {
+      "id": "es-relationships-a1-a2-015",
+      "word": "Pareces cansado.",
+      "translation": "You seem tired.",
+      "example": "Pareces cansado."
+    },
+    {
+      "id": "es-relationships-a1-a2-016",
+      "word": "Pareces enfadado.",
+      "translation": "You seem angry.",
+      "example": "Pareces enfadado."
+    },
+    {
+      "id": "es-relationships-a1-a2-017",
+      "word": "Pareces tranquilo.",
+      "translation": "You seem calm.",
+      "example": "Pareces tranquilo."
+    },
+    {
+      "id": "es-relationships-a1-a2-018",
+      "word": "Pareces solo.",
+      "translation": "You seem lonely.",
+      "example": "Pareces solo."
+    },
+    {
+      "id": "es-relationships-a1-a2-019",
+      "word": "Pareces agradecido.",
+      "translation": "You seem grateful.",
+      "example": "Pareces agradecido."
+    },
+    {
+      "id": "es-relationships-a1-a2-020",
+      "word": "Pareces orgulloso.",
+      "translation": "You seem proud.",
+      "example": "Pareces orgulloso."
+    },
+    {
+      "id": "es-relationships-a1-a2-021",
+      "word": "Es normal sentirse feliz.",
+      "translation": "It is normal to feel happy.",
+      "example": "Es normal sentirse feliz."
+    },
+    {
+      "id": "es-relationships-a1-a2-022",
+      "word": "Es normal sentirse triste.",
+      "translation": "It is normal to feel sad.",
+      "example": "Es normal sentirse triste."
+    },
+    {
+      "id": "es-relationships-a1-a2-023",
+      "word": "Es normal sentirse preocupado.",
+      "translation": "It is normal to feel worried.",
+      "example": "Es normal sentirse preocupado."
+    },
+    {
+      "id": "es-relationships-a1-a2-024",
+      "word": "Es normal sentirse emocionado.",
+      "translation": "It is normal to feel excited.",
+      "example": "Es normal sentirse emocionado."
+    },
+    {
+      "id": "es-relationships-a1-a2-025",
+      "word": "Es normal sentirse cansado.",
+      "translation": "It is normal to feel tired.",
+      "example": "Es normal sentirse cansado."
+    },
+    {
+      "id": "es-relationships-a1-a2-026",
+      "word": "Es normal sentirse enfadado.",
+      "translation": "It is normal to feel angry.",
+      "example": "Es normal sentirse enfadado."
+    },
+    {
+      "id": "es-relationships-a1-a2-027",
+      "word": "Es normal sentirse tranquilo.",
+      "translation": "It is normal to feel calm.",
+      "example": "Es normal sentirse tranquilo."
+    },
+    {
+      "id": "es-relationships-a1-a2-028",
+      "word": "Es normal sentirse solo.",
+      "translation": "It is normal to feel lonely.",
+      "example": "Es normal sentirse solo."
+    },
+    {
+      "id": "es-relationships-a1-a2-029",
+      "word": "Es normal sentirse agradecido.",
+      "translation": "It is normal to feel grateful.",
+      "example": "Es normal sentirse agradecido."
+    },
+    {
+      "id": "es-relationships-a1-a2-030",
+      "word": "Es normal sentirse orgulloso.",
+      "translation": "It is normal to feel proud.",
+      "example": "Es normal sentirse orgulloso."
+    },
+    {
+      "id": "es-relationships-a1-a2-031",
+      "word": "¿Por qué estás feliz?",
+      "translation": "Why are you happy?",
+      "example": "¿Por qué estás feliz?"
+    },
+    {
+      "id": "es-relationships-a1-a2-032",
+      "word": "¿Por qué estás triste?",
+      "translation": "Why are you sad?",
+      "example": "¿Por qué estás triste?"
+    },
+    {
+      "id": "es-relationships-a1-a2-033",
+      "word": "¿Por qué estás preocupado?",
+      "translation": "Why are you worried?",
+      "example": "¿Por qué estás preocupado?"
+    },
+    {
+      "id": "es-relationships-a1-a2-034",
+      "word": "¿Por qué estás emocionado?",
+      "translation": "Why are you excited?",
+      "example": "¿Por qué estás emocionado?"
+    },
+    {
+      "id": "es-relationships-a1-a2-035",
+      "word": "¿Por qué estás cansado?",
+      "translation": "Why are you tired?",
+      "example": "¿Por qué estás cansado?"
+    },
+    {
+      "id": "es-relationships-a1-a2-036",
+      "word": "¿Por qué estás enfadado?",
+      "translation": "Why are you angry?",
+      "example": "¿Por qué estás enfadado?"
+    },
+    {
+      "id": "es-relationships-a1-a2-037",
+      "word": "¿Por qué estás tranquilo?",
+      "translation": "Why are you calm?",
+      "example": "¿Por qué estás tranquilo?"
+    },
+    {
+      "id": "es-relationships-a1-a2-038",
+      "word": "¿Por qué estás solo?",
+      "translation": "Why are you lonely?",
+      "example": "¿Por qué estás solo?"
+    },
+    {
+      "id": "es-relationships-a1-a2-039",
+      "word": "¿Por qué estás agradecido?",
+      "translation": "Why are you grateful?",
+      "example": "¿Por qué estás agradecido?"
+    },
+    {
+      "id": "es-relationships-a1-a2-040",
+      "word": "¿Por qué estás orgulloso?",
+      "translation": "Why are you proud?",
+      "example": "¿Por qué estás orgulloso?"
+    },
+    {
+      "id": "es-relationships-a1-a2-041",
+      "word": "Ayer estaba feliz.",
+      "translation": "I was happy yesterday.",
+      "example": "Ayer estaba feliz."
+    },
+    {
+      "id": "es-relationships-a1-a2-042",
+      "word": "Ayer estaba triste.",
+      "translation": "I was sad yesterday.",
+      "example": "Ayer estaba triste."
+    },
+    {
+      "id": "es-relationships-a1-a2-043",
+      "word": "Ayer estaba preocupado.",
+      "translation": "I was worried yesterday.",
+      "example": "Ayer estaba preocupado."
+    },
+    {
+      "id": "es-relationships-a1-a2-044",
+      "word": "Ayer estaba emocionado.",
+      "translation": "I was excited yesterday.",
+      "example": "Ayer estaba emocionado."
+    },
+    {
+      "id": "es-relationships-a1-a2-045",
+      "word": "Ayer estaba cansado.",
+      "translation": "I was tired yesterday.",
+      "example": "Ayer estaba cansado."
+    },
+    {
+      "id": "es-relationships-a1-a2-046",
+      "word": "Ayer estaba enfadado.",
+      "translation": "I was angry yesterday.",
+      "example": "Ayer estaba enfadado."
+    },
+    {
+      "id": "es-relationships-a1-a2-047",
+      "word": "Ayer estaba tranquilo.",
+      "translation": "I was calm yesterday.",
+      "example": "Ayer estaba tranquilo."
+    },
+    {
+      "id": "es-relationships-a1-a2-048",
+      "word": "Ayer estaba solo.",
+      "translation": "I was lonely yesterday.",
+      "example": "Ayer estaba solo."
+    },
+    {
+      "id": "es-relationships-a1-a2-049",
+      "word": "Ayer estaba agradecido.",
+      "translation": "I was grateful yesterday.",
+      "example": "Ayer estaba agradecido."
+    },
+    {
+      "id": "es-relationships-a1-a2-050",
+      "word": "Ayer estaba orgulloso.",
+      "translation": "I was proud yesterday.",
+      "example": "Ayer estaba orgulloso."
+    },
+    {
+      "id": "es-relationships-a1-a2-051",
+      "word": "Hablar ayuda cuando estoy feliz.",
+      "translation": "Talking helps when I am happy.",
+      "example": "Hablar ayuda cuando estoy feliz."
+    },
+    {
+      "id": "es-relationships-a1-a2-052",
+      "word": "Hablar ayuda cuando estoy triste.",
+      "translation": "Talking helps when I am sad.",
+      "example": "Hablar ayuda cuando estoy triste."
+    },
+    {
+      "id": "es-relationships-a1-a2-053",
+      "word": "Hablar ayuda cuando estoy preocupado.",
+      "translation": "Talking helps when I am worried.",
+      "example": "Hablar ayuda cuando estoy preocupado."
+    },
+    {
+      "id": "es-relationships-a1-a2-054",
+      "word": "Hablar ayuda cuando estoy emocionado.",
+      "translation": "Talking helps when I am excited.",
+      "example": "Hablar ayuda cuando estoy emocionado."
+    },
+    {
+      "id": "es-relationships-a1-a2-055",
+      "word": "Hablar ayuda cuando estoy cansado.",
+      "translation": "Talking helps when I am tired.",
+      "example": "Hablar ayuda cuando estoy cansado."
+    },
+    {
+      "id": "es-relationships-a1-a2-056",
+      "word": "Hablar ayuda cuando estoy enfadado.",
+      "translation": "Talking helps when I am angry.",
+      "example": "Hablar ayuda cuando estoy enfadado."
+    },
+    {
+      "id": "es-relationships-a1-a2-057",
+      "word": "Hablar ayuda cuando estoy tranquilo.",
+      "translation": "Talking helps when I am calm.",
+      "example": "Hablar ayuda cuando estoy tranquilo."
+    },
+    {
+      "id": "es-relationships-a1-a2-058",
+      "word": "Hablar ayuda cuando estoy solo.",
+      "translation": "Talking helps when I am lonely.",
+      "example": "Hablar ayuda cuando estoy solo."
+    },
+    {
+      "id": "es-relationships-a1-a2-059",
+      "word": "Hablar ayuda cuando estoy agradecido.",
+      "translation": "Talking helps when I am grateful.",
+      "example": "Hablar ayuda cuando estoy agradecido."
+    },
+    {
+      "id": "es-relationships-a1-a2-060",
+      "word": "Hablar ayuda cuando estoy orgulloso.",
+      "translation": "Talking helps when I am proud.",
+      "example": "Hablar ayuda cuando estoy orgulloso."
+    },
+    {
+      "id": "es-relationships-a1-a2-061",
+      "word": "Mi amigo sabe cuándo estoy feliz.",
+      "translation": "My friend knows when I am happy.",
+      "example": "Mi amigo sabe cuándo estoy feliz."
+    },
+    {
+      "id": "es-relationships-a1-a2-062",
+      "word": "Mi amigo sabe cuándo estoy triste.",
+      "translation": "My friend knows when I am sad.",
+      "example": "Mi amigo sabe cuándo estoy triste."
+    },
+    {
+      "id": "es-relationships-a1-a2-063",
+      "word": "Mi amigo sabe cuándo estoy preocupado.",
+      "translation": "My friend knows when I am worried.",
+      "example": "Mi amigo sabe cuándo estoy preocupado."
+    },
+    {
+      "id": "es-relationships-a1-a2-064",
+      "word": "Mi amigo sabe cuándo estoy emocionado.",
+      "translation": "My friend knows when I am excited.",
+      "example": "Mi amigo sabe cuándo estoy emocionado."
+    },
+    {
+      "id": "es-relationships-a1-a2-065",
+      "word": "Mi amigo sabe cuándo estoy cansado.",
+      "translation": "My friend knows when I am tired.",
+      "example": "Mi amigo sabe cuándo estoy cansado."
+    },
+    {
+      "id": "es-relationships-a1-a2-066",
+      "word": "Mi amigo sabe cuándo estoy enfadado.",
+      "translation": "My friend knows when I am angry.",
+      "example": "Mi amigo sabe cuándo estoy enfadado."
+    },
+    {
+      "id": "es-relationships-a1-a2-067",
+      "word": "Mi amigo sabe cuándo estoy tranquilo.",
+      "translation": "My friend knows when I am calm.",
+      "example": "Mi amigo sabe cuándo estoy tranquilo."
+    },
+    {
+      "id": "es-relationships-a1-a2-068",
+      "word": "Mi amigo sabe cuándo estoy solo.",
+      "translation": "My friend knows when I am lonely.",
+      "example": "Mi amigo sabe cuándo estoy solo."
+    },
+    {
+      "id": "es-relationships-a1-a2-069",
+      "word": "Mi amigo sabe cuándo estoy agradecido.",
+      "translation": "My friend knows when I am grateful.",
+      "example": "Mi amigo sabe cuándo estoy agradecido."
+    },
+    {
+      "id": "es-relationships-a1-a2-070",
+      "word": "Mi amigo sabe cuándo estoy orgulloso.",
+      "translation": "My friend knows when I am proud.",
+      "example": "Mi amigo sabe cuándo estoy orgulloso."
+    },
+    {
+      "id": "es-relationships-a1-a2-071",
+      "word": "No quiero que te sientas feliz.",
+      "translation": "I do not want you to feel happy.",
+      "example": "No quiero que te sientas feliz."
+    },
+    {
+      "id": "es-relationships-a1-a2-072",
+      "word": "No quiero que te sientas triste.",
+      "translation": "I do not want you to feel sad.",
+      "example": "No quiero que te sientas triste."
+    },
+    {
+      "id": "es-relationships-a1-a2-073",
+      "word": "No quiero que te sientas preocupado.",
+      "translation": "I do not want you to feel worried.",
+      "example": "No quiero que te sientas preocupado."
+    },
+    {
+      "id": "es-relationships-a1-a2-074",
+      "word": "No quiero que te sientas emocionado.",
+      "translation": "I do not want you to feel excited.",
+      "example": "No quiero que te sientas emocionado."
+    },
+    {
+      "id": "es-relationships-a1-a2-075",
+      "word": "No quiero que te sientas cansado.",
+      "translation": "I do not want you to feel tired.",
+      "example": "No quiero que te sientas cansado."
+    },
+    {
+      "id": "es-relationships-a1-a2-076",
+      "word": "No quiero que te sientas enfadado.",
+      "translation": "I do not want you to feel angry.",
+      "example": "No quiero que te sientas enfadado."
+    },
+    {
+      "id": "es-relationships-a1-a2-077",
+      "word": "No quiero que te sientas tranquilo.",
+      "translation": "I do not want you to feel calm.",
+      "example": "No quiero que te sientas tranquilo."
+    },
+    {
+      "id": "es-relationships-a1-a2-078",
+      "word": "No quiero que te sientas solo.",
+      "translation": "I do not want you to feel lonely.",
+      "example": "No quiero que te sientas solo."
+    },
+    {
+      "id": "es-relationships-a1-a2-079",
+      "word": "No quiero que te sientas agradecido.",
+      "translation": "I do not want you to feel grateful.",
+      "example": "No quiero que te sientas agradecido."
+    },
+    {
+      "id": "es-relationships-a1-a2-080",
+      "word": "No quiero que te sientas orgulloso.",
+      "translation": "I do not want you to feel proud.",
+      "example": "No quiero que te sientas orgulloso."
+    },
+    {
+      "id": "es-relationships-a1-a2-081",
+      "word": "¿Qué te hace sentir feliz?",
+      "translation": "What makes you feel happy?",
+      "example": "¿Qué te hace sentir feliz?"
+    },
+    {
+      "id": "es-relationships-a1-a2-082",
+      "word": "¿Qué te hace sentir triste?",
+      "translation": "What makes you feel sad?",
+      "example": "¿Qué te hace sentir triste?"
+    },
+    {
+      "id": "es-relationships-a1-a2-083",
+      "word": "¿Qué te hace sentir preocupado?",
+      "translation": "What makes you feel worried?",
+      "example": "¿Qué te hace sentir preocupado?"
+    },
+    {
+      "id": "es-relationships-a1-a2-084",
+      "word": "¿Qué te hace sentir emocionado?",
+      "translation": "What makes you feel excited?",
+      "example": "¿Qué te hace sentir emocionado?"
+    },
+    {
+      "id": "es-relationships-a1-a2-085",
+      "word": "¿Qué te hace sentir cansado?",
+      "translation": "What makes you feel tired?",
+      "example": "¿Qué te hace sentir cansado?"
+    },
+    {
+      "id": "es-relationships-a1-a2-086",
+      "word": "¿Qué te hace sentir enfadado?",
+      "translation": "What makes you feel angry?",
+      "example": "¿Qué te hace sentir enfadado?"
+    },
+    {
+      "id": "es-relationships-a1-a2-087",
+      "word": "¿Qué te hace sentir tranquilo?",
+      "translation": "What makes you feel calm?",
+      "example": "¿Qué te hace sentir tranquilo?"
+    },
+    {
+      "id": "es-relationships-a1-a2-088",
+      "word": "¿Qué te hace sentir solo?",
+      "translation": "What makes you feel lonely?",
+      "example": "¿Qué te hace sentir solo?"
+    },
+    {
+      "id": "es-relationships-a1-a2-089",
+      "word": "¿Qué te hace sentir agradecido?",
+      "translation": "What makes you feel grateful?",
+      "example": "¿Qué te hace sentir agradecido?"
+    },
+    {
+      "id": "es-relationships-a1-a2-090",
+      "word": "¿Qué te hace sentir orgulloso?",
+      "translation": "What makes you feel proud?",
+      "example": "¿Qué te hace sentir orgulloso?"
+    },
+    {
+      "id": "es-relationships-a1-a2-091",
+      "word": "Podemos seguir siendo amigos cuando nos sentimos feliz.",
+      "translation": "We can still be friends when we feel happy.",
+      "example": "Podemos seguir siendo amigos cuando nos sentimos feliz."
+    },
+    {
+      "id": "es-relationships-a1-a2-092",
+      "word": "Podemos seguir siendo amigos cuando nos sentimos triste.",
+      "translation": "We can still be friends when we feel sad.",
+      "example": "Podemos seguir siendo amigos cuando nos sentimos triste."
+    },
+    {
+      "id": "es-relationships-a1-a2-093",
+      "word": "Podemos seguir siendo amigos cuando nos sentimos preocupado.",
+      "translation": "We can still be friends when we feel worried.",
+      "example": "Podemos seguir siendo amigos cuando nos sentimos preocupado."
+    },
+    {
+      "id": "es-relationships-a1-a2-094",
+      "word": "Podemos seguir siendo amigos cuando nos sentimos emocionado.",
+      "translation": "We can still be friends when we feel excited.",
+      "example": "Podemos seguir siendo amigos cuando nos sentimos emocionado."
+    },
+    {
+      "id": "es-relationships-a1-a2-095",
+      "word": "Podemos seguir siendo amigos cuando nos sentimos cansado.",
+      "translation": "We can still be friends when we feel tired.",
+      "example": "Podemos seguir siendo amigos cuando nos sentimos cansado."
+    },
+    {
+      "id": "es-relationships-a1-a2-096",
+      "word": "Podemos seguir siendo amigos cuando nos sentimos enfadado.",
+      "translation": "We can still be friends when we feel angry.",
+      "example": "Podemos seguir siendo amigos cuando nos sentimos enfadado."
+    },
+    {
+      "id": "es-relationships-a1-a2-097",
+      "word": "Podemos seguir siendo amigos cuando nos sentimos tranquilo.",
+      "translation": "We can still be friends when we feel calm.",
+      "example": "Podemos seguir siendo amigos cuando nos sentimos tranquilo."
+    },
+    {
+      "id": "es-relationships-a1-a2-098",
+      "word": "Podemos seguir siendo amigos cuando nos sentimos solo.",
+      "translation": "We can still be friends when we feel lonely.",
+      "example": "Podemos seguir siendo amigos cuando nos sentimos solo."
+    },
+    {
+      "id": "es-relationships-a1-a2-099",
+      "word": "Podemos seguir siendo amigos cuando nos sentimos agradecido.",
+      "translation": "We can still be friends when we feel grateful.",
+      "example": "Podemos seguir siendo amigos cuando nos sentimos agradecido."
+    },
+    {
+      "id": "es-relationships-a1-a2-100",
+      "word": "Podemos seguir siendo amigos cuando nos sentimos orgulloso.",
+      "translation": "We can still be friends when we feel proud.",
+      "example": "Podemos seguir siendo amigos cuando nos sentimos orgulloso."
+    }
+  ]
+}
