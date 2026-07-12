@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-it-work-a1-a2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "work",
+  "categoryTitle": "Work & Careers",
+  "title": "Work & Careers",
+  "level": "A1-A2",
+  "emoji": "💼",
+  "description": "Talk about jobs, workplaces, schedules, colleagues, everyday duties, and basic career plans.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-work-a1-a2-001",
+      "word": "Oggi inizio il nuovo lavoro.",
+      "translation": "I am starting the new job today.",
+      "example": "Oggi inizio il nuovo lavoro."
+    },
+    {
+      "id": "it-work-a1-a2-002",
+      "word": "Oggi inizio il responsabile dell'ufficio.",
+      "translation": "I am starting the office manager today.",
+      "example": "Oggi inizio il responsabile dell'ufficio."
+    },
+    {
+      "id": "it-work-a1-a2-003",
+      "word": "Oggi inizio il turno del mattino.",
+      "translation": "I am starting the morning shift today.",
+      "example": "Oggi inizio il turno del mattino."
+    },
+    {
+      "id": "it-work-a1-a2-004",
+      "word": "Oggi inizio la pausa pranzo.",
+      "translation": "I am starting the lunch break today.",
+      "example": "Oggi inizio la pausa pranzo."
+    },
+    {
+      "id": "it-work-a1-a2-005",
+      "word": "Oggi inizio l'orario settimanale.",
+      "translation": "I am starting the weekly schedule today.",
+      "example": "Oggi inizio l'orario settimanale."
+    },
+    {
+      "id": "it-work-a1-a2-006",
+      "word": "Oggi inizio il collega gentile.",
+      "translation": "I am starting the friendly colleague today.",
+      "example": "Oggi inizio il collega gentile."
+    },
+    {
+      "id": "it-work-a1-a2-007",
+      "word": "Oggi inizio la riunione del personale.",
+      "translation": "I am starting the staff meeting today.",
+      "example": "Oggi inizio la riunione del personale."
+    },
+    {
+      "id": "it-work-a1-a2-008",
+      "word": "Oggi inizio l'uniforme da lavoro.",
+      "translation": "I am starting the work uniform today.",
+      "example": "Oggi inizio l'uniforme da lavoro."
+    },
+    {
+      "id": "it-work-a1-a2-009",
+      "word": "Oggi inizio il posto part-time.",
+      "translation": "I am starting the part-time position today.",
+      "example": "Oggi inizio il posto part-time."
+    },
+    {
+      "id": "it-work-a1-a2-010",
+      "word": "Oggi inizio il compito quotidiano.",
+      "translation": "I am starting the daily task today.",
+      "example": "Oggi inizio il compito quotidiano."
+    },
+    {
+      "id": "it-work-a1-a2-011",
+      "word": "Puoi parlarmi di il nuovo lavoro?",
+      "translation": "Can you tell me about the new job?",
+      "example": "Puoi parlarmi di il nuovo lavoro?"
+    },
+    {
+      "id": "it-work-a1-a2-012",
+      "word": "Puoi parlarmi di il responsabile dell'ufficio?",
+      "translation": "Can you tell me about the office manager?",
+      "example": "Puoi parlarmi di il responsabile dell'ufficio?"
+    },
+    {
+      "id": "it-work-a1-a2-013",
+      "word": "Puoi parlarmi di il turno del mattino?",
+      "translation": "Can you tell me about the morning shift?",
+      "example": "Puoi parlarmi di il turno del mattino?"
+    },
+    {
+      "id": "it-work-a1-a2-014",
+      "word": "Puoi parlarmi di la pausa pranzo?",
+      "translation": "Can you tell me about the lunch break?",
+      "example": "Puoi parlarmi di la pausa pranzo?"
+    },
+    {
+      "id": "it-work-a1-a2-015",
+      "word": "Puoi parlarmi di l'orario settimanale?",
+      "translation": "Can you tell me about the weekly schedule?",
+      "example": "Puoi parlarmi di l'orario settimanale?"
+    },
+    {
+      "id": "it-work-a1-a2-016",
+      "word": "Puoi parlarmi di il collega gentile?",
+      "translation": "Can you tell me about the friendly colleague?",
+      "example": "Puoi parlarmi di il collega gentile?"
+    },
+    {
+      "id": "it-work-a1-a2-017",
+      "word": "Puoi parlarmi di la riunione del personale?",
+      "translation": "Can you tell me about the staff meeting?",
+      "example": "Puoi parlarmi di la riunione del personale?"
+    },
+    {
+      "id": "it-work-a1-a2-018",
+      "word": "Puoi parlarmi di l'uniforme da lavoro?",
+      "translation": "Can you tell me about the work uniform?",
+      "example": "Puoi parlarmi di l'uniforme da lavoro?"
+    },
+    {
+      "id": "it-work-a1-a2-019",
+      "word": "Puoi parlarmi di il posto part-time?",
+      "translation": "Can you tell me about the part-time position?",
+      "example": "Puoi parlarmi di il posto part-time?"
+    },
+    {
+      "id": "it-work-a1-a2-020",
+      "word": "Puoi parlarmi di il compito quotidiano?",
+      "translation": "Can you tell me about the daily task?",
+      "example": "Puoi parlarmi di il compito quotidiano?"
+    },
+    {
+      "id": "it-work-a1-a2-021",
+      "word": "Ho una domanda su il nuovo lavoro.",
+      "translation": "I have a question about the new job.",
+      "example": "Ho una domanda su il nuovo lavoro."
+    },
+    {
+      "id": "it-work-a1-a2-022",
+      "word": "Ho una domanda su il responsabile dell'ufficio.",
+      "translation": "I have a question about the office manager.",
+      "example": "Ho una domanda su il responsabile dell'ufficio."
+    },
+    {
+      "id": "it-work-a1-a2-023",
+      "word": "Ho una domanda su il turno del mattino.",
+      "translation": "I have a question about the morning shift.",
+      "example": "Ho una domanda su il turno del mattino."
+    },
+    {
+      "id": "it-work-a1-a2-024",
+      "word": "Ho una domanda su la pausa pranzo.",
+      "translation": "I have a question about the lunch break.",
+      "example": "Ho una domanda su la pausa pranzo."
+    },
+    {
+      "id": "it-work-a1-a2-025",
+      "word": "Ho una domanda su l'orario settimanale.",
+      "translation": "I have a question about the weekly schedule.",
+      "example": "Ho una domanda su l'orario settimanale."
+    },
+    {
+      "id": "it-work-a1-a2-026",
+      "word": "Ho una domanda su il collega gentile.",
+      "translation": "I have a question about the friendly colleague.",
+      "example": "Ho una domanda su il collega gentile."
+    },
+    {
+      "id": "it-work-a1-a2-027",
+      "word": "Ho una domanda su la riunione del personale.",
+      "translation": "I have a question about the staff meeting.",
+      "example": "Ho una domanda su la riunione del personale."
+    },
+    {
+      "id": "it-work-a1-a2-028",
+      "word": "Ho una domanda su l'uniforme da lavoro.",
+      "translation": "I have a question about the work uniform.",
+      "example": "Ho una domanda su l'uniforme da lavoro."
+    },
+    {
+      "id": "it-work-a1-a2-029",
+      "word": "Ho una domanda su il posto part-time.",
+      "translation": "I have a question about the part-time position.",
+      "example": "Ho una domanda su il posto part-time."
+    },
+    {
+      "id": "it-work-a1-a2-030",
+      "word": "Ho una domanda su il compito quotidiano.",
+      "translation": "I have a question about the daily task.",
+      "example": "Ho una domanda su il compito quotidiano."
+    },
+    {
+      "id": "it-work-a1-a2-031",
+      "word": "Dove posso trovare il nuovo lavoro?",
+      "translation": "Where can I find the new job?",
+      "example": "Dove posso trovare il nuovo lavoro?"
+    },
+    {
+      "id": "it-work-a1-a2-032",
+      "word": "Dove posso trovare il responsabile dell'ufficio?",
+      "translation": "Where can I find the office manager?",
+      "example": "Dove posso trovare il responsabile dell'ufficio?"
+    },
+    {
+      "id": "it-work-a1-a2-033",
+      "word": "Dove posso trovare il turno del mattino?",
+      "translation": "Where can I find the morning shift?",
+      "example": "Dove posso trovare il turno del mattino?"
+    },
+    {
+      "id": "it-work-a1-a2-034",
+      "word": "Dove posso trovare la pausa pranzo?",
+      "translation": "Where can I find the lunch break?",
+      "example": "Dove posso trovare la pausa pranzo?"
+    },
+    {
+      "id": "it-work-a1-a2-035",
+      "word": "Dove posso trovare l'orario settimanale?",
+      "translation": "Where can I find the weekly schedule?",
+      "example": "Dove posso trovare l'orario settimanale?"
+    },
+    {
+      "id": "it-work-a1-a2-036",
+      "word": "Dove posso trovare il collega gentile?",
+      "translation": "Where can I find the friendly colleague?",
+      "example": "Dove posso trovare il collega gentile?"
+    },
+    {
+      "id": "it-work-a1-a2-037",
+      "word": "Dove posso trovare la riunione del personale?",
+      "translation": "Where can I find the staff meeting?",
+      "example": "Dove posso trovare la riunione del personale?"
+    },
+    {
+      "id": "it-work-a1-a2-038",
+      "word": "Dove posso trovare l'uniforme da lavoro?",
+      "translation": "Where can I find the work uniform?",
+      "example": "Dove posso trovare l'uniforme da lavoro?"
+    },
+    {
+      "id": "it-work-a1-a2-039",
+      "word": "Dove posso trovare il posto part-time?",
+      "translation": "Where can I find the part-time position?",
+      "example": "Dove posso trovare il posto part-time?"
+    },
+    {
+      "id": "it-work-a1-a2-040",
+      "word": "Dove posso trovare il compito quotidiano?",
+      "translation": "Where can I find the daily task?",
+      "example": "Dove posso trovare il compito quotidiano?"
+    },
+    {
+      "id": "it-work-a1-a2-041",
+      "word": "Dobbiamo organizzare il nuovo lavoro.",
+      "translation": "We need to organise the new job.",
+      "example": "Dobbiamo organizzare il nuovo lavoro."
+    },
+    {
+      "id": "it-work-a1-a2-042",
+      "word": "Dobbiamo organizzare il responsabile dell'ufficio.",
+      "translation": "We need to organise the office manager.",
+      "example": "Dobbiamo organizzare il responsabile dell'ufficio."
+    },
+    {
+      "id": "it-work-a1-a2-043",
+      "word": "Dobbiamo organizzare il turno del mattino.",
+      "translation": "We need to organise the morning shift.",
+      "example": "Dobbiamo organizzare il turno del mattino."
+    },
+    {
+      "id": "it-work-a1-a2-044",
+      "word": "Dobbiamo organizzare la pausa pranzo.",
+      "translation": "We need to organise the lunch break.",
+      "example": "Dobbiamo organizzare la pausa pranzo."
+    },
+    {
+      "id": "it-work-a1-a2-045",
+      "word": "Dobbiamo organizzare l'orario settimanale.",
+      "translation": "We need to organise the weekly schedule.",
+      "example": "Dobbiamo organizzare l'orario settimanale."
+    },
+    {
+      "id": "it-work-a1-a2-046",
+      "word": "Dobbiamo organizzare il collega gentile.",
+      "translation": "We need to organise the friendly colleague.",
+      "example": "Dobbiamo organizzare il collega gentile."
+    },
+    {
+      "id": "it-work-a1-a2-047",
+      "word": "Dobbiamo organizzare la riunione del personale.",
+      "translation": "We need to organise the staff meeting.",
+      "example": "Dobbiamo organizzare la riunione del personale."
+    },
+    {
+      "id": "it-work-a1-a2-048",
+      "word": "Dobbiamo organizzare l'uniforme da lavoro.",
+      "translation": "We need to organise the work uniform.",
+      "example": "Dobbiamo organizzare l'uniforme da lavoro."
+    },
+    {
+      "id": "it-work-a1-a2-049",
+      "word": "Dobbiamo organizzare il posto part-time.",
+      "translation": "We need to organise the part-time position.",
+      "example": "Dobbiamo organizzare il posto part-time."
+    },
+    {
+      "id": "it-work-a1-a2-050",
+      "word": "Dobbiamo organizzare il compito quotidiano.",
+      "translation": "We need to organise the daily task.",
+      "example": "Dobbiamo organizzare il compito quotidiano."
+    },
+    {
+      "id": "it-work-a1-a2-051",
+      "word": "Sono responsabile di il nuovo lavoro.",
+      "translation": "I am responsible for the new job.",
+      "example": "Sono responsabile di il nuovo lavoro."
+    },
+    {
+      "id": "it-work-a1-a2-052",
+      "word": "Sono responsabile di il responsabile dell'ufficio.",
+      "translation": "I am responsible for the office manager.",
+      "example": "Sono responsabile di il responsabile dell'ufficio."
+    },
+    {
+      "id": "it-work-a1-a2-053",
+      "word": "Sono responsabile di il turno del mattino.",
+      "translation": "I am responsible for the morning shift.",
+      "example": "Sono responsabile di il turno del mattino."
+    },
+    {
+      "id": "it-work-a1-a2-054",
+      "word": "Sono responsabile di la pausa pranzo.",
+      "translation": "I am responsible for the lunch break.",
+      "example": "Sono responsabile di la pausa pranzo."
+    },
+    {
+      "id": "it-work-a1-a2-055",
+      "word": "Sono responsabile di l'orario settimanale.",
+      "translation": "I am responsible for the weekly schedule.",
+      "example": "Sono responsabile di l'orario settimanale."
+    },
+    {
+      "id": "it-work-a1-a2-056",
+      "word": "Sono responsabile di il collega gentile.",
+      "translation": "I am responsible for the friendly colleague.",
+      "example": "Sono responsabile di il collega gentile."
+    },
+    {
+      "id": "it-work-a1-a2-057",
+      "word": "Sono responsabile di la riunione del personale.",
+      "translation": "I am responsible for the staff meeting.",
+      "example": "Sono responsabile di la riunione del personale."
+    },
+    {
+      "id": "it-work-a1-a2-058",
+      "word": "Sono responsabile di l'uniforme da lavoro.",
+      "translation": "I am responsible for the work uniform.",
+      "example": "Sono responsabile di l'uniforme da lavoro."
+    },
+    {
+      "id": "it-work-a1-a2-059",
+      "word": "Sono responsabile di il posto part-time.",
+      "translation": "I am responsible for the part-time position.",
+      "example": "Sono responsabile di il posto part-time."
+    },
+    {
+      "id": "it-work-a1-a2-060",
+      "word": "Sono responsabile di il compito quotidiano.",
+      "translation": "I am responsible for the daily task.",
+      "example": "Sono responsabile di il compito quotidiano."
+    },
+    {
+      "id": "it-work-a1-a2-061",
+      "word": "Per favore, aiutami con il nuovo lavoro.",
+      "translation": "Please help me with the new job.",
+      "example": "Per favore, aiutami con il nuovo lavoro."
+    },
+    {
+      "id": "it-work-a1-a2-062",
+      "word": "Per favore, aiutami con il responsabile dell'ufficio.",
+      "translation": "Please help me with the office manager.",
+      "example": "Per favore, aiutami con il responsabile dell'ufficio."
+    },
+    {
+      "id": "it-work-a1-a2-063",
+      "word": "Per favore, aiutami con il turno del mattino.",
+      "translation": "Please help me with the morning shift.",
+      "example": "Per favore, aiutami con il turno del mattino."
+    },
+    {
+      "id": "it-work-a1-a2-064",
+      "word": "Per favore, aiutami con la pausa pranzo.",
+      "translation": "Please help me with the lunch break.",
+      "example": "Per favore, aiutami con la pausa pranzo."
+    },
+    {
+      "id": "it-work-a1-a2-065",
+      "word": "Per favore, aiutami con l'orario settimanale.",
+      "translation": "Please help me with the weekly schedule.",
+      "example": "Per favore, aiutami con l'orario settimanale."
+    },
+    {
+      "id": "it-work-a1-a2-066",
+      "word": "Per favore, aiutami con il collega gentile.",
+      "translation": "Please help me with the friendly colleague.",
+      "example": "Per favore, aiutami con il collega gentile."
+    },
+    {
+      "id": "it-work-a1-a2-067",
+      "word": "Per favore, aiutami con la riunione del personale.",
+      "translation": "Please help me with the staff meeting.",
+      "example": "Per favore, aiutami con la riunione del personale."
+    },
+    {
+      "id": "it-work-a1-a2-068",
+      "word": "Per favore, aiutami con l'uniforme da lavoro.",
+      "translation": "Please help me with the work uniform.",
+      "example": "Per favore, aiutami con l'uniforme da lavoro."
+    },
+    {
+      "id": "it-work-a1-a2-069",
+      "word": "Per favore, aiutami con il posto part-time.",
+      "translation": "Please help me with the part-time position.",
+      "example": "Per favore, aiutami con il posto part-time."
+    },
+    {
+      "id": "it-work-a1-a2-070",
+      "word": "Per favore, aiutami con il compito quotidiano.",
+      "translation": "Please help me with the daily task.",
+      "example": "Per favore, aiutami con il compito quotidiano."
+    },
+    {
+      "id": "it-work-a1-a2-071",
+      "word": "Hanno spiegato chiaramente il nuovo lavoro.",
+      "translation": "They explained the new job clearly.",
+      "example": "Hanno spiegato chiaramente il nuovo lavoro."
+    },
+    {
+      "id": "it-work-a1-a2-072",
+      "word": "Hanno spiegato chiaramente il responsabile dell'ufficio.",
+      "translation": "They explained the office manager clearly.",
+      "example": "Hanno spiegato chiaramente il responsabile dell'ufficio."
+    },
+    {
+      "id": "it-work-a1-a2-073",
+      "word": "Hanno spiegato chiaramente il turno del mattino.",
+      "translation": "They explained the morning shift clearly.",
+      "example": "Hanno spiegato chiaramente il turno del mattino."
+    },
+    {
+      "id": "it-work-a1-a2-074",
+      "word": "Hanno spiegato chiaramente la pausa pranzo.",
+      "translation": "They explained the lunch break clearly.",
+      "example": "Hanno spiegato chiaramente la pausa pranzo."
+    },
+    {
+      "id": "it-work-a1-a2-075",
+      "word": "Hanno spiegato chiaramente l'orario settimanale.",
+      "translation": "They explained the weekly schedule clearly.",
+      "example": "Hanno spiegato chiaramente l'orario settimanale."
+    },
+    {
+      "id": "it-work-a1-a2-076",
+      "word": "Hanno spiegato chiaramente il collega gentile.",
+      "translation": "They explained the friendly colleague clearly.",
+      "example": "Hanno spiegato chiaramente il collega gentile."
+    },
+    {
+      "id": "it-work-a1-a2-077",
+      "word": "Hanno spiegato chiaramente la riunione del personale.",
+      "translation": "They explained the staff meeting clearly.",
+      "example": "Hanno spiegato chiaramente la riunione del personale."
+    },
+    {
+      "id": "it-work-a1-a2-078",
+      "word": "Hanno spiegato chiaramente l'uniforme da lavoro.",
+      "translation": "They explained the work uniform clearly.",
+      "example": "Hanno spiegato chiaramente l'uniforme da lavoro."
+    },
+    {
+      "id": "it-work-a1-a2-079",
+      "word": "Hanno spiegato chiaramente il posto part-time.",
+      "translation": "They explained the part-time position clearly.",
+      "example": "Hanno spiegato chiaramente il posto part-time."
+    },
+    {
+      "id": "it-work-a1-a2-080",
+      "word": "Hanno spiegato chiaramente il compito quotidiano.",
+      "translation": "They explained the daily task clearly.",
+      "example": "Hanno spiegato chiaramente il compito quotidiano."
+    },
+    {
+      "id": "it-work-a1-a2-081",
+      "word": "Sono contento di il nuovo lavoro.",
+      "translation": "I am happy with the new job.",
+      "example": "Sono contento di il nuovo lavoro."
+    },
+    {
+      "id": "it-work-a1-a2-082",
+      "word": "Sono contento di il responsabile dell'ufficio.",
+      "translation": "I am happy with the office manager.",
+      "example": "Sono contento di il responsabile dell'ufficio."
+    },
+    {
+      "id": "it-work-a1-a2-083",
+      "word": "Sono contento di il turno del mattino.",
+      "translation": "I am happy with the morning shift.",
+      "example": "Sono contento di il turno del mattino."
+    },
+    {
+      "id": "it-work-a1-a2-084",
+      "word": "Sono contento di la pausa pranzo.",
+      "translation": "I am happy with the lunch break.",
+      "example": "Sono contento di la pausa pranzo."
+    },
+    {
+      "id": "it-work-a1-a2-085",
+      "word": "Sono contento di l'orario settimanale.",
+      "translation": "I am happy with the weekly schedule.",
+      "example": "Sono contento di l'orario settimanale."
+    },
+    {
+      "id": "it-work-a1-a2-086",
+      "word": "Sono contento di il collega gentile.",
+      "translation": "I am happy with the friendly colleague.",
+      "example": "Sono contento di il collega gentile."
+    },
+    {
+      "id": "it-work-a1-a2-087",
+      "word": "Sono contento di la riunione del personale.",
+      "translation": "I am happy with the staff meeting.",
+      "example": "Sono contento di la riunione del personale."
+    },
+    {
+      "id": "it-work-a1-a2-088",
+      "word": "Sono contento di l'uniforme da lavoro.",
+      "translation": "I am happy with the work uniform.",
+      "example": "Sono contento di l'uniforme da lavoro."
+    },
+    {
+      "id": "it-work-a1-a2-089",
+      "word": "Sono contento di il posto part-time.",
+      "translation": "I am happy with the part-time position.",
+      "example": "Sono contento di il posto part-time."
+    },
+    {
+      "id": "it-work-a1-a2-090",
+      "word": "Sono contento di il compito quotidiano.",
+      "translation": "I am happy with the daily task.",
+      "example": "Sono contento di il compito quotidiano."
+    },
+    {
+      "id": "it-work-a1-a2-091",
+      "word": "Ieri abbiamo parlato di il nuovo lavoro.",
+      "translation": "We talked about the new job yesterday.",
+      "example": "Ieri abbiamo parlato di il nuovo lavoro."
+    },
+    {
+      "id": "it-work-a1-a2-092",
+      "word": "Ieri abbiamo parlato di il responsabile dell'ufficio.",
+      "translation": "We talked about the office manager yesterday.",
+      "example": "Ieri abbiamo parlato di il responsabile dell'ufficio."
+    },
+    {
+      "id": "it-work-a1-a2-093",
+      "word": "Ieri abbiamo parlato di il turno del mattino.",
+      "translation": "We talked about the morning shift yesterday.",
+      "example": "Ieri abbiamo parlato di il turno del mattino."
+    },
+    {
+      "id": "it-work-a1-a2-094",
+      "word": "Ieri abbiamo parlato di la pausa pranzo.",
+      "translation": "We talked about the lunch break yesterday.",
+      "example": "Ieri abbiamo parlato di la pausa pranzo."
+    },
+    {
+      "id": "it-work-a1-a2-095",
+      "word": "Ieri abbiamo parlato di l'orario settimanale.",
+      "translation": "We talked about the weekly schedule yesterday.",
+      "example": "Ieri abbiamo parlato di l'orario settimanale."
+    },
+    {
+      "id": "it-work-a1-a2-096",
+      "word": "Ieri abbiamo parlato di il collega gentile.",
+      "translation": "We talked about the friendly colleague yesterday.",
+      "example": "Ieri abbiamo parlato di il collega gentile."
+    },
+    {
+      "id": "it-work-a1-a2-097",
+      "word": "Ieri abbiamo parlato di la riunione del personale.",
+      "translation": "We talked about the staff meeting yesterday.",
+      "example": "Ieri abbiamo parlato di la riunione del personale."
+    },
+    {
+      "id": "it-work-a1-a2-098",
+      "word": "Ieri abbiamo parlato di l'uniforme da lavoro.",
+      "translation": "We talked about the work uniform yesterday.",
+      "example": "Ieri abbiamo parlato di l'uniforme da lavoro."
+    },
+    {
+      "id": "it-work-a1-a2-099",
+      "word": "Ieri abbiamo parlato di il posto part-time.",
+      "translation": "We talked about the part-time position yesterday.",
+      "example": "Ieri abbiamo parlato di il posto part-time."
+    },
+    {
+      "id": "it-work-a1-a2-100",
+      "word": "Ieri abbiamo parlato di il compito quotidiano.",
+      "translation": "We talked about the daily task yesterday.",
+      "example": "Ieri abbiamo parlato di il compito quotidiano."
+    }
+  ]
+}
