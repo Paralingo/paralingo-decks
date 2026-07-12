@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-society-b1-b2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "society",
+  "categoryTitle": "Society & Culture",
+  "title": "Society & Culture",
+  "level": "B1-B2",
+  "emoji": "🏛️",
+  "description": "Discuss institutions, media, civic participation, social change, and cultural differences.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-society-b1-b2-001",
+      "word": "El debate sobre la educación pública ha cambiado recientemente.",
+      "translation": "The debate about public education has changed recently.",
+      "example": "El debate sobre la educación pública ha cambiado recientemente."
+    },
+    {
+      "id": "es-society-b1-b2-002",
+      "word": "El debate sobre el gobierno local ha cambiado recientemente.",
+      "translation": "The debate about local government has changed recently.",
+      "example": "El debate sobre el gobierno local ha cambiado recientemente."
+    },
+    {
+      "id": "es-society-b1-b2-003",
+      "word": "El debate sobre el periodismo independiente ha cambiado recientemente.",
+      "translation": "The debate about independent journalism has changed recently.",
+      "example": "El debate sobre el periodismo independiente ha cambiado recientemente."
+    },
+    {
+      "id": "es-society-b1-b2-004",
+      "word": "El debate sobre la diversidad cultural ha cambiado recientemente.",
+      "translation": "The debate about cultural diversity has changed recently.",
+      "example": "El debate sobre la diversidad cultural ha cambiado recientemente."
+    },
+    {
+      "id": "es-society-b1-b2-005",
+      "word": "El debate sobre el voluntariado ha cambiado recientemente.",
+      "translation": "The debate about voluntary work has changed recently.",
+      "example": "El debate sobre el voluntariado ha cambiado recientemente."
+    },
+    {
+      "id": "es-society-b1-b2-006",
+      "word": "El debate sobre la participación juvenil ha cambiado recientemente.",
+      "translation": "The debate about youth participation has changed recently.",
+      "example": "El debate sobre la participación juvenil ha cambiado recientemente."
+    },
+    {
+      "id": "es-society-b1-b2-007",
+      "word": "El debate sobre la igualdad de oportunidades ha cambiado recientemente.",
+      "translation": "The debate about equal opportunities has changed recently.",
+      "example": "El debate sobre la igualdad de oportunidades ha cambiado recientemente."
+    },
+    {
+      "id": "es-society-b1-b2-008",
+      "word": "El debate sobre la radiodifusión pública ha cambiado recientemente.",
+      "translation": "The debate about public broadcasting has changed recently.",
+      "example": "El debate sobre la radiodifusión pública ha cambiado recientemente."
+    },
+    {
+      "id": "es-society-b1-b2-009",
+      "word": "El debate sobre el desarrollo urbano ha cambiado recientemente.",
+      "translation": "The debate about urban development has changed recently.",
+      "example": "El debate sobre el desarrollo urbano ha cambiado recientemente."
+    },
+    {
+      "id": "es-society-b1-b2-010",
+      "word": "El debate sobre la movilidad social ha cambiado recientemente.",
+      "translation": "The debate about social mobility has changed recently.",
+      "example": "El debate sobre la movilidad social ha cambiado recientemente."
+    },
+    {
+      "id": "es-society-b1-b2-011",
+      "word": "La ciudadanía debería participar en la educación pública.",
+      "translation": "Citizens should have a voice in public education.",
+      "example": "La ciudadanía debería participar en la educación pública."
+    },
+    {
+      "id": "es-society-b1-b2-012",
+      "word": "La ciudadanía debería participar en el gobierno local.",
+      "translation": "Citizens should have a voice in local government.",
+      "example": "La ciudadanía debería participar en el gobierno local."
+    },
+    {
+      "id": "es-society-b1-b2-013",
+      "word": "La ciudadanía debería participar en el periodismo independiente.",
+      "translation": "Citizens should have a voice in independent journalism.",
+      "example": "La ciudadanía debería participar en el periodismo independiente."
+    },
+    {
+      "id": "es-society-b1-b2-014",
+      "word": "La ciudadanía debería participar en la diversidad cultural.",
+      "translation": "Citizens should have a voice in cultural diversity.",
+      "example": "La ciudadanía debería participar en la diversidad cultural."
+    },
+    {
+      "id": "es-society-b1-b2-015",
+      "word": "La ciudadanía debería participar en el voluntariado.",
+      "translation": "Citizens should have a voice in voluntary work.",
+      "example": "La ciudadanía debería participar en el voluntariado."
+    },
+    {
+      "id": "es-society-b1-b2-016",
+      "word": "La ciudadanía debería participar en la participación juvenil.",
+      "translation": "Citizens should have a voice in youth participation.",
+      "example": "La ciudadanía debería participar en la participación juvenil."
+    },
+    {
+      "id": "es-society-b1-b2-017",
+      "word": "La ciudadanía debería participar en la igualdad de oportunidades.",
+      "translation": "Citizens should have a voice in equal opportunities.",
+      "example": "La ciudadanía debería participar en la igualdad de oportunidades."
+    },
+    {
+      "id": "es-society-b1-b2-018",
+      "word": "La ciudadanía debería participar en la radiodifusión pública.",
+      "translation": "Citizens should have a voice in public broadcasting.",
+      "example": "La ciudadanía debería participar en la radiodifusión pública."
+    },
+    {
+      "id": "es-society-b1-b2-019",
+      "word": "La ciudadanía debería participar en el desarrollo urbano.",
+      "translation": "Citizens should have a voice in urban development.",
+      "example": "La ciudadanía debería participar en el desarrollo urbano."
+    },
+    {
+      "id": "es-society-b1-b2-020",
+      "word": "La ciudadanía debería participar en la movilidad social.",
+      "translation": "Citizens should have a voice in social mobility.",
+      "example": "La ciudadanía debería participar en la movilidad social."
+    },
+    {
+      "id": "es-society-b1-b2-021",
+      "word": "La financiación de la educación pública sigue siendo polémica.",
+      "translation": "Funding for public education remains controversial.",
+      "example": "La financiación de la educación pública sigue siendo polémica."
+    },
+    {
+      "id": "es-society-b1-b2-022",
+      "word": "La financiación de el gobierno local sigue siendo polémica.",
+      "translation": "Funding for local government remains controversial.",
+      "example": "La financiación de el gobierno local sigue siendo polémica."
+    },
+    {
+      "id": "es-society-b1-b2-023",
+      "word": "La financiación de el periodismo independiente sigue siendo polémica.",
+      "translation": "Funding for independent journalism remains controversial.",
+      "example": "La financiación de el periodismo independiente sigue siendo polémica."
+    },
+    {
+      "id": "es-society-b1-b2-024",
+      "word": "La financiación de la diversidad cultural sigue siendo polémica.",
+      "translation": "Funding for cultural diversity remains controversial.",
+      "example": "La financiación de la diversidad cultural sigue siendo polémica."
+    },
+    {
+      "id": "es-society-b1-b2-025",
+      "word": "La financiación de el voluntariado sigue siendo polémica.",
+      "translation": "Funding for voluntary work remains controversial.",
+      "example": "La financiación de el voluntariado sigue siendo polémica."
+    },
+    {
+      "id": "es-society-b1-b2-026",
+      "word": "La financiación de la participación juvenil sigue siendo polémica.",
+      "translation": "Funding for youth participation remains controversial.",
+      "example": "La financiación de la participación juvenil sigue siendo polémica."
+    },
+    {
+      "id": "es-society-b1-b2-027",
+      "word": "La financiación de la igualdad de oportunidades sigue siendo polémica.",
+      "translation": "Funding for equal opportunities remains controversial.",
+      "example": "La financiación de la igualdad de oportunidades sigue siendo polémica."
+    },
+    {
+      "id": "es-society-b1-b2-028",
+      "word": "La financiación de la radiodifusión pública sigue siendo polémica.",
+      "translation": "Funding for public broadcasting remains controversial.",
+      "example": "La financiación de la radiodifusión pública sigue siendo polémica."
+    },
+    {
+      "id": "es-society-b1-b2-029",
+      "word": "La financiación de el desarrollo urbano sigue siendo polémica.",
+      "translation": "Funding for urban development remains controversial.",
+      "example": "La financiación de el desarrollo urbano sigue siendo polémica."
+    },
+    {
+      "id": "es-society-b1-b2-030",
+      "word": "La financiación de la movilidad social sigue siendo polémica.",
+      "translation": "Funding for social mobility remains controversial.",
+      "example": "La financiación de la movilidad social sigue siendo polémica."
+    },
+    {
+      "id": "es-society-b1-b2-031",
+      "word": "Las escuelas pueden concienciar sobre la educación pública.",
+      "translation": "Schools can raise awareness of public education.",
+      "example": "Las escuelas pueden concienciar sobre la educación pública."
+    },
+    {
+      "id": "es-society-b1-b2-032",
+      "word": "Las escuelas pueden concienciar sobre el gobierno local.",
+      "translation": "Schools can raise awareness of local government.",
+      "example": "Las escuelas pueden concienciar sobre el gobierno local."
+    },
+    {
+      "id": "es-society-b1-b2-033",
+      "word": "Las escuelas pueden concienciar sobre el periodismo independiente.",
+      "translation": "Schools can raise awareness of independent journalism.",
+      "example": "Las escuelas pueden concienciar sobre el periodismo independiente."
+    },
+    {
+      "id": "es-society-b1-b2-034",
+      "word": "Las escuelas pueden concienciar sobre la diversidad cultural.",
+      "translation": "Schools can raise awareness of cultural diversity.",
+      "example": "Las escuelas pueden concienciar sobre la diversidad cultural."
+    },
+    {
+      "id": "es-society-b1-b2-035",
+      "word": "Las escuelas pueden concienciar sobre el voluntariado.",
+      "translation": "Schools can raise awareness of voluntary work.",
+      "example": "Las escuelas pueden concienciar sobre el voluntariado."
+    },
+    {
+      "id": "es-society-b1-b2-036",
+      "word": "Las escuelas pueden concienciar sobre la participación juvenil.",
+      "translation": "Schools can raise awareness of youth participation.",
+      "example": "Las escuelas pueden concienciar sobre la participación juvenil."
+    },
+    {
+      "id": "es-society-b1-b2-037",
+      "word": "Las escuelas pueden concienciar sobre la igualdad de oportunidades.",
+      "translation": "Schools can raise awareness of equal opportunities.",
+      "example": "Las escuelas pueden concienciar sobre la igualdad de oportunidades."
+    },
+    {
+      "id": "es-society-b1-b2-038",
+      "word": "Las escuelas pueden concienciar sobre la radiodifusión pública.",
+      "translation": "Schools can raise awareness of public broadcasting.",
+      "example": "Las escuelas pueden concienciar sobre la radiodifusión pública."
+    },
+    {
+      "id": "es-society-b1-b2-039",
+      "word": "Las escuelas pueden concienciar sobre el desarrollo urbano.",
+      "translation": "Schools can raise awareness of urban development.",
+      "example": "Las escuelas pueden concienciar sobre el desarrollo urbano."
+    },
+    {
+      "id": "es-society-b1-b2-040",
+      "word": "Las escuelas pueden concienciar sobre la movilidad social.",
+      "translation": "Schools can raise awareness of social mobility.",
+      "example": "Las escuelas pueden concienciar sobre la movilidad social."
+    },
+    {
+      "id": "es-society-b1-b2-041",
+      "word": "El informe destacó problemas relacionados con la educación pública.",
+      "translation": "The report highlighted problems with public education.",
+      "example": "El informe destacó problemas relacionados con la educación pública."
+    },
+    {
+      "id": "es-society-b1-b2-042",
+      "word": "El informe destacó problemas relacionados con el gobierno local.",
+      "translation": "The report highlighted problems with local government.",
+      "example": "El informe destacó problemas relacionados con el gobierno local."
+    },
+    {
+      "id": "es-society-b1-b2-043",
+      "word": "El informe destacó problemas relacionados con el periodismo independiente.",
+      "translation": "The report highlighted problems with independent journalism.",
+      "example": "El informe destacó problemas relacionados con el periodismo independiente."
+    },
+    {
+      "id": "es-society-b1-b2-044",
+      "word": "El informe destacó problemas relacionados con la diversidad cultural.",
+      "translation": "The report highlighted problems with cultural diversity.",
+      "example": "El informe destacó problemas relacionados con la diversidad cultural."
+    },
+    {
+      "id": "es-society-b1-b2-045",
+      "word": "El informe destacó problemas relacionados con el voluntariado.",
+      "translation": "The report highlighted problems with voluntary work.",
+      "example": "El informe destacó problemas relacionados con el voluntariado."
+    },
+    {
+      "id": "es-society-b1-b2-046",
+      "word": "El informe destacó problemas relacionados con la participación juvenil.",
+      "translation": "The report highlighted problems with youth participation.",
+      "example": "El informe destacó problemas relacionados con la participación juvenil."
+    },
+    {
+      "id": "es-society-b1-b2-047",
+      "word": "El informe destacó problemas relacionados con la igualdad de oportunidades.",
+      "translation": "The report highlighted problems with equal opportunities.",
+      "example": "El informe destacó problemas relacionados con la igualdad de oportunidades."
+    },
+    {
+      "id": "es-society-b1-b2-048",
+      "word": "El informe destacó problemas relacionados con la radiodifusión pública.",
+      "translation": "The report highlighted problems with public broadcasting.",
+      "example": "El informe destacó problemas relacionados con la radiodifusión pública."
+    },
+    {
+      "id": "es-society-b1-b2-049",
+      "word": "El informe destacó problemas relacionados con el desarrollo urbano.",
+      "translation": "The report highlighted problems with urban development.",
+      "example": "El informe destacó problemas relacionados con el desarrollo urbano."
+    },
+    {
+      "id": "es-society-b1-b2-050",
+      "word": "El informe destacó problemas relacionados con la movilidad social.",
+      "translation": "The report highlighted problems with social mobility.",
+      "example": "El informe destacó problemas relacionados con la movilidad social."
+    },
+    {
+      "id": "es-society-b1-b2-051",
+      "word": "Nuestra comunidad se ha beneficiado de la educación pública.",
+      "translation": "Our community has benefited from public education.",
+      "example": "Nuestra comunidad se ha beneficiado de la educación pública."
+    },
+    {
+      "id": "es-society-b1-b2-052",
+      "word": "Nuestra comunidad se ha beneficiado de el gobierno local.",
+      "translation": "Our community has benefited from local government.",
+      "example": "Nuestra comunidad se ha beneficiado de el gobierno local."
+    },
+    {
+      "id": "es-society-b1-b2-053",
+      "word": "Nuestra comunidad se ha beneficiado de el periodismo independiente.",
+      "translation": "Our community has benefited from independent journalism.",
+      "example": "Nuestra comunidad se ha beneficiado de el periodismo independiente."
+    },
+    {
+      "id": "es-society-b1-b2-054",
+      "word": "Nuestra comunidad se ha beneficiado de la diversidad cultural.",
+      "translation": "Our community has benefited from cultural diversity.",
+      "example": "Nuestra comunidad se ha beneficiado de la diversidad cultural."
+    },
+    {
+      "id": "es-society-b1-b2-055",
+      "word": "Nuestra comunidad se ha beneficiado de el voluntariado.",
+      "translation": "Our community has benefited from voluntary work.",
+      "example": "Nuestra comunidad se ha beneficiado de el voluntariado."
+    },
+    {
+      "id": "es-society-b1-b2-056",
+      "word": "Nuestra comunidad se ha beneficiado de la participación juvenil.",
+      "translation": "Our community has benefited from youth participation.",
+      "example": "Nuestra comunidad se ha beneficiado de la participación juvenil."
+    },
+    {
+      "id": "es-society-b1-b2-057",
+      "word": "Nuestra comunidad se ha beneficiado de la igualdad de oportunidades.",
+      "translation": "Our community has benefited from equal opportunities.",
+      "example": "Nuestra comunidad se ha beneficiado de la igualdad de oportunidades."
+    },
+    {
+      "id": "es-society-b1-b2-058",
+      "word": "Nuestra comunidad se ha beneficiado de la radiodifusión pública.",
+      "translation": "Our community has benefited from public broadcasting.",
+      "example": "Nuestra comunidad se ha beneficiado de la radiodifusión pública."
+    },
+    {
+      "id": "es-society-b1-b2-059",
+      "word": "Nuestra comunidad se ha beneficiado de el desarrollo urbano.",
+      "translation": "Our community has benefited from urban development.",
+      "example": "Nuestra comunidad se ha beneficiado de el desarrollo urbano."
+    },
+    {
+      "id": "es-society-b1-b2-060",
+      "word": "Nuestra comunidad se ha beneficiado de la movilidad social.",
+      "translation": "Our community has benefited from social mobility.",
+      "example": "Nuestra comunidad se ha beneficiado de la movilidad social."
+    },
+    {
+      "id": "es-society-b1-b2-061",
+      "word": "El acceso a la educación pública varía entre regiones.",
+      "translation": "Access to public education differs between regions.",
+      "example": "El acceso a la educación pública varía entre regiones."
+    },
+    {
+      "id": "es-society-b1-b2-062",
+      "word": "El acceso a el gobierno local varía entre regiones.",
+      "translation": "Access to local government differs between regions.",
+      "example": "El acceso a el gobierno local varía entre regiones."
+    },
+    {
+      "id": "es-society-b1-b2-063",
+      "word": "El acceso a el periodismo independiente varía entre regiones.",
+      "translation": "Access to independent journalism differs between regions.",
+      "example": "El acceso a el periodismo independiente varía entre regiones."
+    },
+    {
+      "id": "es-society-b1-b2-064",
+      "word": "El acceso a la diversidad cultural varía entre regiones.",
+      "translation": "Access to cultural diversity differs between regions.",
+      "example": "El acceso a la diversidad cultural varía entre regiones."
+    },
+    {
+      "id": "es-society-b1-b2-065",
+      "word": "El acceso a el voluntariado varía entre regiones.",
+      "translation": "Access to voluntary work differs between regions.",
+      "example": "El acceso a el voluntariado varía entre regiones."
+    },
+    {
+      "id": "es-society-b1-b2-066",
+      "word": "El acceso a la participación juvenil varía entre regiones.",
+      "translation": "Access to youth participation differs between regions.",
+      "example": "El acceso a la participación juvenil varía entre regiones."
+    },
+    {
+      "id": "es-society-b1-b2-067",
+      "word": "El acceso a la igualdad de oportunidades varía entre regiones.",
+      "translation": "Access to equal opportunities differs between regions.",
+      "example": "El acceso a la igualdad de oportunidades varía entre regiones."
+    },
+    {
+      "id": "es-society-b1-b2-068",
+      "word": "El acceso a la radiodifusión pública varía entre regiones.",
+      "translation": "Access to public broadcasting differs between regions.",
+      "example": "El acceso a la radiodifusión pública varía entre regiones."
+    },
+    {
+      "id": "es-society-b1-b2-069",
+      "word": "El acceso a el desarrollo urbano varía entre regiones.",
+      "translation": "Access to urban development differs between regions.",
+      "example": "El acceso a el desarrollo urbano varía entre regiones."
+    },
+    {
+      "id": "es-society-b1-b2-070",
+      "word": "El acceso a la movilidad social varía entre regiones.",
+      "translation": "Access to social mobility differs between regions.",
+      "example": "El acceso a la movilidad social varía entre regiones."
+    },
+    {
+      "id": "es-society-b1-b2-071",
+      "word": "La tecnología está transformando la educación pública.",
+      "translation": "Technology is transforming public education.",
+      "example": "La tecnología está transformando la educación pública."
+    },
+    {
+      "id": "es-society-b1-b2-072",
+      "word": "La tecnología está transformando el gobierno local.",
+      "translation": "Technology is transforming local government.",
+      "example": "La tecnología está transformando el gobierno local."
+    },
+    {
+      "id": "es-society-b1-b2-073",
+      "word": "La tecnología está transformando el periodismo independiente.",
+      "translation": "Technology is transforming independent journalism.",
+      "example": "La tecnología está transformando el periodismo independiente."
+    },
+    {
+      "id": "es-society-b1-b2-074",
+      "word": "La tecnología está transformando la diversidad cultural.",
+      "translation": "Technology is transforming cultural diversity.",
+      "example": "La tecnología está transformando la diversidad cultural."
+    },
+    {
+      "id": "es-society-b1-b2-075",
+      "word": "La tecnología está transformando el voluntariado.",
+      "translation": "Technology is transforming voluntary work.",
+      "example": "La tecnología está transformando el voluntariado."
+    },
+    {
+      "id": "es-society-b1-b2-076",
+      "word": "La tecnología está transformando la participación juvenil.",
+      "translation": "Technology is transforming youth participation.",
+      "example": "La tecnología está transformando la participación juvenil."
+    },
+    {
+      "id": "es-society-b1-b2-077",
+      "word": "La tecnología está transformando la igualdad de oportunidades.",
+      "translation": "Technology is transforming equal opportunities.",
+      "example": "La tecnología está transformando la igualdad de oportunidades."
+    },
+    {
+      "id": "es-society-b1-b2-078",
+      "word": "La tecnología está transformando la radiodifusión pública.",
+      "translation": "Technology is transforming public broadcasting.",
+      "example": "La tecnología está transformando la radiodifusión pública."
+    },
+    {
+      "id": "es-society-b1-b2-079",
+      "word": "La tecnología está transformando el desarrollo urbano.",
+      "translation": "Technology is transforming urban development.",
+      "example": "La tecnología está transformando el desarrollo urbano."
+    },
+    {
+      "id": "es-society-b1-b2-080",
+      "word": "La tecnología está transformando la movilidad social.",
+      "translation": "Technology is transforming social mobility.",
+      "example": "La tecnología está transformando la movilidad social."
+    },
+    {
+      "id": "es-society-b1-b2-081",
+      "word": "Necesitamos mejores datos sobre la educación pública.",
+      "translation": "We need better evidence about public education.",
+      "example": "Necesitamos mejores datos sobre la educación pública."
+    },
+    {
+      "id": "es-society-b1-b2-082",
+      "word": "Necesitamos mejores datos sobre el gobierno local.",
+      "translation": "We need better evidence about local government.",
+      "example": "Necesitamos mejores datos sobre el gobierno local."
+    },
+    {
+      "id": "es-society-b1-b2-083",
+      "word": "Necesitamos mejores datos sobre el periodismo independiente.",
+      "translation": "We need better evidence about independent journalism.",
+      "example": "Necesitamos mejores datos sobre el periodismo independiente."
+    },
+    {
+      "id": "es-society-b1-b2-084",
+      "word": "Necesitamos mejores datos sobre la diversidad cultural.",
+      "translation": "We need better evidence about cultural diversity.",
+      "example": "Necesitamos mejores datos sobre la diversidad cultural."
+    },
+    {
+      "id": "es-society-b1-b2-085",
+      "word": "Necesitamos mejores datos sobre el voluntariado.",
+      "translation": "We need better evidence about voluntary work.",
+      "example": "Necesitamos mejores datos sobre el voluntariado."
+    },
+    {
+      "id": "es-society-b1-b2-086",
+      "word": "Necesitamos mejores datos sobre la participación juvenil.",
+      "translation": "We need better evidence about youth participation.",
+      "example": "Necesitamos mejores datos sobre la participación juvenil."
+    },
+    {
+      "id": "es-society-b1-b2-087",
+      "word": "Necesitamos mejores datos sobre la igualdad de oportunidades.",
+      "translation": "We need better evidence about equal opportunities.",
+      "example": "Necesitamos mejores datos sobre la igualdad de oportunidades."
+    },
+    {
+      "id": "es-society-b1-b2-088",
+      "word": "Necesitamos mejores datos sobre la radiodifusión pública.",
+      "translation": "We need better evidence about public broadcasting.",
+      "example": "Necesitamos mejores datos sobre la radiodifusión pública."
+    },
+    {
+      "id": "es-society-b1-b2-089",
+      "word": "Necesitamos mejores datos sobre el desarrollo urbano.",
+      "translation": "We need better evidence about urban development.",
+      "example": "Necesitamos mejores datos sobre el desarrollo urbano."
+    },
+    {
+      "id": "es-society-b1-b2-090",
+      "word": "Necesitamos mejores datos sobre la movilidad social.",
+      "translation": "We need better evidence about social mobility.",
+      "example": "Necesitamos mejores datos sobre la movilidad social."
+    },
+    {
+      "id": "es-society-b1-b2-091",
+      "word": "Los ejemplos internacionales pueden mejorar la educación pública.",
+      "translation": "International examples can improve public education.",
+      "example": "Los ejemplos internacionales pueden mejorar la educación pública."
+    },
+    {
+      "id": "es-society-b1-b2-092",
+      "word": "Los ejemplos internacionales pueden mejorar el gobierno local.",
+      "translation": "International examples can improve local government.",
+      "example": "Los ejemplos internacionales pueden mejorar el gobierno local."
+    },
+    {
+      "id": "es-society-b1-b2-093",
+      "word": "Los ejemplos internacionales pueden mejorar el periodismo independiente.",
+      "translation": "International examples can improve independent journalism.",
+      "example": "Los ejemplos internacionales pueden mejorar el periodismo independiente."
+    },
+    {
+      "id": "es-society-b1-b2-094",
+      "word": "Los ejemplos internacionales pueden mejorar la diversidad cultural.",
+      "translation": "International examples can improve cultural diversity.",
+      "example": "Los ejemplos internacionales pueden mejorar la diversidad cultural."
+    },
+    {
+      "id": "es-society-b1-b2-095",
+      "word": "Los ejemplos internacionales pueden mejorar el voluntariado.",
+      "translation": "International examples can improve voluntary work.",
+      "example": "Los ejemplos internacionales pueden mejorar el voluntariado."
+    },
+    {
+      "id": "es-society-b1-b2-096",
+      "word": "Los ejemplos internacionales pueden mejorar la participación juvenil.",
+      "translation": "International examples can improve youth participation.",
+      "example": "Los ejemplos internacionales pueden mejorar la participación juvenil."
+    },
+    {
+      "id": "es-society-b1-b2-097",
+      "word": "Los ejemplos internacionales pueden mejorar la igualdad de oportunidades.",
+      "translation": "International examples can improve equal opportunities.",
+      "example": "Los ejemplos internacionales pueden mejorar la igualdad de oportunidades."
+    },
+    {
+      "id": "es-society-b1-b2-098",
+      "word": "Los ejemplos internacionales pueden mejorar la radiodifusión pública.",
+      "translation": "International examples can improve public broadcasting.",
+      "example": "Los ejemplos internacionales pueden mejorar la radiodifusión pública."
+    },
+    {
+      "id": "es-society-b1-b2-099",
+      "word": "Los ejemplos internacionales pueden mejorar el desarrollo urbano.",
+      "translation": "International examples can improve urban development.",
+      "example": "Los ejemplos internacionales pueden mejorar el desarrollo urbano."
+    },
+    {
+      "id": "es-society-b1-b2-100",
+      "word": "Los ejemplos internacionales pueden mejorar la movilidad social.",
+      "translation": "International examples can improve social mobility.",
+      "example": "Los ejemplos internacionales pueden mejorar la movilidad social."
+    }
+  ]
+}
