@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-es-nature-b1-b2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "nature",
+  "categoryTitle": "Nature & Environment",
+  "title": "Nature & Environment",
+  "level": "B1-B2",
+  "emoji": "🌿",
+  "description": "Discuss pollution, conservation, renewable energy, waste, and sustainable everyday choices.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-nature-b1-b2-001",
+      "word": "Nuestra comunidad está actuando contra la contaminación del aire.",
+      "translation": "Our community is taking action on air pollution.",
+      "example": "Nuestra comunidad está actuando contra la contaminación del aire."
+    },
+    {
+      "id": "es-nature-b1-b2-002",
+      "word": "Nuestra comunidad está actuando contra los residuos plásticos.",
+      "translation": "Our community is taking action on plastic waste.",
+      "example": "Nuestra comunidad está actuando contra los residuos plásticos."
+    },
+    {
+      "id": "es-nature-b1-b2-003",
+      "word": "Nuestra comunidad está actuando contra la escasez de agua.",
+      "translation": "Our community is taking action on water scarcity.",
+      "example": "Nuestra comunidad está actuando contra la escasez de agua."
+    },
+    {
+      "id": "es-nature-b1-b2-004",
+      "word": "Nuestra comunidad está actuando contra la energía renovable.",
+      "translation": "Our community is taking action on renewable energy.",
+      "example": "Nuestra comunidad está actuando contra la energía renovable."
+    },
+    {
+      "id": "es-nature-b1-b2-005",
+      "word": "Nuestra comunidad está actuando contra el transporte público.",
+      "translation": "Our community is taking action on public transport.",
+      "example": "Nuestra comunidad está actuando contra el transporte público."
+    },
+    {
+      "id": "es-nature-b1-b2-006",
+      "word": "Nuestra comunidad está actuando contra la conservación de la fauna.",
+      "translation": "Our community is taking action on wildlife conservation.",
+      "example": "Nuestra comunidad está actuando contra la conservación de la fauna."
+    },
+    {
+      "id": "es-nature-b1-b2-007",
+      "word": "Nuestra comunidad está actuando contra el desperdicio alimentario.",
+      "translation": "Our community is taking action on food waste.",
+      "example": "Nuestra comunidad está actuando contra el desperdicio alimentario."
+    },
+    {
+      "id": "es-nature-b1-b2-008",
+      "word": "Nuestra comunidad está actuando contra el reciclaje.",
+      "translation": "Our community is taking action on recycling.",
+      "example": "Nuestra comunidad está actuando contra el reciclaje."
+    },
+    {
+      "id": "es-nature-b1-b2-009",
+      "word": "Nuestra comunidad está actuando contra la deforestación.",
+      "translation": "Our community is taking action on deforestation.",
+      "example": "Nuestra comunidad está actuando contra la deforestación."
+    },
+    {
+      "id": "es-nature-b1-b2-010",
+      "word": "Nuestra comunidad está actuando contra la agricultura sostenible.",
+      "translation": "Our community is taking action on sustainable farming.",
+      "example": "Nuestra comunidad está actuando contra la agricultura sostenible."
+    },
+    {
+      "id": "es-nature-b1-b2-011",
+      "word": "Las políticas públicas pueden reducir la contaminación del aire.",
+      "translation": "Government policy can reduce air pollution.",
+      "example": "Las políticas públicas pueden reducir la contaminación del aire."
+    },
+    {
+      "id": "es-nature-b1-b2-012",
+      "word": "Las políticas públicas pueden reducir los residuos plásticos.",
+      "translation": "Government policy can reduce plastic waste.",
+      "example": "Las políticas públicas pueden reducir los residuos plásticos."
+    },
+    {
+      "id": "es-nature-b1-b2-013",
+      "word": "Las políticas públicas pueden reducir la escasez de agua.",
+      "translation": "Government policy can reduce water scarcity.",
+      "example": "Las políticas públicas pueden reducir la escasez de agua."
+    },
+    {
+      "id": "es-nature-b1-b2-014",
+      "word": "Las políticas públicas pueden reducir la energía renovable.",
+      "translation": "Government policy can reduce renewable energy.",
+      "example": "Las políticas públicas pueden reducir la energía renovable."
+    },
+    {
+      "id": "es-nature-b1-b2-015",
+      "word": "Las políticas públicas pueden reducir el transporte público.",
+      "translation": "Government policy can reduce public transport.",
+      "example": "Las políticas públicas pueden reducir el transporte público."
+    },
+    {
+      "id": "es-nature-b1-b2-016",
+      "word": "Las políticas públicas pueden reducir la conservación de la fauna.",
+      "translation": "Government policy can reduce wildlife conservation.",
+      "example": "Las políticas públicas pueden reducir la conservación de la fauna."
+    },
+    {
+      "id": "es-nature-b1-b2-017",
+      "word": "Las políticas públicas pueden reducir el desperdicio alimentario.",
+      "translation": "Government policy can reduce food waste.",
+      "example": "Las políticas públicas pueden reducir el desperdicio alimentario."
+    },
+    {
+      "id": "es-nature-b1-b2-018",
+      "word": "Las políticas públicas pueden reducir el reciclaje.",
+      "translation": "Government policy can reduce recycling.",
+      "example": "Las políticas públicas pueden reducir el reciclaje."
+    },
+    {
+      "id": "es-nature-b1-b2-019",
+      "word": "Las políticas públicas pueden reducir la deforestación.",
+      "translation": "Government policy can reduce deforestation.",
+      "example": "Las políticas públicas pueden reducir la deforestación."
+    },
+    {
+      "id": "es-nature-b1-b2-020",
+      "word": "Las políticas públicas pueden reducir la agricultura sostenible.",
+      "translation": "Government policy can reduce sustainable farming.",
+      "example": "Las políticas públicas pueden reducir la agricultura sostenible."
+    },
+    {
+      "id": "es-nature-b1-b2-021",
+      "word": "Las escuelas deberían enseñar al alumnado sobre la contaminación del aire.",
+      "translation": "Schools should teach students about air pollution.",
+      "example": "Las escuelas deberían enseñar al alumnado sobre la contaminación del aire."
+    },
+    {
+      "id": "es-nature-b1-b2-022",
+      "word": "Las escuelas deberían enseñar al alumnado sobre los residuos plásticos.",
+      "translation": "Schools should teach students about plastic waste.",
+      "example": "Las escuelas deberían enseñar al alumnado sobre los residuos plásticos."
+    },
+    {
+      "id": "es-nature-b1-b2-023",
+      "word": "Las escuelas deberían enseñar al alumnado sobre la escasez de agua.",
+      "translation": "Schools should teach students about water scarcity.",
+      "example": "Las escuelas deberían enseñar al alumnado sobre la escasez de agua."
+    },
+    {
+      "id": "es-nature-b1-b2-024",
+      "word": "Las escuelas deberían enseñar al alumnado sobre la energía renovable.",
+      "translation": "Schools should teach students about renewable energy.",
+      "example": "Las escuelas deberían enseñar al alumnado sobre la energía renovable."
+    },
+    {
+      "id": "es-nature-b1-b2-025",
+      "word": "Las escuelas deberían enseñar al alumnado sobre el transporte público.",
+      "translation": "Schools should teach students about public transport.",
+      "example": "Las escuelas deberían enseñar al alumnado sobre el transporte público."
+    },
+    {
+      "id": "es-nature-b1-b2-026",
+      "word": "Las escuelas deberían enseñar al alumnado sobre la conservación de la fauna.",
+      "translation": "Schools should teach students about wildlife conservation.",
+      "example": "Las escuelas deberían enseñar al alumnado sobre la conservación de la fauna."
+    },
+    {
+      "id": "es-nature-b1-b2-027",
+      "word": "Las escuelas deberían enseñar al alumnado sobre el desperdicio alimentario.",
+      "translation": "Schools should teach students about food waste.",
+      "example": "Las escuelas deberían enseñar al alumnado sobre el desperdicio alimentario."
+    },
+    {
+      "id": "es-nature-b1-b2-028",
+      "word": "Las escuelas deberían enseñar al alumnado sobre el reciclaje.",
+      "translation": "Schools should teach students about recycling.",
+      "example": "Las escuelas deberían enseñar al alumnado sobre el reciclaje."
+    },
+    {
+      "id": "es-nature-b1-b2-029",
+      "word": "Las escuelas deberían enseñar al alumnado sobre la deforestación.",
+      "translation": "Schools should teach students about deforestation.",
+      "example": "Las escuelas deberían enseñar al alumnado sobre la deforestación."
+    },
+    {
+      "id": "es-nature-b1-b2-030",
+      "word": "Las escuelas deberían enseñar al alumnado sobre la agricultura sostenible.",
+      "translation": "Schools should teach students about sustainable farming.",
+      "example": "Las escuelas deberían enseñar al alumnado sobre la agricultura sostenible."
+    },
+    {
+      "id": "es-nature-b1-b2-031",
+      "word": "Los costes de la contaminación del aire suelen subestimarse.",
+      "translation": "The costs of air pollution are often underestimated.",
+      "example": "Los costes de la contaminación del aire suelen subestimarse."
+    },
+    {
+      "id": "es-nature-b1-b2-032",
+      "word": "Los costes de los residuos plásticos suelen subestimarse.",
+      "translation": "The costs of plastic waste are often underestimated.",
+      "example": "Los costes de los residuos plásticos suelen subestimarse."
+    },
+    {
+      "id": "es-nature-b1-b2-033",
+      "word": "Los costes de la escasez de agua suelen subestimarse.",
+      "translation": "The costs of water scarcity are often underestimated.",
+      "example": "Los costes de la escasez de agua suelen subestimarse."
+    },
+    {
+      "id": "es-nature-b1-b2-034",
+      "word": "Los costes de la energía renovable suelen subestimarse.",
+      "translation": "The costs of renewable energy are often underestimated.",
+      "example": "Los costes de la energía renovable suelen subestimarse."
+    },
+    {
+      "id": "es-nature-b1-b2-035",
+      "word": "Los costes de el transporte público suelen subestimarse.",
+      "translation": "The costs of public transport are often underestimated.",
+      "example": "Los costes de el transporte público suelen subestimarse."
+    },
+    {
+      "id": "es-nature-b1-b2-036",
+      "word": "Los costes de la conservación de la fauna suelen subestimarse.",
+      "translation": "The costs of wildlife conservation are often underestimated.",
+      "example": "Los costes de la conservación de la fauna suelen subestimarse."
+    },
+    {
+      "id": "es-nature-b1-b2-037",
+      "word": "Los costes de el desperdicio alimentario suelen subestimarse.",
+      "translation": "The costs of food waste are often underestimated.",
+      "example": "Los costes de el desperdicio alimentario suelen subestimarse."
+    },
+    {
+      "id": "es-nature-b1-b2-038",
+      "word": "Los costes de el reciclaje suelen subestimarse.",
+      "translation": "The costs of recycling are often underestimated.",
+      "example": "Los costes de el reciclaje suelen subestimarse."
+    },
+    {
+      "id": "es-nature-b1-b2-039",
+      "word": "Los costes de la deforestación suelen subestimarse.",
+      "translation": "The costs of deforestation are often underestimated.",
+      "example": "Los costes de la deforestación suelen subestimarse."
+    },
+    {
+      "id": "es-nature-b1-b2-040",
+      "word": "Los costes de la agricultura sostenible suelen subestimarse.",
+      "translation": "The costs of sustainable farming are often underestimated.",
+      "example": "Los costes de la agricultura sostenible suelen subestimarse."
+    },
+    {
+      "id": "es-nature-b1-b2-041",
+      "word": "Las decisiones individuales pueden influir en la contaminación del aire.",
+      "translation": "Individual choices can influence air pollution.",
+      "example": "Las decisiones individuales pueden influir en la contaminación del aire."
+    },
+    {
+      "id": "es-nature-b1-b2-042",
+      "word": "Las decisiones individuales pueden influir en los residuos plásticos.",
+      "translation": "Individual choices can influence plastic waste.",
+      "example": "Las decisiones individuales pueden influir en los residuos plásticos."
+    },
+    {
+      "id": "es-nature-b1-b2-043",
+      "word": "Las decisiones individuales pueden influir en la escasez de agua.",
+      "translation": "Individual choices can influence water scarcity.",
+      "example": "Las decisiones individuales pueden influir en la escasez de agua."
+    },
+    {
+      "id": "es-nature-b1-b2-044",
+      "word": "Las decisiones individuales pueden influir en la energía renovable.",
+      "translation": "Individual choices can influence renewable energy.",
+      "example": "Las decisiones individuales pueden influir en la energía renovable."
+    },
+    {
+      "id": "es-nature-b1-b2-045",
+      "word": "Las decisiones individuales pueden influir en el transporte público.",
+      "translation": "Individual choices can influence public transport.",
+      "example": "Las decisiones individuales pueden influir en el transporte público."
+    },
+    {
+      "id": "es-nature-b1-b2-046",
+      "word": "Las decisiones individuales pueden influir en la conservación de la fauna.",
+      "translation": "Individual choices can influence wildlife conservation.",
+      "example": "Las decisiones individuales pueden influir en la conservación de la fauna."
+    },
+    {
+      "id": "es-nature-b1-b2-047",
+      "word": "Las decisiones individuales pueden influir en el desperdicio alimentario.",
+      "translation": "Individual choices can influence food waste.",
+      "example": "Las decisiones individuales pueden influir en el desperdicio alimentario."
+    },
+    {
+      "id": "es-nature-b1-b2-048",
+      "word": "Las decisiones individuales pueden influir en el reciclaje.",
+      "translation": "Individual choices can influence recycling.",
+      "example": "Las decisiones individuales pueden influir en el reciclaje."
+    },
+    {
+      "id": "es-nature-b1-b2-049",
+      "word": "Las decisiones individuales pueden influir en la deforestación.",
+      "translation": "Individual choices can influence deforestation.",
+      "example": "Las decisiones individuales pueden influir en la deforestación."
+    },
+    {
+      "id": "es-nature-b1-b2-050",
+      "word": "Las decisiones individuales pueden influir en la agricultura sostenible.",
+      "translation": "Individual choices can influence sustainable farming.",
+      "example": "Las decisiones individuales pueden influir en la agricultura sostenible."
+    },
+    {
+      "id": "es-nature-b1-b2-051",
+      "word": "Necesitamos información fiable sobre la contaminación del aire.",
+      "translation": "We need reliable information about air pollution.",
+      "example": "Necesitamos información fiable sobre la contaminación del aire."
+    },
+    {
+      "id": "es-nature-b1-b2-052",
+      "word": "Necesitamos información fiable sobre los residuos plásticos.",
+      "translation": "We need reliable information about plastic waste.",
+      "example": "Necesitamos información fiable sobre los residuos plásticos."
+    },
+    {
+      "id": "es-nature-b1-b2-053",
+      "word": "Necesitamos información fiable sobre la escasez de agua.",
+      "translation": "We need reliable information about water scarcity.",
+      "example": "Necesitamos información fiable sobre la escasez de agua."
+    },
+    {
+      "id": "es-nature-b1-b2-054",
+      "word": "Necesitamos información fiable sobre la energía renovable.",
+      "translation": "We need reliable information about renewable energy.",
+      "example": "Necesitamos información fiable sobre la energía renovable."
+    },
+    {
+      "id": "es-nature-b1-b2-055",
+      "word": "Necesitamos información fiable sobre el transporte público.",
+      "translation": "We need reliable information about public transport.",
+      "example": "Necesitamos información fiable sobre el transporte público."
+    },
+    {
+      "id": "es-nature-b1-b2-056",
+      "word": "Necesitamos información fiable sobre la conservación de la fauna.",
+      "translation": "We need reliable information about wildlife conservation.",
+      "example": "Necesitamos información fiable sobre la conservación de la fauna."
+    },
+    {
+      "id": "es-nature-b1-b2-057",
+      "word": "Necesitamos información fiable sobre el desperdicio alimentario.",
+      "translation": "We need reliable information about food waste.",
+      "example": "Necesitamos información fiable sobre el desperdicio alimentario."
+    },
+    {
+      "id": "es-nature-b1-b2-058",
+      "word": "Necesitamos información fiable sobre el reciclaje.",
+      "translation": "We need reliable information about recycling.",
+      "example": "Necesitamos información fiable sobre el reciclaje."
+    },
+    {
+      "id": "es-nature-b1-b2-059",
+      "word": "Necesitamos información fiable sobre la deforestación.",
+      "translation": "We need reliable information about deforestation.",
+      "example": "Necesitamos información fiable sobre la deforestación."
+    },
+    {
+      "id": "es-nature-b1-b2-060",
+      "word": "Necesitamos información fiable sobre la agricultura sostenible.",
+      "translation": "We need reliable information about sustainable farming.",
+      "example": "Necesitamos información fiable sobre la agricultura sostenible."
+    },
+    {
+      "id": "es-nature-b1-b2-061",
+      "word": "Las empresas locales están invirtiendo en la contaminación del aire.",
+      "translation": "Local businesses are investing in air pollution.",
+      "example": "Las empresas locales están invirtiendo en la contaminación del aire."
+    },
+    {
+      "id": "es-nature-b1-b2-062",
+      "word": "Las empresas locales están invirtiendo en los residuos plásticos.",
+      "translation": "Local businesses are investing in plastic waste.",
+      "example": "Las empresas locales están invirtiendo en los residuos plásticos."
+    },
+    {
+      "id": "es-nature-b1-b2-063",
+      "word": "Las empresas locales están invirtiendo en la escasez de agua.",
+      "translation": "Local businesses are investing in water scarcity.",
+      "example": "Las empresas locales están invirtiendo en la escasez de agua."
+    },
+    {
+      "id": "es-nature-b1-b2-064",
+      "word": "Las empresas locales están invirtiendo en la energía renovable.",
+      "translation": "Local businesses are investing in renewable energy.",
+      "example": "Las empresas locales están invirtiendo en la energía renovable."
+    },
+    {
+      "id": "es-nature-b1-b2-065",
+      "word": "Las empresas locales están invirtiendo en el transporte público.",
+      "translation": "Local businesses are investing in public transport.",
+      "example": "Las empresas locales están invirtiendo en el transporte público."
+    },
+    {
+      "id": "es-nature-b1-b2-066",
+      "word": "Las empresas locales están invirtiendo en la conservación de la fauna.",
+      "translation": "Local businesses are investing in wildlife conservation.",
+      "example": "Las empresas locales están invirtiendo en la conservación de la fauna."
+    },
+    {
+      "id": "es-nature-b1-b2-067",
+      "word": "Las empresas locales están invirtiendo en el desperdicio alimentario.",
+      "translation": "Local businesses are investing in food waste.",
+      "example": "Las empresas locales están invirtiendo en el desperdicio alimentario."
+    },
+    {
+      "id": "es-nature-b1-b2-068",
+      "word": "Las empresas locales están invirtiendo en el reciclaje.",
+      "translation": "Local businesses are investing in recycling.",
+      "example": "Las empresas locales están invirtiendo en el reciclaje."
+    },
+    {
+      "id": "es-nature-b1-b2-069",
+      "word": "Las empresas locales están invirtiendo en la deforestación.",
+      "translation": "Local businesses are investing in deforestation.",
+      "example": "Las empresas locales están invirtiendo en la deforestación."
+    },
+    {
+      "id": "es-nature-b1-b2-070",
+      "word": "Las empresas locales están invirtiendo en la agricultura sostenible.",
+      "translation": "Local businesses are investing in sustainable farming.",
+      "example": "Las empresas locales están invirtiendo en la agricultura sostenible."
+    },
+    {
+      "id": "es-nature-b1-b2-071",
+      "word": "El proyecto concienció sobre la contaminación del aire.",
+      "translation": "The project raised awareness of air pollution.",
+      "example": "El proyecto concienció sobre la contaminación del aire."
+    },
+    {
+      "id": "es-nature-b1-b2-072",
+      "word": "El proyecto concienció sobre los residuos plásticos.",
+      "translation": "The project raised awareness of plastic waste.",
+      "example": "El proyecto concienció sobre los residuos plásticos."
+    },
+    {
+      "id": "es-nature-b1-b2-073",
+      "word": "El proyecto concienció sobre la escasez de agua.",
+      "translation": "The project raised awareness of water scarcity.",
+      "example": "El proyecto concienció sobre la escasez de agua."
+    },
+    {
+      "id": "es-nature-b1-b2-074",
+      "word": "El proyecto concienció sobre la energía renovable.",
+      "translation": "The project raised awareness of renewable energy.",
+      "example": "El proyecto concienció sobre la energía renovable."
+    },
+    {
+      "id": "es-nature-b1-b2-075",
+      "word": "El proyecto concienció sobre el transporte público.",
+      "translation": "The project raised awareness of public transport.",
+      "example": "El proyecto concienció sobre el transporte público."
+    },
+    {
+      "id": "es-nature-b1-b2-076",
+      "word": "El proyecto concienció sobre la conservación de la fauna.",
+      "translation": "The project raised awareness of wildlife conservation.",
+      "example": "El proyecto concienció sobre la conservación de la fauna."
+    },
+    {
+      "id": "es-nature-b1-b2-077",
+      "word": "El proyecto concienció sobre el desperdicio alimentario.",
+      "translation": "The project raised awareness of food waste.",
+      "example": "El proyecto concienció sobre el desperdicio alimentario."
+    },
+    {
+      "id": "es-nature-b1-b2-078",
+      "word": "El proyecto concienció sobre el reciclaje.",
+      "translation": "The project raised awareness of recycling.",
+      "example": "El proyecto concienció sobre el reciclaje."
+    },
+    {
+      "id": "es-nature-b1-b2-079",
+      "word": "El proyecto concienció sobre la deforestación.",
+      "translation": "The project raised awareness of deforestation.",
+      "example": "El proyecto concienció sobre la deforestación."
+    },
+    {
+      "id": "es-nature-b1-b2-080",
+      "word": "El proyecto concienció sobre la agricultura sostenible.",
+      "translation": "The project raised awareness of sustainable farming.",
+      "example": "El proyecto concienció sobre la agricultura sostenible."
+    },
+    {
+      "id": "es-nature-b1-b2-081",
+      "word": "No existe una solución sencilla para la contaminación del aire.",
+      "translation": "There is no simple solution to air pollution.",
+      "example": "No existe una solución sencilla para la contaminación del aire."
+    },
+    {
+      "id": "es-nature-b1-b2-082",
+      "word": "No existe una solución sencilla para los residuos plásticos.",
+      "translation": "There is no simple solution to plastic waste.",
+      "example": "No existe una solución sencilla para los residuos plásticos."
+    },
+    {
+      "id": "es-nature-b1-b2-083",
+      "word": "No existe una solución sencilla para la escasez de agua.",
+      "translation": "There is no simple solution to water scarcity.",
+      "example": "No existe una solución sencilla para la escasez de agua."
+    },
+    {
+      "id": "es-nature-b1-b2-084",
+      "word": "No existe una solución sencilla para la energía renovable.",
+      "translation": "There is no simple solution to renewable energy.",
+      "example": "No existe una solución sencilla para la energía renovable."
+    },
+    {
+      "id": "es-nature-b1-b2-085",
+      "word": "No existe una solución sencilla para el transporte público.",
+      "translation": "There is no simple solution to public transport.",
+      "example": "No existe una solución sencilla para el transporte público."
+    },
+    {
+      "id": "es-nature-b1-b2-086",
+      "word": "No existe una solución sencilla para la conservación de la fauna.",
+      "translation": "There is no simple solution to wildlife conservation.",
+      "example": "No existe una solución sencilla para la conservación de la fauna."
+    },
+    {
+      "id": "es-nature-b1-b2-087",
+      "word": "No existe una solución sencilla para el desperdicio alimentario.",
+      "translation": "There is no simple solution to food waste.",
+      "example": "No existe una solución sencilla para el desperdicio alimentario."
+    },
+    {
+      "id": "es-nature-b1-b2-088",
+      "word": "No existe una solución sencilla para el reciclaje.",
+      "translation": "There is no simple solution to recycling.",
+      "example": "No existe una solución sencilla para el reciclaje."
+    },
+    {
+      "id": "es-nature-b1-b2-089",
+      "word": "No existe una solución sencilla para la deforestación.",
+      "translation": "There is no simple solution to deforestation.",
+      "example": "No existe una solución sencilla para la deforestación."
+    },
+    {
+      "id": "es-nature-b1-b2-090",
+      "word": "No existe una solución sencilla para la agricultura sostenible.",
+      "translation": "There is no simple solution to sustainable farming.",
+      "example": "No existe una solución sencilla para la agricultura sostenible."
+    },
+    {
+      "id": "es-nature-b1-b2-091",
+      "word": "La cooperación internacional podría mejorar la contaminación del aire.",
+      "translation": "International cooperation could improve air pollution.",
+      "example": "La cooperación internacional podría mejorar la contaminación del aire."
+    },
+    {
+      "id": "es-nature-b1-b2-092",
+      "word": "La cooperación internacional podría mejorar los residuos plásticos.",
+      "translation": "International cooperation could improve plastic waste.",
+      "example": "La cooperación internacional podría mejorar los residuos plásticos."
+    },
+    {
+      "id": "es-nature-b1-b2-093",
+      "word": "La cooperación internacional podría mejorar la escasez de agua.",
+      "translation": "International cooperation could improve water scarcity.",
+      "example": "La cooperación internacional podría mejorar la escasez de agua."
+    },
+    {
+      "id": "es-nature-b1-b2-094",
+      "word": "La cooperación internacional podría mejorar la energía renovable.",
+      "translation": "International cooperation could improve renewable energy.",
+      "example": "La cooperación internacional podría mejorar la energía renovable."
+    },
+    {
+      "id": "es-nature-b1-b2-095",
+      "word": "La cooperación internacional podría mejorar el transporte público.",
+      "translation": "International cooperation could improve public transport.",
+      "example": "La cooperación internacional podría mejorar el transporte público."
+    },
+    {
+      "id": "es-nature-b1-b2-096",
+      "word": "La cooperación internacional podría mejorar la conservación de la fauna.",
+      "translation": "International cooperation could improve wildlife conservation.",
+      "example": "La cooperación internacional podría mejorar la conservación de la fauna."
+    },
+    {
+      "id": "es-nature-b1-b2-097",
+      "word": "La cooperación internacional podría mejorar el desperdicio alimentario.",
+      "translation": "International cooperation could improve food waste.",
+      "example": "La cooperación internacional podría mejorar el desperdicio alimentario."
+    },
+    {
+      "id": "es-nature-b1-b2-098",
+      "word": "La cooperación internacional podría mejorar el reciclaje.",
+      "translation": "International cooperation could improve recycling.",
+      "example": "La cooperación internacional podría mejorar el reciclaje."
+    },
+    {
+      "id": "es-nature-b1-b2-099",
+      "word": "La cooperación internacional podría mejorar la deforestación.",
+      "translation": "International cooperation could improve deforestation.",
+      "example": "La cooperación internacional podría mejorar la deforestación."
+    },
+    {
+      "id": "es-nature-b1-b2-100",
+      "word": "La cooperación internacional podría mejorar la agricultura sostenible.",
+      "translation": "International cooperation could improve sustainable farming.",
+      "example": "La cooperación internacional podría mejorar la agricultura sostenible."
+    }
+  ]
+}
