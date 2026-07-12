@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-pt-food-b1-b2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "food",
+  "categoryTitle": "Food & Restaurants",
+  "title": "Food & Restaurants",
+  "level": "B1-B2",
+  "emoji": "🍽️",
+  "description": "Discuss cooking, nutrition, dining experiences, and food culture.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-food-b1-b2-001",
+      "word": "a alimentação equilibrada",
+      "translation": "balanced diet",
+      "example": "Neste contexto usa-se «a alimentação equilibrada»."
+    },
+    {
+      "id": "pt-food-b1-b2-002",
+      "word": "os produtos da época",
+      "translation": "seasonal produce",
+      "example": "Neste contexto usa-se «os produtos da época»."
+    },
+    {
+      "id": "pt-food-b1-b2-003",
+      "word": "o desperdício alimentar",
+      "translation": "food waste",
+      "example": "Neste contexto usa-se «o desperdício alimentar»."
+    },
+    {
+      "id": "pt-food-b1-b2-004",
+      "word": "o prato caseiro",
+      "translation": "homemade dish",
+      "example": "Neste contexto usa-se «o prato caseiro»."
+    },
+    {
+      "id": "pt-food-b1-b2-005",
+      "word": "a data de validade",
+      "translation": "expiry date",
+      "example": "Neste contexto usa-se «a data de validade»."
+    },
+    {
+      "id": "pt-food-b1-b2-006",
+      "word": "estar no ponto",
+      "translation": "to be cooked just right",
+      "example": "Neste contexto usa-se «estar no ponto»."
+    },
+    {
+      "id": "pt-food-b1-b2-007",
+      "word": "ficar com fome",
+      "translation": "to remain hungry",
+      "example": "Neste contexto usa-se «ficar com fome»."
+    },
+    {
+      "id": "pt-food-b1-b2-008",
+      "word": "ter bom aspeto",
+      "translation": "to look appetizing",
+      "example": "Neste contexto usa-se «ter bom aspeto»."
+    },
+    {
+      "id": "pt-food-b1-b2-009",
+      "word": "confecionar",
+      "translation": "to prepare",
+      "example": "Neste contexto usa-se «confecionar»."
+    },
+    {
+      "id": "pt-food-b1-b2-010",
+      "word": "temperar",
+      "translation": "to season",
+      "example": "Neste contexto usa-se «temperar»."
+    },
+    {
+      "id": "pt-food-b1-b2-011",
+      "word": "saltear",
+      "translation": "to sauté",
+      "example": "Neste contexto usa-se «saltear»."
+    },
+    {
+      "id": "pt-food-b1-b2-012",
+      "word": "cozinhar em lume brando",
+      "translation": "to simmer",
+      "example": "Neste contexto usa-se «cozinhar em lume brando»."
+    },
+    {
+      "id": "pt-food-b1-b2-013",
+      "word": "o acompanhamento",
+      "translation": "side dish",
+      "example": "Neste contexto usa-se «o acompanhamento»."
+    },
+    {
+      "id": "pt-food-b1-b2-014",
+      "word": "a dose",
+      "translation": "serving",
+      "example": "Neste contexto usa-se «a dose»."
+    },
+    {
+      "id": "pt-food-b1-b2-015",
+      "word": "o menu de degustação",
+      "translation": "tasting menu",
+      "example": "Neste contexto usa-se «o menu de degustação»."
+    },
+    {
+      "id": "pt-food-b1-b2-016",
+      "word": "a relação qualidade-preço",
+      "translation": "value for money",
+      "example": "Neste contexto usa-se «a relação qualidade-preço»."
+    },
+    {
+      "id": "pt-food-b1-b2-017",
+      "word": "fazer uma reclamação",
+      "translation": "to make a complaint",
+      "example": "Neste contexto usa-se «fazer uma reclamação»."
+    },
+    {
+      "id": "pt-food-b1-b2-018",
+      "word": "ser alérgico a",
+      "translation": "to be allergic to",
+      "example": "Neste contexto usa-se «ser alérgico a»."
+    },
+    {
+      "id": "pt-food-b1-b2-019",
+      "word": "adequado para",
+      "translation": "suitable for",
+      "example": "Neste contexto usa-se «adequado para»."
+    },
+    {
+      "id": "pt-food-b1-b2-020",
+      "word": "a cozinha tradicional",
+      "translation": "traditional cuisine",
+      "example": "Neste contexto usa-se «a cozinha tradicional»."
+    },
+    {
+      "id": "pt-food-b1-b2-021",
+      "word": "o sabor intenso",
+      "translation": "intense flavor",
+      "example": "Neste contexto usa-se «o sabor intenso»."
+    },
+    {
+      "id": "pt-food-b1-b2-022",
+      "word": "o sabor suave",
+      "translation": "mild flavor",
+      "example": "Neste contexto usa-se «o sabor suave»."
+    },
+    {
+      "id": "pt-food-b1-b2-023",
+      "word": "agridoce",
+      "translation": "sweet and sour",
+      "example": "Neste contexto usa-se «agridoce»."
+    },
+    {
+      "id": "pt-food-b1-b2-024",
+      "word": "amargo",
+      "translation": "bitter",
+      "example": "Neste contexto usa-se «amargo»."
+    },
+    {
+      "id": "pt-food-b1-b2-025",
+      "word": "estar insosso",
+      "translation": "bland",
+      "example": "Neste contexto usa-se «estar insosso»."
+    },
+    {
+      "id": "pt-food-b1-b2-026",
+      "word": "estar tenro",
+      "translation": "tender",
+      "example": "Neste contexto usa-se «estar tenro»."
+    },
+    {
+      "id": "pt-food-b1-b2-027",
+      "word": "estar estaladiço",
+      "translation": "crispy",
+      "example": "Neste contexto usa-se «estar estaladiço»."
+    },
+    {
+      "id": "pt-food-b1-b2-028",
+      "word": "a textura",
+      "translation": "texture",
+      "example": "Neste contexto usa-se «a textura»."
+    },
+    {
+      "id": "pt-food-b1-b2-029",
+      "word": "o aroma",
+      "translation": "aroma",
+      "example": "Neste contexto usa-se «o aroma»."
+    },
+    {
+      "id": "pt-food-b1-b2-030",
+      "word": "marinar",
+      "translation": "to marinate",
+      "example": "Neste contexto usa-se «marinar»."
+    },
+    {
+      "id": "pt-food-b1-b2-031",
+      "word": "assar no forno",
+      "translation": "to roast",
+      "example": "Neste contexto usa-se «assar no forno»."
+    },
+    {
+      "id": "pt-food-b1-b2-032",
+      "word": "cozinhar a vapor",
+      "translation": "to steam",
+      "example": "Neste contexto usa-se «cozinhar a vapor»."
+    },
+    {
+      "id": "pt-food-b1-b2-033",
+      "word": "bater",
+      "translation": "to whisk",
+      "example": "Neste contexto usa-se «bater»."
+    },
+    {
+      "id": "pt-food-b1-b2-034",
+      "word": "amassar",
+      "translation": "to knead",
+      "example": "Neste contexto usa-se «amassar»."
+    },
+    {
+      "id": "pt-food-b1-b2-035",
+      "word": "descascar",
+      "translation": "to peel",
+      "example": "Neste contexto usa-se «descascar»."
+    },
+    {
+      "id": "pt-food-b1-b2-036",
+      "word": "picar",
+      "translation": "to chop",
+      "example": "Neste contexto usa-se «picar»."
+    },
+    {
+      "id": "pt-food-b1-b2-037",
+      "word": "substituir",
+      "translation": "to substitute",
+      "example": "Neste contexto usa-se «substituir»."
+    },
+    {
+      "id": "pt-food-b1-b2-038",
+      "word": "sobrar",
+      "translation": "to be left over",
+      "example": "Neste contexto usa-se «sobrar»."
+    },
+    {
+      "id": "pt-food-b1-b2-039",
+      "word": "aproveitar as sobras",
+      "translation": "to use leftovers",
+      "example": "Neste contexto usa-se «aproveitar as sobras»."
+    },
+    {
+      "id": "pt-food-b1-b2-040",
+      "word": "comer fora",
+      "translation": "to eat out",
+      "example": "Neste contexto usa-se «comer fora»."
+    },
+    {
+      "id": "pt-food-b1-b2-041",
+      "word": "convidar para jantar",
+      "translation": "to invite for dinner",
+      "example": "Neste contexto usa-se «convidar para jantar»."
+    },
+    {
+      "id": "pt-food-b1-b2-042",
+      "word": "dividir a conta",
+      "translation": "to split the bill",
+      "example": "Neste contexto usa-se «dividir a conta»."
+    },
+    {
+      "id": "pt-food-b1-b2-043",
+      "word": "pedir entrega ao domicílio",
+      "translation": "to order delivery",
+      "example": "Neste contexto usa-se «pedir entrega ao domicílio»."
+    },
+    {
+      "id": "pt-food-b1-b2-044",
+      "word": "o serviço atencioso",
+      "translation": "attentive service",
+      "example": "Neste contexto usa-se «o serviço atencioso»."
+    },
+    {
+      "id": "pt-food-b1-b2-045",
+      "word": "a reserva antecipada",
+      "translation": "advance booking",
+      "example": "Neste contexto usa-se «a reserva antecipada»."
+    },
+    {
+      "id": "pt-food-b1-b2-046",
+      "word": "a origem dos alimentos",
+      "translation": "food origin",
+      "example": "Neste contexto usa-se «a origem dos alimentos»."
+    },
+    {
+      "id": "pt-food-b1-b2-047",
+      "word": "a agricultura biológica",
+      "translation": "organic farming",
+      "example": "Neste contexto usa-se «a agricultura biológica»."
+    },
+    {
+      "id": "pt-food-b1-b2-048",
+      "word": "os hábitos alimentares",
+      "translation": "eating habits",
+      "example": "Neste contexto usa-se «os hábitos alimentares»."
+    },
+    {
+      "id": "pt-food-b1-b2-049",
+      "word": "desfrutar da refeição",
+      "translation": "to enjoy the meal",
+      "example": "Neste contexto usa-se «desfrutar da refeição»."
+    },
+    {
+      "id": "pt-food-b1-b2-050",
+      "word": "o valor nutricional",
+      "translation": "nutritional value",
+      "example": "Neste contexto usa-se «o valor nutricional»."
+    },
+    {
+      "id": "pt-food-b1-b2-051",
+      "word": "a proteína",
+      "translation": "protein",
+      "example": "Neste contexto usa-se «a proteína»."
+    },
+    {
+      "id": "pt-food-b1-b2-052",
+      "word": "o hidrato de carbono",
+      "translation": "carbohydrate",
+      "example": "Neste contexto usa-se «o hidrato de carbono»."
+    },
+    {
+      "id": "pt-food-b1-b2-053",
+      "word": "a fibra",
+      "translation": "fiber",
+      "example": "Neste contexto usa-se «a fibra»."
+    },
+    {
+      "id": "pt-food-b1-b2-054",
+      "word": "a vitamina",
+      "translation": "vitamin",
+      "example": "Neste contexto usa-se «a vitamina»."
+    },
+    {
+      "id": "pt-food-b1-b2-055",
+      "word": "o conservante",
+      "translation": "preservative",
+      "example": "Neste contexto usa-se «o conservante»."
+    },
+    {
+      "id": "pt-food-b1-b2-056",
+      "word": "o aditivo",
+      "translation": "additive",
+      "example": "Neste contexto usa-se «o aditivo»."
+    },
+    {
+      "id": "pt-food-b1-b2-057",
+      "word": "os alimentos processados",
+      "translation": "processed food",
+      "example": "Neste contexto usa-se «os alimentos processados»."
+    },
+    {
+      "id": "pt-food-b1-b2-058",
+      "word": "o cereal integral",
+      "translation": "whole grain",
+      "example": "Neste contexto usa-se «o cereal integral»."
+    },
+    {
+      "id": "pt-food-b1-b2-059",
+      "word": "a leguminosa",
+      "translation": "legume",
+      "example": "Neste contexto usa-se «a leguminosa»."
+    },
+    {
+      "id": "pt-food-b1-b2-060",
+      "word": "o produto lácteo",
+      "translation": "dairy product",
+      "example": "Neste contexto usa-se «o produto lácteo»."
+    },
+    {
+      "id": "pt-food-b1-b2-061",
+      "word": "o marisco",
+      "translation": "shellfish",
+      "example": "Neste contexto usa-se «o marisco»."
+    },
+    {
+      "id": "pt-food-b1-b2-062",
+      "word": "os frutos secos",
+      "translation": "nuts",
+      "example": "Neste contexto usa-se «os frutos secos»."
+    },
+    {
+      "id": "pt-food-b1-b2-063",
+      "word": "as ervas aromáticas",
+      "translation": "herbs",
+      "example": "Neste contexto usa-se «as ervas aromáticas»."
+    },
+    {
+      "id": "pt-food-b1-b2-064",
+      "word": "o condimento",
+      "translation": "seasoning",
+      "example": "Neste contexto usa-se «o condimento»."
+    },
+    {
+      "id": "pt-food-b1-b2-065",
+      "word": "o caldo",
+      "translation": "broth",
+      "example": "Neste contexto usa-se «o caldo»."
+    },
+    {
+      "id": "pt-food-b1-b2-066",
+      "word": "o guisado",
+      "translation": "stew",
+      "example": "Neste contexto usa-se «o guisado»."
+    },
+    {
+      "id": "pt-food-b1-b2-067",
+      "word": "a massa de pão",
+      "translation": "dough",
+      "example": "Neste contexto usa-se «a massa de pão»."
+    },
+    {
+      "id": "pt-food-b1-b2-068",
+      "word": "o recheio",
+      "translation": "filling",
+      "example": "Neste contexto usa-se «o recheio»."
+    },
+    {
+      "id": "pt-food-b1-b2-069",
+      "word": "a crosta",
+      "translation": "crust",
+      "example": "Neste contexto usa-se «a crosta»."
+    },
+    {
+      "id": "pt-food-b1-b2-070",
+      "word": "o miolo",
+      "translation": "crumb",
+      "example": "Neste contexto usa-se «o miolo»."
+    },
+    {
+      "id": "pt-food-b1-b2-071",
+      "word": "o apetite",
+      "translation": "appetite",
+      "example": "Neste contexto usa-se «o apetite»."
+    },
+    {
+      "id": "pt-food-b1-b2-072",
+      "word": "a digestão",
+      "translation": "digestion",
+      "example": "Neste contexto usa-se «a digestão»."
+    },
+    {
+      "id": "pt-food-b1-b2-073",
+      "word": "digerir",
+      "translation": "to digest",
+      "example": "Neste contexto usa-se «digerir»."
+    },
+    {
+      "id": "pt-food-b1-b2-074",
+      "word": "engordar",
+      "translation": "to gain weight",
+      "example": "Neste contexto usa-se «engordar»."
+    },
+    {
+      "id": "pt-food-b1-b2-075",
+      "word": "emagrecer",
+      "translation": "to lose weight",
+      "example": "Neste contexto usa-se «emagrecer»."
+    },
+    {
+      "id": "pt-food-b1-b2-076",
+      "word": "saltar uma refeição",
+      "translation": "to skip a meal",
+      "example": "Neste contexto usa-se «saltar uma refeição»."
+    },
+    {
+      "id": "pt-food-b1-b2-077",
+      "word": "petiscar",
+      "translation": "to snack",
+      "example": "Neste contexto usa-se «petiscar»."
+    },
+    {
+      "id": "pt-food-b1-b2-078",
+      "word": "uma dose generosa",
+      "translation": "generous helping",
+      "example": "Neste contexto usa-se «uma dose generosa»."
+    },
+    {
+      "id": "pt-food-b1-b2-079",
+      "word": "o prato do dia",
+      "translation": "daily special",
+      "example": "Neste contexto usa-se «o prato do dia»."
+    },
+    {
+      "id": "pt-food-b1-b2-080",
+      "word": "o vinho da casa",
+      "translation": "house wine",
+      "example": "Neste contexto usa-se «o vinho da casa»."
+    },
+    {
+      "id": "pt-food-b1-b2-081",
+      "word": "o menu do dia",
+      "translation": "set menu",
+      "example": "Neste contexto usa-se «o menu do dia»."
+    },
+    {
+      "id": "pt-food-b1-b2-082",
+      "word": "a banca de comida",
+      "translation": "food stall",
+      "example": "Neste contexto usa-se «a banca de comida»."
+    },
+    {
+      "id": "pt-food-b1-b2-083",
+      "word": "o mercado local",
+      "translation": "local market",
+      "example": "Neste contexto usa-se «o mercado local»."
+    },
+    {
+      "id": "pt-food-b1-b2-084",
+      "word": "a comida de rua",
+      "translation": "street food",
+      "example": "Neste contexto usa-se «a comida de rua»."
+    },
+    {
+      "id": "pt-food-b1-b2-085",
+      "word": "o prato regional",
+      "translation": "regional dish",
+      "example": "Neste contexto usa-se «o prato regional»."
+    },
+    {
+      "id": "pt-food-b1-b2-086",
+      "word": "a tradição culinária",
+      "translation": "culinary tradition",
+      "example": "Neste contexto usa-se «a tradição culinária»."
+    },
+    {
+      "id": "pt-food-b1-b2-087",
+      "word": "a receita de família",
+      "translation": "family recipe",
+      "example": "Neste contexto usa-se «a receita de família»."
+    },
+    {
+      "id": "pt-food-b1-b2-088",
+      "word": "o ingrediente secreto",
+      "translation": "secret ingredient",
+      "example": "Neste contexto usa-se «o ingrediente secreto»."
+    },
+    {
+      "id": "pt-food-b1-b2-089",
+      "word": "o tempo de cozedura",
+      "translation": "cooking time",
+      "example": "Neste contexto usa-se «o tempo de cozedura»."
+    },
+    {
+      "id": "pt-food-b1-b2-090",
+      "word": "o tempo de preparação",
+      "translation": "preparation time",
+      "example": "Neste contexto usa-se «o tempo de preparação»."
+    },
+    {
+      "id": "pt-food-b1-b2-091",
+      "word": "em lume médio",
+      "translation": "medium heat",
+      "example": "Neste contexto usa-se «em lume médio»."
+    },
+    {
+      "id": "pt-food-b1-b2-092",
+      "word": "em lume forte",
+      "translation": "high heat",
+      "example": "Neste contexto usa-se «em lume forte»."
+    },
+    {
+      "id": "pt-food-b1-b2-093",
+      "word": "em lume baixo",
+      "translation": "low heat",
+      "example": "Neste contexto usa-se «em lume baixo»."
+    },
+    {
+      "id": "pt-food-b1-b2-094",
+      "word": "pré-aquecer",
+      "translation": "to preheat",
+      "example": "Neste contexto usa-se «pré-aquecer»."
+    },
+    {
+      "id": "pt-food-b1-b2-095",
+      "word": "escorrer",
+      "translation": "to drain",
+      "example": "Neste contexto usa-se «escorrer»."
+    },
+    {
+      "id": "pt-food-b1-b2-096",
+      "word": "ralar",
+      "translation": "to grate",
+      "example": "Neste contexto usa-se «ralar»."
+    },
+    {
+      "id": "pt-food-b1-b2-097",
+      "word": "barrar",
+      "translation": "to spread",
+      "example": "Neste contexto usa-se «barrar»."
+    },
+    {
+      "id": "pt-food-b1-b2-098",
+      "word": "decorar o prato",
+      "translation": "to garnish",
+      "example": "Neste contexto usa-se «decorar o prato»."
+    },
+    {
+      "id": "pt-food-b1-b2-099",
+      "word": "conservar",
+      "translation": "to preserve",
+      "example": "Neste contexto usa-se «conservar»."
+    },
+    {
+      "id": "pt-food-b1-b2-100",
+      "word": "o recipiente hermético",
+      "translation": "airtight container",
+      "example": "Neste contexto usa-se «o recipiente hermético»."
+    }
+  ]
+}
