@@ -1,5 +1,32 @@
 {
   "schemaVersion": 1,
   "catalogVersion": 1,
+  "decks": [
+    {
+      "schemaVersion": 1, "packageVersion": 1, "id": "paralingo-es-food-a1", "languageCode": "es", "locale": "es-ES",
+      "categoryId": "food", "categoryTitle": "Food & Restaurants", "title": "Food & Restaurants", "level": "A1", "emoji": "🍽️",
+      "description": "Order food and talk about simple meals.", "license": "CC BY 4.0", "attribution": "Paralingo",
+      "cardCount": 20, "sizeBytes": 2693, "checksumSha256": "1cb6cb0331118bec2018faabff73c1a9c488b4cf1fd63c753ee0d50390d4ec30",
+      "downloadUrl": "https://raw.githubusercontent.com/Paralingo/paralingo-decks/main/packages/es-food-a1-v1.json"
+    },
+    {
+      "schemaVersion": 1, "packageVersion": 1, "id": "paralingo-it-food-a1", "languageCode": "it", "locale": "it-IT",
+      "categoryId": "food", "categoryTitle": "Food & Restaurants", "title": "Food & Restaurants", "level": "A1", "emoji": "🍽️",
+      "description": "Order food and talk about simple meals.", "license": "CC BY 4.0", "attribution": "Paralingo",
+      "cardCount": 20, "sizeBytes": 2667, "checksumSha256": "76b4b56b08600d56b23ba8a5fc0d3d8a66ba4e44413334f02f0510e3b2e6eb06",
+      "downloadUrl": "https://raw.githubusercontent.com/Paralingo/paralingo-decks/main/packages/it-food-a1-v1.json"
+    },
+    {
+      "schemaVersion": 1, "packageVersion": 1, "id": "paralingo-pt-food-a1", "languageCode": "pt", "locale": "pt-PT",
+      "categoryId": "food", "categoryTitle": "Food & Restaurants", "title": "Food & Restaurants", "level": "A1", "emoji": "🍽️",
+      "description": "Order food and talk about simple meals.", "license": "CC BY 4.0", "attribution": "Paralingo",
+      "cardCount": 20, "sizeBytes": 2629, "checksumSha256": "a841f26ddc14ef0f82cd7c62d76d1f6a535fe14bd7d653ea2cbffcf582619758",
+      "downloadUrl": "https://raw.githubusercontent.com/Paralingo/paralingo-decks/main/packages/pt-food-a1-v1.json"
+    }
+  ]
+}
+{
+  "schemaVersion": 1,
+  "catalogVersion": 1,
   "decks": []
 }
