@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-it-society-a1-a2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "society",
+  "categoryTitle": "Society & Culture",
+  "title": "Society & Culture",
+  "level": "A1-A2",
+  "emoji": "🏛️",
+  "description": "Talk about community, celebrations, customs, arts, and everyday cultural experiences.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-society-a1-a2-001",
+      "word": "Andiamo a la festa locale questo fine settimana.",
+      "translation": "We are going to the local festival this weekend.",
+      "example": "Andiamo a la festa locale questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-002",
+      "word": "Andiamo a la festa nazionale questo fine settimana.",
+      "translation": "We are going to the national holiday this weekend.",
+      "example": "Andiamo a la festa nazionale questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-003",
+      "word": "Andiamo a la danza tradizionale questo fine settimana.",
+      "translation": "We are going to the traditional dance this weekend.",
+      "example": "Andiamo a la danza tradizionale questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-004",
+      "word": "Andiamo a la biblioteca pubblica questo fine settimana.",
+      "translation": "We are going to the public library this weekend.",
+      "example": "Andiamo a la biblioteca pubblica questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-005",
+      "word": "Andiamo a il mercato di quartiere questo fine settimana.",
+      "translation": "We are going to the neighborhood market this weekend.",
+      "example": "Andiamo a il mercato di quartiere questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-006",
+      "word": "Andiamo a il concerto musicale questo fine settimana.",
+      "translation": "We are going to the music concert this weekend.",
+      "example": "Andiamo a il concerto musicale questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-007",
+      "word": "Andiamo a la mostra d'arte questo fine settimana.",
+      "translation": "We are going to the art exhibition this weekend.",
+      "example": "Andiamo a la mostra d'arte questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-008",
+      "word": "Andiamo a il centro civico questo fine settimana.",
+      "translation": "We are going to the community center this weekend.",
+      "example": "Andiamo a il centro civico questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-009",
+      "word": "Andiamo a la festa di famiglia questo fine settimana.",
+      "translation": "We are going to the family celebration this weekend.",
+      "example": "Andiamo a la festa di famiglia questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-010",
+      "word": "Andiamo a la tradizione locale questo fine settimana.",
+      "translation": "We are going to the local tradition this weekend.",
+      "example": "Andiamo a la tradizione locale questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-011",
+      "word": "Molte persone partecipano a la festa locale.",
+      "translation": "Many people take part in the local festival.",
+      "example": "Molte persone partecipano a la festa locale."
+    },
+    {
+      "id": "it-society-a1-a2-012",
+      "word": "Molte persone partecipano a la festa nazionale.",
+      "translation": "Many people take part in the national holiday.",
+      "example": "Molte persone partecipano a la festa nazionale."
+    },
+    {
+      "id": "it-society-a1-a2-013",
+      "word": "Molte persone partecipano a la danza tradizionale.",
+      "translation": "Many people take part in the traditional dance.",
+      "example": "Molte persone partecipano a la danza tradizionale."
+    },
+    {
+      "id": "it-society-a1-a2-014",
+      "word": "Molte persone partecipano a la biblioteca pubblica.",
+      "translation": "Many people take part in the public library.",
+      "example": "Molte persone partecipano a la biblioteca pubblica."
+    },
+    {
+      "id": "it-society-a1-a2-015",
+      "word": "Molte persone partecipano a il mercato di quartiere.",
+      "translation": "Many people take part in the neighborhood market.",
+      "example": "Molte persone partecipano a il mercato di quartiere."
+    },
+    {
+      "id": "it-society-a1-a2-016",
+      "word": "Molte persone partecipano a il concerto musicale.",
+      "translation": "Many people take part in the music concert.",
+      "example": "Molte persone partecipano a il concerto musicale."
+    },
+    {
+      "id": "it-society-a1-a2-017",
+      "word": "Molte persone partecipano a la mostra d'arte.",
+      "translation": "Many people take part in the art exhibition.",
+      "example": "Molte persone partecipano a la mostra d'arte."
+    },
+    {
+      "id": "it-society-a1-a2-018",
+      "word": "Molte persone partecipano a il centro civico.",
+      "translation": "Many people take part in the community center.",
+      "example": "Molte persone partecipano a il centro civico."
+    },
+    {
+      "id": "it-society-a1-a2-019",
+      "word": "Molte persone partecipano a la festa di famiglia.",
+      "translation": "Many people take part in the family celebration.",
+      "example": "Molte persone partecipano a la festa di famiglia."
+    },
+    {
+      "id": "it-society-a1-a2-020",
+      "word": "Molte persone partecipano a la tradizione locale.",
+      "translation": "Many people take part in the local tradition.",
+      "example": "Molte persone partecipano a la tradizione locale."
+    },
+    {
+      "id": "it-society-a1-a2-021",
+      "word": "Ho imparato qualcosa di nuovo a la festa locale.",
+      "translation": "I learned something new at the local festival.",
+      "example": "Ho imparato qualcosa di nuovo a la festa locale."
+    },
+    {
+      "id": "it-society-a1-a2-022",
+      "word": "Ho imparato qualcosa di nuovo a la festa nazionale.",
+      "translation": "I learned something new at the national holiday.",
+      "example": "Ho imparato qualcosa di nuovo a la festa nazionale."
+    },
+    {
+      "id": "it-society-a1-a2-023",
+      "word": "Ho imparato qualcosa di nuovo a la danza tradizionale.",
+      "translation": "I learned something new at the traditional dance.",
+      "example": "Ho imparato qualcosa di nuovo a la danza tradizionale."
+    },
+    {
+      "id": "it-society-a1-a2-024",
+      "word": "Ho imparato qualcosa di nuovo a la biblioteca pubblica.",
+      "translation": "I learned something new at the public library.",
+      "example": "Ho imparato qualcosa di nuovo a la biblioteca pubblica."
+    },
+    {
+      "id": "it-society-a1-a2-025",
+      "word": "Ho imparato qualcosa di nuovo a il mercato di quartiere.",
+      "translation": "I learned something new at the neighborhood market.",
+      "example": "Ho imparato qualcosa di nuovo a il mercato di quartiere."
+    },
+    {
+      "id": "it-society-a1-a2-026",
+      "word": "Ho imparato qualcosa di nuovo a il concerto musicale.",
+      "translation": "I learned something new at the music concert.",
+      "example": "Ho imparato qualcosa di nuovo a il concerto musicale."
+    },
+    {
+      "id": "it-society-a1-a2-027",
+      "word": "Ho imparato qualcosa di nuovo a la mostra d'arte.",
+      "translation": "I learned something new at the art exhibition.",
+      "example": "Ho imparato qualcosa di nuovo a la mostra d'arte."
+    },
+    {
+      "id": "it-society-a1-a2-028",
+      "word": "Ho imparato qualcosa di nuovo a il centro civico.",
+      "translation": "I learned something new at the community center.",
+      "example": "Ho imparato qualcosa di nuovo a il centro civico."
+    },
+    {
+      "id": "it-society-a1-a2-029",
+      "word": "Ho imparato qualcosa di nuovo a la festa di famiglia.",
+      "translation": "I learned something new at the family celebration.",
+      "example": "Ho imparato qualcosa di nuovo a la festa di famiglia."
+    },
+    {
+      "id": "it-society-a1-a2-030",
+      "word": "Ho imparato qualcosa di nuovo a la tradizione locale.",
+      "translation": "I learned something new at the local tradition.",
+      "example": "Ho imparato qualcosa di nuovo a la tradizione locale."
+    },
+    {
+      "id": "it-society-a1-a2-031",
+      "word": "Puoi parlarmi di la festa locale?",
+      "translation": "Can you tell me about the local festival?",
+      "example": "Puoi parlarmi di la festa locale?"
+    },
+    {
+      "id": "it-society-a1-a2-032",
+      "word": "Puoi parlarmi di la festa nazionale?",
+      "translation": "Can you tell me about the national holiday?",
+      "example": "Puoi parlarmi di la festa nazionale?"
+    },
+    {
+      "id": "it-society-a1-a2-033",
+      "word": "Puoi parlarmi di la danza tradizionale?",
+      "translation": "Can you tell me about the traditional dance?",
+      "example": "Puoi parlarmi di la danza tradizionale?"
+    },
+    {
+      "id": "it-society-a1-a2-034",
+      "word": "Puoi parlarmi di la biblioteca pubblica?",
+      "translation": "Can you tell me about the public library?",
+      "example": "Puoi parlarmi di la biblioteca pubblica?"
+    },
+    {
+      "id": "it-society-a1-a2-035",
+      "word": "Puoi parlarmi di il mercato di quartiere?",
+      "translation": "Can you tell me about the neighborhood market?",
+      "example": "Puoi parlarmi di il mercato di quartiere?"
+    },
+    {
+      "id": "it-society-a1-a2-036",
+      "word": "Puoi parlarmi di il concerto musicale?",
+      "translation": "Can you tell me about the music concert?",
+      "example": "Puoi parlarmi di il concerto musicale?"
+    },
+    {
+      "id": "it-society-a1-a2-037",
+      "word": "Puoi parlarmi di la mostra d'arte?",
+      "translation": "Can you tell me about the art exhibition?",
+      "example": "Puoi parlarmi di la mostra d'arte?"
+    },
+    {
+      "id": "it-society-a1-a2-038",
+      "word": "Puoi parlarmi di il centro civico?",
+      "translation": "Can you tell me about the community center?",
+      "example": "Puoi parlarmi di il centro civico?"
+    },
+    {
+      "id": "it-society-a1-a2-039",
+      "word": "Puoi parlarmi di la festa di famiglia?",
+      "translation": "Can you tell me about the family celebration?",
+      "example": "Puoi parlarmi di la festa di famiglia?"
+    },
+    {
+      "id": "it-society-a1-a2-040",
+      "word": "Puoi parlarmi di la tradizione locale?",
+      "translation": "Can you tell me about the local tradition?",
+      "example": "Puoi parlarmi di la tradizione locale?"
+    },
+    {
+      "id": "it-society-a1-a2-041",
+      "word": "I bambini si divertono a la festa locale.",
+      "translation": "Children enjoy the local festival.",
+      "example": "I bambini si divertono a la festa locale."
+    },
+    {
+      "id": "it-society-a1-a2-042",
+      "word": "I bambini si divertono a la festa nazionale.",
+      "translation": "Children enjoy the national holiday.",
+      "example": "I bambini si divertono a la festa nazionale."
+    },
+    {
+      "id": "it-society-a1-a2-043",
+      "word": "I bambini si divertono a la danza tradizionale.",
+      "translation": "Children enjoy the traditional dance.",
+      "example": "I bambini si divertono a la danza tradizionale."
+    },
+    {
+      "id": "it-society-a1-a2-044",
+      "word": "I bambini si divertono a la biblioteca pubblica.",
+      "translation": "Children enjoy the public library.",
+      "example": "I bambini si divertono a la biblioteca pubblica."
+    },
+    {
+      "id": "it-society-a1-a2-045",
+      "word": "I bambini si divertono a il mercato di quartiere.",
+      "translation": "Children enjoy the neighborhood market.",
+      "example": "I bambini si divertono a il mercato di quartiere."
+    },
+    {
+      "id": "it-society-a1-a2-046",
+      "word": "I bambini si divertono a il concerto musicale.",
+      "translation": "Children enjoy the music concert.",
+      "example": "I bambini si divertono a il concerto musicale."
+    },
+    {
+      "id": "it-society-a1-a2-047",
+      "word": "I bambini si divertono a la mostra d'arte.",
+      "translation": "Children enjoy the art exhibition.",
+      "example": "I bambini si divertono a la mostra d'arte."
+    },
+    {
+      "id": "it-society-a1-a2-048",
+      "word": "I bambini si divertono a il centro civico.",
+      "translation": "Children enjoy the community center.",
+      "example": "I bambini si divertono a il centro civico."
+    },
+    {
+      "id": "it-society-a1-a2-049",
+      "word": "I bambini si divertono a la festa di famiglia.",
+      "translation": "Children enjoy the family celebration.",
+      "example": "I bambini si divertono a la festa di famiglia."
+    },
+    {
+      "id": "it-society-a1-a2-050",
+      "word": "I bambini si divertono a la tradizione locale.",
+      "translation": "Children enjoy the local tradition.",
+      "example": "I bambini si divertono a la tradizione locale."
+    },
+    {
+      "id": "it-society-a1-a2-051",
+      "word": "La nostra città è orgogliosa di la festa locale.",
+      "translation": "Our town is proud of the local festival.",
+      "example": "La nostra città è orgogliosa di la festa locale."
+    },
+    {
+      "id": "it-society-a1-a2-052",
+      "word": "La nostra città è orgogliosa di la festa nazionale.",
+      "translation": "Our town is proud of the national holiday.",
+      "example": "La nostra città è orgogliosa di la festa nazionale."
+    },
+    {
+      "id": "it-society-a1-a2-053",
+      "word": "La nostra città è orgogliosa di la danza tradizionale.",
+      "translation": "Our town is proud of the traditional dance.",
+      "example": "La nostra città è orgogliosa di la danza tradizionale."
+    },
+    {
+      "id": "it-society-a1-a2-054",
+      "word": "La nostra città è orgogliosa di la biblioteca pubblica.",
+      "translation": "Our town is proud of the public library.",
+      "example": "La nostra città è orgogliosa di la biblioteca pubblica."
+    },
+    {
+      "id": "it-society-a1-a2-055",
+      "word": "La nostra città è orgogliosa di il mercato di quartiere.",
+      "translation": "Our town is proud of the neighborhood market.",
+      "example": "La nostra città è orgogliosa di il mercato di quartiere."
+    },
+    {
+      "id": "it-society-a1-a2-056",
+      "word": "La nostra città è orgogliosa di il concerto musicale.",
+      "translation": "Our town is proud of the music concert.",
+      "example": "La nostra città è orgogliosa di il concerto musicale."
+    },
+    {
+      "id": "it-society-a1-a2-057",
+      "word": "La nostra città è orgogliosa di la mostra d'arte.",
+      "translation": "Our town is proud of the art exhibition.",
+      "example": "La nostra città è orgogliosa di la mostra d'arte."
+    },
+    {
+      "id": "it-society-a1-a2-058",
+      "word": "La nostra città è orgogliosa di il centro civico.",
+      "translation": "Our town is proud of the community center.",
+      "example": "La nostra città è orgogliosa di il centro civico."
+    },
+    {
+      "id": "it-society-a1-a2-059",
+      "word": "La nostra città è orgogliosa di la festa di famiglia.",
+      "translation": "Our town is proud of the family celebration.",
+      "example": "La nostra città è orgogliosa di la festa di famiglia."
+    },
+    {
+      "id": "it-society-a1-a2-060",
+      "word": "La nostra città è orgogliosa di la tradizione locale.",
+      "translation": "Our town is proud of the local tradition.",
+      "example": "La nostra città è orgogliosa di la tradizione locale."
+    },
+    {
+      "id": "it-society-a1-a2-061",
+      "word": "I visitatori sono i benvenuti a la festa locale.",
+      "translation": "Visitors are welcome at the local festival.",
+      "example": "I visitatori sono i benvenuti a la festa locale."
+    },
+    {
+      "id": "it-society-a1-a2-062",
+      "word": "I visitatori sono i benvenuti a la festa nazionale.",
+      "translation": "Visitors are welcome at the national holiday.",
+      "example": "I visitatori sono i benvenuti a la festa nazionale."
+    },
+    {
+      "id": "it-society-a1-a2-063",
+      "word": "I visitatori sono i benvenuti a la danza tradizionale.",
+      "translation": "Visitors are welcome at the traditional dance.",
+      "example": "I visitatori sono i benvenuti a la danza tradizionale."
+    },
+    {
+      "id": "it-society-a1-a2-064",
+      "word": "I visitatori sono i benvenuti a la biblioteca pubblica.",
+      "translation": "Visitors are welcome at the public library.",
+      "example": "I visitatori sono i benvenuti a la biblioteca pubblica."
+    },
+    {
+      "id": "it-society-a1-a2-065",
+      "word": "I visitatori sono i benvenuti a il mercato di quartiere.",
+      "translation": "Visitors are welcome at the neighborhood market.",
+      "example": "I visitatori sono i benvenuti a il mercato di quartiere."
+    },
+    {
+      "id": "it-society-a1-a2-066",
+      "word": "I visitatori sono i benvenuti a il concerto musicale.",
+      "translation": "Visitors are welcome at the music concert.",
+      "example": "I visitatori sono i benvenuti a il concerto musicale."
+    },
+    {
+      "id": "it-society-a1-a2-067",
+      "word": "I visitatori sono i benvenuti a la mostra d'arte.",
+      "translation": "Visitors are welcome at the art exhibition.",
+      "example": "I visitatori sono i benvenuti a la mostra d'arte."
+    },
+    {
+      "id": "it-society-a1-a2-068",
+      "word": "I visitatori sono i benvenuti a il centro civico.",
+      "translation": "Visitors are welcome at the community center.",
+      "example": "I visitatori sono i benvenuti a il centro civico."
+    },
+    {
+      "id": "it-society-a1-a2-069",
+      "word": "I visitatori sono i benvenuti a la festa di famiglia.",
+      "translation": "Visitors are welcome at the family celebration.",
+      "example": "I visitatori sono i benvenuti a la festa di famiglia."
+    },
+    {
+      "id": "it-society-a1-a2-070",
+      "word": "I visitatori sono i benvenuti a la tradizione locale.",
+      "translation": "Visitors are welcome at the local tradition.",
+      "example": "I visitatori sono i benvenuti a la tradizione locale."
+    },
+    {
+      "id": "it-society-a1-a2-071",
+      "word": "A che ora inizia la festa locale?",
+      "translation": "What time does the local festival begin?",
+      "example": "A che ora inizia la festa locale?"
+    },
+    {
+      "id": "it-society-a1-a2-072",
+      "word": "A che ora inizia la festa nazionale?",
+      "translation": "What time does the national holiday begin?",
+      "example": "A che ora inizia la festa nazionale?"
+    },
+    {
+      "id": "it-society-a1-a2-073",
+      "word": "A che ora inizia la danza tradizionale?",
+      "translation": "What time does the traditional dance begin?",
+      "example": "A che ora inizia la danza tradizionale?"
+    },
+    {
+      "id": "it-society-a1-a2-074",
+      "word": "A che ora inizia la biblioteca pubblica?",
+      "translation": "What time does the public library begin?",
+      "example": "A che ora inizia la biblioteca pubblica?"
+    },
+    {
+      "id": "it-society-a1-a2-075",
+      "word": "A che ora inizia il mercato di quartiere?",
+      "translation": "What time does the neighborhood market begin?",
+      "example": "A che ora inizia il mercato di quartiere?"
+    },
+    {
+      "id": "it-society-a1-a2-076",
+      "word": "A che ora inizia il concerto musicale?",
+      "translation": "What time does the music concert begin?",
+      "example": "A che ora inizia il concerto musicale?"
+    },
+    {
+      "id": "it-society-a1-a2-077",
+      "word": "A che ora inizia la mostra d'arte?",
+      "translation": "What time does the art exhibition begin?",
+      "example": "A che ora inizia la mostra d'arte?"
+    },
+    {
+      "id": "it-society-a1-a2-078",
+      "word": "A che ora inizia il centro civico?",
+      "translation": "What time does the community center begin?",
+      "example": "A che ora inizia il centro civico?"
+    },
+    {
+      "id": "it-society-a1-a2-079",
+      "word": "A che ora inizia la festa di famiglia?",
+      "translation": "What time does the family celebration begin?",
+      "example": "A che ora inizia la festa di famiglia?"
+    },
+    {
+      "id": "it-society-a1-a2-080",
+      "word": "A che ora inizia la tradizione locale?",
+      "translation": "What time does the local tradition begin?",
+      "example": "A che ora inizia la tradizione locale?"
+    },
+    {
+      "id": "it-society-a1-a2-081",
+      "word": "Ho scattato fotografie durante la festa locale.",
+      "translation": "I took photographs during the local festival.",
+      "example": "Ho scattato fotografie durante la festa locale."
+    },
+    {
+      "id": "it-society-a1-a2-082",
+      "word": "Ho scattato fotografie durante la festa nazionale.",
+      "translation": "I took photographs during the national holiday.",
+      "example": "Ho scattato fotografie durante la festa nazionale."
+    },
+    {
+      "id": "it-society-a1-a2-083",
+      "word": "Ho scattato fotografie durante la danza tradizionale.",
+      "translation": "I took photographs during the traditional dance.",
+      "example": "Ho scattato fotografie durante la danza tradizionale."
+    },
+    {
+      "id": "it-society-a1-a2-084",
+      "word": "Ho scattato fotografie durante la biblioteca pubblica.",
+      "translation": "I took photographs during the public library.",
+      "example": "Ho scattato fotografie durante la biblioteca pubblica."
+    },
+    {
+      "id": "it-society-a1-a2-085",
+      "word": "Ho scattato fotografie durante il mercato di quartiere.",
+      "translation": "I took photographs during the neighborhood market.",
+      "example": "Ho scattato fotografie durante il mercato di quartiere."
+    },
+    {
+      "id": "it-society-a1-a2-086",
+      "word": "Ho scattato fotografie durante il concerto musicale.",
+      "translation": "I took photographs during the music concert.",
+      "example": "Ho scattato fotografie durante il concerto musicale."
+    },
+    {
+      "id": "it-society-a1-a2-087",
+      "word": "Ho scattato fotografie durante la mostra d'arte.",
+      "translation": "I took photographs during the art exhibition.",
+      "example": "Ho scattato fotografie durante la mostra d'arte."
+    },
+    {
+      "id": "it-society-a1-a2-088",
+      "word": "Ho scattato fotografie durante il centro civico.",
+      "translation": "I took photographs during the community center.",
+      "example": "Ho scattato fotografie durante il centro civico."
+    },
+    {
+      "id": "it-society-a1-a2-089",
+      "word": "Ho scattato fotografie durante la festa di famiglia.",
+      "translation": "I took photographs during the family celebration.",
+      "example": "Ho scattato fotografie durante la festa di famiglia."
+    },
+    {
+      "id": "it-society-a1-a2-090",
+      "word": "Ho scattato fotografie durante la tradizione locale.",
+      "translation": "I took photographs during the local tradition.",
+      "example": "Ho scattato fotografie durante la tradizione locale."
+    },
+    {
+      "id": "it-society-a1-a2-091",
+      "word": "Dovremmo sostenere la festa locale.",
+      "translation": "We should support the local festival.",
+      "example": "Dovremmo sostenere la festa locale."
+    },
+    {
+      "id": "it-society-a1-a2-092",
+      "word": "Dovremmo sostenere la festa nazionale.",
+      "translation": "We should support the national holiday.",
+      "example": "Dovremmo sostenere la festa nazionale."
+    },
+    {
+      "id": "it-society-a1-a2-093",
+      "word": "Dovremmo sostenere la danza tradizionale.",
+      "translation": "We should support the traditional dance.",
+      "example": "Dovremmo sostenere la danza tradizionale."
+    },
+    {
+      "id": "it-society-a1-a2-094",
+      "word": "Dovremmo sostenere la biblioteca pubblica.",
+      "translation": "We should support the public library.",
+      "example": "Dovremmo sostenere la biblioteca pubblica."
+    },
+    {
+      "id": "it-society-a1-a2-095",
+      "word": "Dovremmo sostenere il mercato di quartiere.",
+      "translation": "We should support the neighborhood market.",
+      "example": "Dovremmo sostenere il mercato di quartiere."
+    },
+    {
+      "id": "it-society-a1-a2-096",
+      "word": "Dovremmo sostenere il concerto musicale.",
+      "translation": "We should support the music concert.",
+      "example": "Dovremmo sostenere il concerto musicale."
+    },
+    {
+      "id": "it-society-a1-a2-097",
+      "word": "Dovremmo sostenere la mostra d'arte.",
+      "translation": "We should support the art exhibition.",
+      "example": "Dovremmo sostenere la mostra d'arte."
+    },
+    {
+      "id": "it-society-a1-a2-098",
+      "word": "Dovremmo sostenere il centro civico.",
+      "translation": "We should support the community center.",
+      "example": "Dovremmo sostenere il centro civico."
+    },
+    {
+      "id": "it-society-a1-a2-099",
+      "word": "Dovremmo sostenere la festa di famiglia.",
+      "translation": "We should support the family celebration.",
+      "example": "Dovremmo sostenere la festa di famiglia."
+    },
+    {
+      "id": "it-society-a1-a2-100",
+      "word": "Dovremmo sostenere la tradizione locale.",
+      "translation": "We should support the local tradition.",
+      "example": "Dovremmo sostenere la tradizione locale."
+    }
+  ]
+}
