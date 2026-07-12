@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 1,
+  "id": "paralingo-it-everyday-c1-c2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "everyday",
+  "categoryTitle": "Everyday Essentials",
+  "title": "Everyday Essentials",
+  "level": "C1-C2",
+  "emoji": "🗓️",
+  "description": "Discuss modern life, public services, well-being, rights, and social change with precision.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-everyday-c1-c2-001",
+      "word": "Il dibattito pubblico su l'equilibrio tra vita e lavoro spesso manca di sfumature.",
+      "translation": "Public debate about work-life balance often lacks nuance.",
+      "example": "Il dibattito pubblico su l'equilibrio tra vita e lavoro spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-002",
+      "word": "Il dibattito pubblico su la privacy digitale spesso manca di sfumature.",
+      "translation": "Public debate about digital privacy often lacks nuance.",
+      "example": "Il dibattito pubblico su la privacy digitale spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-003",
+      "word": "Il dibattito pubblico su l'accessibilità economica degli alloggi spesso manca di sfumature.",
+      "translation": "Public debate about housing affordability often lacks nuance.",
+      "example": "Il dibattito pubblico su l'accessibilità economica degli alloggi spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-004",
+      "word": "Il dibattito pubblico su la tutela dei consumatori spesso manca di sfumature.",
+      "translation": "Public debate about consumer protection often lacks nuance.",
+      "example": "Il dibattito pubblico su la tutela dei consumatori spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-005",
+      "word": "Il dibattito pubblico su la sanità pubblica spesso manca di sfumature.",
+      "translation": "Public debate about public health often lacks nuance.",
+      "example": "Il dibattito pubblico su la sanità pubblica spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-006",
+      "word": "Il dibattito pubblico su l'alfabetizzazione mediatica spesso manca di sfumature.",
+      "translation": "Public debate about media literacy often lacks nuance.",
+      "example": "Il dibattito pubblico su l'alfabetizzazione mediatica spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-007",
+      "word": "Il dibattito pubblico su la disuguaglianza sociale spesso manca di sfumature.",
+      "translation": "Public debate about social inequality often lacks nuance.",
+      "example": "Il dibattito pubblico su la disuguaglianza sociale spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-008",
+      "word": "Il dibattito pubblico su il cambiamento demografico spesso manca di sfumature.",
+      "translation": "Public debate about demographic change often lacks nuance.",
+      "example": "Il dibattito pubblico su il cambiamento demografico spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-009",
+      "word": "Il dibattito pubblico su la coesione della comunità spesso manca di sfumature.",
+      "translation": "Public debate about community cohesion often lacks nuance.",
+      "example": "Il dibattito pubblico su la coesione della comunità spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-010",
+      "word": "Il dibattito pubblico su il benessere personale spesso manca di sfumature.",
+      "translation": "Public debate about personal well-being often lacks nuance.",
+      "example": "Il dibattito pubblico su il benessere personale spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-011",
+      "word": "Le politiche su l'equilibrio tra vita e lavoro dovrebbero riflettere l'esperienza vissuta.",
+      "translation": "Policy on work-life balance should reflect lived experience.",
+      "example": "Le politiche su l'equilibrio tra vita e lavoro dovrebbero riflettere l'esperienza vissuta."
+    },
+    {
+      "id": "it-everyday-c1-c2-012",
+      "word": "Le politiche su la privacy digitale dovrebbero riflettere l'esperienza vissuta.",
+      "translation": "Policy on digital privacy should reflect lived experience.",
+      "example": "Le politiche su la privacy digitale dovrebbero riflettere l'esperienza vissuta."
+    },
+    {
+      "id": "it-everyday-c1-c2-013",
+      "word": "Le politiche su l'accessibilità economica degli alloggi dovrebbero riflettere l'esperienza vissuta.",
+      "translation": "Policy on housing affordability should reflect lived experience.",
+      "example": "Le politiche su l'accessibilità economica degli alloggi dovrebbero riflettere l'esperienza vissuta."
+    },
+    {
+      "id": "it-everyday-c1-c2-014",
+      "word": "Le politiche su la tutela dei consumatori dovrebbero riflettere l'esperienza vissuta.",
+      "translation": "Policy on consumer protection should reflect lived experience.",
+      "example": "Le politiche su la tutela dei consumatori dovrebbero riflettere l'esperienza vissuta."
+    },
+    {
+      "id": "it-everyday-c1-c2-015",
+      "word": "Le politiche su la sanità pubblica dovrebbero riflettere l'esperienza vissuta.",
+      "translation": "Policy on public health should reflect lived experience.",
+      "example": "Le politiche su la sanità pubblica dovrebbero riflettere l'esperienza vissuta."
+    },
+    {
+      "id": "it-everyday-c1-c2-016",
+      "word": "Le politiche su l'alfabetizzazione mediatica dovrebbero riflettere l'esperienza vissuta.",
+      "translation": "Policy on media literacy should reflect lived experience.",
+      "example": "Le politiche su l'alfabetizzazione mediatica dovrebbero riflettere l'esperienza vissuta."
+    },
+    {
+      "id": "it-everyday-c1-c2-017",
+      "word": "Le politiche su la disuguaglianza sociale dovrebbero riflettere l'esperienza vissuta.",
+      "translation": "Policy on social inequality should reflect lived experience.",
+      "example": "Le politiche su la disuguaglianza sociale dovrebbero riflettere l'esperienza vissuta."
+    },
+    {
+      "id": "it-everyday-c1-c2-018",
+      "word": "Le politiche su il cambiamento demografico dovrebbero riflettere l'esperienza vissuta.",
+      "translation": "Policy on demographic change should reflect lived experience.",
+      "example": "Le politiche su il cambiamento demografico dovrebbero riflettere l'esperienza vissuta."
+    },
+    {
+      "id": "it-everyday-c1-c2-019",
+      "word": "Le politiche su la coesione della comunità dovrebbero riflettere l'esperienza vissuta.",
+      "translation": "Policy on community cohesion should reflect lived experience.",
+      "example": "Le politiche su la coesione della comunità dovrebbero riflettere l'esperienza vissuta."
+    },
+    {
+      "id": "it-everyday-c1-c2-020",
+      "word": "Le politiche su il benessere personale dovrebbero riflettere l'esperienza vissuta.",
+      "translation": "Policy on personal well-being should reflect lived experience.",
+      "example": "Le politiche su il benessere personale dovrebbero riflettere l'esperienza vissuta."
+    },
+    {
+      "id": "it-everyday-c1-c2-021",
+      "word": "Gli effetti a lungo termine di l'equilibrio tra vita e lavoro restano incerti.",
+      "translation": "The long-term effects of work-life balance remain uncertain.",
+      "example": "Gli effetti a lungo termine di l'equilibrio tra vita e lavoro restano incerti."
+    },
+    {
+      "id": "it-everyday-c1-c2-022",
+      "word": "Gli effetti a lungo termine di la privacy digitale restano incerti.",
+      "translation": "The long-term effects of digital privacy remain uncertain.",
+      "example": "Gli effetti a lungo termine di la privacy digitale restano incerti."
+    },
+    {
+      "id": "it-everyday-c1-c2-023",
+      "word": "Gli effetti a lungo termine di l'accessibilità economica degli alloggi restano incerti.",
+      "translation": "The long-term effects of housing affordability remain uncertain.",
+      "example": "Gli effetti a lungo termine di l'accessibilità economica degli alloggi restano incerti."
+    },
+    {
+      "id": "it-everyday-c1-c2-024",
+      "word": "Gli effetti a lungo termine di la tutela dei consumatori restano incerti.",
+      "translation": "The long-term effects of consumer protection remain uncertain.",
+      "example": "Gli effetti a lungo termine di la tutela dei consumatori restano incerti."
+    },
+    {
+      "id": "it-everyday-c1-c2-025",
+      "word": "Gli effetti a lungo termine di la sanità pubblica restano incerti.",
+      "translation": "The long-term effects of public health remain uncertain.",
+      "example": "Gli effetti a lungo termine di la sanità pubblica restano incerti."
+    },
+    {
+      "id": "it-everyday-c1-c2-026",
+      "word": "Gli effetti a lungo termine di l'alfabetizzazione mediatica restano incerti.",
+      "translation": "The long-term effects of media literacy remain uncertain.",
+      "example": "Gli effetti a lungo termine di l'alfabetizzazione mediatica restano incerti."
+    },
+    {
+      "id": "it-everyday-c1-c2-027",
+      "word": "Gli effetti a lungo termine di la disuguaglianza sociale restano incerti.",
+      "translation": "The long-term effects of social inequality remain uncertain.",
+      "example": "Gli effetti a lungo termine di la disuguaglianza sociale restano incerti."
+    },
+    {
+      "id": "it-everyday-c1-c2-028",
+      "word": "Gli effetti a lungo termine di il cambiamento demografico restano incerti.",
+      "translation": "The long-term effects of demographic change remain uncertain.",
+      "example": "Gli effetti a lungo termine di il cambiamento demografico restano incerti."
+    },
+    {
+      "id": "it-everyday-c1-c2-029",
+      "word": "Gli effetti a lungo termine di la coesione della comunità restano incerti.",
+      "translation": "The long-term effects of community cohesion remain uncertain.",
+      "example": "Gli effetti a lungo termine di la coesione della comunità restano incerti."
+    },
+    {
+      "id": "it-everyday-c1-c2-030",
+      "word": "Gli effetti a lungo termine di il benessere personale restano incerti.",
+      "translation": "The long-term effects of personal well-being remain uncertain.",
+      "example": "Gli effetti a lungo termine di il benessere personale restano incerti."
+    },
+    {
+      "id": "it-everyday-c1-c2-031",
+      "word": "Un approccio equo a l'equilibrio tra vita e lavoro richiede riforme strutturali.",
+      "translation": "A fair approach to work-life balance requires structural reform.",
+      "example": "Un approccio equo a l'equilibrio tra vita e lavoro richiede riforme strutturali."
+    },
+    {
+      "id": "it-everyday-c1-c2-032",
+      "word": "Un approccio equo a la privacy digitale richiede riforme strutturali.",
+      "translation": "A fair approach to digital privacy requires structural reform.",
+      "example": "Un approccio equo a la privacy digitale richiede riforme strutturali."
+    },
+    {
+      "id": "it-everyday-c1-c2-033",
+      "word": "Un approccio equo a l'accessibilità economica degli alloggi richiede riforme strutturali.",
+      "translation": "A fair approach to housing affordability requires structural reform.",
+      "example": "Un approccio equo a l'accessibilità economica degli alloggi richiede riforme strutturali."
+    },
+    {
+      "id": "it-everyday-c1-c2-034",
+      "word": "Un approccio equo a la tutela dei consumatori richiede riforme strutturali.",
+      "translation": "A fair approach to consumer protection requires structural reform.",
+      "example": "Un approccio equo a la tutela dei consumatori richiede riforme strutturali."
+    },
+    {
+      "id": "it-everyday-c1-c2-035",
+      "word": "Un approccio equo a la sanità pubblica richiede riforme strutturali.",
+      "translation": "A fair approach to public health requires structural reform.",
+      "example": "Un approccio equo a la sanità pubblica richiede riforme strutturali."
+    },
+    {
+      "id": "it-everyday-c1-c2-036",
+      "word": "Un approccio equo a l'alfabetizzazione mediatica richiede riforme strutturali.",
+      "translation": "A fair approach to media literacy requires structural reform.",
+      "example": "Un approccio equo a l'alfabetizzazione mediatica richiede riforme strutturali."
+    },
+    {
+      "id": "it-everyday-c1-c2-037",
+      "word": "Un approccio equo a la disuguaglianza sociale richiede riforme strutturali.",
+      "translation": "A fair approach to social inequality requires structural reform.",
+      "example": "Un approccio equo a la disuguaglianza sociale richiede riforme strutturali."
+    },
+    {
+      "id": "it-everyday-c1-c2-038",
+      "word": "Un approccio equo a il cambiamento demografico richiede riforme strutturali.",
+      "translation": "A fair approach to demographic change requires structural reform.",
+      "example": "Un approccio equo a il cambiamento demografico richiede riforme strutturali."
+    },
+    {
+      "id": "it-everyday-c1-c2-039",
+      "word": "Un approccio equo a la coesione della comunità richiede riforme strutturali.",
+      "translation": "A fair approach to community cohesion requires structural reform.",
+      "example": "Un approccio equo a la coesione della comunità richiede riforme strutturali."
+    },
+    {
+      "id": "it-everyday-c1-c2-040",
+      "word": "Un approccio equo a il benessere personale richiede riforme strutturali.",
+      "translation": "A fair approach to personal well-being requires structural reform.",
+      "example": "Un approccio equo a il benessere personale richiede riforme strutturali."
+    },
+    {
+      "id": "it-everyday-c1-c2-041",
+      "word": "L'accesso a l'equilibrio tra vita e lavoro varia notevolmente tra le regioni.",
+      "translation": "Access to work-life balance varies considerably between regions.",
+      "example": "L'accesso a l'equilibrio tra vita e lavoro varia notevolmente tra le regioni."
+    },
+    {
+      "id": "it-everyday-c1-c2-042",
+      "word": "L'accesso a la privacy digitale varia notevolmente tra le regioni.",
+      "translation": "Access to digital privacy varies considerably between regions.",
+      "example": "L'accesso a la privacy digitale varia notevolmente tra le regioni."
+    },
+    {
+      "id": "it-everyday-c1-c2-043",
+      "word": "L'accesso a l'accessibilità economica degli alloggi varia notevolmente tra le regioni.",
+      "translation": "Access to housing affordability varies considerably between regions.",
+      "example": "L'accesso a l'accessibilità economica degli alloggi varia notevolmente tra le regioni."
+    },
+    {
+      "id": "it-everyday-c1-c2-044",
+      "word": "L'accesso a la tutela dei consumatori varia notevolmente tra le regioni.",
+      "translation": "Access to consumer protection varies considerably between regions.",
+      "example": "L'accesso a la tutela dei consumatori varia notevolmente tra le regioni."
+    },
+    {
+      "id": "it-everyday-c1-c2-045",
+      "word": "L'accesso a la sanità pubblica varia notevolmente tra le regioni.",
+      "translation": "Access to public health varies considerably between regions.",
+      "example": "L'accesso a la sanità pubblica varia notevolmente tra le regioni."
+    },
+    {
+      "id": "it-everyday-c1-c2-046",
+      "word": "L'accesso a l'alfabetizzazione mediatica varia notevolmente tra le regioni.",
+      "translation": "Access to media literacy varies considerably between regions.",
+      "example": "L'accesso a l'alfabetizzazione mediatica varia notevolmente tra le regioni."
+    },
+    {
+      "id": "it-everyday-c1-c2-047",
+      "word": "L'accesso a la disuguaglianza sociale varia notevolmente tra le regioni.",
+      "translation": "Access to social inequality varies considerably between regions.",
+      "example": "L'accesso a la disuguaglianza sociale varia notevolmente tra le regioni."
+    },
+    {
+      "id": "it-everyday-c1-c2-048",
+      "word": "L'accesso a il cambiamento demografico varia notevolmente tra le regioni.",
+      "translation": "Access to demographic change varies considerably between regions.",
+      "example": "L'accesso a il cambiamento demografico varia notevolmente tra le regioni."
+    },
+    {
+      "id": "it-everyday-c1-c2-049",
+      "word": "L'accesso a la coesione della comunità varia notevolmente tra le regioni.",
+      "translation": "Access to community cohesion varies considerably between regions.",
+      "example": "L'accesso a la coesione della comunità varia notevolmente tra le regioni."
+    },
+    {
+      "id": "it-everyday-c1-c2-050",
+      "word": "L'accesso a il benessere personale varia notevolmente tra le regioni.",
+      "translation": "Access to personal well-being varies considerably between regions.",
+      "example": "L'accesso a il benessere personale varia notevolmente tra le regioni."
+    },
+    {
+      "id": "it-everyday-c1-c2-051",
+      "word": "Le scelte individuali da sole non possono affrontare l'equilibrio tra vita e lavoro.",
+      "translation": "Individual choices alone cannot address work-life balance.",
+      "example": "Le scelte individuali da sole non possono affrontare l'equilibrio tra vita e lavoro."
+    },
+    {
+      "id": "it-everyday-c1-c2-052",
+      "word": "Le scelte individuali da sole non possono affrontare la privacy digitale.",
+      "translation": "Individual choices alone cannot address digital privacy.",
+      "example": "Le scelte individuali da sole non possono affrontare la privacy digitale."
+    },
+    {
+      "id": "it-everyday-c1-c2-053",
+      "word": "Le scelte individuali da sole non possono affrontare l'accessibilità economica degli alloggi.",
+      "translation": "Individual choices alone cannot address housing affordability.",
+      "example": "Le scelte individuali da sole non possono affrontare l'accessibilità economica degli alloggi."
+    },
+    {
+      "id": "it-everyday-c1-c2-054",
+      "word": "Le scelte individuali da sole non possono affrontare la tutela dei consumatori.",
+      "translation": "Individual choices alone cannot address consumer protection.",
+      "example": "Le scelte individuali da sole non possono affrontare la tutela dei consumatori."
+    },
+    {
+      "id": "it-everyday-c1-c2-055",
+      "word": "Le scelte individuali da sole non possono affrontare la sanità pubblica.",
+      "translation": "Individual choices alone cannot address public health.",
+      "example": "Le scelte individuali da sole non possono affrontare la sanità pubblica."
+    },
+    {
+      "id": "it-everyday-c1-c2-056",
+      "word": "Le scelte individuali da sole non possono affrontare l'alfabetizzazione mediatica.",
+      "translation": "Individual choices alone cannot address media literacy.",
+      "example": "Le scelte individuali da sole non possono affrontare l'alfabetizzazione mediatica."
+    },
+    {
+      "id": "it-everyday-c1-c2-057",
+      "word": "Le scelte individuali da sole non possono affrontare la disuguaglianza sociale.",
+      "translation": "Individual choices alone cannot address social inequality.",
+      "example": "Le scelte individuali da sole non possono affrontare la disuguaglianza sociale."
+    },
+    {
+      "id": "it-everyday-c1-c2-058",
+      "word": "Le scelte individuali da sole non possono affrontare il cambiamento demografico.",
+      "translation": "Individual choices alone cannot address demographic change.",
+      "example": "Le scelte individuali da sole non possono affrontare il cambiamento demografico."
+    },
+    {
+      "id": "it-everyday-c1-c2-059",
+      "word": "Le scelte individuali da sole non possono affrontare la coesione della comunità.",
+      "translation": "Individual choices alone cannot address community cohesion.",
+      "example": "Le scelte individuali da sole non possono affrontare la coesione della comunità."
+    },
+    {
+      "id": "it-everyday-c1-c2-060",
+      "word": "Le scelte individuali da sole non possono affrontare il benessere personale.",
+      "translation": "Individual choices alone cannot address personal well-being.",
+      "example": "Le scelte individuali da sole non possono affrontare il benessere personale."
+    },
+    {
+      "id": "it-everyday-c1-c2-061",
+      "word": "Dati affidabili sono essenziali per valutare l'equilibrio tra vita e lavoro.",
+      "translation": "Reliable evidence is essential when evaluating work-life balance.",
+      "example": "Dati affidabili sono essenziali per valutare l'equilibrio tra vita e lavoro."
+    },
+    {
+      "id": "it-everyday-c1-c2-062",
+      "word": "Dati affidabili sono essenziali per valutare la privacy digitale.",
+      "translation": "Reliable evidence is essential when evaluating digital privacy.",
+      "example": "Dati affidabili sono essenziali per valutare la privacy digitale."
+    },
+    {
+      "id": "it-everyday-c1-c2-063",
+      "word": "Dati affidabili sono essenziali per valutare l'accessibilità economica degli alloggi.",
+      "translation": "Reliable evidence is essential when evaluating housing affordability.",
+      "example": "Dati affidabili sono essenziali per valutare l'accessibilità economica degli alloggi."
+    },
+    {
+      "id": "it-everyday-c1-c2-064",
+      "word": "Dati affidabili sono essenziali per valutare la tutela dei consumatori.",
+      "translation": "Reliable evidence is essential when evaluating consumer protection.",
+      "example": "Dati affidabili sono essenziali per valutare la tutela dei consumatori."
+    },
+    {
+      "id": "it-everyday-c1-c2-065",
+      "word": "Dati affidabili sono essenziali per valutare la sanità pubblica.",
+      "translation": "Reliable evidence is essential when evaluating public health.",
+      "example": "Dati affidabili sono essenziali per valutare la sanità pubblica."
+    },
+    {
+      "id": "it-everyday-c1-c2-066",
+      "word": "Dati affidabili sono essenziali per valutare l'alfabetizzazione mediatica.",
+      "translation": "Reliable evidence is essential when evaluating media literacy.",
+      "example": "Dati affidabili sono essenziali per valutare l'alfabetizzazione mediatica."
+    },
+    {
+      "id": "it-everyday-c1-c2-067",
+      "word": "Dati affidabili sono essenziali per valutare la disuguaglianza sociale.",
+      "translation": "Reliable evidence is essential when evaluating social inequality.",
+      "example": "Dati affidabili sono essenziali per valutare la disuguaglianza sociale."
+    },
+    {
+      "id": "it-everyday-c1-c2-068",
+      "word": "Dati affidabili sono essenziali per valutare il cambiamento demografico.",
+      "translation": "Reliable evidence is essential when evaluating demographic change.",
+      "example": "Dati affidabili sono essenziali per valutare il cambiamento demografico."
+    },
+    {
+      "id": "it-everyday-c1-c2-069",
+      "word": "Dati affidabili sono essenziali per valutare la coesione della comunità.",
+      "translation": "Reliable evidence is essential when evaluating community cohesion.",
+      "example": "Dati affidabili sono essenziali per valutare la coesione della comunità."
+    },
+    {
+      "id": "it-everyday-c1-c2-070",
+      "word": "Dati affidabili sono essenziali per valutare il benessere personale.",
+      "translation": "Reliable evidence is essential when evaluating personal well-being.",
+      "example": "Dati affidabili sono essenziali per valutare il benessere personale."
+    },
+    {
+      "id": "it-everyday-c1-c2-071",
+      "word": "La discussione su l'equilibrio tra vita e lavoro solleva questioni etiche.",
+      "translation": "The discussion of work-life balance raises ethical questions.",
+      "example": "La discussione su l'equilibrio tra vita e lavoro solleva questioni etiche."
+    },
+    {
+      "id": "it-everyday-c1-c2-072",
+      "word": "La discussione su la privacy digitale solleva questioni etiche.",
+      "translation": "The discussion of digital privacy raises ethical questions.",
+      "example": "La discussione su la privacy digitale solleva questioni etiche."
+    },
+    {
+      "id": "it-everyday-c1-c2-073",
+      "word": "La discussione su l'accessibilità economica degli alloggi solleva questioni etiche.",
+      "translation": "The discussion of housing affordability raises ethical questions.",
+      "example": "La discussione su l'accessibilità economica degli alloggi solleva questioni etiche."
+    },
+    {
+      "id": "it-everyday-c1-c2-074",
+      "word": "La discussione su la tutela dei consumatori solleva questioni etiche.",
+      "translation": "The discussion of consumer protection raises ethical questions.",
+      "example": "La discussione su la tutela dei consumatori solleva questioni etiche."
+    },
+    {
+      "id": "it-everyday-c1-c2-075",
+      "word": "La discussione su la sanità pubblica solleva questioni etiche.",
+      "translation": "The discussion of public health raises ethical questions.",
+      "example": "La discussione su la sanità pubblica solleva questioni etiche."
+    },
+    {
+      "id": "it-everyday-c1-c2-076",
+      "word": "La discussione su l'alfabetizzazione mediatica solleva questioni etiche.",
+      "translation": "The discussion of media literacy raises ethical questions.",
+      "example": "La discussione su l'alfabetizzazione mediatica solleva questioni etiche."
+    },
+    {
+      "id": "it-everyday-c1-c2-077",
+      "word": "La discussione su la disuguaglianza sociale solleva questioni etiche.",
+      "translation": "The discussion of social inequality raises ethical questions.",
+      "example": "La discussione su la disuguaglianza sociale solleva questioni etiche."
+    },
+    {
+      "id": "it-everyday-c1-c2-078",
+      "word": "La discussione su il cambiamento demografico solleva questioni etiche.",
+      "translation": "The discussion of demographic change raises ethical questions.",
+      "example": "La discussione su il cambiamento demografico solleva questioni etiche."
+    },
+    {
+      "id": "it-everyday-c1-c2-079",
+      "word": "La discussione su la coesione della comunità solleva questioni etiche.",
+      "translation": "The discussion of community cohesion raises ethical questions.",
+      "example": "La discussione su la coesione della comunità solleva questioni etiche."
+    },
+    {
+      "id": "it-everyday-c1-c2-080",
+      "word": "La discussione su il benessere personale solleva questioni etiche.",
+      "translation": "The discussion of personal well-being raises ethical questions.",
+      "example": "La discussione su il benessere personale solleva questioni etiche."
+    },
+    {
+      "id": "it-everyday-c1-c2-081",
+      "word": "Una maggiore trasparenza potrebbe migliorare l'equilibrio tra vita e lavoro.",
+      "translation": "Greater transparency could improve work-life balance.",
+      "example": "Una maggiore trasparenza potrebbe migliorare l'equilibrio tra vita e lavoro."
+    },
+    {
+      "id": "it-everyday-c1-c2-082",
+      "word": "Una maggiore trasparenza potrebbe migliorare la privacy digitale.",
+      "translation": "Greater transparency could improve digital privacy.",
+      "example": "Una maggiore trasparenza potrebbe migliorare la privacy digitale."
+    },
+    {
+      "id": "it-everyday-c1-c2-083",
+      "word": "Una maggiore trasparenza potrebbe migliorare l'accessibilità economica degli alloggi.",
+      "translation": "Greater transparency could improve housing affordability.",
+      "example": "Una maggiore trasparenza potrebbe migliorare l'accessibilità economica degli alloggi."
+    },
+    {
+      "id": "it-everyday-c1-c2-084",
+      "word": "Una maggiore trasparenza potrebbe migliorare la tutela dei consumatori.",
+      "translation": "Greater transparency could improve consumer protection.",
+      "example": "Una maggiore trasparenza potrebbe migliorare la tutela dei consumatori."
+    },
+    {
+      "id": "it-everyday-c1-c2-085",
+      "word": "Una maggiore trasparenza potrebbe migliorare la sanità pubblica.",
+      "translation": "Greater transparency could improve public health.",
+      "example": "Una maggiore trasparenza potrebbe migliorare la sanità pubblica."
+    },
+    {
+      "id": "it-everyday-c1-c2-086",
+      "word": "Una maggiore trasparenza potrebbe migliorare l'alfabetizzazione mediatica.",
+      "translation": "Greater transparency could improve media literacy.",
+      "example": "Una maggiore trasparenza potrebbe migliorare l'alfabetizzazione mediatica."
+    },
+    {
+      "id": "it-everyday-c1-c2-087",
+      "word": "Una maggiore trasparenza potrebbe migliorare la disuguaglianza sociale.",
+      "translation": "Greater transparency could improve social inequality.",
+      "example": "Una maggiore trasparenza potrebbe migliorare la disuguaglianza sociale."
+    },
+    {
+      "id": "it-everyday-c1-c2-088",
+      "word": "Una maggiore trasparenza potrebbe migliorare il cambiamento demografico.",
+      "translation": "Greater transparency could improve demographic change.",
+      "example": "Una maggiore trasparenza potrebbe migliorare il cambiamento demografico."
+    },
+    {
+      "id": "it-everyday-c1-c2-089",
+      "word": "Una maggiore trasparenza potrebbe migliorare la coesione della comunità.",
+      "translation": "Greater transparency could improve community cohesion.",
+      "example": "Una maggiore trasparenza potrebbe migliorare la coesione della comunità."
+    },
+    {
+      "id": "it-everyday-c1-c2-090",
+      "word": "Una maggiore trasparenza potrebbe migliorare il benessere personale.",
+      "translation": "Greater transparency could improve personal well-being.",
+      "example": "Una maggiore trasparenza potrebbe migliorare il benessere personale."
+    },
+    {
+      "id": "it-everyday-c1-c2-091",
+      "word": "I confronti internazionali offrono indicazioni utili su l'equilibrio tra vita e lavoro.",
+      "translation": "International comparisons offer useful insights into work-life balance.",
+      "example": "I confronti internazionali offrono indicazioni utili su l'equilibrio tra vita e lavoro."
+    },
+    {
+      "id": "it-everyday-c1-c2-092",
+      "word": "I confronti internazionali offrono indicazioni utili su la privacy digitale.",
+      "translation": "International comparisons offer useful insights into digital privacy.",
+      "example": "I confronti internazionali offrono indicazioni utili su la privacy digitale."
+    },
+    {
+      "id": "it-everyday-c1-c2-093",
+      "word": "I confronti internazionali offrono indicazioni utili su l'accessibilità economica degli alloggi.",
+      "translation": "International comparisons offer useful insights into housing affordability.",
+      "example": "I confronti internazionali offrono indicazioni utili su l'accessibilità economica degli alloggi."
+    },
+    {
+      "id": "it-everyday-c1-c2-094",
+      "word": "I confronti internazionali offrono indicazioni utili su la tutela dei consumatori.",
+      "translation": "International comparisons offer useful insights into consumer protection.",
+      "example": "I confronti internazionali offrono indicazioni utili su la tutela dei consumatori."
+    },
+    {
+      "id": "it-everyday-c1-c2-095",
+      "word": "I confronti internazionali offrono indicazioni utili su la sanità pubblica.",
+      "translation": "International comparisons offer useful insights into public health.",
+      "example": "I confronti internazionali offrono indicazioni utili su la sanità pubblica."
+    },
+    {
+      "id": "it-everyday-c1-c2-096",
+      "word": "I confronti internazionali offrono indicazioni utili su l'alfabetizzazione mediatica.",
+      "translation": "International comparisons offer useful insights into media literacy.",
+      "example": "I confronti internazionali offrono indicazioni utili su l'alfabetizzazione mediatica."
+    },
+    {
+      "id": "it-everyday-c1-c2-097",
+      "word": "I confronti internazionali offrono indicazioni utili su la disuguaglianza sociale.",
+      "translation": "International comparisons offer useful insights into social inequality.",
+      "example": "I confronti internazionali offrono indicazioni utili su la disuguaglianza sociale."
+    },
+    {
+      "id": "it-everyday-c1-c2-098",
+      "word": "I confronti internazionali offrono indicazioni utili su il cambiamento demografico.",
+      "translation": "International comparisons offer useful insights into demographic change.",
+      "example": "I confronti internazionali offrono indicazioni utili su il cambiamento demografico."
+    },
+    {
+      "id": "it-everyday-c1-c2-099",
+      "word": "I confronti internazionali offrono indicazioni utili su la coesione della comunità.",
+      "translation": "International comparisons offer useful insights into community cohesion.",
+      "example": "I confronti internazionali offrono indicazioni utili su la coesione della comunità."
+    },
+    {
+      "id": "it-everyday-c1-c2-100",
+      "word": "I confronti internazionali offrono indicazioni utili su il benessere personale.",
+      "translation": "International comparisons offer useful insights into personal well-being.",
+      "example": "I confronti internazionali offrono indicazioni utili su il benessere personale."
+    }
+  ]
+}
