@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-shopping-c1-c2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "shopping",
+  "categoryTitle": "Shopping & Services",
+  "title": "Shopping & Services",
+  "level": "C1-C2",
+  "emoji": "🛍️",
+  "description": "Discuss consumer behaviour, retail systems, regulation, ethical trade, and the changing service economy.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-shopping-c1-c2-001",
+      "word": "a proteção do consumidor",
+      "translation": "consumer protection",
+      "example": "Investigações recentes questionaram ideias sobre a proteção do consumidor."
+    },
+    {
+      "id": "pt-shopping-c1-c2-002",
+      "word": "o consumo ético",
+      "translation": "ethical consumption",
+      "example": "Investigações recentes questionaram ideias sobre o consumo ético."
+    },
+    {
+      "id": "pt-shopping-c1-c2-003",
+      "word": "a formação dinâmica de preços",
+      "translation": "dynamic pricing",
+      "example": "Investigações recentes questionaram ideias sobre a formação dinâmica de preços."
+    },
+    {
+      "id": "pt-shopping-c1-c2-004",
+      "word": "a transparência da cadeia de abastecimento",
+      "translation": "supply-chain transparency",
+      "example": "Investigações recentes questionaram ideias sobre a transparência da cadeia de abastecimento."
+    },
+    {
+      "id": "pt-shopping-c1-c2-005",
+      "word": "a obsolescência programada",
+      "translation": "planned obsolescence",
+      "example": "Investigações recentes questionaram ideias sobre a obsolescência programada."
+    },
+    {
+      "id": "pt-shopping-c1-c2-006",
+      "word": "a economia de plataformas",
+      "translation": "the platform economy",
+      "example": "Investigações recentes questionaram ideias sobre a economia de plataformas."
+    },
+    {
+      "id": "pt-shopping-c1-c2-007",
+      "word": "a publicidade personalizada",
+      "translation": "personalised advertising",
+      "example": "Investigações recentes questionaram ideias sobre a publicidade personalizada."
+    },
+    {
+      "id": "pt-shopping-c1-c2-008",
+      "word": "o comércio independente",
+      "translation": "independent retail",
+      "example": "Investigações recentes questionaram ideias sobre o comércio independente."
+    },
+    {
+      "id": "pt-shopping-c1-c2-009",
+      "word": "a acessibilidade dos serviços",
+      "translation": "service accessibility",
+      "example": "Investigações recentes questionaram ideias sobre a acessibilidade dos serviços."
+    },
+    {
+      "id": "pt-shopping-c1-c2-010",
+      "word": "a confiança dos consumidores",
+      "translation": "consumer confidence",
+      "example": "Investigações recentes questionaram ideias sobre a confiança dos consumidores."
+    }
+  ]
+}

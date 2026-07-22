@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-home-a1-a2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "home",
+  "categoryTitle": "Home & Daily Life",
+  "title": "Home & Daily Life",
+  "level": "A1-A2",
+  "emoji": "🏠",
+  "description": "Talk about rooms, furniture, chores, appliances, and simple routines at home.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-home-a1-a2-001",
+      "word": "a cozinha",
+      "translation": "the kitchen",
+      "example": "Preciso de limpar a cozinha."
+    },
+    {
+      "id": "pt-home-a1-a2-002",
+      "word": "o quarto",
+      "translation": "the bedroom",
+      "example": "Preciso de limpar o quarto."
+    },
+    {
+      "id": "pt-home-a1-a2-003",
+      "word": "a sala de estar",
+      "translation": "the living room",
+      "example": "Preciso de limpar a sala de estar."
+    },
+    {
+      "id": "pt-home-a1-a2-004",
+      "word": "a casa de banho",
+      "translation": "the bathroom",
+      "example": "Preciso de limpar a casa de banho."
+    },
+    {
+      "id": "pt-home-a1-a2-005",
+      "word": "a mesa de jantar",
+      "translation": "the dining table",
+      "example": "Preciso de limpar a mesa de jantar."
+    },
+    {
+      "id": "pt-home-a1-a2-006",
+      "word": "a máquina de lavar roupa",
+      "translation": "the washing machine",
+      "example": "Preciso de limpar a máquina de lavar roupa."
+    },
+    {
+      "id": "pt-home-a1-a2-007",
+      "word": "a porta da frente",
+      "translation": "the front door",
+      "example": "Preciso de limpar a porta da frente."
+    },
+    {
+      "id": "pt-home-a1-a2-008",
+      "word": "o roupeiro",
+      "translation": "the clothes cupboard",
+      "example": "Preciso de limpar o roupeiro."
+    },
+    {
+      "id": "pt-home-a1-a2-009",
+      "word": "o lixo doméstico",
+      "translation": "the household rubbish",
+      "example": "Preciso de limpar o lixo doméstico."
+    },
+    {
+      "id": "pt-home-a1-a2-010",
+      "word": "a limpeza semanal",
+      "translation": "the weekly cleaning",
+      "example": "Preciso de limpar a limpeza semanal."
+    }
+  ]
+}

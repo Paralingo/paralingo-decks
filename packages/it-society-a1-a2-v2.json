@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-society-a1-a2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "society",
+  "categoryTitle": "Society & Culture",
+  "title": "Society & Culture",
+  "level": "A1-A2",
+  "emoji": "🏛️",
+  "description": "Talk about community, celebrations, customs, arts, and everyday cultural experiences.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-society-a1-a2-001",
+      "word": "la festa locale",
+      "translation": "the local festival",
+      "example": "Andiamo a la festa locale questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-002",
+      "word": "la festa nazionale",
+      "translation": "the national holiday",
+      "example": "Andiamo a la festa nazionale questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-003",
+      "word": "la danza tradizionale",
+      "translation": "the traditional dance",
+      "example": "Andiamo a la danza tradizionale questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-004",
+      "word": "la biblioteca pubblica",
+      "translation": "the public library",
+      "example": "Andiamo a la biblioteca pubblica questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-005",
+      "word": "il mercato di quartiere",
+      "translation": "the neighborhood market",
+      "example": "Andiamo a il mercato di quartiere questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-006",
+      "word": "il concerto musicale",
+      "translation": "the music concert",
+      "example": "Andiamo a il concerto musicale questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-007",
+      "word": "la mostra d'arte",
+      "translation": "the art exhibition",
+      "example": "Andiamo a la mostra d'arte questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-008",
+      "word": "il centro civico",
+      "translation": "the community center",
+      "example": "Andiamo a il centro civico questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-009",
+      "word": "la festa di famiglia",
+      "translation": "the family celebration",
+      "example": "Andiamo a la festa di famiglia questo fine settimana."
+    },
+    {
+      "id": "it-society-a1-a2-010",
+      "word": "la tradizione locale",
+      "translation": "the local tradition",
+      "example": "Andiamo a la tradizione locale questo fine settimana."
+    }
+  ]
+}

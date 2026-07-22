@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-home-b1-b2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "home",
+  "categoryTitle": "Home & Daily Life",
+  "title": "Home & Daily Life",
+  "level": "B1-B2",
+  "emoji": "🏠",
+  "description": "Handle renting, maintenance, bills, neighbours, household organisation, and practical problems.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-home-b1-b2-001",
+      "word": "il contratto di affitto",
+      "translation": "the rental agreement",
+      "example": "Dobbiamo discutere di il contratto di affitto."
+    },
+    {
+      "id": "it-home-b1-b2-002",
+      "word": "l'affitto mensile",
+      "translation": "the monthly rent",
+      "example": "Dobbiamo discutere di l'affitto mensile."
+    },
+    {
+      "id": "it-home-b1-b2-003",
+      "word": "la bolletta delle utenze",
+      "translation": "the utility bill",
+      "example": "Dobbiamo discutere di la bolletta delle utenze."
+    },
+    {
+      "id": "it-home-b1-b2-004",
+      "word": "il deposito cauzionale",
+      "translation": "the security deposit",
+      "example": "Dobbiamo discutere di il deposito cauzionale."
+    },
+    {
+      "id": "it-home-b1-b2-005",
+      "word": "l'amministratore dell'immobile",
+      "translation": "the property manager",
+      "example": "Dobbiamo discutere di l'amministratore dell'immobile."
+    },
+    {
+      "id": "it-home-b1-b2-006",
+      "word": "il tubo che perde",
+      "translation": "the leaking pipe",
+      "example": "Dobbiamo discutere di il tubo che perde."
+    },
+    {
+      "id": "it-home-b1-b2-007",
+      "word": "l'impianto di riscaldamento",
+      "translation": "the heating system",
+      "example": "Dobbiamo discutere di l'impianto di riscaldamento."
+    },
+    {
+      "id": "it-home-b1-b2-008",
+      "word": "l'ingresso comune",
+      "translation": "the shared entrance",
+      "example": "Dobbiamo discutere di l'ingresso comune."
+    },
+    {
+      "id": "it-home-b1-b2-009",
+      "word": "il reclamo per il rumore",
+      "translation": "the noise complaint",
+      "example": "Dobbiamo discutere di il reclamo per il rumore."
+    },
+    {
+      "id": "it-home-b1-b2-010",
+      "word": "il bilancio familiare",
+      "translation": "the household budget",
+      "example": "Dobbiamo discutere di il bilancio familiare."
+    }
+  ]
+}

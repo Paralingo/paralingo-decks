@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-everyday-c1-c2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "everyday",
+  "categoryTitle": "Everyday Essentials",
+  "title": "Everyday Essentials",
+  "level": "C1-C2",
+  "emoji": "🗓️",
+  "description": "Discuss modern life, public services, well-being, rights, and social change with precision.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-everyday-c1-c2-001",
+      "word": "l'equilibrio tra vita e lavoro",
+      "translation": "work-life balance",
+      "example": "Il dibattito pubblico su l'equilibrio tra vita e lavoro spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-002",
+      "word": "la privacy digitale",
+      "translation": "digital privacy",
+      "example": "Il dibattito pubblico su la privacy digitale spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-003",
+      "word": "l'accessibilità economica degli alloggi",
+      "translation": "housing affordability",
+      "example": "Il dibattito pubblico su l'accessibilità economica degli alloggi spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-004",
+      "word": "la tutela dei consumatori",
+      "translation": "consumer protection",
+      "example": "Il dibattito pubblico su la tutela dei consumatori spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-005",
+      "word": "la sanità pubblica",
+      "translation": "public health",
+      "example": "Il dibattito pubblico su la sanità pubblica spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-006",
+      "word": "l'alfabetizzazione mediatica",
+      "translation": "media literacy",
+      "example": "Il dibattito pubblico su l'alfabetizzazione mediatica spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-007",
+      "word": "la disuguaglianza sociale",
+      "translation": "social inequality",
+      "example": "Il dibattito pubblico su la disuguaglianza sociale spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-008",
+      "word": "il cambiamento demografico",
+      "translation": "demographic change",
+      "example": "Il dibattito pubblico su il cambiamento demografico spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-009",
+      "word": "la coesione della comunità",
+      "translation": "community cohesion",
+      "example": "Il dibattito pubblico su la coesione della comunità spesso manca di sfumature."
+    },
+    {
+      "id": "it-everyday-c1-c2-010",
+      "word": "il benessere personale",
+      "translation": "personal well-being",
+      "example": "Il dibattito pubblico su il benessere personale spesso manca di sfumature."
+    }
+  ]
+}

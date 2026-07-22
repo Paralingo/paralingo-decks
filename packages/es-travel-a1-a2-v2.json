@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-travel-a1-a2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "travel",
+  "categoryTitle": "Travel & Transport",
+  "title": "Travel & Transport",
+  "level": "A1-A2",
+  "emoji": "🧳",
+  "description": "Navigate common journeys, accommodation, and everyday travel situations.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-travel-a1-a2-001",
+      "word": "el aeropuerto",
+      "translation": "the airport",
+      "example": "¿Dónde está el aeropuerto?"
+    },
+    {
+      "id": "es-travel-a1-a2-002",
+      "word": "la estación de tren",
+      "translation": "the train station",
+      "example": "¿Dónde está la estación de tren?"
+    },
+    {
+      "id": "es-travel-a1-a2-003",
+      "word": "el centro de la ciudad",
+      "translation": "the city center",
+      "example": "¿Dónde está el centro de la ciudad?"
+    },
+    {
+      "id": "es-travel-a1-a2-004",
+      "word": "el casco antiguo",
+      "translation": "the old town",
+      "example": "¿Dónde está el casco antiguo?"
+    },
+    {
+      "id": "es-travel-a1-a2-005",
+      "word": "el hotel",
+      "translation": "the hotel",
+      "example": "¿Dónde está el hotel?"
+    },
+    {
+      "id": "es-travel-a1-a2-006",
+      "word": "el museo",
+      "translation": "the museum",
+      "example": "¿Dónde está el museo?"
+    },
+    {
+      "id": "es-travel-a1-a2-007",
+      "word": "la playa",
+      "translation": "the beach",
+      "example": "¿Dónde está la playa?"
+    },
+    {
+      "id": "es-travel-a1-a2-008",
+      "word": "el puerto",
+      "translation": "the port",
+      "example": "¿Dónde está el puerto?"
+    },
+    {
+      "id": "es-travel-a1-a2-009",
+      "word": "el mercado",
+      "translation": "the market",
+      "example": "¿Dónde está el mercado?"
+    },
+    {
+      "id": "es-travel-a1-a2-010",
+      "word": "la plaza principal",
+      "translation": "the main square",
+      "example": "¿Dónde está la plaza principal?"
+    }
+  ]
+}

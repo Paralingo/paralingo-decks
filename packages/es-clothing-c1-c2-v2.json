@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-clothing-c1-c2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "clothing",
+  "categoryTitle": "Appearance & Clothing",
+  "title": "Appearance & Clothing",
+  "level": "C1-C2",
+  "emoji": "👗",
+  "description": "Explore fashion history, identity, craftsmanship, sustainability, design, and the clothing industry.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-clothing-c1-c2-001",
+      "word": "la producción textil sostenible",
+      "translation": "sustainable textile production",
+      "example": "La exposición ofrece una perspectiva histórica sobre la producción textil sostenible."
+    },
+    {
+      "id": "es-clothing-c1-c2-002",
+      "word": "la artesanía tradicional",
+      "translation": "traditional craftsmanship",
+      "example": "La exposición ofrece una perspectiva histórica sobre la artesanía tradicional."
+    },
+    {
+      "id": "es-clothing-c1-c2-003",
+      "word": "la moda como expresión personal",
+      "translation": "fashion as self-expression",
+      "example": "La exposición ofrece una perspectiva histórica sobre la moda como expresión personal."
+    },
+    {
+      "id": "es-clothing-c1-c2-004",
+      "word": "la trazabilidad de las prendas",
+      "translation": "garment traceability",
+      "example": "La exposición ofrece una perspectiva histórica sobre la trazabilidad de las prendas."
+    },
+    {
+      "id": "es-clothing-c1-c2-005",
+      "word": "la moda circular",
+      "translation": "circular fashion",
+      "example": "La exposición ofrece una perspectiva histórica sobre la moda circular."
+    },
+    {
+      "id": "es-clothing-c1-c2-006",
+      "word": "las tradiciones culturales de vestimenta",
+      "translation": "cultural dress traditions",
+      "example": "La exposición ofrece una perspectiva histórica sobre las tradiciones culturales de vestimenta."
+    },
+    {
+      "id": "es-clothing-c1-c2-007",
+      "word": "la sastrería a medida",
+      "translation": "bespoke tailoring",
+      "example": "La exposición ofrece una perspectiva histórica sobre la sastrería a medida."
+    },
+    {
+      "id": "es-clothing-c1-c2-008",
+      "word": "la presentación visual",
+      "translation": "visual presentation",
+      "example": "La exposición ofrece una perspectiva histórica sobre la presentación visual."
+    },
+    {
+      "id": "es-clothing-c1-c2-009",
+      "word": "la innovación textil",
+      "translation": "textile innovation",
+      "example": "La exposición ofrece una perspectiva histórica sobre la innovación textil."
+    },
+    {
+      "id": "es-clothing-c1-c2-010",
+      "word": "la industria mundial de la moda",
+      "translation": "the global fashion industry",
+      "example": "La exposición ofrece una perspectiva histórica sobre la industria mundial de la moda."
+    }
+  ]
+}

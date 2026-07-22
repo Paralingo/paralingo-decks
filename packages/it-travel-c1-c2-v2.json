@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-travel-c1-c2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "travel",
+  "categoryTitle": "Travel & Transport",
+  "title": "Travel & Transport",
+  "level": "C1-C2",
+  "emoji": "🧳",
+  "description": "Discuss tourism policy, mobility, sustainability, and complex travel issues.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-travel-c1-c2-001",
+      "word": "il turismo sostenibile",
+      "translation": "sustainable tourism",
+      "example": "Le politiche pubbliche dovrebbero dare priorità a il turismo sostenibile."
+    },
+    {
+      "id": "it-travel-c1-c2-002",
+      "word": "il sovraffollamento turistico",
+      "translation": "overtourism",
+      "example": "Le politiche pubbliche dovrebbero dare priorità a il sovraffollamento turistico."
+    },
+    {
+      "id": "it-travel-c1-c2-003",
+      "word": "il patrimonio culturale",
+      "translation": "cultural heritage",
+      "example": "Le politiche pubbliche dovrebbero dare priorità a il patrimonio culturale."
+    },
+    {
+      "id": "it-travel-c1-c2-004",
+      "word": "la mobilità a basse emissioni",
+      "translation": "low-carbon mobility",
+      "example": "Le politiche pubbliche dovrebbero dare priorità a la mobilità a basse emissioni."
+    },
+    {
+      "id": "it-travel-c1-c2-005",
+      "word": "il turismo accessibile",
+      "translation": "accessible travel",
+      "example": "Le politiche pubbliche dovrebbero dare priorità a il turismo accessibile."
+    },
+    {
+      "id": "it-travel-c1-c2-006",
+      "word": "la gestione delle destinazioni",
+      "translation": "destination management",
+      "example": "Le politiche pubbliche dovrebbero dare priorità a la gestione delle destinazioni."
+    },
+    {
+      "id": "it-travel-c1-c2-007",
+      "word": "la capacità di accoglienza",
+      "translation": "visitor capacity",
+      "example": "Le politiche pubbliche dovrebbero dare priorità a la capacità di accoglienza."
+    },
+    {
+      "id": "it-travel-c1-c2-008",
+      "word": "le comunità locali",
+      "translation": "local communities",
+      "example": "Le politiche pubbliche dovrebbero dare priorità a le comunità locali."
+    },
+    {
+      "id": "it-travel-c1-c2-009",
+      "word": "l'infrastruttura dei trasporti",
+      "translation": "transport infrastructure",
+      "example": "Le politiche pubbliche dovrebbero dare priorità a l'infrastruttura dei trasporti."
+    },
+    {
+      "id": "it-travel-c1-c2-010",
+      "word": "l'aviazione responsabile",
+      "translation": "responsible aviation",
+      "example": "Le politiche pubbliche dovrebbero dare priorità a l'aviazione responsabile."
+    }
+  ]
+}

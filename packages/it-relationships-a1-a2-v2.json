@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-relationships-a1-a2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "relationships",
+  "categoryTitle": "Relationships & Emotions",
+  "title": "Relationships & Emotions",
+  "level": "A1-A2",
+  "emoji": "💞",
+  "description": "Describe feelings, friendships, family relationships, affection, and everyday emotional needs.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-relationships-a1-a2-001",
+      "word": "felice",
+      "translation": "happy",
+      "example": "Oggi mi sento felice."
+    },
+    {
+      "id": "it-relationships-a1-a2-002",
+      "word": "triste",
+      "translation": "sad",
+      "example": "Oggi mi sento triste."
+    },
+    {
+      "id": "it-relationships-a1-a2-003",
+      "word": "preoccupato",
+      "translation": "worried",
+      "example": "Oggi mi sento preoccupato."
+    },
+    {
+      "id": "it-relationships-a1-a2-004",
+      "word": "entusiasta",
+      "translation": "excited",
+      "example": "Oggi mi sento entusiasta."
+    },
+    {
+      "id": "it-relationships-a1-a2-005",
+      "word": "stanco",
+      "translation": "tired",
+      "example": "Oggi mi sento stanco."
+    },
+    {
+      "id": "it-relationships-a1-a2-006",
+      "word": "arrabbiato",
+      "translation": "angry",
+      "example": "Oggi mi sento arrabbiato."
+    },
+    {
+      "id": "it-relationships-a1-a2-007",
+      "word": "tranquillo",
+      "translation": "calm",
+      "example": "Oggi mi sento tranquillo."
+    },
+    {
+      "id": "it-relationships-a1-a2-008",
+      "word": "solo",
+      "translation": "lonely",
+      "example": "Oggi mi sento solo."
+    },
+    {
+      "id": "it-relationships-a1-a2-009",
+      "word": "grato",
+      "translation": "grateful",
+      "example": "Oggi mi sento grato."
+    },
+    {
+      "id": "it-relationships-a1-a2-010",
+      "word": "orgoglioso",
+      "translation": "proud",
+      "example": "Oggi mi sento orgoglioso."
+    }
+  ]
+}

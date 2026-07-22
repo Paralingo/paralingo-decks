@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-relationships-c1-c2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "relationships",
+  "categoryTitle": "Relationships & Emotions",
+  "title": "Relationships & Emotions",
+  "level": "C1-C2",
+  "emoji": "💞",
+  "description": "Explore emotional nuance, attachment, vulnerability, identity, and complex interpersonal dynamics.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-relationships-c1-c2-001",
+      "word": "la vulnerabilidad emocional",
+      "translation": "emotional vulnerability",
+      "example": "Un debate matizado sobre la vulnerabilidad emocional requiere empatía."
+    },
+    {
+      "id": "es-relationships-c1-c2-002",
+      "word": "los patrones de apego",
+      "translation": "attachment patterns",
+      "example": "Un debate matizado sobre los patrones de apego requiere empatía."
+    },
+    {
+      "id": "es-relationships-c1-c2-003",
+      "word": "el resentimiento no expresado",
+      "translation": "unspoken resentment",
+      "example": "Un debate matizado sobre el resentimiento no expresado requiere empatía."
+    },
+    {
+      "id": "es-relationships-c1-c2-004",
+      "word": "la dependencia mutua",
+      "translation": "mutual dependence",
+      "example": "Un debate matizado sobre la dependencia mutua requiere empatía."
+    },
+    {
+      "id": "es-relationships-c1-c2-005",
+      "word": "la carga emocional desigual",
+      "translation": "unequal emotional labor",
+      "example": "Un debate matizado sobre la carga emocional desigual requiere empatía."
+    },
+    {
+      "id": "es-relationships-c1-c2-006",
+      "word": "las necesidades contrapuestas",
+      "translation": "conflicting needs",
+      "example": "Un debate matizado sobre las necesidades contrapuestas requiere empatía."
+    },
+    {
+      "id": "es-relationships-c1-c2-007",
+      "word": "el miedo al rechazo",
+      "translation": "fear of rejection",
+      "example": "Un debate matizado sobre el miedo al rechazo requiere empatía."
+    },
+    {
+      "id": "es-relationships-c1-c2-008",
+      "word": "la ambigüedad interpersonal",
+      "translation": "interpersonal ambiguity",
+      "example": "Un debate matizado sobre la ambigüedad interpersonal requiere empatía."
+    },
+    {
+      "id": "es-relationships-c1-c2-009",
+      "word": "la autoconciencia emocional",
+      "translation": "emotional self-awareness",
+      "example": "Un debate matizado sobre la autoconciencia emocional requiere empatía."
+    },
+    {
+      "id": "es-relationships-c1-c2-010",
+      "word": "el equilibrio entre intimidad y autonomía",
+      "translation": "the balance between intimacy and autonomy",
+      "example": "Un debate matizado sobre el equilibrio entre intimidad y autonomía requiere empatía."
+    }
+  ]
+}

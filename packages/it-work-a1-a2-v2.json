@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-work-a1-a2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "work",
+  "categoryTitle": "Work & Careers",
+  "title": "Work & Careers",
+  "level": "A1-A2",
+  "emoji": "💼",
+  "description": "Talk about jobs, workplaces, schedules, colleagues, everyday duties, and basic career plans.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-work-a1-a2-001",
+      "word": "il nuovo lavoro",
+      "translation": "the new job",
+      "example": "Oggi inizio il nuovo lavoro."
+    },
+    {
+      "id": "it-work-a1-a2-002",
+      "word": "il responsabile dell'ufficio",
+      "translation": "the office manager",
+      "example": "Oggi inizio il responsabile dell'ufficio."
+    },
+    {
+      "id": "it-work-a1-a2-003",
+      "word": "il turno del mattino",
+      "translation": "the morning shift",
+      "example": "Oggi inizio il turno del mattino."
+    },
+    {
+      "id": "it-work-a1-a2-004",
+      "word": "la pausa pranzo",
+      "translation": "the lunch break",
+      "example": "Oggi inizio la pausa pranzo."
+    },
+    {
+      "id": "it-work-a1-a2-005",
+      "word": "l'orario settimanale",
+      "translation": "the weekly schedule",
+      "example": "Oggi inizio l'orario settimanale."
+    },
+    {
+      "id": "it-work-a1-a2-006",
+      "word": "il collega gentile",
+      "translation": "the friendly colleague",
+      "example": "Oggi inizio il collega gentile."
+    },
+    {
+      "id": "it-work-a1-a2-007",
+      "word": "la riunione del personale",
+      "translation": "the staff meeting",
+      "example": "Oggi inizio la riunione del personale."
+    },
+    {
+      "id": "it-work-a1-a2-008",
+      "word": "l'uniforme da lavoro",
+      "translation": "the work uniform",
+      "example": "Oggi inizio l'uniforme da lavoro."
+    },
+    {
+      "id": "it-work-a1-a2-009",
+      "word": "il posto part-time",
+      "translation": "the part-time position",
+      "example": "Oggi inizio il posto part-time."
+    },
+    {
+      "id": "it-work-a1-a2-010",
+      "word": "il compito quotidiano",
+      "translation": "the daily task",
+      "example": "Oggi inizio il compito quotidiano."
+    }
+  ]
+}

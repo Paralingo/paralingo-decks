@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-relationships-b1-b2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "relationships",
+  "categoryTitle": "Relationships & Emotions",
+  "title": "Relationships & Emotions",
+  "level": "B1-B2",
+  "emoji": "💞",
+  "description": "Communicate needs, set boundaries, repair trust, and handle conflict with empathy.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-relationships-b1-b2-001",
+      "word": "i miei limiti",
+      "translation": "my boundaries",
+      "example": "Voglio essere sincero riguardo a i miei limiti."
+    },
+    {
+      "id": "it-relationships-b1-b2-002",
+      "word": "i tuoi sentimenti",
+      "translation": "your feelings",
+      "example": "Voglio essere sincero riguardo a i tuoi sentimenti."
+    },
+    {
+      "id": "it-relationships-b1-b2-003",
+      "word": "il disaccordo",
+      "translation": "the disagreement",
+      "example": "Voglio essere sincero riguardo a il disaccordo."
+    },
+    {
+      "id": "it-relationships-b1-b2-004",
+      "word": "la nostra amicizia",
+      "translation": "our friendship",
+      "example": "Voglio essere sincero riguardo a la nostra amicizia."
+    },
+    {
+      "id": "it-relationships-b1-b2-005",
+      "word": "la promessa non mantenuta",
+      "translation": "the broken promise",
+      "example": "Voglio essere sincero riguardo a la promessa non mantenuta."
+    },
+    {
+      "id": "it-relationships-b1-b2-006",
+      "word": "la mancanza di fiducia",
+      "translation": "the lack of trust",
+      "example": "Voglio essere sincero riguardo a la mancanza di fiducia."
+    },
+    {
+      "id": "it-relationships-b1-b2-007",
+      "word": "il malinteso",
+      "translation": "the misunderstanding",
+      "example": "Voglio essere sincero riguardo a il malinteso."
+    },
+    {
+      "id": "it-relationships-b1-b2-008",
+      "word": "il mio bisogno di spazio",
+      "translation": "my need for space",
+      "example": "Voglio essere sincero riguardo a il mio bisogno di spazio."
+    },
+    {
+      "id": "it-relationships-b1-b2-009",
+      "word": "le scuse",
+      "translation": "the apology",
+      "example": "Voglio essere sincero riguardo a le scuse."
+    },
+    {
+      "id": "it-relationships-b1-b2-010",
+      "word": "le nostre aspettative",
+      "translation": "our expectations",
+      "example": "Voglio essere sincero riguardo a le nostre aspettative."
+    }
+  ]
+}

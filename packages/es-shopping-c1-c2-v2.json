@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-shopping-c1-c2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "shopping",
+  "categoryTitle": "Shopping & Services",
+  "title": "Shopping & Services",
+  "level": "C1-C2",
+  "emoji": "🛍️",
+  "description": "Discuss consumer behaviour, retail systems, regulation, ethical trade, and the changing service economy.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-shopping-c1-c2-001",
+      "word": "la protección del consumidor",
+      "translation": "consumer protection",
+      "example": "Investigaciones recientes han cuestionado ideas sobre la protección del consumidor."
+    },
+    {
+      "id": "es-shopping-c1-c2-002",
+      "word": "el consumo ético",
+      "translation": "ethical consumption",
+      "example": "Investigaciones recientes han cuestionado ideas sobre el consumo ético."
+    },
+    {
+      "id": "es-shopping-c1-c2-003",
+      "word": "la fijación dinámica de precios",
+      "translation": "dynamic pricing",
+      "example": "Investigaciones recientes han cuestionado ideas sobre la fijación dinámica de precios."
+    },
+    {
+      "id": "es-shopping-c1-c2-004",
+      "word": "la transparencia de la cadena de suministro",
+      "translation": "supply-chain transparency",
+      "example": "Investigaciones recientes han cuestionado ideas sobre la transparencia de la cadena de suministro."
+    },
+    {
+      "id": "es-shopping-c1-c2-005",
+      "word": "la obsolescencia programada",
+      "translation": "planned obsolescence",
+      "example": "Investigaciones recientes han cuestionado ideas sobre la obsolescencia programada."
+    },
+    {
+      "id": "es-shopping-c1-c2-006",
+      "word": "la economía de plataformas",
+      "translation": "the platform economy",
+      "example": "Investigaciones recientes han cuestionado ideas sobre la economía de plataformas."
+    },
+    {
+      "id": "es-shopping-c1-c2-007",
+      "word": "la publicidad personalizada",
+      "translation": "personalised advertising",
+      "example": "Investigaciones recientes han cuestionado ideas sobre la publicidad personalizada."
+    },
+    {
+      "id": "es-shopping-c1-c2-008",
+      "word": "el comercio independiente",
+      "translation": "independent retail",
+      "example": "Investigaciones recientes han cuestionado ideas sobre el comercio independiente."
+    },
+    {
+      "id": "es-shopping-c1-c2-009",
+      "word": "la accesibilidad de los servicios",
+      "translation": "service accessibility",
+      "example": "Investigaciones recientes han cuestionado ideas sobre la accesibilidad de los servicios."
+    },
+    {
+      "id": "es-shopping-c1-c2-010",
+      "word": "la confianza del consumidor",
+      "translation": "consumer confidence",
+      "example": "Investigaciones recientes han cuestionado ideas sobre la confianza del consumidor."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-conversation-b1-b2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "conversation",
+  "categoryTitle": "Social & Conversation",
+  "title": "Social & Conversation",
+  "level": "B1-B2",
+  "emoji": "💬",
+  "description": "Express opinions, tell stories, give advice, disagree tactfully, and resolve misunderstandings.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-conversation-b1-b2-001",
+      "word": "la situazione",
+      "translation": "the situation",
+      "example": "Lasciami spiegare la situazione più chiaramente."
+    },
+    {
+      "id": "it-conversation-b1-b2-002",
+      "word": "quello che è successo",
+      "translation": "what happened",
+      "example": "Lasciami spiegare quello che è successo più chiaramente."
+    },
+    {
+      "id": "it-conversation-b1-b2-003",
+      "word": "il tuo punto di vista",
+      "translation": "your point of view",
+      "example": "Lasciami spiegare il tuo punto di vista più chiaramente."
+    },
+    {
+      "id": "it-conversation-b1-b2-004",
+      "word": "il malinteso",
+      "translation": "the misunderstanding",
+      "example": "Lasciami spiegare il malinteso più chiaramente."
+    },
+    {
+      "id": "it-conversation-b1-b2-005",
+      "word": "la decisione",
+      "translation": "the decision",
+      "example": "Lasciami spiegare la decisione più chiaramente."
+    },
+    {
+      "id": "it-conversation-b1-b2-006",
+      "word": "il problema",
+      "translation": "the problem",
+      "example": "Lasciami spiegare il problema più chiaramente."
+    },
+    {
+      "id": "it-conversation-b1-b2-007",
+      "word": "il consiglio",
+      "translation": "the advice",
+      "example": "Lasciami spiegare il consiglio più chiaramente."
+    },
+    {
+      "id": "it-conversation-b1-b2-008",
+      "word": "il cambio di programma",
+      "translation": "the change of plan",
+      "example": "Lasciami spiegare il cambio di programma più chiaramente."
+    },
+    {
+      "id": "it-conversation-b1-b2-009",
+      "word": "la conversazione",
+      "translation": "the conversation",
+      "example": "Lasciami spiegare la conversazione più chiaramente."
+    },
+    {
+      "id": "it-conversation-b1-b2-010",
+      "word": "la possibile soluzione",
+      "translation": "the possible solution",
+      "example": "Lasciami spiegare la possibile soluzione più chiaramente."
+    }
+  ]
+}

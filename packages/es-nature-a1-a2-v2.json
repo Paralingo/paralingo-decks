@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-nature-a1-a2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "nature",
+  "categoryTitle": "Nature & Environment",
+  "title": "Nature & Environment",
+  "level": "A1-A2",
+  "emoji": "🌿",
+  "description": "Explore landscapes, plants, animals, weather, and simple outdoor experiences.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-nature-a1-a2-001",
+      "word": "el bosque",
+      "translation": "the forest",
+      "example": "Estamos caminando por el bosque."
+    },
+    {
+      "id": "es-nature-a1-a2-002",
+      "word": "la montaña",
+      "translation": "the mountain",
+      "example": "Estamos caminando por la montaña."
+    },
+    {
+      "id": "es-nature-a1-a2-003",
+      "word": "el río",
+      "translation": "the river",
+      "example": "Estamos caminando por el río."
+    },
+    {
+      "id": "es-nature-a1-a2-004",
+      "word": "el lago",
+      "translation": "the lake",
+      "example": "Estamos caminando por el lago."
+    },
+    {
+      "id": "es-nature-a1-a2-005",
+      "word": "el océano",
+      "translation": "the ocean",
+      "example": "Estamos caminando por el océano."
+    },
+    {
+      "id": "es-nature-a1-a2-006",
+      "word": "el campo",
+      "translation": "the countryside",
+      "example": "Estamos caminando por el campo."
+    },
+    {
+      "id": "es-nature-a1-a2-007",
+      "word": "el jardín",
+      "translation": "the garden",
+      "example": "Estamos caminando por el jardín."
+    },
+    {
+      "id": "es-nature-a1-a2-008",
+      "word": "la cascada",
+      "translation": "the waterfall",
+      "example": "Estamos caminando por la cascada."
+    },
+    {
+      "id": "es-nature-a1-a2-009",
+      "word": "la isla",
+      "translation": "the island",
+      "example": "Estamos caminando por la isla."
+    },
+    {
+      "id": "es-nature-a1-a2-010",
+      "word": "el valle",
+      "translation": "the valley",
+      "example": "Estamos caminando por el valle."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-home-a1-a2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "home",
+  "categoryTitle": "Home & Daily Life",
+  "title": "Home & Daily Life",
+  "level": "A1-A2",
+  "emoji": "🏠",
+  "description": "Talk about rooms, furniture, chores, appliances, and simple routines at home.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-home-a1-a2-001",
+      "word": "la cocina",
+      "translation": "the kitchen",
+      "example": "Necesito limpiar la cocina."
+    },
+    {
+      "id": "es-home-a1-a2-002",
+      "word": "el dormitorio",
+      "translation": "the bedroom",
+      "example": "Necesito limpiar el dormitorio."
+    },
+    {
+      "id": "es-home-a1-a2-003",
+      "word": "el salón",
+      "translation": "the living room",
+      "example": "Necesito limpiar el salón."
+    },
+    {
+      "id": "es-home-a1-a2-004",
+      "word": "el baño",
+      "translation": "the bathroom",
+      "example": "Necesito limpiar el baño."
+    },
+    {
+      "id": "es-home-a1-a2-005",
+      "word": "la mesa de comedor",
+      "translation": "the dining table",
+      "example": "Necesito limpiar la mesa de comedor."
+    },
+    {
+      "id": "es-home-a1-a2-006",
+      "word": "la lavadora",
+      "translation": "the washing machine",
+      "example": "Necesito limpiar la lavadora."
+    },
+    {
+      "id": "es-home-a1-a2-007",
+      "word": "la puerta principal",
+      "translation": "the front door",
+      "example": "Necesito limpiar la puerta principal."
+    },
+    {
+      "id": "es-home-a1-a2-008",
+      "word": "el armario de ropa",
+      "translation": "the clothes cupboard",
+      "example": "Necesito limpiar el armario de ropa."
+    },
+    {
+      "id": "es-home-a1-a2-009",
+      "word": "la basura doméstica",
+      "translation": "the household rubbish",
+      "example": "Necesito limpiar la basura doméstica."
+    },
+    {
+      "id": "es-home-a1-a2-010",
+      "word": "la limpieza semanal",
+      "translation": "the weekly cleaning",
+      "example": "Necesito limpiar la limpieza semanal."
+    }
+  ]
+}

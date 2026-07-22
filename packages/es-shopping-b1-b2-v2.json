@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-shopping-b1-b2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "shopping",
+  "categoryTitle": "Shopping & Services",
+  "title": "Shopping & Services",
+  "level": "B1-B2",
+  "emoji": "🛍️",
+  "description": "Handle returns, deliveries, subscriptions, appointments, repairs, and customer-service problems.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-shopping-b1-b2-001",
+      "word": "la política de devoluciones",
+      "translation": "the return policy",
+      "example": "Quisiera aclarar la política de devoluciones."
+    },
+    {
+      "id": "es-shopping-b1-b2-002",
+      "word": "el producto defectuoso",
+      "translation": "the faulty product",
+      "example": "Quisiera aclarar el producto defectuoso."
+    },
+    {
+      "id": "es-shopping-b1-b2-003",
+      "word": "el retraso de la entrega",
+      "translation": "the delivery delay",
+      "example": "Quisiera aclarar el retraso de la entrega."
+    },
+    {
+      "id": "es-shopping-b1-b2-004",
+      "word": "el período de garantía",
+      "translation": "the warranty period",
+      "example": "Quisiera aclarar el período de garantía."
+    },
+    {
+      "id": "es-shopping-b1-b2-005",
+      "word": "el mostrador de atención al cliente",
+      "translation": "the customer-service desk",
+      "example": "Quisiera aclarar el mostrador de atención al cliente."
+    },
+    {
+      "id": "es-shopping-b1-b2-006",
+      "word": "el presupuesto de reparación",
+      "translation": "the repair estimate",
+      "example": "Quisiera aclarar el presupuesto de reparación."
+    },
+    {
+      "id": "es-shopping-b1-b2-007",
+      "word": "la renovación automática",
+      "translation": "the automatic renewal",
+      "example": "Quisiera aclarar la renovación automática."
+    },
+    {
+      "id": "es-shopping-b1-b2-008",
+      "word": "la cita de servicio",
+      "translation": "the service appointment",
+      "example": "Quisiera aclarar la cita de servicio."
+    },
+    {
+      "id": "es-shopping-b1-b2-009",
+      "word": "la dirección de entrega",
+      "translation": "the delivery address",
+      "example": "Quisiera aclarar la dirección de entrega."
+    },
+    {
+      "id": "es-shopping-b1-b2-010",
+      "word": "la solicitud de reembolso",
+      "translation": "the refund request",
+      "example": "Quisiera aclarar la solicitud de reembolso."
+    }
+  ]
+}

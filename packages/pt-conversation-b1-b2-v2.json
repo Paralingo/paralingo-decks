@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-conversation-b1-b2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "conversation",
+  "categoryTitle": "Social & Conversation",
+  "title": "Social & Conversation",
+  "level": "B1-B2",
+  "emoji": "💬",
+  "description": "Express opinions, tell stories, give advice, disagree tactfully, and resolve misunderstandings.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-conversation-b1-b2-001",
+      "word": "a situação",
+      "translation": "the situation",
+      "example": "Deixa-me explicar a situação com mais clareza."
+    },
+    {
+      "id": "pt-conversation-b1-b2-002",
+      "word": "o que aconteceu",
+      "translation": "what happened",
+      "example": "Deixa-me explicar o que aconteceu com mais clareza."
+    },
+    {
+      "id": "pt-conversation-b1-b2-003",
+      "word": "o teu ponto de vista",
+      "translation": "your point of view",
+      "example": "Deixa-me explicar o teu ponto de vista com mais clareza."
+    },
+    {
+      "id": "pt-conversation-b1-b2-004",
+      "word": "o mal-entendido",
+      "translation": "the misunderstanding",
+      "example": "Deixa-me explicar o mal-entendido com mais clareza."
+    },
+    {
+      "id": "pt-conversation-b1-b2-005",
+      "word": "a decisão",
+      "translation": "the decision",
+      "example": "Deixa-me explicar a decisão com mais clareza."
+    },
+    {
+      "id": "pt-conversation-b1-b2-006",
+      "word": "o problema",
+      "translation": "the problem",
+      "example": "Deixa-me explicar o problema com mais clareza."
+    },
+    {
+      "id": "pt-conversation-b1-b2-007",
+      "word": "o conselho",
+      "translation": "the advice",
+      "example": "Deixa-me explicar o conselho com mais clareza."
+    },
+    {
+      "id": "pt-conversation-b1-b2-008",
+      "word": "a mudança de planos",
+      "translation": "the change of plan",
+      "example": "Deixa-me explicar a mudança de planos com mais clareza."
+    },
+    {
+      "id": "pt-conversation-b1-b2-009",
+      "word": "a conversa",
+      "translation": "the conversation",
+      "example": "Deixa-me explicar a conversa com mais clareza."
+    },
+    {
+      "id": "pt-conversation-b1-b2-010",
+      "word": "a possível solução",
+      "translation": "the possible solution",
+      "example": "Deixa-me explicar a possível solução com mais clareza."
+    }
+  ]
+}

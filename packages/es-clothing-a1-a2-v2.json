@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-clothing-a1-a2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "clothing",
+  "categoryTitle": "Appearance & Clothing",
+  "title": "Appearance & Clothing",
+  "level": "A1-A2",
+  "emoji": "👗",
+  "description": "Describe clothes, colours, physical features, sizes, and simple personal style.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-clothing-a1-a2-001",
+      "word": "la chaqueta negra",
+      "translation": "the black jacket",
+      "example": "Hoy llevo la chaqueta negra."
+    },
+    {
+      "id": "es-clothing-a1-a2-002",
+      "word": "los zapatos cómodos",
+      "translation": "the comfortable shoes",
+      "example": "Hoy llevo los zapatos cómodos."
+    },
+    {
+      "id": "es-clothing-a1-a2-003",
+      "word": "la camisa de rayas",
+      "translation": "the striped shirt",
+      "example": "Hoy llevo la camisa de rayas."
+    },
+    {
+      "id": "es-clothing-a1-a2-004",
+      "word": "el pelo largo",
+      "translation": "the long hair",
+      "example": "Hoy llevo el pelo largo."
+    },
+    {
+      "id": "es-clothing-a1-a2-005",
+      "word": "los ojos marrones",
+      "translation": "the brown eyes",
+      "example": "Hoy llevo los ojos marrones."
+    },
+    {
+      "id": "es-clothing-a1-a2-006",
+      "word": "el jersey abrigado",
+      "translation": "the warm sweater",
+      "example": "Hoy llevo el jersey abrigado."
+    },
+    {
+      "id": "es-clothing-a1-a2-007",
+      "word": "el vestido de verano",
+      "translation": "the summer dress",
+      "example": "Hoy llevo el vestido de verano."
+    },
+    {
+      "id": "es-clothing-a1-a2-008",
+      "word": "la talla correcta",
+      "translation": "the right size",
+      "example": "Hoy llevo la talla correcta."
+    },
+    {
+      "id": "es-clothing-a1-a2-009",
+      "word": "el collar plateado",
+      "translation": "the silver necklace",
+      "example": "Hoy llevo el collar plateado."
+    },
+    {
+      "id": "es-clothing-a1-a2-010",
+      "word": "el corte de pelo corto",
+      "translation": "the short haircut",
+      "example": "Hoy llevo el corte de pelo corto."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-health-a1-a2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "health",
+  "categoryTitle": "Body & Health",
+  "title": "Body & Health",
+  "level": "A1-A2",
+  "emoji": "🩺",
+  "description": "Learn body parts, describe pain and common symptoms, and ask for basic medical help.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-health-a1-a2-001",
+      "word": "la cabeza",
+      "translation": "head",
+      "example": "Me duele la cabeza."
+    },
+    {
+      "id": "es-health-a1-a2-002",
+      "word": "la garganta",
+      "translation": "throat",
+      "example": "Me duele la garganta."
+    },
+    {
+      "id": "es-health-a1-a2-003",
+      "word": "el estómago",
+      "translation": "stomach",
+      "example": "Me duele el estómago."
+    },
+    {
+      "id": "es-health-a1-a2-004",
+      "word": "la espalda",
+      "translation": "back",
+      "example": "Me duele la espalda."
+    },
+    {
+      "id": "es-health-a1-a2-005",
+      "word": "el cuello",
+      "translation": "neck",
+      "example": "Me duele el cuello."
+    },
+    {
+      "id": "es-health-a1-a2-006",
+      "word": "la rodilla",
+      "translation": "knee",
+      "example": "Me duele la rodilla."
+    },
+    {
+      "id": "es-health-a1-a2-007",
+      "word": "el brazo",
+      "translation": "arm",
+      "example": "Me duele el brazo."
+    },
+    {
+      "id": "es-health-a1-a2-008",
+      "word": "la pierna",
+      "translation": "leg",
+      "example": "Me duele la pierna."
+    },
+    {
+      "id": "es-health-a1-a2-009",
+      "word": "la mano",
+      "translation": "hand",
+      "example": "Me duele la mano."
+    },
+    {
+      "id": "es-health-a1-a2-010",
+      "word": "el pie",
+      "translation": "foot",
+      "example": "Me duele el pie."
+    }
+  ]
+}

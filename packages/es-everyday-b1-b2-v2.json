@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-everyday-b1-b2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "everyday",
+  "categoryTitle": "Everyday Essentials",
+  "title": "Everyday Essentials",
+  "level": "B1-B2",
+  "emoji": "🗓️",
+  "description": "Manage schedules, household responsibilities, services, relationships, and common problems.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-everyday-b1-b2-001",
+      "word": "una cita médica",
+      "translation": "a medical appointment",
+      "example": "Necesito organizar una cita médica."
+    },
+    {
+      "id": "es-everyday-b1-b2-002",
+      "word": "una reparación doméstica",
+      "translation": "a household repair",
+      "example": "Necesito organizar una reparación doméstica."
+    },
+    {
+      "id": "es-everyday-b1-b2-003",
+      "word": "un contrato de alquiler",
+      "translation": "a rental agreement",
+      "example": "Necesito organizar un contrato de alquiler."
+    },
+    {
+      "id": "es-everyday-b1-b2-004",
+      "word": "una factura de suministros",
+      "translation": "a utility bill",
+      "example": "Necesito organizar una factura de suministros."
+    },
+    {
+      "id": "es-everyday-b1-b2-005",
+      "word": "un plazo laboral",
+      "translation": "a work deadline",
+      "example": "Necesito organizar un plazo laboral."
+    },
+    {
+      "id": "es-everyday-b1-b2-006",
+      "word": "un compromiso familiar",
+      "translation": "a family commitment",
+      "example": "Necesito organizar un compromiso familiar."
+    },
+    {
+      "id": "es-everyday-b1-b2-007",
+      "word": "un problema bancario",
+      "translation": "a banking issue",
+      "example": "Necesito organizar un problema bancario."
+    },
+    {
+      "id": "es-everyday-b1-b2-008",
+      "word": "una entrega",
+      "translation": "a delivery",
+      "example": "Necesito organizar una entrega."
+    },
+    {
+      "id": "es-everyday-b1-b2-009",
+      "word": "un cambio de planes",
+      "translation": "a change of plans",
+      "example": "Necesito organizar un cambio de planes."
+    },
+    {
+      "id": "es-everyday-b1-b2-010",
+      "word": "una conversación difícil",
+      "translation": "a difficult conversation",
+      "example": "Necesito organizar una conversación difícil."
+    }
+  ]
+}

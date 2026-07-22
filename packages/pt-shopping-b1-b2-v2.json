@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-shopping-b1-b2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "shopping",
+  "categoryTitle": "Shopping & Services",
+  "title": "Shopping & Services",
+  "level": "B1-B2",
+  "emoji": "🛍️",
+  "description": "Handle returns, deliveries, subscriptions, appointments, repairs, and customer-service problems.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-shopping-b1-b2-001",
+      "word": "a política de devoluções",
+      "translation": "the return policy",
+      "example": "Gostaria de esclarecer a política de devoluções."
+    },
+    {
+      "id": "pt-shopping-b1-b2-002",
+      "word": "o produto defeituoso",
+      "translation": "the faulty product",
+      "example": "Gostaria de esclarecer o produto defeituoso."
+    },
+    {
+      "id": "pt-shopping-b1-b2-003",
+      "word": "o atraso na entrega",
+      "translation": "the delivery delay",
+      "example": "Gostaria de esclarecer o atraso na entrega."
+    },
+    {
+      "id": "pt-shopping-b1-b2-004",
+      "word": "o período de garantia",
+      "translation": "the warranty period",
+      "example": "Gostaria de esclarecer o período de garantia."
+    },
+    {
+      "id": "pt-shopping-b1-b2-005",
+      "word": "o balcão de atendimento ao cliente",
+      "translation": "the customer-service desk",
+      "example": "Gostaria de esclarecer o balcão de atendimento ao cliente."
+    },
+    {
+      "id": "pt-shopping-b1-b2-006",
+      "word": "o orçamento da reparação",
+      "translation": "the repair estimate",
+      "example": "Gostaria de esclarecer o orçamento da reparação."
+    },
+    {
+      "id": "pt-shopping-b1-b2-007",
+      "word": "a renovação automática",
+      "translation": "the automatic renewal",
+      "example": "Gostaria de esclarecer a renovação automática."
+    },
+    {
+      "id": "pt-shopping-b1-b2-008",
+      "word": "a marcação do serviço",
+      "translation": "the service appointment",
+      "example": "Gostaria de esclarecer a marcação do serviço."
+    },
+    {
+      "id": "pt-shopping-b1-b2-009",
+      "word": "a morada de entrega",
+      "translation": "the delivery address",
+      "example": "Gostaria de esclarecer a morada de entrega."
+    },
+    {
+      "id": "pt-shopping-b1-b2-010",
+      "word": "o pedido de reembolso",
+      "translation": "the refund request",
+      "example": "Gostaria de esclarecer o pedido de reembolso."
+    }
+  ]
+}

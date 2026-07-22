@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-clothing-b1-b2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "clothing",
+  "categoryTitle": "Appearance & Clothing",
+  "title": "Appearance & Clothing",
+  "level": "B1-B2",
+  "emoji": "👗",
+  "description": "Discuss fit, fabrics, dress codes, garment care, personal presentation, and changing style.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-clothing-b1-b2-001",
+      "word": "el código de vestimenta formal",
+      "translation": "the formal dress code",
+      "example": "Necesito algún consejo sobre el código de vestimenta formal."
+    },
+    {
+      "id": "es-clothing-b1-b2-002",
+      "word": "los pantalones a medida",
+      "translation": "the tailored trousers",
+      "example": "Necesito algún consejo sobre los pantalones a medida."
+    },
+    {
+      "id": "es-clothing-b1-b2-003",
+      "word": "el tejido transpirable",
+      "translation": "the breathable fabric",
+      "example": "Necesito algún consejo sobre el tejido transpirable."
+    },
+    {
+      "id": "es-clothing-b1-b2-004",
+      "word": "el corte favorecedor",
+      "translation": "the flattering cut",
+      "example": "Necesito algún consejo sobre el corte favorecedor."
+    },
+    {
+      "id": "es-clothing-b1-b2-005",
+      "word": "las instrucciones de cuidado",
+      "translation": "the care instructions",
+      "example": "Necesito algún consejo sobre las instrucciones de cuidado."
+    },
+    {
+      "id": "es-clothing-b1-b2-006",
+      "word": "el abrigo de segunda mano",
+      "translation": "the second-hand coat",
+      "example": "Necesito algún consejo sobre el abrigo de segunda mano."
+    },
+    {
+      "id": "es-clothing-b1-b2-007",
+      "word": "la apariencia profesional",
+      "translation": "the professional appearance",
+      "example": "Necesito algún consejo sobre la apariencia profesional."
+    },
+    {
+      "id": "es-clothing-b1-b2-008",
+      "word": "el armario de temporada",
+      "translation": "the seasonal wardrobe",
+      "example": "Necesito algún consejo sobre el armario de temporada."
+    },
+    {
+      "id": "es-clothing-b1-b2-009",
+      "word": "el accesorio hecho a mano",
+      "translation": "the handmade accessory",
+      "example": "Necesito algún consejo sobre el accesorio hecho a mano."
+    },
+    {
+      "id": "es-clothing-b1-b2-010",
+      "word": "la última tendencia de moda",
+      "translation": "the latest fashion trend",
+      "example": "Necesito algún consejo sobre la última tendencia de moda."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-work-c1-c2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "work",
+  "categoryTitle": "Work & Careers",
+  "title": "Work & Careers",
+  "level": "C1-C2",
+  "emoji": "💼",
+  "description": "Explore leadership, organisational culture, labour trends, career development, and changing models of work.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-work-c1-c2-001",
+      "word": "la cultura organizzativa",
+      "translation": "organisational culture",
+      "example": "Ricerche recenti offrono un'analisi articolata di la cultura organizzativa."
+    },
+    {
+      "id": "it-work-c1-c2-002",
+      "word": "lo sviluppo della forza lavoro",
+      "translation": "workforce development",
+      "example": "Ricerche recenti offrono un'analisi articolata di lo sviluppo della forza lavoro."
+    },
+    {
+      "id": "it-work-c1-c2-003",
+      "word": "la leadership strategica",
+      "translation": "strategic leadership",
+      "example": "Ricerche recenti offrono un'analisi articolata di la leadership strategica."
+    },
+    {
+      "id": "it-work-c1-c2-004",
+      "word": "la fidelizzazione dei dipendenti",
+      "translation": "employee retention",
+      "example": "Ricerche recenti offrono un'analisi articolata di la fidelizzazione dei dipendenti."
+    },
+    {
+      "id": "it-work-c1-c2-005",
+      "word": "la mobilità professionale",
+      "translation": "occupational mobility",
+      "example": "Ricerche recenti offrono un'analisi articolata di la mobilità professionale."
+    },
+    {
+      "id": "it-work-c1-c2-006",
+      "word": "l'autonomia sul lavoro",
+      "translation": "workplace autonomy",
+      "example": "Ricerche recenti offrono un'analisi articolata di l'autonomia sul lavoro."
+    },
+    {
+      "id": "it-work-c1-c2-007",
+      "word": "la pianificazione della successione",
+      "translation": "succession planning",
+      "example": "Ricerche recenti offrono un'analisi articolata di la pianificazione della successione."
+    },
+    {
+      "id": "it-work-c1-c2-008",
+      "word": "l'identità professionale",
+      "translation": "professional identity",
+      "example": "Ricerche recenti offrono un'analisi articolata di l'identità professionale."
+    },
+    {
+      "id": "it-work-c1-c2-009",
+      "word": "la trasformazione del mercato del lavoro",
+      "translation": "labour-market disruption",
+      "example": "Ricerche recenti offrono un'analisi articolata di la trasformazione del mercato del lavoro."
+    },
+    {
+      "id": "it-work-c1-c2-010",
+      "word": "la collaborazione interfunzionale",
+      "translation": "cross-functional collaboration",
+      "example": "Ricerche recenti offrono un'analisi articolata di la collaborazione interfunzionale."
+    }
+  ]
+}

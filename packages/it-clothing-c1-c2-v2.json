@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-clothing-c1-c2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "clothing",
+  "categoryTitle": "Appearance & Clothing",
+  "title": "Appearance & Clothing",
+  "level": "C1-C2",
+  "emoji": "👗",
+  "description": "Explore fashion history, identity, craftsmanship, sustainability, design, and the clothing industry.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-clothing-c1-c2-001",
+      "word": "la produzione tessile sostenibile",
+      "translation": "sustainable textile production",
+      "example": "La mostra offre una prospettiva storica su la produzione tessile sostenibile."
+    },
+    {
+      "id": "it-clothing-c1-c2-002",
+      "word": "l'artigianato tradizionale",
+      "translation": "traditional craftsmanship",
+      "example": "La mostra offre una prospettiva storica su l'artigianato tradizionale."
+    },
+    {
+      "id": "it-clothing-c1-c2-003",
+      "word": "la moda come espressione personale",
+      "translation": "fashion as self-expression",
+      "example": "La mostra offre una prospettiva storica su la moda come espressione personale."
+    },
+    {
+      "id": "it-clothing-c1-c2-004",
+      "word": "la tracciabilità dei capi",
+      "translation": "garment traceability",
+      "example": "La mostra offre una prospettiva storica su la tracciabilità dei capi."
+    },
+    {
+      "id": "it-clothing-c1-c2-005",
+      "word": "la moda circolare",
+      "translation": "circular fashion",
+      "example": "La mostra offre una prospettiva storica su la moda circolare."
+    },
+    {
+      "id": "it-clothing-c1-c2-006",
+      "word": "le tradizioni culturali dell'abbigliamento",
+      "translation": "cultural dress traditions",
+      "example": "La mostra offre una prospettiva storica su le tradizioni culturali dell'abbigliamento."
+    },
+    {
+      "id": "it-clothing-c1-c2-007",
+      "word": "la sartoria su misura",
+      "translation": "bespoke tailoring",
+      "example": "La mostra offre una prospettiva storica su la sartoria su misura."
+    },
+    {
+      "id": "it-clothing-c1-c2-008",
+      "word": "la presentazione visiva",
+      "translation": "visual presentation",
+      "example": "La mostra offre una prospettiva storica su la presentazione visiva."
+    },
+    {
+      "id": "it-clothing-c1-c2-009",
+      "word": "l'innovazione tessile",
+      "translation": "textile innovation",
+      "example": "La mostra offre una prospettiva storica su l'innovazione tessile."
+    },
+    {
+      "id": "it-clothing-c1-c2-010",
+      "word": "l'industria globale della moda",
+      "translation": "the global fashion industry",
+      "example": "La mostra offre una prospettiva storica su l'industria globale della moda."
+    }
+  ]
+}

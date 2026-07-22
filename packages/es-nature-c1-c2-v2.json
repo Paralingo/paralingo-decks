@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-nature-c1-c2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "nature",
+  "categoryTitle": "Nature & Environment",
+  "title": "Nature & Environment",
+  "level": "C1-C2",
+  "emoji": "🌿",
+  "description": "Analyze climate policy, ecosystems, environmental justice, and complex sustainability transitions.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-nature-c1-c2-001",
+      "word": "la adaptación climática",
+      "translation": "climate adaptation",
+      "example": "Los debates políticos sobre la adaptación climática requieren cultura científica."
+    },
+    {
+      "id": "es-nature-c1-c2-002",
+      "word": "la pérdida de biodiversidad",
+      "translation": "biodiversity loss",
+      "example": "Los debates políticos sobre la pérdida de biodiversidad requieren cultura científica."
+    },
+    {
+      "id": "es-nature-c1-c2-003",
+      "word": "la justicia ambiental",
+      "translation": "environmental justice",
+      "example": "Los debates políticos sobre la justicia ambiental requieren cultura científica."
+    },
+    {
+      "id": "es-nature-c1-c2-004",
+      "word": "la restauración de ecosistemas",
+      "translation": "ecosystem restoration",
+      "example": "Los debates políticos sobre la restauración de ecosistemas requieren cultura científica."
+    },
+    {
+      "id": "es-nature-c1-c2-005",
+      "word": "la tarificación del carbono",
+      "translation": "carbon pricing",
+      "example": "Los debates políticos sobre la tarificación del carbono requieren cultura científica."
+    },
+    {
+      "id": "es-nature-c1-c2-006",
+      "word": "la transición energética",
+      "translation": "the energy transition",
+      "example": "Los debates políticos sobre la transición energética requieren cultura científica."
+    },
+    {
+      "id": "es-nature-c1-c2-007",
+      "word": "los límites planetarios",
+      "translation": "planetary boundaries",
+      "example": "Los debates políticos sobre los límites planetarios requieren cultura científica."
+    },
+    {
+      "id": "es-nature-c1-c2-008",
+      "word": "la migración climática",
+      "translation": "climate migration",
+      "example": "Los debates políticos sobre la migración climática requieren cultura científica."
+    },
+    {
+      "id": "es-nature-c1-c2-009",
+      "word": "las soluciones basadas en la naturaleza",
+      "translation": "nature-based solutions",
+      "example": "Los debates políticos sobre las soluciones basadas en la naturaleza requieren cultura científica."
+    },
+    {
+      "id": "es-nature-c1-c2-010",
+      "word": "la responsabilidad intergeneracional",
+      "translation": "intergenerational responsibility",
+      "example": "Los debates políticos sobre la responsabilidad intergeneracional requieren cultura científica."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-home-a1-a2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "home",
+  "categoryTitle": "Home & Daily Life",
+  "title": "Home & Daily Life",
+  "level": "A1-A2",
+  "emoji": "🏠",
+  "description": "Talk about rooms, furniture, chores, appliances, and simple routines at home.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-home-a1-a2-001",
+      "word": "la cucina",
+      "translation": "the kitchen",
+      "example": "Devo pulire la cucina."
+    },
+    {
+      "id": "it-home-a1-a2-002",
+      "word": "la camera da letto",
+      "translation": "the bedroom",
+      "example": "Devo pulire la camera da letto."
+    },
+    {
+      "id": "it-home-a1-a2-003",
+      "word": "il soggiorno",
+      "translation": "the living room",
+      "example": "Devo pulire il soggiorno."
+    },
+    {
+      "id": "it-home-a1-a2-004",
+      "word": "il bagno",
+      "translation": "the bathroom",
+      "example": "Devo pulire il bagno."
+    },
+    {
+      "id": "it-home-a1-a2-005",
+      "word": "il tavolo da pranzo",
+      "translation": "the dining table",
+      "example": "Devo pulire il tavolo da pranzo."
+    },
+    {
+      "id": "it-home-a1-a2-006",
+      "word": "la lavatrice",
+      "translation": "the washing machine",
+      "example": "Devo pulire la lavatrice."
+    },
+    {
+      "id": "it-home-a1-a2-007",
+      "word": "la porta d'ingresso",
+      "translation": "the front door",
+      "example": "Devo pulire la porta d'ingresso."
+    },
+    {
+      "id": "it-home-a1-a2-008",
+      "word": "l'armadio dei vestiti",
+      "translation": "the clothes cupboard",
+      "example": "Devo pulire l'armadio dei vestiti."
+    },
+    {
+      "id": "it-home-a1-a2-009",
+      "word": "i rifiuti domestici",
+      "translation": "the household rubbish",
+      "example": "Devo pulire i rifiuti domestici."
+    },
+    {
+      "id": "it-home-a1-a2-010",
+      "word": "le pulizie settimanali",
+      "translation": "the weekly cleaning",
+      "example": "Devo pulire le pulizie settimanali."
+    }
+  ]
+}

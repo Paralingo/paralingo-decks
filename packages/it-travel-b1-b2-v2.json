@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-travel-b1-b2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "travel",
+  "categoryTitle": "Travel & Transport",
+  "title": "Travel & Transport",
+  "level": "B1-B2",
+  "emoji": "🧳",
+  "description": "Handle disruptions, bookings, transport choices, and detailed travel plans.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-travel-b1-b2-001",
+      "word": "il volo",
+      "translation": "the flight",
+      "example": "Devo modificare il volo."
+    },
+    {
+      "id": "it-travel-b1-b2-002",
+      "word": "il viaggio in treno",
+      "translation": "the train journey",
+      "example": "Devo modificare il viaggio in treno."
+    },
+    {
+      "id": "it-travel-b1-b2-003",
+      "word": "il servizio di pullman",
+      "translation": "the coach service",
+      "example": "Devo modificare il servizio di pullman."
+    },
+    {
+      "id": "it-travel-b1-b2-004",
+      "word": "la traversata in traghetto",
+      "translation": "the ferry crossing",
+      "example": "Devo modificare la traversata in traghetto."
+    },
+    {
+      "id": "it-travel-b1-b2-005",
+      "word": "la prenotazione dell'albergo",
+      "translation": "the hotel reservation",
+      "example": "Devo modificare la prenotazione dell'albergo."
+    },
+    {
+      "id": "it-travel-b1-b2-006",
+      "word": "il bagaglio da stiva",
+      "translation": "the checked luggage",
+      "example": "Devo modificare il bagaglio da stiva."
+    },
+    {
+      "id": "it-travel-b1-b2-007",
+      "word": "l'auto a noleggio",
+      "translation": "the rental car",
+      "example": "Devo modificare l'auto a noleggio."
+    },
+    {
+      "id": "it-travel-b1-b2-008",
+      "word": "l'assicurazione di viaggio",
+      "translation": "the travel insurance",
+      "example": "Devo modificare l'assicurazione di viaggio."
+    },
+    {
+      "id": "it-travel-b1-b2-009",
+      "word": "la visita guidata",
+      "translation": "the guided tour",
+      "example": "Devo modificare la visita guidata."
+    },
+    {
+      "id": "it-travel-b1-b2-010",
+      "word": "il collegamento",
+      "translation": "the connecting service",
+      "example": "Devo modificare il collegamento."
+    }
+  ]
+}

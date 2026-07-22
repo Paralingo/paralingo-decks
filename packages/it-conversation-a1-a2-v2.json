@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-conversation-a1-a2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "conversation",
+  "categoryTitle": "Social & Conversation",
+  "title": "Social & Conversation",
+  "level": "A1-A2",
+  "emoji": "💬",
+  "description": "Start conversations, make plans, respond politely, and handle everyday social situations.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-conversation-a1-a2-001",
+      "word": "la tua giornata",
+      "translation": "your day",
+      "example": "Parlami di la tua giornata."
+    },
+    {
+      "id": "it-conversation-a1-a2-002",
+      "word": "la tua famiglia",
+      "translation": "your family",
+      "example": "Parlami di la tua famiglia."
+    },
+    {
+      "id": "it-conversation-a1-a2-003",
+      "word": "il tuo lavoro",
+      "translation": "your work",
+      "example": "Parlami di il tuo lavoro."
+    },
+    {
+      "id": "it-conversation-a1-a2-004",
+      "word": "i tuoi studi",
+      "translation": "your studies",
+      "example": "Parlami di i tuoi studi."
+    },
+    {
+      "id": "it-conversation-a1-a2-005",
+      "word": "la tua città natale",
+      "translation": "your hometown",
+      "example": "Parlami di la tua città natale."
+    },
+    {
+      "id": "it-conversation-a1-a2-006",
+      "word": "i tuoi hobby",
+      "translation": "your hobbies",
+      "example": "Parlami di i tuoi hobby."
+    },
+    {
+      "id": "it-conversation-a1-a2-007",
+      "word": "il tuo fine settimana",
+      "translation": "your weekend",
+      "example": "Parlami di il tuo fine settimana."
+    },
+    {
+      "id": "it-conversation-a1-a2-008",
+      "word": "i tuoi programmi",
+      "translation": "your plans",
+      "example": "Parlami di i tuoi programmi."
+    },
+    {
+      "id": "it-conversation-a1-a2-009",
+      "word": "il tuo viaggio",
+      "translation": "your trip",
+      "example": "Parlami di il tuo viaggio."
+    },
+    {
+      "id": "it-conversation-a1-a2-010",
+      "word": "il tuo corso di lingua",
+      "translation": "your language course",
+      "example": "Parlami di il tuo corso di lingua."
+    }
+  ]
+}

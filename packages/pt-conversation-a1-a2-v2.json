@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-conversation-a1-a2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "conversation",
+  "categoryTitle": "Social & Conversation",
+  "title": "Social & Conversation",
+  "level": "A1-A2",
+  "emoji": "💬",
+  "description": "Start conversations, make plans, respond politely, and handle everyday social situations.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-conversation-a1-a2-001",
+      "word": "o teu dia",
+      "translation": "your day",
+      "example": "Fala-me de o teu dia."
+    },
+    {
+      "id": "pt-conversation-a1-a2-002",
+      "word": "a tua família",
+      "translation": "your family",
+      "example": "Fala-me de a tua família."
+    },
+    {
+      "id": "pt-conversation-a1-a2-003",
+      "word": "o teu trabalho",
+      "translation": "your work",
+      "example": "Fala-me de o teu trabalho."
+    },
+    {
+      "id": "pt-conversation-a1-a2-004",
+      "word": "os teus estudos",
+      "translation": "your studies",
+      "example": "Fala-me de os teus estudos."
+    },
+    {
+      "id": "pt-conversation-a1-a2-005",
+      "word": "a tua terra natal",
+      "translation": "your hometown",
+      "example": "Fala-me de a tua terra natal."
+    },
+    {
+      "id": "pt-conversation-a1-a2-006",
+      "word": "os teus passatempos",
+      "translation": "your hobbies",
+      "example": "Fala-me de os teus passatempos."
+    },
+    {
+      "id": "pt-conversation-a1-a2-007",
+      "word": "o teu fim de semana",
+      "translation": "your weekend",
+      "example": "Fala-me de o teu fim de semana."
+    },
+    {
+      "id": "pt-conversation-a1-a2-008",
+      "word": "os teus planos",
+      "translation": "your plans",
+      "example": "Fala-me de os teus planos."
+    },
+    {
+      "id": "pt-conversation-a1-a2-009",
+      "word": "a tua viagem",
+      "translation": "your trip",
+      "example": "Fala-me de a tua viagem."
+    },
+    {
+      "id": "pt-conversation-a1-a2-010",
+      "word": "o teu curso de línguas",
+      "translation": "your language course",
+      "example": "Fala-me de o teu curso de línguas."
+    }
+  ]
+}

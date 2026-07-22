@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-health-b1-b2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "health",
+  "categoryTitle": "Body & Health",
+  "title": "Body & Health",
+  "level": "B1-B2",
+  "emoji": "🩺",
+  "description": "Discuss symptoms, diagnosis, treatment, recovery, healthy habits, and healthcare appointments.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-health-b1-b2-001",
+      "word": "uma dor de cabeça persistente",
+      "translation": "a persistent headache",
+      "example": "Gostaria de receber aconselhamento sobre uma dor de cabeça persistente."
+    },
+    {
+      "id": "pt-health-b1-b2-002",
+      "word": "uma febre alta",
+      "translation": "a high fever",
+      "example": "Gostaria de receber aconselhamento sobre uma febre alta."
+    },
+    {
+      "id": "pt-health-b1-b2-003",
+      "word": "uma reação alérgica",
+      "translation": "an allergic reaction",
+      "example": "Gostaria de receber aconselhamento sobre uma reação alérgica."
+    },
+    {
+      "id": "pt-health-b1-b2-004",
+      "word": "uma lesão desportiva",
+      "translation": "a sports injury",
+      "example": "Gostaria de receber aconselhamento sobre uma lesão desportiva."
+    },
+    {
+      "id": "pt-health-b1-b2-005",
+      "word": "uma infeção respiratória",
+      "translation": "a chest infection",
+      "example": "Gostaria de receber aconselhamento sobre uma infeção respiratória."
+    },
+    {
+      "id": "pt-health-b1-b2-006",
+      "word": "dificuldade em dormir",
+      "translation": "trouble sleeping",
+      "example": "Gostaria de receber aconselhamento sobre dificuldade em dormir."
+    },
+    {
+      "id": "pt-health-b1-b2-007",
+      "word": "os efeitos secundários",
+      "translation": "side effects",
+      "example": "Gostaria de receber aconselhamento sobre os efeitos secundários."
+    },
+    {
+      "id": "pt-health-b1-b2-008",
+      "word": "o plano de recuperação",
+      "translation": "the recovery plan",
+      "example": "Gostaria de receber aconselhamento sobre o plano de recuperação."
+    },
+    {
+      "id": "pt-health-b1-b2-009",
+      "word": "uma consulta de acompanhamento",
+      "translation": "a follow-up appointment",
+      "example": "Gostaria de receber aconselhamento sobre uma consulta de acompanhamento."
+    },
+    {
+      "id": "pt-health-b1-b2-010",
+      "word": "uma mudança na alimentação",
+      "translation": "a change in diet",
+      "example": "Gostaria de receber aconselhamento sobre uma mudança na alimentação."
+    }
+  ]
+}

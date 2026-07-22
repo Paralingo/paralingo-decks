@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-health-a1-a2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "health",
+  "categoryTitle": "Body & Health",
+  "title": "Body & Health",
+  "level": "A1-A2",
+  "emoji": "🩺",
+  "description": "Learn body parts, describe pain and common symptoms, and ask for basic medical help.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-health-a1-a2-001",
+      "word": "a cabeça",
+      "translation": "head",
+      "example": "Dói-me a cabeça."
+    },
+    {
+      "id": "pt-health-a1-a2-002",
+      "word": "a garganta",
+      "translation": "throat",
+      "example": "Dói-me a garganta."
+    },
+    {
+      "id": "pt-health-a1-a2-003",
+      "word": "o estômago",
+      "translation": "stomach",
+      "example": "Dói-me o estômago."
+    },
+    {
+      "id": "pt-health-a1-a2-004",
+      "word": "as costas",
+      "translation": "back",
+      "example": "Dói-me as costas."
+    },
+    {
+      "id": "pt-health-a1-a2-005",
+      "word": "o pescoço",
+      "translation": "neck",
+      "example": "Dói-me o pescoço."
+    },
+    {
+      "id": "pt-health-a1-a2-006",
+      "word": "o joelho",
+      "translation": "knee",
+      "example": "Dói-me o joelho."
+    },
+    {
+      "id": "pt-health-a1-a2-007",
+      "word": "o braço",
+      "translation": "arm",
+      "example": "Dói-me o braço."
+    },
+    {
+      "id": "pt-health-a1-a2-008",
+      "word": "a perna",
+      "translation": "leg",
+      "example": "Dói-me a perna."
+    },
+    {
+      "id": "pt-health-a1-a2-009",
+      "word": "a mão",
+      "translation": "hand",
+      "example": "Dói-me a mão."
+    },
+    {
+      "id": "pt-health-a1-a2-010",
+      "word": "o pé",
+      "translation": "foot",
+      "example": "Dói-me o pé."
+    }
+  ]
+}

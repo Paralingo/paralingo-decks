@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-nature-c1-c2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "nature",
+  "categoryTitle": "Nature & Environment",
+  "title": "Nature & Environment",
+  "level": "C1-C2",
+  "emoji": "🌿",
+  "description": "Analyze climate policy, ecosystems, environmental justice, and complex sustainability transitions.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-nature-c1-c2-001",
+      "word": "a adaptação climática",
+      "translation": "climate adaptation",
+      "example": "Os debates políticos sobre a adaptação climática exigem literacia científica."
+    },
+    {
+      "id": "pt-nature-c1-c2-002",
+      "word": "a perda de biodiversidade",
+      "translation": "biodiversity loss",
+      "example": "Os debates políticos sobre a perda de biodiversidade exigem literacia científica."
+    },
+    {
+      "id": "pt-nature-c1-c2-003",
+      "word": "a justiça ambiental",
+      "translation": "environmental justice",
+      "example": "Os debates políticos sobre a justiça ambiental exigem literacia científica."
+    },
+    {
+      "id": "pt-nature-c1-c2-004",
+      "word": "a recuperação dos ecossistemas",
+      "translation": "ecosystem restoration",
+      "example": "Os debates políticos sobre a recuperação dos ecossistemas exigem literacia científica."
+    },
+    {
+      "id": "pt-nature-c1-c2-005",
+      "word": "a tarifação do carbono",
+      "translation": "carbon pricing",
+      "example": "Os debates políticos sobre a tarifação do carbono exigem literacia científica."
+    },
+    {
+      "id": "pt-nature-c1-c2-006",
+      "word": "a transição energética",
+      "translation": "the energy transition",
+      "example": "Os debates políticos sobre a transição energética exigem literacia científica."
+    },
+    {
+      "id": "pt-nature-c1-c2-007",
+      "word": "os limites planetários",
+      "translation": "planetary boundaries",
+      "example": "Os debates políticos sobre os limites planetários exigem literacia científica."
+    },
+    {
+      "id": "pt-nature-c1-c2-008",
+      "word": "a migração climática",
+      "translation": "climate migration",
+      "example": "Os debates políticos sobre a migração climática exigem literacia científica."
+    },
+    {
+      "id": "pt-nature-c1-c2-009",
+      "word": "as soluções baseadas na natureza",
+      "translation": "nature-based solutions",
+      "example": "Os debates políticos sobre as soluções baseadas na natureza exigem literacia científica."
+    },
+    {
+      "id": "pt-nature-c1-c2-010",
+      "word": "a responsabilidade intergeracional",
+      "translation": "intergenerational responsibility",
+      "example": "Os debates políticos sobre a responsabilidade intergeracional exigem literacia científica."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-conversation-c1-c2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "conversation",
+  "categoryTitle": "Social & Conversation",
+  "title": "Social & Conversation",
+  "level": "C1-C2",
+  "emoji": "💬",
+  "description": "Communicate with nuance, diplomacy, persuasion, humor, and sensitivity across registers.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-conversation-c1-c2-001",
+      "word": "o pressuposto subjacente",
+      "translation": "the underlying assumption",
+      "example": "Poderá ser útil reformular o pressuposto subjacente."
+    },
+    {
+      "id": "pt-conversation-c1-c2-002",
+      "word": "o contexto mais amplo",
+      "translation": "the broader context",
+      "example": "Poderá ser útil reformular o contexto mais amplo."
+    },
+    {
+      "id": "pt-conversation-c1-c2-003",
+      "word": "o significado implícito",
+      "translation": "the implied meaning",
+      "example": "Poderá ser útil reformular o significado implícito."
+    },
+    {
+      "id": "pt-conversation-c1-c2-004",
+      "word": "a questão delicada",
+      "translation": "the sensitive issue",
+      "example": "Poderá ser útil reformular a questão delicada."
+    },
+    {
+      "id": "pt-conversation-c1-c2-005",
+      "word": "a aparente contradição",
+      "translation": "the apparent contradiction",
+      "example": "Poderá ser útil reformular a aparente contradição."
+    },
+    {
+      "id": "pt-conversation-c1-c2-006",
+      "word": "a estratégia retórica",
+      "translation": "the rhetorical strategy",
+      "example": "Poderá ser útil reformular a estratégia retórica."
+    },
+    {
+      "id": "pt-conversation-c1-c2-007",
+      "word": "a diferença de registo",
+      "translation": "the difference in register",
+      "example": "Poderá ser útil reformular a diferença de registo."
+    },
+    {
+      "id": "pt-conversation-c1-c2-008",
+      "word": "a preocupação não expressa",
+      "translation": "the unspoken concern",
+      "example": "Poderá ser útil reformular a preocupação não expressa."
+    },
+    {
+      "id": "pt-conversation-c1-c2-009",
+      "word": "a interpretação alternativa",
+      "translation": "the alternative interpretation",
+      "example": "Poderá ser útil reformular a interpretação alternativa."
+    },
+    {
+      "id": "pt-conversation-c1-c2-010",
+      "word": "o ponto de discordância",
+      "translation": "the point of disagreement",
+      "example": "Poderá ser útil reformular o ponto de discordância."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-home-b1-b2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "home",
+  "categoryTitle": "Home & Daily Life",
+  "title": "Home & Daily Life",
+  "level": "B1-B2",
+  "emoji": "🏠",
+  "description": "Handle renting, maintenance, bills, neighbours, household organisation, and practical problems.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-home-b1-b2-001",
+      "word": "o contrato de arrendamento",
+      "translation": "the rental agreement",
+      "example": "Precisamos de falar sobre o contrato de arrendamento."
+    },
+    {
+      "id": "pt-home-b1-b2-002",
+      "word": "a renda mensal",
+      "translation": "the monthly rent",
+      "example": "Precisamos de falar sobre a renda mensal."
+    },
+    {
+      "id": "pt-home-b1-b2-003",
+      "word": "a fatura dos serviços",
+      "translation": "the utility bill",
+      "example": "Precisamos de falar sobre a fatura dos serviços."
+    },
+    {
+      "id": "pt-home-b1-b2-004",
+      "word": "a caução",
+      "translation": "the security deposit",
+      "example": "Precisamos de falar sobre a caução."
+    },
+    {
+      "id": "pt-home-b1-b2-005",
+      "word": "o administrador do imóvel",
+      "translation": "the property manager",
+      "example": "Precisamos de falar sobre o administrador do imóvel."
+    },
+    {
+      "id": "pt-home-b1-b2-006",
+      "word": "o cano com fuga",
+      "translation": "the leaking pipe",
+      "example": "Precisamos de falar sobre o cano com fuga."
+    },
+    {
+      "id": "pt-home-b1-b2-007",
+      "word": "o sistema de aquecimento",
+      "translation": "the heating system",
+      "example": "Precisamos de falar sobre o sistema de aquecimento."
+    },
+    {
+      "id": "pt-home-b1-b2-008",
+      "word": "a entrada comum",
+      "translation": "the shared entrance",
+      "example": "Precisamos de falar sobre a entrada comum."
+    },
+    {
+      "id": "pt-home-b1-b2-009",
+      "word": "a queixa por ruído",
+      "translation": "the noise complaint",
+      "example": "Precisamos de falar sobre a queixa por ruído."
+    },
+    {
+      "id": "pt-home-b1-b2-010",
+      "word": "o orçamento doméstico",
+      "translation": "the household budget",
+      "example": "Precisamos de falar sobre o orçamento doméstico."
+    }
+  ]
+}

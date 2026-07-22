@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-society-c1-c2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "society",
+  "categoryTitle": "Society & Culture",
+  "title": "Society & Culture",
+  "level": "C1-C2",
+  "emoji": "🏛️",
+  "description": "Explore cultural heritage, language, arts, collective memory, customs, and cultural exchange.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-society-c1-c2-001",
+      "word": "l'identità collettiva",
+      "translation": "collective identity",
+      "example": "Un'analisi articolata di l'identità collettiva richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-002",
+      "word": "il patrimonio culturale",
+      "translation": "cultural heritage",
+      "example": "Un'analisi articolata di il patrimonio culturale richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-003",
+      "word": "la memoria storica",
+      "translation": "historical memory",
+      "example": "Un'analisi articolata di la memoria storica richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-004",
+      "word": "il cambiamento linguistico",
+      "translation": "language change",
+      "example": "Un'analisi articolata di il cambiamento linguistico richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-005",
+      "word": "i movimenti artistici",
+      "translation": "artistic movements",
+      "example": "Un'analisi articolata di i movimenti artistici richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-006",
+      "word": "la tradizione orale",
+      "translation": "oral tradition",
+      "example": "Un'analisi articolata di la tradizione orale richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-007",
+      "word": "lo scambio culturale",
+      "translation": "cultural exchange",
+      "example": "Un'analisi articolata di lo scambio culturale richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-008",
+      "word": "la conservazione del patrimonio",
+      "translation": "heritage preservation",
+      "example": "Un'analisi articolata di la conservazione del patrimonio richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-009",
+      "word": "il canone letterario",
+      "translation": "literary canon",
+      "example": "Un'analisi articolata di il canone letterario richiede un contesto storico."
+    },
+    {
+      "id": "it-society-c1-c2-010",
+      "word": "i monumenti pubblici",
+      "translation": "public monuments",
+      "example": "Un'analisi articolata di i monumenti pubblici richiede un contesto storico."
+    }
+  ]
+}

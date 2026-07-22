@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-travel-a1-a2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "travel",
+  "categoryTitle": "Travel & Transport",
+  "title": "Travel & Transport",
+  "level": "A1-A2",
+  "emoji": "🧳",
+  "description": "Navigate common journeys, accommodation, and everyday travel situations.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-travel-a1-a2-001",
+      "word": "o aeroporto",
+      "translation": "the airport",
+      "example": "Onde fica o aeroporto?"
+    },
+    {
+      "id": "pt-travel-a1-a2-002",
+      "word": "a estação ferroviária",
+      "translation": "the train station",
+      "example": "Onde fica a estação ferroviária?"
+    },
+    {
+      "id": "pt-travel-a1-a2-003",
+      "word": "o centro da cidade",
+      "translation": "the city center",
+      "example": "Onde fica o centro da cidade?"
+    },
+    {
+      "id": "pt-travel-a1-a2-004",
+      "word": "o centro histórico",
+      "translation": "the old town",
+      "example": "Onde fica o centro histórico?"
+    },
+    {
+      "id": "pt-travel-a1-a2-005",
+      "word": "o hotel",
+      "translation": "the hotel",
+      "example": "Onde fica o hotel?"
+    },
+    {
+      "id": "pt-travel-a1-a2-006",
+      "word": "o museu",
+      "translation": "the museum",
+      "example": "Onde fica o museu?"
+    },
+    {
+      "id": "pt-travel-a1-a2-007",
+      "word": "a praia",
+      "translation": "the beach",
+      "example": "Onde fica a praia?"
+    },
+    {
+      "id": "pt-travel-a1-a2-008",
+      "word": "o porto",
+      "translation": "the port",
+      "example": "Onde fica o porto?"
+    },
+    {
+      "id": "pt-travel-a1-a2-009",
+      "word": "o mercado",
+      "translation": "the market",
+      "example": "Onde fica o mercado?"
+    },
+    {
+      "id": "pt-travel-a1-a2-010",
+      "word": "a praça principal",
+      "translation": "the main square",
+      "example": "Onde fica a praça principal?"
+    }
+  ]
+}

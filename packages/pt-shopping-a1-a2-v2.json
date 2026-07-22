@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-shopping-a1-a2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "shopping",
+  "categoryTitle": "Shopping & Services",
+  "title": "Shopping & Services",
+  "level": "A1-A2",
+  "emoji": "🛍️",
+  "description": "Shop for everyday items, ask about prices and sizes, pay, and use common local services.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-shopping-a1-a2-001",
+      "word": "esta camisa azul",
+      "translation": "this blue shirt",
+      "example": "Quanto custa esta camisa azul?"
+    },
+    {
+      "id": "pt-shopping-a1-a2-002",
+      "word": "um tamanho mais pequeno",
+      "translation": "a smaller size",
+      "example": "Quanto custa um tamanho mais pequeno?"
+    },
+    {
+      "id": "pt-shopping-a1-a2-003",
+      "word": "o pão fresco",
+      "translation": "the fresh bread",
+      "example": "Quanto custa o pão fresco?"
+    },
+    {
+      "id": "pt-shopping-a1-a2-004",
+      "word": "um bilhete de autocarro",
+      "translation": "a bus ticket",
+      "example": "Quanto custa um bilhete de autocarro?"
+    },
+    {
+      "id": "pt-shopping-a1-a2-005",
+      "word": "o preço total",
+      "translation": "the total price",
+      "example": "Quanto custa o preço total?"
+    },
+    {
+      "id": "pt-shopping-a1-a2-006",
+      "word": "o pagamento com cartão",
+      "translation": "the card payment",
+      "example": "Quanto custa o pagamento com cartão?"
+    },
+    {
+      "id": "pt-shopping-a1-a2-007",
+      "word": "o provador",
+      "translation": "the changing room",
+      "example": "Quanto custa o provador?"
+    },
+    {
+      "id": "pt-shopping-a1-a2-008",
+      "word": "os correios",
+      "translation": "the post office",
+      "example": "Quanto custa os correios?"
+    },
+    {
+      "id": "pt-shopping-a1-a2-009",
+      "word": "o cabeleireiro",
+      "translation": "the hairdresser",
+      "example": "Quanto custa o cabeleireiro?"
+    },
+    {
+      "id": "pt-shopping-a1-a2-010",
+      "word": "o recibo da compra",
+      "translation": "the shopping receipt",
+      "example": "Quanto custa o recibo da compra?"
+    }
+  ]
+}

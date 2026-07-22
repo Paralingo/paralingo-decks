@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-clothing-b1-b2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "clothing",
+  "categoryTitle": "Appearance & Clothing",
+  "title": "Appearance & Clothing",
+  "level": "B1-B2",
+  "emoji": "👗",
+  "description": "Discuss fit, fabrics, dress codes, garment care, personal presentation, and changing style.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-clothing-b1-b2-001",
+      "word": "o código de vestuário formal",
+      "translation": "the formal dress code",
+      "example": "Preciso de aconselhamento sobre o código de vestuário formal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-002",
+      "word": "as calças feitas à medida",
+      "translation": "the tailored trousers",
+      "example": "Preciso de aconselhamento sobre as calças feitas à medida."
+    },
+    {
+      "id": "pt-clothing-b1-b2-003",
+      "word": "o tecido respirável",
+      "translation": "the breathable fabric",
+      "example": "Preciso de aconselhamento sobre o tecido respirável."
+    },
+    {
+      "id": "pt-clothing-b1-b2-004",
+      "word": "o corte favorecedor",
+      "translation": "the flattering cut",
+      "example": "Preciso de aconselhamento sobre o corte favorecedor."
+    },
+    {
+      "id": "pt-clothing-b1-b2-005",
+      "word": "as instruções de conservação",
+      "translation": "the care instructions",
+      "example": "Preciso de aconselhamento sobre as instruções de conservação."
+    },
+    {
+      "id": "pt-clothing-b1-b2-006",
+      "word": "o casaco em segunda mão",
+      "translation": "the second-hand coat",
+      "example": "Preciso de aconselhamento sobre o casaco em segunda mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-007",
+      "word": "a aparência profissional",
+      "translation": "the professional appearance",
+      "example": "Preciso de aconselhamento sobre a aparência profissional."
+    },
+    {
+      "id": "pt-clothing-b1-b2-008",
+      "word": "o guarda-roupa sazonal",
+      "translation": "the seasonal wardrobe",
+      "example": "Preciso de aconselhamento sobre o guarda-roupa sazonal."
+    },
+    {
+      "id": "pt-clothing-b1-b2-009",
+      "word": "o acessório feito à mão",
+      "translation": "the handmade accessory",
+      "example": "Preciso de aconselhamento sobre o acessório feito à mão."
+    },
+    {
+      "id": "pt-clothing-b1-b2-010",
+      "word": "a última tendência da moda",
+      "translation": "the latest fashion trend",
+      "example": "Preciso de aconselhamento sobre a última tendência da moda."
+    }
+  ]
+}

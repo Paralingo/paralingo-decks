@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-relationships-a1-a2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "relationships",
+  "categoryTitle": "Relationships & Emotions",
+  "title": "Relationships & Emotions",
+  "level": "A1-A2",
+  "emoji": "💞",
+  "description": "Describe feelings, friendships, family relationships, affection, and everyday emotional needs.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-relationships-a1-a2-001",
+      "word": "feliz",
+      "translation": "happy",
+      "example": "Hoy me siento feliz."
+    },
+    {
+      "id": "es-relationships-a1-a2-002",
+      "word": "triste",
+      "translation": "sad",
+      "example": "Hoy me siento triste."
+    },
+    {
+      "id": "es-relationships-a1-a2-003",
+      "word": "preocupado",
+      "translation": "worried",
+      "example": "Hoy me siento preocupado."
+    },
+    {
+      "id": "es-relationships-a1-a2-004",
+      "word": "emocionado",
+      "translation": "excited",
+      "example": "Hoy me siento emocionado."
+    },
+    {
+      "id": "es-relationships-a1-a2-005",
+      "word": "cansado",
+      "translation": "tired",
+      "example": "Hoy me siento cansado."
+    },
+    {
+      "id": "es-relationships-a1-a2-006",
+      "word": "enfadado",
+      "translation": "angry",
+      "example": "Hoy me siento enfadado."
+    },
+    {
+      "id": "es-relationships-a1-a2-007",
+      "word": "tranquilo",
+      "translation": "calm",
+      "example": "Hoy me siento tranquilo."
+    },
+    {
+      "id": "es-relationships-a1-a2-008",
+      "word": "solo",
+      "translation": "lonely",
+      "example": "Hoy me siento solo."
+    },
+    {
+      "id": "es-relationships-a1-a2-009",
+      "word": "agradecido",
+      "translation": "grateful",
+      "example": "Hoy me siento agradecido."
+    },
+    {
+      "id": "es-relationships-a1-a2-010",
+      "word": "orgulloso",
+      "translation": "proud",
+      "example": "Hoy me siento orgulloso."
+    }
+  ]
+}

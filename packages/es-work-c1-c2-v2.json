@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-work-c1-c2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "work",
+  "categoryTitle": "Work & Careers",
+  "title": "Work & Careers",
+  "level": "C1-C2",
+  "emoji": "💼",
+  "description": "Explore leadership, organisational culture, labour trends, career development, and changing models of work.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-work-c1-c2-001",
+      "word": "la cultura organizativa",
+      "translation": "organisational culture",
+      "example": "Investigaciones recientes ofrecen un análisis matizado de la cultura organizativa."
+    },
+    {
+      "id": "es-work-c1-c2-002",
+      "word": "el desarrollo de la fuerza laboral",
+      "translation": "workforce development",
+      "example": "Investigaciones recientes ofrecen un análisis matizado de el desarrollo de la fuerza laboral."
+    },
+    {
+      "id": "es-work-c1-c2-003",
+      "word": "el liderazgo estratégico",
+      "translation": "strategic leadership",
+      "example": "Investigaciones recientes ofrecen un análisis matizado de el liderazgo estratégico."
+    },
+    {
+      "id": "es-work-c1-c2-004",
+      "word": "la retención de empleados",
+      "translation": "employee retention",
+      "example": "Investigaciones recientes ofrecen un análisis matizado de la retención de empleados."
+    },
+    {
+      "id": "es-work-c1-c2-005",
+      "word": "la movilidad profesional",
+      "translation": "occupational mobility",
+      "example": "Investigaciones recientes ofrecen un análisis matizado de la movilidad profesional."
+    },
+    {
+      "id": "es-work-c1-c2-006",
+      "word": "la autonomía laboral",
+      "translation": "workplace autonomy",
+      "example": "Investigaciones recientes ofrecen un análisis matizado de la autonomía laboral."
+    },
+    {
+      "id": "es-work-c1-c2-007",
+      "word": "la planificación de la sucesión",
+      "translation": "succession planning",
+      "example": "Investigaciones recientes ofrecen un análisis matizado de la planificación de la sucesión."
+    },
+    {
+      "id": "es-work-c1-c2-008",
+      "word": "la identidad profesional",
+      "translation": "professional identity",
+      "example": "Investigaciones recientes ofrecen un análisis matizado de la identidad profesional."
+    },
+    {
+      "id": "es-work-c1-c2-009",
+      "word": "la alteración del mercado laboral",
+      "translation": "labour-market disruption",
+      "example": "Investigaciones recientes ofrecen un análisis matizado de la alteración del mercado laboral."
+    },
+    {
+      "id": "es-work-c1-c2-010",
+      "word": "la colaboración interfuncional",
+      "translation": "cross-functional collaboration",
+      "example": "Investigaciones recientes ofrecen un análisis matizado de la colaboración interfuncional."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-everyday-b1-b2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "everyday",
+  "categoryTitle": "Everyday Essentials",
+  "title": "Everyday Essentials",
+  "level": "B1-B2",
+  "emoji": "🗓️",
+  "description": "Manage schedules, household responsibilities, services, relationships, and common problems.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-everyday-b1-b2-001",
+      "word": "una visita medica",
+      "translation": "a medical appointment",
+      "example": "Devo organizzare una visita medica."
+    },
+    {
+      "id": "it-everyday-b1-b2-002",
+      "word": "una riparazione domestica",
+      "translation": "a household repair",
+      "example": "Devo organizzare una riparazione domestica."
+    },
+    {
+      "id": "it-everyday-b1-b2-003",
+      "word": "un contratto di affitto",
+      "translation": "a rental agreement",
+      "example": "Devo organizzare un contratto di affitto."
+    },
+    {
+      "id": "it-everyday-b1-b2-004",
+      "word": "una bolletta",
+      "translation": "a utility bill",
+      "example": "Devo organizzare una bolletta."
+    },
+    {
+      "id": "it-everyday-b1-b2-005",
+      "word": "una scadenza di lavoro",
+      "translation": "a work deadline",
+      "example": "Devo organizzare una scadenza di lavoro."
+    },
+    {
+      "id": "it-everyday-b1-b2-006",
+      "word": "un impegno familiare",
+      "translation": "a family commitment",
+      "example": "Devo organizzare un impegno familiare."
+    },
+    {
+      "id": "it-everyday-b1-b2-007",
+      "word": "un problema bancario",
+      "translation": "a banking issue",
+      "example": "Devo organizzare un problema bancario."
+    },
+    {
+      "id": "it-everyday-b1-b2-008",
+      "word": "una consegna",
+      "translation": "a delivery",
+      "example": "Devo organizzare una consegna."
+    },
+    {
+      "id": "it-everyday-b1-b2-009",
+      "word": "un cambio di programma",
+      "translation": "a change of plans",
+      "example": "Devo organizzare un cambio di programma."
+    },
+    {
+      "id": "it-everyday-b1-b2-010",
+      "word": "una conversazione difficile",
+      "translation": "a difficult conversation",
+      "example": "Devo organizzare una conversazione difficile."
+    }
+  ]
+}

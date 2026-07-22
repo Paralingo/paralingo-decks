@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-clothing-a1-a2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "clothing",
+  "categoryTitle": "Appearance & Clothing",
+  "title": "Appearance & Clothing",
+  "level": "A1-A2",
+  "emoji": "👗",
+  "description": "Describe clothes, colours, physical features, sizes, and simple personal style.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-clothing-a1-a2-001",
+      "word": "la giacca nera",
+      "translation": "the black jacket",
+      "example": "Oggi indosso la giacca nera."
+    },
+    {
+      "id": "it-clothing-a1-a2-002",
+      "word": "le scarpe comode",
+      "translation": "the comfortable shoes",
+      "example": "Oggi indosso le scarpe comode."
+    },
+    {
+      "id": "it-clothing-a1-a2-003",
+      "word": "la camicia a righe",
+      "translation": "the striped shirt",
+      "example": "Oggi indosso la camicia a righe."
+    },
+    {
+      "id": "it-clothing-a1-a2-004",
+      "word": "i capelli lunghi",
+      "translation": "the long hair",
+      "example": "Oggi indosso i capelli lunghi."
+    },
+    {
+      "id": "it-clothing-a1-a2-005",
+      "word": "gli occhi castani",
+      "translation": "the brown eyes",
+      "example": "Oggi indosso gli occhi castani."
+    },
+    {
+      "id": "it-clothing-a1-a2-006",
+      "word": "il maglione caldo",
+      "translation": "the warm sweater",
+      "example": "Oggi indosso il maglione caldo."
+    },
+    {
+      "id": "it-clothing-a1-a2-007",
+      "word": "il vestito estivo",
+      "translation": "the summer dress",
+      "example": "Oggi indosso il vestito estivo."
+    },
+    {
+      "id": "it-clothing-a1-a2-008",
+      "word": "la taglia giusta",
+      "translation": "the right size",
+      "example": "Oggi indosso la taglia giusta."
+    },
+    {
+      "id": "it-clothing-a1-a2-009",
+      "word": "la collana d'argento",
+      "translation": "the silver necklace",
+      "example": "Oggi indosso la collana d'argento."
+    },
+    {
+      "id": "it-clothing-a1-a2-010",
+      "word": "il taglio corto",
+      "translation": "the short haircut",
+      "example": "Oggi indosso il taglio corto."
+    }
+  ]
+}

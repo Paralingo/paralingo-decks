@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-nature-a1-a2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "nature",
+  "categoryTitle": "Nature & Environment",
+  "title": "Nature & Environment",
+  "level": "A1-A2",
+  "emoji": "🌿",
+  "description": "Explore landscapes, plants, animals, weather, and simple outdoor experiences.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-nature-a1-a2-001",
+      "word": "a floresta",
+      "translation": "the forest",
+      "example": "Estamos a caminhar por a floresta."
+    },
+    {
+      "id": "pt-nature-a1-a2-002",
+      "word": "a montanha",
+      "translation": "the mountain",
+      "example": "Estamos a caminhar por a montanha."
+    },
+    {
+      "id": "pt-nature-a1-a2-003",
+      "word": "o rio",
+      "translation": "the river",
+      "example": "Estamos a caminhar por o rio."
+    },
+    {
+      "id": "pt-nature-a1-a2-004",
+      "word": "o lago",
+      "translation": "the lake",
+      "example": "Estamos a caminhar por o lago."
+    },
+    {
+      "id": "pt-nature-a1-a2-005",
+      "word": "o oceano",
+      "translation": "the ocean",
+      "example": "Estamos a caminhar por o oceano."
+    },
+    {
+      "id": "pt-nature-a1-a2-006",
+      "word": "o campo",
+      "translation": "the countryside",
+      "example": "Estamos a caminhar por o campo."
+    },
+    {
+      "id": "pt-nature-a1-a2-007",
+      "word": "o jardim",
+      "translation": "the garden",
+      "example": "Estamos a caminhar por o jardim."
+    },
+    {
+      "id": "pt-nature-a1-a2-008",
+      "word": "a cascata",
+      "translation": "the waterfall",
+      "example": "Estamos a caminhar por a cascata."
+    },
+    {
+      "id": "pt-nature-a1-a2-009",
+      "word": "a ilha",
+      "translation": "the island",
+      "example": "Estamos a caminhar por a ilha."
+    },
+    {
+      "id": "pt-nature-a1-a2-010",
+      "word": "o vale",
+      "translation": "the valley",
+      "example": "Estamos a caminhar por o vale."
+    }
+  ]
+}

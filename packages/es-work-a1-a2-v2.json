@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-work-a1-a2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "work",
+  "categoryTitle": "Work & Careers",
+  "title": "Work & Careers",
+  "level": "A1-A2",
+  "emoji": "💼",
+  "description": "Talk about jobs, workplaces, schedules, colleagues, everyday duties, and basic career plans.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-work-a1-a2-001",
+      "word": "el nuevo trabajo",
+      "translation": "the new job",
+      "example": "Hoy empiezo el nuevo trabajo."
+    },
+    {
+      "id": "es-work-a1-a2-002",
+      "word": "el gerente de la oficina",
+      "translation": "the office manager",
+      "example": "Hoy empiezo el gerente de la oficina."
+    },
+    {
+      "id": "es-work-a1-a2-003",
+      "word": "el turno de mañana",
+      "translation": "the morning shift",
+      "example": "Hoy empiezo el turno de mañana."
+    },
+    {
+      "id": "es-work-a1-a2-004",
+      "word": "la pausa para comer",
+      "translation": "the lunch break",
+      "example": "Hoy empiezo la pausa para comer."
+    },
+    {
+      "id": "es-work-a1-a2-005",
+      "word": "el horario semanal",
+      "translation": "the weekly schedule",
+      "example": "Hoy empiezo el horario semanal."
+    },
+    {
+      "id": "es-work-a1-a2-006",
+      "word": "el compañero amable",
+      "translation": "the friendly colleague",
+      "example": "Hoy empiezo el compañero amable."
+    },
+    {
+      "id": "es-work-a1-a2-007",
+      "word": "la reunión de personal",
+      "translation": "the staff meeting",
+      "example": "Hoy empiezo la reunión de personal."
+    },
+    {
+      "id": "es-work-a1-a2-008",
+      "word": "el uniforme de trabajo",
+      "translation": "the work uniform",
+      "example": "Hoy empiezo el uniforme de trabajo."
+    },
+    {
+      "id": "es-work-a1-a2-009",
+      "word": "el puesto a tiempo parcial",
+      "translation": "the part-time position",
+      "example": "Hoy empiezo el puesto a tiempo parcial."
+    },
+    {
+      "id": "es-work-a1-a2-010",
+      "word": "la tarea diaria",
+      "translation": "the daily task",
+      "example": "Hoy empiezo la tarea diaria."
+    }
+  ]
+}

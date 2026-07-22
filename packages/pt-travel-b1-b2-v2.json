@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-travel-b1-b2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "travel",
+  "categoryTitle": "Travel & Transport",
+  "title": "Travel & Transport",
+  "level": "B1-B2",
+  "emoji": "🧳",
+  "description": "Handle disruptions, bookings, transport choices, and detailed travel plans.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-travel-b1-b2-001",
+      "word": "o voo",
+      "translation": "the flight",
+      "example": "Preciso de alterar o voo."
+    },
+    {
+      "id": "pt-travel-b1-b2-002",
+      "word": "a viagem de comboio",
+      "translation": "the train journey",
+      "example": "Preciso de alterar a viagem de comboio."
+    },
+    {
+      "id": "pt-travel-b1-b2-003",
+      "word": "o serviço de autocarro",
+      "translation": "the coach service",
+      "example": "Preciso de alterar o serviço de autocarro."
+    },
+    {
+      "id": "pt-travel-b1-b2-004",
+      "word": "a travessia de ferry",
+      "translation": "the ferry crossing",
+      "example": "Preciso de alterar a travessia de ferry."
+    },
+    {
+      "id": "pt-travel-b1-b2-005",
+      "word": "a reserva do hotel",
+      "translation": "the hotel reservation",
+      "example": "Preciso de alterar a reserva do hotel."
+    },
+    {
+      "id": "pt-travel-b1-b2-006",
+      "word": "a bagagem de porão",
+      "translation": "the checked luggage",
+      "example": "Preciso de alterar a bagagem de porão."
+    },
+    {
+      "id": "pt-travel-b1-b2-007",
+      "word": "o carro alugado",
+      "translation": "the rental car",
+      "example": "Preciso de alterar o carro alugado."
+    },
+    {
+      "id": "pt-travel-b1-b2-008",
+      "word": "o seguro de viagem",
+      "translation": "the travel insurance",
+      "example": "Preciso de alterar o seguro de viagem."
+    },
+    {
+      "id": "pt-travel-b1-b2-009",
+      "word": "a visita guiada",
+      "translation": "the guided tour",
+      "example": "Preciso de alterar a visita guiada."
+    },
+    {
+      "id": "pt-travel-b1-b2-010",
+      "word": "a ligação de transporte",
+      "translation": "the connecting service",
+      "example": "Preciso de alterar a ligação de transporte."
+    }
+  ]
+}

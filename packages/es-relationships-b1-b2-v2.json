@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-relationships-b1-b2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "relationships",
+  "categoryTitle": "Relationships & Emotions",
+  "title": "Relationships & Emotions",
+  "level": "B1-B2",
+  "emoji": "💞",
+  "description": "Communicate needs, set boundaries, repair trust, and handle conflict with empathy.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-relationships-b1-b2-001",
+      "word": "mis límites",
+      "translation": "my boundaries",
+      "example": "Quiero ser sincero sobre mis límites."
+    },
+    {
+      "id": "es-relationships-b1-b2-002",
+      "word": "tus sentimientos",
+      "translation": "your feelings",
+      "example": "Quiero ser sincero sobre tus sentimientos."
+    },
+    {
+      "id": "es-relationships-b1-b2-003",
+      "word": "el desacuerdo",
+      "translation": "the disagreement",
+      "example": "Quiero ser sincero sobre el desacuerdo."
+    },
+    {
+      "id": "es-relationships-b1-b2-004",
+      "word": "nuestra amistad",
+      "translation": "our friendship",
+      "example": "Quiero ser sincero sobre nuestra amistad."
+    },
+    {
+      "id": "es-relationships-b1-b2-005",
+      "word": "la promesa incumplida",
+      "translation": "the broken promise",
+      "example": "Quiero ser sincero sobre la promesa incumplida."
+    },
+    {
+      "id": "es-relationships-b1-b2-006",
+      "word": "la falta de confianza",
+      "translation": "the lack of trust",
+      "example": "Quiero ser sincero sobre la falta de confianza."
+    },
+    {
+      "id": "es-relationships-b1-b2-007",
+      "word": "el malentendido",
+      "translation": "the misunderstanding",
+      "example": "Quiero ser sincero sobre el malentendido."
+    },
+    {
+      "id": "es-relationships-b1-b2-008",
+      "word": "mi necesidad de espacio",
+      "translation": "my need for space",
+      "example": "Quiero ser sincero sobre mi necesidad de espacio."
+    },
+    {
+      "id": "es-relationships-b1-b2-009",
+      "word": "la disculpa",
+      "translation": "the apology",
+      "example": "Quiero ser sincero sobre la disculpa."
+    },
+    {
+      "id": "es-relationships-b1-b2-010",
+      "word": "nuestras expectativas",
+      "translation": "our expectations",
+      "example": "Quiero ser sincero sobre nuestras expectativas."
+    }
+  ]
+}

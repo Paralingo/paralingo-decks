@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-health-b1-b2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "health",
+  "categoryTitle": "Body & Health",
+  "title": "Body & Health",
+  "level": "B1-B2",
+  "emoji": "🩺",
+  "description": "Discuss symptoms, diagnosis, treatment, recovery, healthy habits, and healthcare appointments.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-health-b1-b2-001",
+      "word": "un dolor de cabeza persistente",
+      "translation": "a persistent headache",
+      "example": "Quisiera consejo sobre un dolor de cabeza persistente."
+    },
+    {
+      "id": "es-health-b1-b2-002",
+      "word": "fiebre alta",
+      "translation": "a high fever",
+      "example": "Quisiera consejo sobre fiebre alta."
+    },
+    {
+      "id": "es-health-b1-b2-003",
+      "word": "una reacción alérgica",
+      "translation": "an allergic reaction",
+      "example": "Quisiera consejo sobre una reacción alérgica."
+    },
+    {
+      "id": "es-health-b1-b2-004",
+      "word": "una lesión deportiva",
+      "translation": "a sports injury",
+      "example": "Quisiera consejo sobre una lesión deportiva."
+    },
+    {
+      "id": "es-health-b1-b2-005",
+      "word": "una infección respiratoria",
+      "translation": "a chest infection",
+      "example": "Quisiera consejo sobre una infección respiratoria."
+    },
+    {
+      "id": "es-health-b1-b2-006",
+      "word": "problemas para dormir",
+      "translation": "trouble sleeping",
+      "example": "Quisiera consejo sobre problemas para dormir."
+    },
+    {
+      "id": "es-health-b1-b2-007",
+      "word": "los efectos secundarios",
+      "translation": "side effects",
+      "example": "Quisiera consejo sobre los efectos secundarios."
+    },
+    {
+      "id": "es-health-b1-b2-008",
+      "word": "el plan de recuperación",
+      "translation": "the recovery plan",
+      "example": "Quisiera consejo sobre el plan de recuperación."
+    },
+    {
+      "id": "es-health-b1-b2-009",
+      "word": "una cita de seguimiento",
+      "translation": "a follow-up appointment",
+      "example": "Quisiera consejo sobre una cita de seguimiento."
+    },
+    {
+      "id": "es-health-b1-b2-010",
+      "word": "un cambio de alimentación",
+      "translation": "a change in diet",
+      "example": "Quisiera consejo sobre un cambio de alimentación."
+    }
+  ]
+}

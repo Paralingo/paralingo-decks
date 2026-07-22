@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-shopping-a1-a2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "shopping",
+  "categoryTitle": "Shopping & Services",
+  "title": "Shopping & Services",
+  "level": "A1-A2",
+  "emoji": "🛍️",
+  "description": "Shop for everyday items, ask about prices and sizes, pay, and use common local services.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-shopping-a1-a2-001",
+      "word": "esta camisa azul",
+      "translation": "this blue shirt",
+      "example": "¿Cuánto cuesta esta camisa azul?"
+    },
+    {
+      "id": "es-shopping-a1-a2-002",
+      "word": "una talla más pequeña",
+      "translation": "a smaller size",
+      "example": "¿Cuánto cuesta una talla más pequeña?"
+    },
+    {
+      "id": "es-shopping-a1-a2-003",
+      "word": "el pan fresco",
+      "translation": "the fresh bread",
+      "example": "¿Cuánto cuesta el pan fresco?"
+    },
+    {
+      "id": "es-shopping-a1-a2-004",
+      "word": "un billete de autobús",
+      "translation": "a bus ticket",
+      "example": "¿Cuánto cuesta un billete de autobús?"
+    },
+    {
+      "id": "es-shopping-a1-a2-005",
+      "word": "el precio total",
+      "translation": "the total price",
+      "example": "¿Cuánto cuesta el precio total?"
+    },
+    {
+      "id": "es-shopping-a1-a2-006",
+      "word": "el pago con tarjeta",
+      "translation": "the card payment",
+      "example": "¿Cuánto cuesta el pago con tarjeta?"
+    },
+    {
+      "id": "es-shopping-a1-a2-007",
+      "word": "el probador",
+      "translation": "the changing room",
+      "example": "¿Cuánto cuesta el probador?"
+    },
+    {
+      "id": "es-shopping-a1-a2-008",
+      "word": "la oficina de correos",
+      "translation": "the post office",
+      "example": "¿Cuánto cuesta la oficina de correos?"
+    },
+    {
+      "id": "es-shopping-a1-a2-009",
+      "word": "la peluquería",
+      "translation": "the hairdresser",
+      "example": "¿Cuánto cuesta la peluquería?"
+    },
+    {
+      "id": "es-shopping-a1-a2-010",
+      "word": "el recibo de compra",
+      "translation": "the shopping receipt",
+      "example": "¿Cuánto cuesta el recibo de compra?"
+    }
+  ]
+}

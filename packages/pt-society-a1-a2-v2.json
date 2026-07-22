@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-society-a1-a2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "society",
+  "categoryTitle": "Society & Culture",
+  "title": "Society & Culture",
+  "level": "A1-A2",
+  "emoji": "🏛️",
+  "description": "Talk about community, celebrations, customs, arts, and everyday cultural experiences.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-society-a1-a2-001",
+      "word": "o festival local",
+      "translation": "the local festival",
+      "example": "Vamos a o festival local este fim de semana."
+    },
+    {
+      "id": "pt-society-a1-a2-002",
+      "word": "o feriado nacional",
+      "translation": "the national holiday",
+      "example": "Vamos a o feriado nacional este fim de semana."
+    },
+    {
+      "id": "pt-society-a1-a2-003",
+      "word": "a dança tradicional",
+      "translation": "the traditional dance",
+      "example": "Vamos a a dança tradicional este fim de semana."
+    },
+    {
+      "id": "pt-society-a1-a2-004",
+      "word": "a biblioteca pública",
+      "translation": "the public library",
+      "example": "Vamos a a biblioteca pública este fim de semana."
+    },
+    {
+      "id": "pt-society-a1-a2-005",
+      "word": "o mercado do bairro",
+      "translation": "the neighborhood market",
+      "example": "Vamos a o mercado do bairro este fim de semana."
+    },
+    {
+      "id": "pt-society-a1-a2-006",
+      "word": "o concerto de música",
+      "translation": "the music concert",
+      "example": "Vamos a o concerto de música este fim de semana."
+    },
+    {
+      "id": "pt-society-a1-a2-007",
+      "word": "a exposição de arte",
+      "translation": "the art exhibition",
+      "example": "Vamos a a exposição de arte este fim de semana."
+    },
+    {
+      "id": "pt-society-a1-a2-008",
+      "word": "o centro comunitário",
+      "translation": "the community center",
+      "example": "Vamos a o centro comunitário este fim de semana."
+    },
+    {
+      "id": "pt-society-a1-a2-009",
+      "word": "a celebração familiar",
+      "translation": "the family celebration",
+      "example": "Vamos a a celebração familiar este fim de semana."
+    },
+    {
+      "id": "pt-society-a1-a2-010",
+      "word": "a tradição local",
+      "translation": "the local tradition",
+      "example": "Vamos a a tradição local este fim de semana."
+    }
+  ]
+}

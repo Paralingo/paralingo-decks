@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-society-b1-b2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "society",
+  "categoryTitle": "Society & Culture",
+  "title": "Society & Culture",
+  "level": "B1-B2",
+  "emoji": "🏛️",
+  "description": "Discuss institutions, media, civic participation, social change, and cultural differences.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-society-b1-b2-001",
+      "word": "a educação pública",
+      "translation": "public education",
+      "example": "O debate sobre a educação pública mudou recentemente."
+    },
+    {
+      "id": "pt-society-b1-b2-002",
+      "word": "o governo local",
+      "translation": "local government",
+      "example": "O debate sobre o governo local mudou recentemente."
+    },
+    {
+      "id": "pt-society-b1-b2-003",
+      "word": "o jornalismo independente",
+      "translation": "independent journalism",
+      "example": "O debate sobre o jornalismo independente mudou recentemente."
+    },
+    {
+      "id": "pt-society-b1-b2-004",
+      "word": "a diversidade cultural",
+      "translation": "cultural diversity",
+      "example": "O debate sobre a diversidade cultural mudou recentemente."
+    },
+    {
+      "id": "pt-society-b1-b2-005",
+      "word": "o voluntariado",
+      "translation": "voluntary work",
+      "example": "O debate sobre o voluntariado mudou recentemente."
+    },
+    {
+      "id": "pt-society-b1-b2-006",
+      "word": "a participação juvenil",
+      "translation": "youth participation",
+      "example": "O debate sobre a participação juvenil mudou recentemente."
+    },
+    {
+      "id": "pt-society-b1-b2-007",
+      "word": "a igualdade de oportunidades",
+      "translation": "equal opportunities",
+      "example": "O debate sobre a igualdade de oportunidades mudou recentemente."
+    },
+    {
+      "id": "pt-society-b1-b2-008",
+      "word": "o serviço público de comunicação",
+      "translation": "public broadcasting",
+      "example": "O debate sobre o serviço público de comunicação mudou recentemente."
+    },
+    {
+      "id": "pt-society-b1-b2-009",
+      "word": "o desenvolvimento urbano",
+      "translation": "urban development",
+      "example": "O debate sobre o desenvolvimento urbano mudou recentemente."
+    },
+    {
+      "id": "pt-society-b1-b2-010",
+      "word": "a mobilidade social",
+      "translation": "social mobility",
+      "example": "O debate sobre a mobilidade social mudou recentemente."
+    }
+  ]
+}

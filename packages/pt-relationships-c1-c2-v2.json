@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-relationships-c1-c2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "relationships",
+  "categoryTitle": "Relationships & Emotions",
+  "title": "Relationships & Emotions",
+  "level": "C1-C2",
+  "emoji": "💞",
+  "description": "Explore emotional nuance, attachment, vulnerability, identity, and complex interpersonal dynamics.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-relationships-c1-c2-001",
+      "word": "a vulnerabilidade emocional",
+      "translation": "emotional vulnerability",
+      "example": "Uma discussão ponderada sobre a vulnerabilidade emocional exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-002",
+      "word": "os padrões de vinculação",
+      "translation": "attachment patterns",
+      "example": "Uma discussão ponderada sobre os padrões de vinculação exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-003",
+      "word": "o ressentimento não expresso",
+      "translation": "unspoken resentment",
+      "example": "Uma discussão ponderada sobre o ressentimento não expresso exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-004",
+      "word": "a dependência mútua",
+      "translation": "mutual dependence",
+      "example": "Uma discussão ponderada sobre a dependência mútua exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-005",
+      "word": "a carga emocional desigual",
+      "translation": "unequal emotional labor",
+      "example": "Uma discussão ponderada sobre a carga emocional desigual exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-006",
+      "word": "as necessidades contraditórias",
+      "translation": "conflicting needs",
+      "example": "Uma discussão ponderada sobre as necessidades contraditórias exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-007",
+      "word": "o medo da rejeição",
+      "translation": "fear of rejection",
+      "example": "Uma discussão ponderada sobre o medo da rejeição exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-008",
+      "word": "a ambiguidade interpessoal",
+      "translation": "interpersonal ambiguity",
+      "example": "Uma discussão ponderada sobre a ambiguidade interpessoal exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-009",
+      "word": "a autoconsciência emocional",
+      "translation": "emotional self-awareness",
+      "example": "Uma discussão ponderada sobre a autoconsciência emocional exige empatia."
+    },
+    {
+      "id": "pt-relationships-c1-c2-010",
+      "word": "o equilíbrio entre intimidade e autonomia",
+      "translation": "the balance between intimacy and autonomy",
+      "example": "Uma discussão ponderada sobre o equilíbrio entre intimidade e autonomia exige empatia."
+    }
+  ]
+}

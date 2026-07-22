@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-society-c1-c2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "society",
+  "categoryTitle": "Society & Culture",
+  "title": "Society & Culture",
+  "level": "C1-C2",
+  "emoji": "🏛️",
+  "description": "Explore cultural heritage, language, arts, collective memory, customs, and cultural exchange.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-society-c1-c2-001",
+      "word": "la identidad colectiva",
+      "translation": "collective identity",
+      "example": "Un análisis matizado de la identidad colectiva requiere contexto histórico."
+    },
+    {
+      "id": "es-society-c1-c2-002",
+      "word": "el patrimonio cultural",
+      "translation": "cultural heritage",
+      "example": "Un análisis matizado de el patrimonio cultural requiere contexto histórico."
+    },
+    {
+      "id": "es-society-c1-c2-003",
+      "word": "la memoria histórica",
+      "translation": "historical memory",
+      "example": "Un análisis matizado de la memoria histórica requiere contexto histórico."
+    },
+    {
+      "id": "es-society-c1-c2-004",
+      "word": "el cambio lingüístico",
+      "translation": "language change",
+      "example": "Un análisis matizado de el cambio lingüístico requiere contexto histórico."
+    },
+    {
+      "id": "es-society-c1-c2-005",
+      "word": "los movimientos artísticos",
+      "translation": "artistic movements",
+      "example": "Un análisis matizado de los movimientos artísticos requiere contexto histórico."
+    },
+    {
+      "id": "es-society-c1-c2-006",
+      "word": "la tradición oral",
+      "translation": "oral tradition",
+      "example": "Un análisis matizado de la tradición oral requiere contexto histórico."
+    },
+    {
+      "id": "es-society-c1-c2-007",
+      "word": "el intercambio cultural",
+      "translation": "cultural exchange",
+      "example": "Un análisis matizado de el intercambio cultural requiere contexto histórico."
+    },
+    {
+      "id": "es-society-c1-c2-008",
+      "word": "la conservación del patrimonio",
+      "translation": "heritage preservation",
+      "example": "Un análisis matizado de la conservación del patrimonio requiere contexto histórico."
+    },
+    {
+      "id": "es-society-c1-c2-009",
+      "word": "el canon literario",
+      "translation": "literary canon",
+      "example": "Un análisis matizado de el canon literario requiere contexto histórico."
+    },
+    {
+      "id": "es-society-c1-c2-010",
+      "word": "los monumentos públicos",
+      "translation": "public monuments",
+      "example": "Un análisis matizado de los monumentos públicos requiere contexto histórico."
+    }
+  ]
+}

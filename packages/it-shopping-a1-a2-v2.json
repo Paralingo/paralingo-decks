@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-shopping-a1-a2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "shopping",
+  "categoryTitle": "Shopping & Services",
+  "title": "Shopping & Services",
+  "level": "A1-A2",
+  "emoji": "🛍️",
+  "description": "Shop for everyday items, ask about prices and sizes, pay, and use common local services.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-shopping-a1-a2-001",
+      "word": "questa camicia blu",
+      "translation": "this blue shirt",
+      "example": "Quanto costa questa camicia blu?"
+    },
+    {
+      "id": "it-shopping-a1-a2-002",
+      "word": "una taglia più piccola",
+      "translation": "a smaller size",
+      "example": "Quanto costa una taglia più piccola?"
+    },
+    {
+      "id": "it-shopping-a1-a2-003",
+      "word": "il pane fresco",
+      "translation": "the fresh bread",
+      "example": "Quanto costa il pane fresco?"
+    },
+    {
+      "id": "it-shopping-a1-a2-004",
+      "word": "un biglietto dell'autobus",
+      "translation": "a bus ticket",
+      "example": "Quanto costa un biglietto dell'autobus?"
+    },
+    {
+      "id": "it-shopping-a1-a2-005",
+      "word": "il prezzo totale",
+      "translation": "the total price",
+      "example": "Quanto costa il prezzo totale?"
+    },
+    {
+      "id": "it-shopping-a1-a2-006",
+      "word": "il pagamento con carta",
+      "translation": "the card payment",
+      "example": "Quanto costa il pagamento con carta?"
+    },
+    {
+      "id": "it-shopping-a1-a2-007",
+      "word": "il camerino",
+      "translation": "the changing room",
+      "example": "Quanto costa il camerino?"
+    },
+    {
+      "id": "it-shopping-a1-a2-008",
+      "word": "l'ufficio postale",
+      "translation": "the post office",
+      "example": "Quanto costa l'ufficio postale?"
+    },
+    {
+      "id": "it-shopping-a1-a2-009",
+      "word": "il parrucchiere",
+      "translation": "the hairdresser",
+      "example": "Quanto costa il parrucchiere?"
+    },
+    {
+      "id": "it-shopping-a1-a2-010",
+      "word": "lo scontrino",
+      "translation": "the shopping receipt",
+      "example": "Quanto costa lo scontrino?"
+    }
+  ]
+}

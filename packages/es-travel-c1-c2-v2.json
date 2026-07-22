@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-travel-c1-c2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "travel",
+  "categoryTitle": "Travel & Transport",
+  "title": "Travel & Transport",
+  "level": "C1-C2",
+  "emoji": "🧳",
+  "description": "Discuss tourism policy, mobility, sustainability, and complex travel issues.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-travel-c1-c2-001",
+      "word": "el turismo sostenible",
+      "translation": "sustainable tourism",
+      "example": "Las políticas públicas deberían priorizar el turismo sostenible."
+    },
+    {
+      "id": "es-travel-c1-c2-002",
+      "word": "la masificación turística",
+      "translation": "overtourism",
+      "example": "Las políticas públicas deberían priorizar la masificación turística."
+    },
+    {
+      "id": "es-travel-c1-c2-003",
+      "word": "el patrimonio cultural",
+      "translation": "cultural heritage",
+      "example": "Las políticas públicas deberían priorizar el patrimonio cultural."
+    },
+    {
+      "id": "es-travel-c1-c2-004",
+      "word": "la movilidad baja en carbono",
+      "translation": "low-carbon mobility",
+      "example": "Las políticas públicas deberían priorizar la movilidad baja en carbono."
+    },
+    {
+      "id": "es-travel-c1-c2-005",
+      "word": "el turismo accesible",
+      "translation": "accessible travel",
+      "example": "Las políticas públicas deberían priorizar el turismo accesible."
+    },
+    {
+      "id": "es-travel-c1-c2-006",
+      "word": "la gestión de destinos",
+      "translation": "destination management",
+      "example": "Las políticas públicas deberían priorizar la gestión de destinos."
+    },
+    {
+      "id": "es-travel-c1-c2-007",
+      "word": "la capacidad de acogida",
+      "translation": "visitor capacity",
+      "example": "Las políticas públicas deberían priorizar la capacidad de acogida."
+    },
+    {
+      "id": "es-travel-c1-c2-008",
+      "word": "las comunidades locales",
+      "translation": "local communities",
+      "example": "Las políticas públicas deberían priorizar las comunidades locales."
+    },
+    {
+      "id": "es-travel-c1-c2-009",
+      "word": "la infraestructura de transporte",
+      "translation": "transport infrastructure",
+      "example": "Las políticas públicas deberían priorizar la infraestructura de transporte."
+    },
+    {
+      "id": "es-travel-c1-c2-010",
+      "word": "la aviación responsable",
+      "translation": "responsible aviation",
+      "example": "Las políticas públicas deberían priorizar la aviación responsable."
+    }
+  ]
+}

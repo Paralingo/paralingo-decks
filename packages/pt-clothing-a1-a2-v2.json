@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-clothing-a1-a2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "clothing",
+  "categoryTitle": "Appearance & Clothing",
+  "title": "Appearance & Clothing",
+  "level": "A1-A2",
+  "emoji": "👗",
+  "description": "Describe clothes, colours, physical features, sizes, and simple personal style.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-clothing-a1-a2-001",
+      "word": "o casaco preto",
+      "translation": "the black jacket",
+      "example": "Hoje estou a usar o casaco preto."
+    },
+    {
+      "id": "pt-clothing-a1-a2-002",
+      "word": "os sapatos confortáveis",
+      "translation": "the comfortable shoes",
+      "example": "Hoje estou a usar os sapatos confortáveis."
+    },
+    {
+      "id": "pt-clothing-a1-a2-003",
+      "word": "a camisa às riscas",
+      "translation": "the striped shirt",
+      "example": "Hoje estou a usar a camisa às riscas."
+    },
+    {
+      "id": "pt-clothing-a1-a2-004",
+      "word": "o cabelo comprido",
+      "translation": "the long hair",
+      "example": "Hoje estou a usar o cabelo comprido."
+    },
+    {
+      "id": "pt-clothing-a1-a2-005",
+      "word": "os olhos castanhos",
+      "translation": "the brown eyes",
+      "example": "Hoje estou a usar os olhos castanhos."
+    },
+    {
+      "id": "pt-clothing-a1-a2-006",
+      "word": "a camisola quente",
+      "translation": "the warm sweater",
+      "example": "Hoje estou a usar a camisola quente."
+    },
+    {
+      "id": "pt-clothing-a1-a2-007",
+      "word": "o vestido de verão",
+      "translation": "the summer dress",
+      "example": "Hoje estou a usar o vestido de verão."
+    },
+    {
+      "id": "pt-clothing-a1-a2-008",
+      "word": "o tamanho certo",
+      "translation": "the right size",
+      "example": "Hoje estou a usar o tamanho certo."
+    },
+    {
+      "id": "pt-clothing-a1-a2-009",
+      "word": "o colar prateado",
+      "translation": "the silver necklace",
+      "example": "Hoje estou a usar o colar prateado."
+    },
+    {
+      "id": "pt-clothing-a1-a2-010",
+      "word": "o corte de cabelo curto",
+      "translation": "the short haircut",
+      "example": "Hoje estou a usar o corte de cabelo curto."
+    }
+  ]
+}

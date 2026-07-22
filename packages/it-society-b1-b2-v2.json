@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-society-b1-b2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "society",
+  "categoryTitle": "Society & Culture",
+  "title": "Society & Culture",
+  "level": "B1-B2",
+  "emoji": "🏛️",
+  "description": "Discuss institutions, media, civic participation, social change, and cultural differences.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-society-b1-b2-001",
+      "word": "l'istruzione pubblica",
+      "translation": "public education",
+      "example": "Il dibattito su l'istruzione pubblica è cambiato di recente."
+    },
+    {
+      "id": "it-society-b1-b2-002",
+      "word": "l'amministrazione locale",
+      "translation": "local government",
+      "example": "Il dibattito su l'amministrazione locale è cambiato di recente."
+    },
+    {
+      "id": "it-society-b1-b2-003",
+      "word": "il giornalismo indipendente",
+      "translation": "independent journalism",
+      "example": "Il dibattito su il giornalismo indipendente è cambiato di recente."
+    },
+    {
+      "id": "it-society-b1-b2-004",
+      "word": "la diversità culturale",
+      "translation": "cultural diversity",
+      "example": "Il dibattito su la diversità culturale è cambiato di recente."
+    },
+    {
+      "id": "it-society-b1-b2-005",
+      "word": "il volontariato",
+      "translation": "voluntary work",
+      "example": "Il dibattito su il volontariato è cambiato di recente."
+    },
+    {
+      "id": "it-society-b1-b2-006",
+      "word": "la partecipazione giovanile",
+      "translation": "youth participation",
+      "example": "Il dibattito su la partecipazione giovanile è cambiato di recente."
+    },
+    {
+      "id": "it-society-b1-b2-007",
+      "word": "le pari opportunità",
+      "translation": "equal opportunities",
+      "example": "Il dibattito su le pari opportunità è cambiato di recente."
+    },
+    {
+      "id": "it-society-b1-b2-008",
+      "word": "il servizio pubblico radiotelevisivo",
+      "translation": "public broadcasting",
+      "example": "Il dibattito su il servizio pubblico radiotelevisivo è cambiato di recente."
+    },
+    {
+      "id": "it-society-b1-b2-009",
+      "word": "lo sviluppo urbano",
+      "translation": "urban development",
+      "example": "Il dibattito su lo sviluppo urbano è cambiato di recente."
+    },
+    {
+      "id": "it-society-b1-b2-010",
+      "word": "la mobilità sociale",
+      "translation": "social mobility",
+      "example": "Il dibattito su la mobilità sociale è cambiato di recente."
+    }
+  ]
+}

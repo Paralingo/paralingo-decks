@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-health-a1-a2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "health",
+  "categoryTitle": "Body & Health",
+  "title": "Body & Health",
+  "level": "A1-A2",
+  "emoji": "🩺",
+  "description": "Learn body parts, describe pain and common symptoms, and ask for basic medical help.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-health-a1-a2-001",
+      "word": "la testa",
+      "translation": "head",
+      "example": "Mi fa male la testa."
+    },
+    {
+      "id": "it-health-a1-a2-002",
+      "word": "la gola",
+      "translation": "throat",
+      "example": "Mi fa male la gola."
+    },
+    {
+      "id": "it-health-a1-a2-003",
+      "word": "lo stomaco",
+      "translation": "stomach",
+      "example": "Mi fa male lo stomaco."
+    },
+    {
+      "id": "it-health-a1-a2-004",
+      "word": "la schiena",
+      "translation": "back",
+      "example": "Mi fa male la schiena."
+    },
+    {
+      "id": "it-health-a1-a2-005",
+      "word": "il collo",
+      "translation": "neck",
+      "example": "Mi fa male il collo."
+    },
+    {
+      "id": "it-health-a1-a2-006",
+      "word": "il ginocchio",
+      "translation": "knee",
+      "example": "Mi fa male il ginocchio."
+    },
+    {
+      "id": "it-health-a1-a2-007",
+      "word": "il braccio",
+      "translation": "arm",
+      "example": "Mi fa male il braccio."
+    },
+    {
+      "id": "it-health-a1-a2-008",
+      "word": "la gamba",
+      "translation": "leg",
+      "example": "Mi fa male la gamba."
+    },
+    {
+      "id": "it-health-a1-a2-009",
+      "word": "la mano",
+      "translation": "hand",
+      "example": "Mi fa male la mano."
+    },
+    {
+      "id": "it-health-a1-a2-010",
+      "word": "il piede",
+      "translation": "foot",
+      "example": "Mi fa male il piede."
+    }
+  ]
+}

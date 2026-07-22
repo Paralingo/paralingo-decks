@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-travel-a1-a2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "travel",
+  "categoryTitle": "Travel & Transport",
+  "title": "Travel & Transport",
+  "level": "A1-A2",
+  "emoji": "🧳",
+  "description": "Navigate common journeys, accommodation, and everyday travel situations.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-travel-a1-a2-001",
+      "word": "l'aeroporto",
+      "translation": "the airport",
+      "example": "Dov'è l'aeroporto?"
+    },
+    {
+      "id": "it-travel-a1-a2-002",
+      "word": "la stazione ferroviaria",
+      "translation": "the train station",
+      "example": "Dov'è la stazione ferroviaria?"
+    },
+    {
+      "id": "it-travel-a1-a2-003",
+      "word": "il centro città",
+      "translation": "the city center",
+      "example": "Dov'è il centro città?"
+    },
+    {
+      "id": "it-travel-a1-a2-004",
+      "word": "il centro storico",
+      "translation": "the old town",
+      "example": "Dov'è il centro storico?"
+    },
+    {
+      "id": "it-travel-a1-a2-005",
+      "word": "l'albergo",
+      "translation": "the hotel",
+      "example": "Dov'è l'albergo?"
+    },
+    {
+      "id": "it-travel-a1-a2-006",
+      "word": "il museo",
+      "translation": "the museum",
+      "example": "Dov'è il museo?"
+    },
+    {
+      "id": "it-travel-a1-a2-007",
+      "word": "la spiaggia",
+      "translation": "the beach",
+      "example": "Dov'è la spiaggia?"
+    },
+    {
+      "id": "it-travel-a1-a2-008",
+      "word": "il porto",
+      "translation": "the port",
+      "example": "Dov'è il porto?"
+    },
+    {
+      "id": "it-travel-a1-a2-009",
+      "word": "il mercato",
+      "translation": "the market",
+      "example": "Dov'è il mercato?"
+    },
+    {
+      "id": "it-travel-a1-a2-010",
+      "word": "la piazza principale",
+      "translation": "the main square",
+      "example": "Dov'è la piazza principale?"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-work-b1-b2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "work",
+  "categoryTitle": "Work & Careers",
+  "title": "Work & Careers",
+  "level": "B1-B2",
+  "emoji": "💼",
+  "description": "Handle applications, interviews, projects, feedback, workplace communication, and professional development.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-work-b1-b2-001",
+      "word": "a candidatura a emprego",
+      "translation": "the job application",
+      "example": "Gostaria de discutir a candidatura a emprego."
+    },
+    {
+      "id": "pt-work-b1-b2-002",
+      "word": "o contrato de trabalho",
+      "translation": "the employment contract",
+      "example": "Gostaria de discutir o contrato de trabalho."
+    },
+    {
+      "id": "pt-work-b1-b2-003",
+      "word": "a avaliação de desempenho",
+      "translation": "the performance review",
+      "example": "Gostaria de discutir a avaliação de desempenho."
+    },
+    {
+      "id": "pt-work-b1-b2-004",
+      "word": "o prazo do projeto",
+      "translation": "the project deadline",
+      "example": "Gostaria de discutir o prazo do projeto."
+    },
+    {
+      "id": "pt-work-b1-b2-005",
+      "word": "o programa de formação",
+      "translation": "the training programme",
+      "example": "Gostaria de discutir o programa de formação."
+    },
+    {
+      "id": "pt-work-b1-b2-006",
+      "word": "a negociação salarial",
+      "translation": "the salary negotiation",
+      "example": "Gostaria de discutir a negociação salarial."
+    },
+    {
+      "id": "pt-work-b1-b2-007",
+      "word": "a política de trabalho remoto",
+      "translation": "the remote-work policy",
+      "example": "Gostaria de discutir a política de trabalho remoto."
+    },
+    {
+      "id": "pt-work-b1-b2-008",
+      "word": "a oportunidade de promoção",
+      "translation": "the promotion opportunity",
+      "example": "Gostaria de discutir a oportunidade de promoção."
+    },
+    {
+      "id": "pt-work-b1-b2-009",
+      "word": "a apresentação ao cliente",
+      "translation": "the client presentation",
+      "example": "Gostaria de discutir a apresentação ao cliente."
+    },
+    {
+      "id": "pt-work-b1-b2-010",
+      "word": "o feedback construtivo",
+      "translation": "the constructive feedback",
+      "example": "Gostaria de discutir o feedback construtivo."
+    }
+  ]
+}

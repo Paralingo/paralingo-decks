@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-health-c1-c2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "health",
+  "categoryTitle": "Body & Health",
+  "title": "Body & Health",
+  "level": "C1-C2",
+  "emoji": "🩺",
+  "description": "Analyze healthcare systems, medical evidence, chronic illness, prevention, and health ethics.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-health-c1-c2-001",
+      "word": "la disuguaglianza sanitaria",
+      "translation": "health inequality",
+      "example": "Le politiche su la disuguaglianza sanitaria dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-002",
+      "word": "la medicina preventiva",
+      "translation": "preventive medicine",
+      "example": "Le politiche su la medicina preventiva dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-003",
+      "word": "la resistenza antimicrobica",
+      "translation": "antimicrobial resistance",
+      "example": "Le politiche su la resistenza antimicrobica dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-004",
+      "word": "la gestione delle malattie croniche",
+      "translation": "chronic disease management",
+      "example": "Le politiche su la gestione delle malattie croniche dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-005",
+      "word": "il consenso informato",
+      "translation": "informed consent",
+      "example": "Le politiche su il consenso informato dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-006",
+      "word": "l'assistenza per la salute mentale",
+      "translation": "mental health provision",
+      "example": "Le politiche su l'assistenza per la salute mentale dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-007",
+      "word": "la disinformazione medica",
+      "translation": "medical misinformation",
+      "example": "Le politiche su la disinformazione medica dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-008",
+      "word": "l'autonomia del paziente",
+      "translation": "patient autonomy",
+      "example": "Le politiche su l'autonomia del paziente dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-009",
+      "word": "l'accesso alle cure primarie",
+      "translation": "access to primary care",
+      "example": "Le politiche su l'accesso alle cure primarie dovrebbero basarsi su prove solide."
+    },
+    {
+      "id": "it-health-c1-c2-010",
+      "word": "il trattamento basato sulle prove",
+      "translation": "evidence-based treatment",
+      "example": "Le politiche su il trattamento basato sulle prove dovrebbero basarsi su prove solide."
+    }
+  ]
+}

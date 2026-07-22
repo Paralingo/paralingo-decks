@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-health-b1-b2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "health",
+  "categoryTitle": "Body & Health",
+  "title": "Body & Health",
+  "level": "B1-B2",
+  "emoji": "🩺",
+  "description": "Discuss symptoms, diagnosis, treatment, recovery, healthy habits, and healthcare appointments.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-health-b1-b2-001",
+      "word": "un mal di testa persistente",
+      "translation": "a persistent headache",
+      "example": "Vorrei un consiglio su un mal di testa persistente."
+    },
+    {
+      "id": "it-health-b1-b2-002",
+      "word": "la febbre alta",
+      "translation": "a high fever",
+      "example": "Vorrei un consiglio su la febbre alta."
+    },
+    {
+      "id": "it-health-b1-b2-003",
+      "word": "una reazione allergica",
+      "translation": "an allergic reaction",
+      "example": "Vorrei un consiglio su una reazione allergica."
+    },
+    {
+      "id": "it-health-b1-b2-004",
+      "word": "un infortunio sportivo",
+      "translation": "a sports injury",
+      "example": "Vorrei un consiglio su un infortunio sportivo."
+    },
+    {
+      "id": "it-health-b1-b2-005",
+      "word": "un'infezione toracica",
+      "translation": "a chest infection",
+      "example": "Vorrei un consiglio su un'infezione toracica."
+    },
+    {
+      "id": "it-health-b1-b2-006",
+      "word": "difficoltà a dormire",
+      "translation": "trouble sleeping",
+      "example": "Vorrei un consiglio su difficoltà a dormire."
+    },
+    {
+      "id": "it-health-b1-b2-007",
+      "word": "gli effetti collaterali",
+      "translation": "side effects",
+      "example": "Vorrei un consiglio su gli effetti collaterali."
+    },
+    {
+      "id": "it-health-b1-b2-008",
+      "word": "il piano di recupero",
+      "translation": "the recovery plan",
+      "example": "Vorrei un consiglio su il piano di recupero."
+    },
+    {
+      "id": "it-health-b1-b2-009",
+      "word": "una visita di controllo",
+      "translation": "a follow-up appointment",
+      "example": "Vorrei un consiglio su una visita di controllo."
+    },
+    {
+      "id": "it-health-b1-b2-010",
+      "word": "un cambiamento nella dieta",
+      "translation": "a change in diet",
+      "example": "Vorrei un consiglio su un cambiamento nella dieta."
+    }
+  ]
+}

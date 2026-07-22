@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-conversation-b1-b2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "conversation",
+  "categoryTitle": "Social & Conversation",
+  "title": "Social & Conversation",
+  "level": "B1-B2",
+  "emoji": "💬",
+  "description": "Express opinions, tell stories, give advice, disagree tactfully, and resolve misunderstandings.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-conversation-b1-b2-001",
+      "word": "la situación",
+      "translation": "the situation",
+      "example": "Déjame explicar la situación con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-002",
+      "word": "lo que ocurrió",
+      "translation": "what happened",
+      "example": "Déjame explicar lo que ocurrió con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-003",
+      "word": "tu punto de vista",
+      "translation": "your point of view",
+      "example": "Déjame explicar tu punto de vista con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-004",
+      "word": "el malentendido",
+      "translation": "the misunderstanding",
+      "example": "Déjame explicar el malentendido con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-005",
+      "word": "la decisión",
+      "translation": "the decision",
+      "example": "Déjame explicar la decisión con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-006",
+      "word": "el problema",
+      "translation": "the problem",
+      "example": "Déjame explicar el problema con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-007",
+      "word": "el consejo",
+      "translation": "the advice",
+      "example": "Déjame explicar el consejo con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-008",
+      "word": "el cambio de planes",
+      "translation": "the change of plan",
+      "example": "Déjame explicar el cambio de planes con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-009",
+      "word": "la conversación",
+      "translation": "the conversation",
+      "example": "Déjame explicar la conversación con más claridad."
+    },
+    {
+      "id": "es-conversation-b1-b2-010",
+      "word": "la posible solución",
+      "translation": "the possible solution",
+      "example": "Déjame explicar la posible solución con más claridad."
+    }
+  ]
+}

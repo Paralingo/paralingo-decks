@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-everyday-c1-c2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "everyday",
+  "categoryTitle": "Everyday Essentials",
+  "title": "Everyday Essentials",
+  "level": "C1-C2",
+  "emoji": "🗓️",
+  "description": "Discuss modern life, public services, well-being, rights, and social change with precision.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-everyday-c1-c2-001",
+      "word": "o equilíbrio entre vida pessoal e profissional",
+      "translation": "work-life balance",
+      "example": "O debate público sobre o equilíbrio entre vida pessoal e profissional carece muitas vezes de nuance."
+    },
+    {
+      "id": "pt-everyday-c1-c2-002",
+      "word": "a privacidade digital",
+      "translation": "digital privacy",
+      "example": "O debate público sobre a privacidade digital carece muitas vezes de nuance."
+    },
+    {
+      "id": "pt-everyday-c1-c2-003",
+      "word": "a acessibilidade da habitação",
+      "translation": "housing affordability",
+      "example": "O debate público sobre a acessibilidade da habitação carece muitas vezes de nuance."
+    },
+    {
+      "id": "pt-everyday-c1-c2-004",
+      "word": "a proteção do consumidor",
+      "translation": "consumer protection",
+      "example": "O debate público sobre a proteção do consumidor carece muitas vezes de nuance."
+    },
+    {
+      "id": "pt-everyday-c1-c2-005",
+      "word": "a saúde pública",
+      "translation": "public health",
+      "example": "O debate público sobre a saúde pública carece muitas vezes de nuance."
+    },
+    {
+      "id": "pt-everyday-c1-c2-006",
+      "word": "a literacia mediática",
+      "translation": "media literacy",
+      "example": "O debate público sobre a literacia mediática carece muitas vezes de nuance."
+    },
+    {
+      "id": "pt-everyday-c1-c2-007",
+      "word": "a desigualdade social",
+      "translation": "social inequality",
+      "example": "O debate público sobre a desigualdade social carece muitas vezes de nuance."
+    },
+    {
+      "id": "pt-everyday-c1-c2-008",
+      "word": "a mudança demográfica",
+      "translation": "demographic change",
+      "example": "O debate público sobre a mudança demográfica carece muitas vezes de nuance."
+    },
+    {
+      "id": "pt-everyday-c1-c2-009",
+      "word": "a coesão comunitária",
+      "translation": "community cohesion",
+      "example": "O debate público sobre a coesão comunitária carece muitas vezes de nuance."
+    },
+    {
+      "id": "pt-everyday-c1-c2-010",
+      "word": "o bem-estar pessoal",
+      "translation": "personal well-being",
+      "example": "O debate público sobre o bem-estar pessoal carece muitas vezes de nuance."
+    }
+  ]
+}

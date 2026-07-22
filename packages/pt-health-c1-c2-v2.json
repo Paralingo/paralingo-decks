@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-health-c1-c2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "health",
+  "categoryTitle": "Body & Health",
+  "title": "Body & Health",
+  "level": "C1-C2",
+  "emoji": "🩺",
+  "description": "Analyze healthcare systems, medical evidence, chronic illness, prevention, and health ethics.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-health-c1-c2-001",
+      "word": "a desigualdade na saúde",
+      "translation": "health inequality",
+      "example": "As políticas sobre a desigualdade na saúde deveriam assentar em evidência robusta."
+    },
+    {
+      "id": "pt-health-c1-c2-002",
+      "word": "a medicina preventiva",
+      "translation": "preventive medicine",
+      "example": "As políticas sobre a medicina preventiva deveriam assentar em evidência robusta."
+    },
+    {
+      "id": "pt-health-c1-c2-003",
+      "word": "a resistência antimicrobiana",
+      "translation": "antimicrobial resistance",
+      "example": "As políticas sobre a resistência antimicrobiana deveriam assentar em evidência robusta."
+    },
+    {
+      "id": "pt-health-c1-c2-004",
+      "word": "a gestão da doença crónica",
+      "translation": "chronic disease management",
+      "example": "As políticas sobre a gestão da doença crónica deveriam assentar em evidência robusta."
+    },
+    {
+      "id": "pt-health-c1-c2-005",
+      "word": "o consentimento informado",
+      "translation": "informed consent",
+      "example": "As políticas sobre o consentimento informado deveriam assentar em evidência robusta."
+    },
+    {
+      "id": "pt-health-c1-c2-006",
+      "word": "a prestação de cuidados de saúde mental",
+      "translation": "mental health provision",
+      "example": "As políticas sobre a prestação de cuidados de saúde mental deveriam assentar em evidência robusta."
+    },
+    {
+      "id": "pt-health-c1-c2-007",
+      "word": "a desinformação médica",
+      "translation": "medical misinformation",
+      "example": "As políticas sobre a desinformação médica deveriam assentar em evidência robusta."
+    },
+    {
+      "id": "pt-health-c1-c2-008",
+      "word": "a autonomia do doente",
+      "translation": "patient autonomy",
+      "example": "As políticas sobre a autonomia do doente deveriam assentar em evidência robusta."
+    },
+    {
+      "id": "pt-health-c1-c2-009",
+      "word": "o acesso aos cuidados primários",
+      "translation": "access to primary care",
+      "example": "As políticas sobre o acesso aos cuidados primários deveriam assentar em evidência robusta."
+    },
+    {
+      "id": "pt-health-c1-c2-010",
+      "word": "o tratamento baseado na evidência",
+      "translation": "evidence-based treatment",
+      "example": "As políticas sobre o tratamento baseado na evidência deveriam assentar em evidência robusta."
+    }
+  ]
+}

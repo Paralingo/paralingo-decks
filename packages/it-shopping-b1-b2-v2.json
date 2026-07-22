@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-shopping-b1-b2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "shopping",
+  "categoryTitle": "Shopping & Services",
+  "title": "Shopping & Services",
+  "level": "B1-B2",
+  "emoji": "🛍️",
+  "description": "Handle returns, deliveries, subscriptions, appointments, repairs, and customer-service problems.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-shopping-b1-b2-001",
+      "word": "la politica di reso",
+      "translation": "the return policy",
+      "example": "Vorrei chiarire la politica di reso."
+    },
+    {
+      "id": "it-shopping-b1-b2-002",
+      "word": "il prodotto difettoso",
+      "translation": "the faulty product",
+      "example": "Vorrei chiarire il prodotto difettoso."
+    },
+    {
+      "id": "it-shopping-b1-b2-003",
+      "word": "il ritardo nella consegna",
+      "translation": "the delivery delay",
+      "example": "Vorrei chiarire il ritardo nella consegna."
+    },
+    {
+      "id": "it-shopping-b1-b2-004",
+      "word": "il periodo di garanzia",
+      "translation": "the warranty period",
+      "example": "Vorrei chiarire il periodo di garanzia."
+    },
+    {
+      "id": "it-shopping-b1-b2-005",
+      "word": "il banco assistenza clienti",
+      "translation": "the customer-service desk",
+      "example": "Vorrei chiarire il banco assistenza clienti."
+    },
+    {
+      "id": "it-shopping-b1-b2-006",
+      "word": "il preventivo di riparazione",
+      "translation": "the repair estimate",
+      "example": "Vorrei chiarire il preventivo di riparazione."
+    },
+    {
+      "id": "it-shopping-b1-b2-007",
+      "word": "il rinnovo automatico",
+      "translation": "the automatic renewal",
+      "example": "Vorrei chiarire il rinnovo automatico."
+    },
+    {
+      "id": "it-shopping-b1-b2-008",
+      "word": "l'appuntamento di assistenza",
+      "translation": "the service appointment",
+      "example": "Vorrei chiarire l'appuntamento di assistenza."
+    },
+    {
+      "id": "it-shopping-b1-b2-009",
+      "word": "l'indirizzo di consegna",
+      "translation": "the delivery address",
+      "example": "Vorrei chiarire l'indirizzo di consegna."
+    },
+    {
+      "id": "it-shopping-b1-b2-010",
+      "word": "la richiesta di rimborso",
+      "translation": "the refund request",
+      "example": "Vorrei chiarire la richiesta di rimborso."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-society-c1-c2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "society",
+  "categoryTitle": "Society & Culture",
+  "title": "Society & Culture",
+  "level": "C1-C2",
+  "emoji": "🏛️",
+  "description": "Explore cultural heritage, language, arts, collective memory, customs, and cultural exchange.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-society-c1-c2-001",
+      "word": "a identidade coletiva",
+      "translation": "collective identity",
+      "example": "Uma análise ponderada de a identidade coletiva exige contexto histórico."
+    },
+    {
+      "id": "pt-society-c1-c2-002",
+      "word": "o património cultural",
+      "translation": "cultural heritage",
+      "example": "Uma análise ponderada de o património cultural exige contexto histórico."
+    },
+    {
+      "id": "pt-society-c1-c2-003",
+      "word": "a memória histórica",
+      "translation": "historical memory",
+      "example": "Uma análise ponderada de a memória histórica exige contexto histórico."
+    },
+    {
+      "id": "pt-society-c1-c2-004",
+      "word": "a mudança linguística",
+      "translation": "language change",
+      "example": "Uma análise ponderada de a mudança linguística exige contexto histórico."
+    },
+    {
+      "id": "pt-society-c1-c2-005",
+      "word": "os movimentos artísticos",
+      "translation": "artistic movements",
+      "example": "Uma análise ponderada de os movimentos artísticos exige contexto histórico."
+    },
+    {
+      "id": "pt-society-c1-c2-006",
+      "word": "a tradição oral",
+      "translation": "oral tradition",
+      "example": "Uma análise ponderada de a tradição oral exige contexto histórico."
+    },
+    {
+      "id": "pt-society-c1-c2-007",
+      "word": "o intercâmbio cultural",
+      "translation": "cultural exchange",
+      "example": "Uma análise ponderada de o intercâmbio cultural exige contexto histórico."
+    },
+    {
+      "id": "pt-society-c1-c2-008",
+      "word": "a preservação do património",
+      "translation": "heritage preservation",
+      "example": "Uma análise ponderada de a preservação do património exige contexto histórico."
+    },
+    {
+      "id": "pt-society-c1-c2-009",
+      "word": "o cânone literário",
+      "translation": "literary canon",
+      "example": "Uma análise ponderada de o cânone literário exige contexto histórico."
+    },
+    {
+      "id": "pt-society-c1-c2-010",
+      "word": "os monumentos públicos",
+      "translation": "public monuments",
+      "example": "Uma análise ponderada de os monumentos públicos exige contexto histórico."
+    }
+  ]
+}

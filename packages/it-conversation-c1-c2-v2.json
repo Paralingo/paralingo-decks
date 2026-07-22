@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-conversation-c1-c2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "conversation",
+  "categoryTitle": "Social & Conversation",
+  "title": "Social & Conversation",
+  "level": "C1-C2",
+  "emoji": "💬",
+  "description": "Communicate with nuance, diplomacy, persuasion, humor, and sensitivity across registers.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-conversation-c1-c2-001",
+      "word": "l'ipotesi sottostante",
+      "translation": "the underlying assumption",
+      "example": "Potrebbe essere utile riformulare l'ipotesi sottostante."
+    },
+    {
+      "id": "it-conversation-c1-c2-002",
+      "word": "il contesto più ampio",
+      "translation": "the broader context",
+      "example": "Potrebbe essere utile riformulare il contesto più ampio."
+    },
+    {
+      "id": "it-conversation-c1-c2-003",
+      "word": "il significato implicito",
+      "translation": "the implied meaning",
+      "example": "Potrebbe essere utile riformulare il significato implicito."
+    },
+    {
+      "id": "it-conversation-c1-c2-004",
+      "word": "la questione delicata",
+      "translation": "the sensitive issue",
+      "example": "Potrebbe essere utile riformulare la questione delicata."
+    },
+    {
+      "id": "it-conversation-c1-c2-005",
+      "word": "l'apparente contraddizione",
+      "translation": "the apparent contradiction",
+      "example": "Potrebbe essere utile riformulare l'apparente contraddizione."
+    },
+    {
+      "id": "it-conversation-c1-c2-006",
+      "word": "la strategia retorica",
+      "translation": "the rhetorical strategy",
+      "example": "Potrebbe essere utile riformulare la strategia retorica."
+    },
+    {
+      "id": "it-conversation-c1-c2-007",
+      "word": "la differenza di registro",
+      "translation": "the difference in register",
+      "example": "Potrebbe essere utile riformulare la differenza di registro."
+    },
+    {
+      "id": "it-conversation-c1-c2-008",
+      "word": "la preoccupazione inespressa",
+      "translation": "the unspoken concern",
+      "example": "Potrebbe essere utile riformulare la preoccupazione inespressa."
+    },
+    {
+      "id": "it-conversation-c1-c2-009",
+      "word": "l'interpretazione alternativa",
+      "translation": "the alternative interpretation",
+      "example": "Potrebbe essere utile riformulare l'interpretazione alternativa."
+    },
+    {
+      "id": "it-conversation-c1-c2-010",
+      "word": "il punto di disaccordo",
+      "translation": "the point of disagreement",
+      "example": "Potrebbe essere utile riformulare il punto di disaccordo."
+    }
+  ]
+}

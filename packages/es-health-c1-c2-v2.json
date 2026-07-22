@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-health-c1-c2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "health",
+  "categoryTitle": "Body & Health",
+  "title": "Body & Health",
+  "level": "C1-C2",
+  "emoji": "🩺",
+  "description": "Analyze healthcare systems, medical evidence, chronic illness, prevention, and health ethics.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-health-c1-c2-001",
+      "word": "la desigualdad sanitaria",
+      "translation": "health inequality",
+      "example": "Las políticas sobre la desigualdad sanitaria deberían basarse en pruebas sólidas."
+    },
+    {
+      "id": "es-health-c1-c2-002",
+      "word": "la medicina preventiva",
+      "translation": "preventive medicine",
+      "example": "Las políticas sobre la medicina preventiva deberían basarse en pruebas sólidas."
+    },
+    {
+      "id": "es-health-c1-c2-003",
+      "word": "la resistencia antimicrobiana",
+      "translation": "antimicrobial resistance",
+      "example": "Las políticas sobre la resistencia antimicrobiana deberían basarse en pruebas sólidas."
+    },
+    {
+      "id": "es-health-c1-c2-004",
+      "word": "el manejo de enfermedades crónicas",
+      "translation": "chronic disease management",
+      "example": "Las políticas sobre el manejo de enfermedades crónicas deberían basarse en pruebas sólidas."
+    },
+    {
+      "id": "es-health-c1-c2-005",
+      "word": "el consentimiento informado",
+      "translation": "informed consent",
+      "example": "Las políticas sobre el consentimiento informado deberían basarse en pruebas sólidas."
+    },
+    {
+      "id": "es-health-c1-c2-006",
+      "word": "la atención de salud mental",
+      "translation": "mental health provision",
+      "example": "Las políticas sobre la atención de salud mental deberían basarse en pruebas sólidas."
+    },
+    {
+      "id": "es-health-c1-c2-007",
+      "word": "la desinformación médica",
+      "translation": "medical misinformation",
+      "example": "Las políticas sobre la desinformación médica deberían basarse en pruebas sólidas."
+    },
+    {
+      "id": "es-health-c1-c2-008",
+      "word": "la autonomía del paciente",
+      "translation": "patient autonomy",
+      "example": "Las políticas sobre la autonomía del paciente deberían basarse en pruebas sólidas."
+    },
+    {
+      "id": "es-health-c1-c2-009",
+      "word": "el acceso a la atención primaria",
+      "translation": "access to primary care",
+      "example": "Las políticas sobre el acceso a la atención primaria deberían basarse en pruebas sólidas."
+    },
+    {
+      "id": "es-health-c1-c2-010",
+      "word": "el tratamiento basado en la evidencia",
+      "translation": "evidence-based treatment",
+      "example": "Las políticas sobre el tratamiento basado en la evidencia deberían basarse en pruebas sólidas."
+    }
+  ]
+}

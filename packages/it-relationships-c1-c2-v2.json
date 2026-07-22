@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-relationships-c1-c2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "relationships",
+  "categoryTitle": "Relationships & Emotions",
+  "title": "Relationships & Emotions",
+  "level": "C1-C2",
+  "emoji": "💞",
+  "description": "Explore emotional nuance, attachment, vulnerability, identity, and complex interpersonal dynamics.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-relationships-c1-c2-001",
+      "word": "la vulnerabilità emotiva",
+      "translation": "emotional vulnerability",
+      "example": "Una discussione articolata di la vulnerabilità emotiva richiede empatia."
+    },
+    {
+      "id": "it-relationships-c1-c2-002",
+      "word": "i modelli di attaccamento",
+      "translation": "attachment patterns",
+      "example": "Una discussione articolata di i modelli di attaccamento richiede empatia."
+    },
+    {
+      "id": "it-relationships-c1-c2-003",
+      "word": "il risentimento inespresso",
+      "translation": "unspoken resentment",
+      "example": "Una discussione articolata di il risentimento inespresso richiede empatia."
+    },
+    {
+      "id": "it-relationships-c1-c2-004",
+      "word": "la dipendenza reciproca",
+      "translation": "mutual dependence",
+      "example": "Una discussione articolata di la dipendenza reciproca richiede empatia."
+    },
+    {
+      "id": "it-relationships-c1-c2-005",
+      "word": "il carico emotivo diseguale",
+      "translation": "unequal emotional labor",
+      "example": "Una discussione articolata di il carico emotivo diseguale richiede empatia."
+    },
+    {
+      "id": "it-relationships-c1-c2-006",
+      "word": "i bisogni contrastanti",
+      "translation": "conflicting needs",
+      "example": "Una discussione articolata di i bisogni contrastanti richiede empatia."
+    },
+    {
+      "id": "it-relationships-c1-c2-007",
+      "word": "la paura del rifiuto",
+      "translation": "fear of rejection",
+      "example": "Una discussione articolata di la paura del rifiuto richiede empatia."
+    },
+    {
+      "id": "it-relationships-c1-c2-008",
+      "word": "l'ambiguità interpersonale",
+      "translation": "interpersonal ambiguity",
+      "example": "Una discussione articolata di l'ambiguità interpersonale richiede empatia."
+    },
+    {
+      "id": "it-relationships-c1-c2-009",
+      "word": "la consapevolezza emotiva",
+      "translation": "emotional self-awareness",
+      "example": "Una discussione articolata di la consapevolezza emotiva richiede empatia."
+    },
+    {
+      "id": "it-relationships-c1-c2-010",
+      "word": "l'equilibrio tra intimità e autonomia",
+      "translation": "the balance between intimacy and autonomy",
+      "example": "Una discussione articolata di l'equilibrio tra intimità e autonomia richiede empatia."
+    }
+  ]
+}

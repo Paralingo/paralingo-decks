@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-everyday-c1-c2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "everyday",
+  "categoryTitle": "Everyday Essentials",
+  "title": "Everyday Essentials",
+  "level": "C1-C2",
+  "emoji": "🗓️",
+  "description": "Discuss modern life, public services, well-being, rights, and social change with precision.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-everyday-c1-c2-001",
+      "word": "el equilibrio entre vida y trabajo",
+      "translation": "work-life balance",
+      "example": "El debate público sobre el equilibrio entre vida y trabajo suele carecer de matices."
+    },
+    {
+      "id": "es-everyday-c1-c2-002",
+      "word": "la privacidad digital",
+      "translation": "digital privacy",
+      "example": "El debate público sobre la privacidad digital suele carecer de matices."
+    },
+    {
+      "id": "es-everyday-c1-c2-003",
+      "word": "la asequibilidad de la vivienda",
+      "translation": "housing affordability",
+      "example": "El debate público sobre la asequibilidad de la vivienda suele carecer de matices."
+    },
+    {
+      "id": "es-everyday-c1-c2-004",
+      "word": "la protección del consumidor",
+      "translation": "consumer protection",
+      "example": "El debate público sobre la protección del consumidor suele carecer de matices."
+    },
+    {
+      "id": "es-everyday-c1-c2-005",
+      "word": "la salud pública",
+      "translation": "public health",
+      "example": "El debate público sobre la salud pública suele carecer de matices."
+    },
+    {
+      "id": "es-everyday-c1-c2-006",
+      "word": "la alfabetización mediática",
+      "translation": "media literacy",
+      "example": "El debate público sobre la alfabetización mediática suele carecer de matices."
+    },
+    {
+      "id": "es-everyday-c1-c2-007",
+      "word": "la desigualdad social",
+      "translation": "social inequality",
+      "example": "El debate público sobre la desigualdad social suele carecer de matices."
+    },
+    {
+      "id": "es-everyday-c1-c2-008",
+      "word": "el cambio demográfico",
+      "translation": "demographic change",
+      "example": "El debate público sobre el cambio demográfico suele carecer de matices."
+    },
+    {
+      "id": "es-everyday-c1-c2-009",
+      "word": "la cohesión comunitaria",
+      "translation": "community cohesion",
+      "example": "El debate público sobre la cohesión comunitaria suele carecer de matices."
+    },
+    {
+      "id": "es-everyday-c1-c2-010",
+      "word": "el bienestar personal",
+      "translation": "personal well-being",
+      "example": "El debate público sobre el bienestar personal suele carecer de matices."
+    }
+  ]
+}

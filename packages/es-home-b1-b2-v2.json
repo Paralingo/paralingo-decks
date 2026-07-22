@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-home-b1-b2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "home",
+  "categoryTitle": "Home & Daily Life",
+  "title": "Home & Daily Life",
+  "level": "B1-B2",
+  "emoji": "🏠",
+  "description": "Handle renting, maintenance, bills, neighbours, household organisation, and practical problems.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-home-b1-b2-001",
+      "word": "el contrato de alquiler",
+      "translation": "the rental agreement",
+      "example": "Tenemos que hablar de el contrato de alquiler."
+    },
+    {
+      "id": "es-home-b1-b2-002",
+      "word": "el alquiler mensual",
+      "translation": "the monthly rent",
+      "example": "Tenemos que hablar de el alquiler mensual."
+    },
+    {
+      "id": "es-home-b1-b2-003",
+      "word": "la factura de suministros",
+      "translation": "the utility bill",
+      "example": "Tenemos que hablar de la factura de suministros."
+    },
+    {
+      "id": "es-home-b1-b2-004",
+      "word": "la fianza",
+      "translation": "the security deposit",
+      "example": "Tenemos que hablar de la fianza."
+    },
+    {
+      "id": "es-home-b1-b2-005",
+      "word": "el administrador de la propiedad",
+      "translation": "the property manager",
+      "example": "Tenemos que hablar de el administrador de la propiedad."
+    },
+    {
+      "id": "es-home-b1-b2-006",
+      "word": "la tubería que gotea",
+      "translation": "the leaking pipe",
+      "example": "Tenemos que hablar de la tubería que gotea."
+    },
+    {
+      "id": "es-home-b1-b2-007",
+      "word": "el sistema de calefacción",
+      "translation": "the heating system",
+      "example": "Tenemos que hablar de el sistema de calefacción."
+    },
+    {
+      "id": "es-home-b1-b2-008",
+      "word": "la entrada compartida",
+      "translation": "the shared entrance",
+      "example": "Tenemos que hablar de la entrada compartida."
+    },
+    {
+      "id": "es-home-b1-b2-009",
+      "word": "la queja por ruido",
+      "translation": "the noise complaint",
+      "example": "Tenemos que hablar de la queja por ruido."
+    },
+    {
+      "id": "es-home-b1-b2-010",
+      "word": "el presupuesto doméstico",
+      "translation": "the household budget",
+      "example": "Tenemos que hablar de el presupuesto doméstico."
+    }
+  ]
+}

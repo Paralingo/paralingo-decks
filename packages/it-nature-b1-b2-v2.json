@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-nature-b1-b2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "nature",
+  "categoryTitle": "Nature & Environment",
+  "title": "Nature & Environment",
+  "level": "B1-B2",
+  "emoji": "🌿",
+  "description": "Discuss pollution, conservation, renewable energy, waste, and sustainable everyday choices.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-nature-b1-b2-001",
+      "word": "l'inquinamento atmosferico",
+      "translation": "air pollution",
+      "example": "La nostra comunità sta intervenendo su l'inquinamento atmosferico."
+    },
+    {
+      "id": "it-nature-b1-b2-002",
+      "word": "i rifiuti di plastica",
+      "translation": "plastic waste",
+      "example": "La nostra comunità sta intervenendo su i rifiuti di plastica."
+    },
+    {
+      "id": "it-nature-b1-b2-003",
+      "word": "la scarsità d'acqua",
+      "translation": "water scarcity",
+      "example": "La nostra comunità sta intervenendo su la scarsità d'acqua."
+    },
+    {
+      "id": "it-nature-b1-b2-004",
+      "word": "l'energia rinnovabile",
+      "translation": "renewable energy",
+      "example": "La nostra comunità sta intervenendo su l'energia rinnovabile."
+    },
+    {
+      "id": "it-nature-b1-b2-005",
+      "word": "il trasporto pubblico",
+      "translation": "public transport",
+      "example": "La nostra comunità sta intervenendo su il trasporto pubblico."
+    },
+    {
+      "id": "it-nature-b1-b2-006",
+      "word": "la conservazione della fauna",
+      "translation": "wildlife conservation",
+      "example": "La nostra comunità sta intervenendo su la conservazione della fauna."
+    },
+    {
+      "id": "it-nature-b1-b2-007",
+      "word": "lo spreco alimentare",
+      "translation": "food waste",
+      "example": "La nostra comunità sta intervenendo su lo spreco alimentare."
+    },
+    {
+      "id": "it-nature-b1-b2-008",
+      "word": "il riciclaggio",
+      "translation": "recycling",
+      "example": "La nostra comunità sta intervenendo su il riciclaggio."
+    },
+    {
+      "id": "it-nature-b1-b2-009",
+      "word": "la deforestazione",
+      "translation": "deforestation",
+      "example": "La nostra comunità sta intervenendo su la deforestazione."
+    },
+    {
+      "id": "it-nature-b1-b2-010",
+      "word": "l'agricoltura sostenibile",
+      "translation": "sustainable farming",
+      "example": "La nostra comunità sta intervenendo su l'agricoltura sostenibile."
+    }
+  ]
+}

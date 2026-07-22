@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-everyday-b1-b2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "everyday",
+  "categoryTitle": "Everyday Essentials",
+  "title": "Everyday Essentials",
+  "level": "B1-B2",
+  "emoji": "🗓️",
+  "description": "Manage schedules, household responsibilities, services, relationships, and common problems.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-everyday-b1-b2-001",
+      "word": "uma consulta médica",
+      "translation": "a medical appointment",
+      "example": "Preciso de organizar uma consulta médica."
+    },
+    {
+      "id": "pt-everyday-b1-b2-002",
+      "word": "uma reparação doméstica",
+      "translation": "a household repair",
+      "example": "Preciso de organizar uma reparação doméstica."
+    },
+    {
+      "id": "pt-everyday-b1-b2-003",
+      "word": "um contrato de arrendamento",
+      "translation": "a rental agreement",
+      "example": "Preciso de organizar um contrato de arrendamento."
+    },
+    {
+      "id": "pt-everyday-b1-b2-004",
+      "word": "uma fatura de serviços",
+      "translation": "a utility bill",
+      "example": "Preciso de organizar uma fatura de serviços."
+    },
+    {
+      "id": "pt-everyday-b1-b2-005",
+      "word": "um prazo de trabalho",
+      "translation": "a work deadline",
+      "example": "Preciso de organizar um prazo de trabalho."
+    },
+    {
+      "id": "pt-everyday-b1-b2-006",
+      "word": "um compromisso familiar",
+      "translation": "a family commitment",
+      "example": "Preciso de organizar um compromisso familiar."
+    },
+    {
+      "id": "pt-everyday-b1-b2-007",
+      "word": "um problema bancário",
+      "translation": "a banking issue",
+      "example": "Preciso de organizar um problema bancário."
+    },
+    {
+      "id": "pt-everyday-b1-b2-008",
+      "word": "uma entrega",
+      "translation": "a delivery",
+      "example": "Preciso de organizar uma entrega."
+    },
+    {
+      "id": "pt-everyday-b1-b2-009",
+      "word": "uma mudança de planos",
+      "translation": "a change of plans",
+      "example": "Preciso de organizar uma mudança de planos."
+    },
+    {
+      "id": "pt-everyday-b1-b2-010",
+      "word": "uma conversa difícil",
+      "translation": "a difficult conversation",
+      "example": "Preciso de organizar uma conversa difícil."
+    }
+  ]
+}

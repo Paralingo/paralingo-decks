@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-conversation-a1-a2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "conversation",
+  "categoryTitle": "Social & Conversation",
+  "title": "Social & Conversation",
+  "level": "A1-A2",
+  "emoji": "💬",
+  "description": "Start conversations, make plans, respond politely, and handle everyday social situations.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-conversation-a1-a2-001",
+      "word": "tu día",
+      "translation": "your day",
+      "example": "Háblame de tu día."
+    },
+    {
+      "id": "es-conversation-a1-a2-002",
+      "word": "tu familia",
+      "translation": "your family",
+      "example": "Háblame de tu familia."
+    },
+    {
+      "id": "es-conversation-a1-a2-003",
+      "word": "tu trabajo",
+      "translation": "your work",
+      "example": "Háblame de tu trabajo."
+    },
+    {
+      "id": "es-conversation-a1-a2-004",
+      "word": "tus estudios",
+      "translation": "your studies",
+      "example": "Háblame de tus estudios."
+    },
+    {
+      "id": "es-conversation-a1-a2-005",
+      "word": "tu ciudad natal",
+      "translation": "your hometown",
+      "example": "Háblame de tu ciudad natal."
+    },
+    {
+      "id": "es-conversation-a1-a2-006",
+      "word": "tus aficiones",
+      "translation": "your hobbies",
+      "example": "Háblame de tus aficiones."
+    },
+    {
+      "id": "es-conversation-a1-a2-007",
+      "word": "tu fin de semana",
+      "translation": "your weekend",
+      "example": "Háblame de tu fin de semana."
+    },
+    {
+      "id": "es-conversation-a1-a2-008",
+      "word": "tus planes",
+      "translation": "your plans",
+      "example": "Háblame de tus planes."
+    },
+    {
+      "id": "es-conversation-a1-a2-009",
+      "word": "tu viaje",
+      "translation": "your trip",
+      "example": "Háblame de tu viaje."
+    },
+    {
+      "id": "es-conversation-a1-a2-010",
+      "word": "tu curso de idiomas",
+      "translation": "your language course",
+      "example": "Háblame de tu curso de idiomas."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-nature-a1-a2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "nature",
+  "categoryTitle": "Nature & Environment",
+  "title": "Nature & Environment",
+  "level": "A1-A2",
+  "emoji": "🌿",
+  "description": "Explore landscapes, plants, animals, weather, and simple outdoor experiences.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-nature-a1-a2-001",
+      "word": "il bosco",
+      "translation": "the forest",
+      "example": "Stiamo camminando attraverso il bosco."
+    },
+    {
+      "id": "it-nature-a1-a2-002",
+      "word": "la montagna",
+      "translation": "the mountain",
+      "example": "Stiamo camminando attraverso la montagna."
+    },
+    {
+      "id": "it-nature-a1-a2-003",
+      "word": "il fiume",
+      "translation": "the river",
+      "example": "Stiamo camminando attraverso il fiume."
+    },
+    {
+      "id": "it-nature-a1-a2-004",
+      "word": "il lago",
+      "translation": "the lake",
+      "example": "Stiamo camminando attraverso il lago."
+    },
+    {
+      "id": "it-nature-a1-a2-005",
+      "word": "l'oceano",
+      "translation": "the ocean",
+      "example": "Stiamo camminando attraverso l'oceano."
+    },
+    {
+      "id": "it-nature-a1-a2-006",
+      "word": "la campagna",
+      "translation": "the countryside",
+      "example": "Stiamo camminando attraverso la campagna."
+    },
+    {
+      "id": "it-nature-a1-a2-007",
+      "word": "il giardino",
+      "translation": "the garden",
+      "example": "Stiamo camminando attraverso il giardino."
+    },
+    {
+      "id": "it-nature-a1-a2-008",
+      "word": "la cascata",
+      "translation": "the waterfall",
+      "example": "Stiamo camminando attraverso la cascata."
+    },
+    {
+      "id": "it-nature-a1-a2-009",
+      "word": "l'isola",
+      "translation": "the island",
+      "example": "Stiamo camminando attraverso l'isola."
+    },
+    {
+      "id": "it-nature-a1-a2-010",
+      "word": "la valle",
+      "translation": "the valley",
+      "example": "Stiamo camminando attraverso la valle."
+    }
+  ]
+}

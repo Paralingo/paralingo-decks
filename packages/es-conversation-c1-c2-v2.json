@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-conversation-c1-c2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "conversation",
+  "categoryTitle": "Social & Conversation",
+  "title": "Social & Conversation",
+  "level": "C1-C2",
+  "emoji": "💬",
+  "description": "Communicate with nuance, diplomacy, persuasion, humor, and sensitivity across registers.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-conversation-c1-c2-001",
+      "word": "la suposición subyacente",
+      "translation": "the underlying assumption",
+      "example": "Podría ser útil replantear la suposición subyacente."
+    },
+    {
+      "id": "es-conversation-c1-c2-002",
+      "word": "el contexto más amplio",
+      "translation": "the broader context",
+      "example": "Podría ser útil replantear el contexto más amplio."
+    },
+    {
+      "id": "es-conversation-c1-c2-003",
+      "word": "el significado implícito",
+      "translation": "the implied meaning",
+      "example": "Podría ser útil replantear el significado implícito."
+    },
+    {
+      "id": "es-conversation-c1-c2-004",
+      "word": "el asunto delicado",
+      "translation": "the sensitive issue",
+      "example": "Podría ser útil replantear el asunto delicado."
+    },
+    {
+      "id": "es-conversation-c1-c2-005",
+      "word": "la aparente contradicción",
+      "translation": "the apparent contradiction",
+      "example": "Podría ser útil replantear la aparente contradicción."
+    },
+    {
+      "id": "es-conversation-c1-c2-006",
+      "word": "la estrategia retórica",
+      "translation": "the rhetorical strategy",
+      "example": "Podría ser útil replantear la estrategia retórica."
+    },
+    {
+      "id": "es-conversation-c1-c2-007",
+      "word": "la diferencia de registro",
+      "translation": "the difference in register",
+      "example": "Podría ser útil replantear la diferencia de registro."
+    },
+    {
+      "id": "es-conversation-c1-c2-008",
+      "word": "la preocupación no expresada",
+      "translation": "the unspoken concern",
+      "example": "Podría ser útil replantear la preocupación no expresada."
+    },
+    {
+      "id": "es-conversation-c1-c2-009",
+      "word": "la interpretación alternativa",
+      "translation": "the alternative interpretation",
+      "example": "Podría ser útil replantear la interpretación alternativa."
+    },
+    {
+      "id": "es-conversation-c1-c2-010",
+      "word": "el punto de desacuerdo",
+      "translation": "the point of disagreement",
+      "example": "Podría ser útil replantear el punto de desacuerdo."
+    }
+  ]
+}

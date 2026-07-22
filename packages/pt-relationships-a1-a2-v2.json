@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-relationships-a1-a2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "relationships",
+  "categoryTitle": "Relationships & Emotions",
+  "title": "Relationships & Emotions",
+  "level": "A1-A2",
+  "emoji": "💞",
+  "description": "Describe feelings, friendships, family relationships, affection, and everyday emotional needs.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-relationships-a1-a2-001",
+      "word": "feliz",
+      "translation": "happy",
+      "example": "Hoje sinto-me feliz."
+    },
+    {
+      "id": "pt-relationships-a1-a2-002",
+      "word": "triste",
+      "translation": "sad",
+      "example": "Hoje sinto-me triste."
+    },
+    {
+      "id": "pt-relationships-a1-a2-003",
+      "word": "preocupado",
+      "translation": "worried",
+      "example": "Hoje sinto-me preocupado."
+    },
+    {
+      "id": "pt-relationships-a1-a2-004",
+      "word": "entusiasmado",
+      "translation": "excited",
+      "example": "Hoje sinto-me entusiasmado."
+    },
+    {
+      "id": "pt-relationships-a1-a2-005",
+      "word": "cansado",
+      "translation": "tired",
+      "example": "Hoje sinto-me cansado."
+    },
+    {
+      "id": "pt-relationships-a1-a2-006",
+      "word": "zangado",
+      "translation": "angry",
+      "example": "Hoje sinto-me zangado."
+    },
+    {
+      "id": "pt-relationships-a1-a2-007",
+      "word": "calmo",
+      "translation": "calm",
+      "example": "Hoje sinto-me calmo."
+    },
+    {
+      "id": "pt-relationships-a1-a2-008",
+      "word": "sozinho",
+      "translation": "lonely",
+      "example": "Hoje sinto-me sozinho."
+    },
+    {
+      "id": "pt-relationships-a1-a2-009",
+      "word": "grato",
+      "translation": "grateful",
+      "example": "Hoje sinto-me grato."
+    },
+    {
+      "id": "pt-relationships-a1-a2-010",
+      "word": "orgulhoso",
+      "translation": "proud",
+      "example": "Hoje sinto-me orgulhoso."
+    }
+  ]
+}

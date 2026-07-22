@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-shopping-c1-c2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "shopping",
+  "categoryTitle": "Shopping & Services",
+  "title": "Shopping & Services",
+  "level": "C1-C2",
+  "emoji": "🛍️",
+  "description": "Discuss consumer behaviour, retail systems, regulation, ethical trade, and the changing service economy.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-shopping-c1-c2-001",
+      "word": "la tutela dei consumatori",
+      "translation": "consumer protection",
+      "example": "Ricerche recenti hanno messo in discussione le idee su la tutela dei consumatori."
+    },
+    {
+      "id": "it-shopping-c1-c2-002",
+      "word": "il consumo etico",
+      "translation": "ethical consumption",
+      "example": "Ricerche recenti hanno messo in discussione le idee su il consumo etico."
+    },
+    {
+      "id": "it-shopping-c1-c2-003",
+      "word": "la tariffazione dinamica",
+      "translation": "dynamic pricing",
+      "example": "Ricerche recenti hanno messo in discussione le idee su la tariffazione dinamica."
+    },
+    {
+      "id": "it-shopping-c1-c2-004",
+      "word": "la trasparenza della catena di approvvigionamento",
+      "translation": "supply-chain transparency",
+      "example": "Ricerche recenti hanno messo in discussione le idee su la trasparenza della catena di approvvigionamento."
+    },
+    {
+      "id": "it-shopping-c1-c2-005",
+      "word": "l'obsolescenza programmata",
+      "translation": "planned obsolescence",
+      "example": "Ricerche recenti hanno messo in discussione le idee su l'obsolescenza programmata."
+    },
+    {
+      "id": "it-shopping-c1-c2-006",
+      "word": "l'economia delle piattaforme",
+      "translation": "the platform economy",
+      "example": "Ricerche recenti hanno messo in discussione le idee su l'economia delle piattaforme."
+    },
+    {
+      "id": "it-shopping-c1-c2-007",
+      "word": "la pubblicità personalizzata",
+      "translation": "personalised advertising",
+      "example": "Ricerche recenti hanno messo in discussione le idee su la pubblicità personalizzata."
+    },
+    {
+      "id": "it-shopping-c1-c2-008",
+      "word": "il commercio indipendente",
+      "translation": "independent retail",
+      "example": "Ricerche recenti hanno messo in discussione le idee su il commercio indipendente."
+    },
+    {
+      "id": "it-shopping-c1-c2-009",
+      "word": "l'accessibilità dei servizi",
+      "translation": "service accessibility",
+      "example": "Ricerche recenti hanno messo in discussione le idee su l'accessibilità dei servizi."
+    },
+    {
+      "id": "it-shopping-c1-c2-010",
+      "word": "la fiducia dei consumatori",
+      "translation": "consumer confidence",
+      "example": "Ricerche recenti hanno messo in discussione le idee su la fiducia dei consumatori."
+    }
+  ]
+}

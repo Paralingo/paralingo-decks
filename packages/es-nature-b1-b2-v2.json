@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-nature-b1-b2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "nature",
+  "categoryTitle": "Nature & Environment",
+  "title": "Nature & Environment",
+  "level": "B1-B2",
+  "emoji": "🌿",
+  "description": "Discuss pollution, conservation, renewable energy, waste, and sustainable everyday choices.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-nature-b1-b2-001",
+      "word": "la contaminación del aire",
+      "translation": "air pollution",
+      "example": "Nuestra comunidad está actuando contra la contaminación del aire."
+    },
+    {
+      "id": "es-nature-b1-b2-002",
+      "word": "los residuos plásticos",
+      "translation": "plastic waste",
+      "example": "Nuestra comunidad está actuando contra los residuos plásticos."
+    },
+    {
+      "id": "es-nature-b1-b2-003",
+      "word": "la escasez de agua",
+      "translation": "water scarcity",
+      "example": "Nuestra comunidad está actuando contra la escasez de agua."
+    },
+    {
+      "id": "es-nature-b1-b2-004",
+      "word": "la energía renovable",
+      "translation": "renewable energy",
+      "example": "Nuestra comunidad está actuando contra la energía renovable."
+    },
+    {
+      "id": "es-nature-b1-b2-005",
+      "word": "el transporte público",
+      "translation": "public transport",
+      "example": "Nuestra comunidad está actuando contra el transporte público."
+    },
+    {
+      "id": "es-nature-b1-b2-006",
+      "word": "la conservación de la fauna",
+      "translation": "wildlife conservation",
+      "example": "Nuestra comunidad está actuando contra la conservación de la fauna."
+    },
+    {
+      "id": "es-nature-b1-b2-007",
+      "word": "el desperdicio alimentario",
+      "translation": "food waste",
+      "example": "Nuestra comunidad está actuando contra el desperdicio alimentario."
+    },
+    {
+      "id": "es-nature-b1-b2-008",
+      "word": "el reciclaje",
+      "translation": "recycling",
+      "example": "Nuestra comunidad está actuando contra el reciclaje."
+    },
+    {
+      "id": "es-nature-b1-b2-009",
+      "word": "la deforestación",
+      "translation": "deforestation",
+      "example": "Nuestra comunidad está actuando contra la deforestación."
+    },
+    {
+      "id": "es-nature-b1-b2-010",
+      "word": "la agricultura sostenible",
+      "translation": "sustainable farming",
+      "example": "Nuestra comunidad está actuando contra la agricultura sostenible."
+    }
+  ]
+}

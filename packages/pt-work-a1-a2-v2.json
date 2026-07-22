@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-work-a1-a2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "work",
+  "categoryTitle": "Work & Careers",
+  "title": "Work & Careers",
+  "level": "A1-A2",
+  "emoji": "💼",
+  "description": "Talk about jobs, workplaces, schedules, colleagues, everyday duties, and basic career plans.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-work-a1-a2-001",
+      "word": "o novo emprego",
+      "translation": "the new job",
+      "example": "Hoje começo o novo emprego."
+    },
+    {
+      "id": "pt-work-a1-a2-002",
+      "word": "o gerente do escritório",
+      "translation": "the office manager",
+      "example": "Hoje começo o gerente do escritório."
+    },
+    {
+      "id": "pt-work-a1-a2-003",
+      "word": "o turno da manhã",
+      "translation": "the morning shift",
+      "example": "Hoje começo o turno da manhã."
+    },
+    {
+      "id": "pt-work-a1-a2-004",
+      "word": "a pausa para almoço",
+      "translation": "the lunch break",
+      "example": "Hoje começo a pausa para almoço."
+    },
+    {
+      "id": "pt-work-a1-a2-005",
+      "word": "o horário semanal",
+      "translation": "the weekly schedule",
+      "example": "Hoje começo o horário semanal."
+    },
+    {
+      "id": "pt-work-a1-a2-006",
+      "word": "o colega simpático",
+      "translation": "the friendly colleague",
+      "example": "Hoje começo o colega simpático."
+    },
+    {
+      "id": "pt-work-a1-a2-007",
+      "word": "a reunião de pessoal",
+      "translation": "the staff meeting",
+      "example": "Hoje começo a reunião de pessoal."
+    },
+    {
+      "id": "pt-work-a1-a2-008",
+      "word": "o uniforme de trabalho",
+      "translation": "the work uniform",
+      "example": "Hoje começo o uniforme de trabalho."
+    },
+    {
+      "id": "pt-work-a1-a2-009",
+      "word": "o emprego a tempo parcial",
+      "translation": "the part-time position",
+      "example": "Hoje começo o emprego a tempo parcial."
+    },
+    {
+      "id": "pt-work-a1-a2-010",
+      "word": "a tarefa diária",
+      "translation": "the daily task",
+      "example": "Hoje começo a tarefa diária."
+    }
+  ]
+}

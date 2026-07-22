@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-work-b1-b2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "work",
+  "categoryTitle": "Work & Careers",
+  "title": "Work & Careers",
+  "level": "B1-B2",
+  "emoji": "💼",
+  "description": "Handle applications, interviews, projects, feedback, workplace communication, and professional development.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-work-b1-b2-001",
+      "word": "la candidatura di lavoro",
+      "translation": "the job application",
+      "example": "Vorrei discutere di la candidatura di lavoro."
+    },
+    {
+      "id": "it-work-b1-b2-002",
+      "word": "il contratto di lavoro",
+      "translation": "the employment contract",
+      "example": "Vorrei discutere di il contratto di lavoro."
+    },
+    {
+      "id": "it-work-b1-b2-003",
+      "word": "la valutazione delle prestazioni",
+      "translation": "the performance review",
+      "example": "Vorrei discutere di la valutazione delle prestazioni."
+    },
+    {
+      "id": "it-work-b1-b2-004",
+      "word": "la scadenza del progetto",
+      "translation": "the project deadline",
+      "example": "Vorrei discutere di la scadenza del progetto."
+    },
+    {
+      "id": "it-work-b1-b2-005",
+      "word": "il programma di formazione",
+      "translation": "the training programme",
+      "example": "Vorrei discutere di il programma di formazione."
+    },
+    {
+      "id": "it-work-b1-b2-006",
+      "word": "la negoziazione dello stipendio",
+      "translation": "the salary negotiation",
+      "example": "Vorrei discutere di la negoziazione dello stipendio."
+    },
+    {
+      "id": "it-work-b1-b2-007",
+      "word": "la politica sul lavoro a distanza",
+      "translation": "the remote-work policy",
+      "example": "Vorrei discutere di la politica sul lavoro a distanza."
+    },
+    {
+      "id": "it-work-b1-b2-008",
+      "word": "l'opportunità di promozione",
+      "translation": "the promotion opportunity",
+      "example": "Vorrei discutere di l'opportunità di promozione."
+    },
+    {
+      "id": "it-work-b1-b2-009",
+      "word": "la presentazione al cliente",
+      "translation": "the client presentation",
+      "example": "Vorrei discutere di la presentazione al cliente."
+    },
+    {
+      "id": "it-work-b1-b2-010",
+      "word": "il feedback costruttivo",
+      "translation": "the constructive feedback",
+      "example": "Vorrei discutere di il feedback costruttivo."
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-es-work-b1-b2",
+  "languageCode": "es",
+  "locale": "es-ES",
+  "categoryId": "work",
+  "categoryTitle": "Work & Careers",
+  "title": "Work & Careers",
+  "level": "B1-B2",
+  "emoji": "💼",
+  "description": "Handle applications, interviews, projects, feedback, workplace communication, and professional development.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "es-work-b1-b2-001",
+      "word": "la solicitud de empleo",
+      "translation": "the job application",
+      "example": "Me gustaría hablar de la solicitud de empleo."
+    },
+    {
+      "id": "es-work-b1-b2-002",
+      "word": "el contrato de trabajo",
+      "translation": "the employment contract",
+      "example": "Me gustaría hablar de el contrato de trabajo."
+    },
+    {
+      "id": "es-work-b1-b2-003",
+      "word": "la evaluación del desempeño",
+      "translation": "the performance review",
+      "example": "Me gustaría hablar de la evaluación del desempeño."
+    },
+    {
+      "id": "es-work-b1-b2-004",
+      "word": "el plazo del proyecto",
+      "translation": "the project deadline",
+      "example": "Me gustaría hablar de el plazo del proyecto."
+    },
+    {
+      "id": "es-work-b1-b2-005",
+      "word": "el programa de formación",
+      "translation": "the training programme",
+      "example": "Me gustaría hablar de el programa de formación."
+    },
+    {
+      "id": "es-work-b1-b2-006",
+      "word": "la negociación salarial",
+      "translation": "the salary negotiation",
+      "example": "Me gustaría hablar de la negociación salarial."
+    },
+    {
+      "id": "es-work-b1-b2-007",
+      "word": "la política de teletrabajo",
+      "translation": "the remote-work policy",
+      "example": "Me gustaría hablar de la política de teletrabajo."
+    },
+    {
+      "id": "es-work-b1-b2-008",
+      "word": "la oportunidad de ascenso",
+      "translation": "the promotion opportunity",
+      "example": "Me gustaría hablar de la oportunidad de ascenso."
+    },
+    {
+      "id": "es-work-b1-b2-009",
+      "word": "la presentación al cliente",
+      "translation": "the client presentation",
+      "example": "Me gustaría hablar de la presentación al cliente."
+    },
+    {
+      "id": "es-work-b1-b2-010",
+      "word": "los comentarios constructivos",
+      "translation": "the constructive feedback",
+      "example": "Me gustaría hablar de los comentarios constructivos."
+    }
+  ]
+}

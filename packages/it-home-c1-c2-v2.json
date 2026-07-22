@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-it-home-c1-c2",
+  "languageCode": "it",
+  "locale": "it-IT",
+  "categoryId": "home",
+  "categoryTitle": "Home & Daily Life",
+  "title": "Home & Daily Life",
+  "level": "C1-C2",
+  "emoji": "🏠",
+  "description": "Explore housing policy, architecture, domestic life, sustainability, and changing living arrangements.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "it-home-c1-c2-001",
+      "word": "l'accessibilità economica degli alloggi",
+      "translation": "housing affordability",
+      "example": "Il dibattito pubblico su l'accessibilità economica degli alloggi richiede una prospettiva a lungo termine."
+    },
+    {
+      "id": "it-home-c1-c2-002",
+      "word": "l'architettura residenziale",
+      "translation": "residential architecture",
+      "example": "Il dibattito pubblico su l'architettura residenziale richiede una prospettiva a lungo termine."
+    },
+    {
+      "id": "it-home-c1-c2-003",
+      "word": "la ristrutturazione energetica",
+      "translation": "energy-efficient renovation",
+      "example": "Il dibattito pubblico su la ristrutturazione energetica richiede una prospettiva a lungo termine."
+    },
+    {
+      "id": "it-home-c1-c2-004",
+      "word": "la convivenza multigenerazionale",
+      "translation": "multigenerational living",
+      "example": "Il dibattito pubblico su la convivenza multigenerazionale richiede una prospettiva a lungo termine."
+    },
+    {
+      "id": "it-home-c1-c2-005",
+      "word": "la densità urbana",
+      "translation": "urban density",
+      "example": "Il dibattito pubblico su la densità urbana richiede una prospettiva a lungo termine."
+    },
+    {
+      "id": "it-home-c1-c2-006",
+      "word": "il lavoro domestico",
+      "translation": "domestic labour",
+      "example": "Il dibattito pubblico su il lavoro domestico richiede una prospettiva a lungo termine."
+    },
+    {
+      "id": "it-home-c1-c2-007",
+      "word": "i diritti degli inquilini",
+      "translation": "tenants' rights",
+      "example": "Il dibattito pubblico su i diritti degli inquilini richiede una prospettiva a lungo termine."
+    },
+    {
+      "id": "it-home-c1-c2-008",
+      "word": "l'insicurezza abitativa",
+      "translation": "housing insecurity",
+      "example": "Il dibattito pubblico su l'insicurezza abitativa richiede una prospettiva a lungo termine."
+    },
+    {
+      "id": "it-home-c1-c2-009",
+      "word": "il riuso adattivo",
+      "translation": "adaptive reuse",
+      "example": "Il dibattito pubblico su il riuso adattivo richiede una prospettiva a lungo termine."
+    },
+    {
+      "id": "it-home-c1-c2-010",
+      "word": "l'abitare comunitario",
+      "translation": "communal living",
+      "example": "Il dibattito pubblico su l'abitare comunitario richiede una prospettiva a lungo termine."
+    }
+  ]
+}

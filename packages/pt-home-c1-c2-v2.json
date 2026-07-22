@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-home-c1-c2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "home",
+  "categoryTitle": "Home & Daily Life",
+  "title": "Home & Daily Life",
+  "level": "C1-C2",
+  "emoji": "🏠",
+  "description": "Explore housing policy, architecture, domestic life, sustainability, and changing living arrangements.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-home-c1-c2-001",
+      "word": "a acessibilidade da habitação",
+      "translation": "housing affordability",
+      "example": "O debate público sobre a acessibilidade da habitação exige uma perspetiva a longo prazo."
+    },
+    {
+      "id": "pt-home-c1-c2-002",
+      "word": "a arquitetura residencial",
+      "translation": "residential architecture",
+      "example": "O debate público sobre a arquitetura residencial exige uma perspetiva a longo prazo."
+    },
+    {
+      "id": "pt-home-c1-c2-003",
+      "word": "a renovação energeticamente eficiente",
+      "translation": "energy-efficient renovation",
+      "example": "O debate público sobre a renovação energeticamente eficiente exige uma perspetiva a longo prazo."
+    },
+    {
+      "id": "pt-home-c1-c2-004",
+      "word": "a convivência multigeracional",
+      "translation": "multigenerational living",
+      "example": "O debate público sobre a convivência multigeracional exige uma perspetiva a longo prazo."
+    },
+    {
+      "id": "pt-home-c1-c2-005",
+      "word": "a densidade urbana",
+      "translation": "urban density",
+      "example": "O debate público sobre a densidade urbana exige uma perspetiva a longo prazo."
+    },
+    {
+      "id": "pt-home-c1-c2-006",
+      "word": "o trabalho doméstico",
+      "translation": "domestic labour",
+      "example": "O debate público sobre o trabalho doméstico exige uma perspetiva a longo prazo."
+    },
+    {
+      "id": "pt-home-c1-c2-007",
+      "word": "os direitos dos inquilinos",
+      "translation": "tenants' rights",
+      "example": "O debate público sobre os direitos dos inquilinos exige uma perspetiva a longo prazo."
+    },
+    {
+      "id": "pt-home-c1-c2-008",
+      "word": "a insegurança habitacional",
+      "translation": "housing insecurity",
+      "example": "O debate público sobre a insegurança habitacional exige uma perspetiva a longo prazo."
+    },
+    {
+      "id": "pt-home-c1-c2-009",
+      "word": "a reutilização adaptativa",
+      "translation": "adaptive reuse",
+      "example": "O debate público sobre a reutilização adaptativa exige uma perspetiva a longo prazo."
+    },
+    {
+      "id": "pt-home-c1-c2-010",
+      "word": "a vida comunitária",
+      "translation": "communal living",
+      "example": "O debate público sobre a vida comunitária exige uma perspetiva a longo prazo."
+    }
+  ]
+}

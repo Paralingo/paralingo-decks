@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-work-c1-c2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "work",
+  "categoryTitle": "Work & Careers",
+  "title": "Work & Careers",
+  "level": "C1-C2",
+  "emoji": "💼",
+  "description": "Explore leadership, organisational culture, labour trends, career development, and changing models of work.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-work-c1-c2-001",
+      "word": "a cultura organizacional",
+      "translation": "organisational culture",
+      "example": "Investigações recentes apresentam uma análise ponderada de a cultura organizacional."
+    },
+    {
+      "id": "pt-work-c1-c2-002",
+      "word": "o desenvolvimento da força de trabalho",
+      "translation": "workforce development",
+      "example": "Investigações recentes apresentam uma análise ponderada de o desenvolvimento da força de trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-003",
+      "word": "a liderança estratégica",
+      "translation": "strategic leadership",
+      "example": "Investigações recentes apresentam uma análise ponderada de a liderança estratégica."
+    },
+    {
+      "id": "pt-work-c1-c2-004",
+      "word": "a retenção de trabalhadores",
+      "translation": "employee retention",
+      "example": "Investigações recentes apresentam uma análise ponderada de a retenção de trabalhadores."
+    },
+    {
+      "id": "pt-work-c1-c2-005",
+      "word": "a mobilidade profissional",
+      "translation": "occupational mobility",
+      "example": "Investigações recentes apresentam uma análise ponderada de a mobilidade profissional."
+    },
+    {
+      "id": "pt-work-c1-c2-006",
+      "word": "a autonomia no trabalho",
+      "translation": "workplace autonomy",
+      "example": "Investigações recentes apresentam uma análise ponderada de a autonomia no trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-007",
+      "word": "o planeamento da sucessão",
+      "translation": "succession planning",
+      "example": "Investigações recentes apresentam uma análise ponderada de o planeamento da sucessão."
+    },
+    {
+      "id": "pt-work-c1-c2-008",
+      "word": "a identidade profissional",
+      "translation": "professional identity",
+      "example": "Investigações recentes apresentam uma análise ponderada de a identidade profissional."
+    },
+    {
+      "id": "pt-work-c1-c2-009",
+      "word": "a disrupção do mercado de trabalho",
+      "translation": "labour-market disruption",
+      "example": "Investigações recentes apresentam uma análise ponderada de a disrupção do mercado de trabalho."
+    },
+    {
+      "id": "pt-work-c1-c2-010",
+      "word": "a colaboração interfuncional",
+      "translation": "cross-functional collaboration",
+      "example": "Investigações recentes apresentam uma análise ponderada de a colaboração interfuncional."
+    }
+  ]
+}

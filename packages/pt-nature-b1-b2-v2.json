@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": 2,
+  "id": "paralingo-pt-nature-b1-b2",
+  "languageCode": "pt",
+  "locale": "pt-PT",
+  "categoryId": "nature",
+  "categoryTitle": "Nature & Environment",
+  "title": "Nature & Environment",
+  "level": "B1-B2",
+  "emoji": "🌿",
+  "description": "Discuss pollution, conservation, renewable energy, waste, and sustainable everyday choices.",
+  "license": "CC BY 4.0",
+  "attribution": "Paralingo",
+  "cards": [
+    {
+      "id": "pt-nature-b1-b2-001",
+      "word": "a poluição do ar",
+      "translation": "air pollution",
+      "example": "A nossa comunidade está a agir sobre a poluição do ar."
+    },
+    {
+      "id": "pt-nature-b1-b2-002",
+      "word": "os resíduos de plástico",
+      "translation": "plastic waste",
+      "example": "A nossa comunidade está a agir sobre os resíduos de plástico."
+    },
+    {
+      "id": "pt-nature-b1-b2-003",
+      "word": "a escassez de água",
+      "translation": "water scarcity",
+      "example": "A nossa comunidade está a agir sobre a escassez de água."
+    },
+    {
+      "id": "pt-nature-b1-b2-004",
+      "word": "a energia renovável",
+      "translation": "renewable energy",
+      "example": "A nossa comunidade está a agir sobre a energia renovável."
+    },
+    {
+      "id": "pt-nature-b1-b2-005",
+      "word": "o transporte público",
+      "translation": "public transport",
+      "example": "A nossa comunidade está a agir sobre o transporte público."
+    },
+    {
+      "id": "pt-nature-b1-b2-006",
+      "word": "a conservação da vida selvagem",
+      "translation": "wildlife conservation",
+      "example": "A nossa comunidade está a agir sobre a conservação da vida selvagem."
+    },
+    {
+      "id": "pt-nature-b1-b2-007",
+      "word": "o desperdício alimentar",
+      "translation": "food waste",
+      "example": "A nossa comunidade está a agir sobre o desperdício alimentar."
+    },
+    {
+      "id": "pt-nature-b1-b2-008",
+      "word": "a reciclagem",
+      "translation": "recycling",
+      "example": "A nossa comunidade está a agir sobre a reciclagem."
+    },
+    {
+      "id": "pt-nature-b1-b2-009",
+      "word": "a desflorestação",
+      "translation": "deforestation",
+      "example": "A nossa comunidade está a agir sobre a desflorestação."
+    },
+    {
+      "id": "pt-nature-b1-b2-010",
+      "word": "a agricultura sustentável",
+      "translation": "sustainable farming",
+      "example": "A nossa comunidade está a agir sobre a agricultura sustentável."
+    }
+  ]
+}
